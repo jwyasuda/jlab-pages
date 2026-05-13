@@ -1,7 +1,7 @@
 // JLab Service Worker — generated at build time; do not edit dist/sw.js directly.
 // Template lives at apps/reader/src/sw-template.js; vite.config.ts generates dist/sw.js.
 
-const SW_VERSION = "2026-05-13-08-36-24";
+const SW_VERSION = "2026-05-13-09-03-06";
 const BASE_PATH = "/jlab-pages/";
 const AUDIO_BASE_URL = "https://bkk-nas.taile226fd.ts.net";
 const SHELL_CACHE = `jlab-shell-${SW_VERSION}`;
@@ -14,8 +14,8 @@ const SHELL_ASSETS = [
   "/jlab-pages/icons/icon-192.png",
   "/jlab-pages/icons/icon-512.png",
   "/jlab-pages/icons/icon-maskable-512.png",
-  "/jlab-pages/assets/index-BQfqX58U.js",
-  "/jlab-pages/assets/index-DfuXmx6u.css"
+  "/jlab-pages/assets/index-DfuXmx6u.css",
+  "/jlab-pages/assets/index-mKNg8itv.js"
 ];
 
 self.addEventListener("install", (event) => {
