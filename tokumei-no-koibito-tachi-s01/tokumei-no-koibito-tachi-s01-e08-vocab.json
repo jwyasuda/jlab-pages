@@ -1,95 +1,1631 @@
 {
   "chapter_id": "tokumei-no-koibito-tachi-s01-e08",
-  "generated_at": "2026-05-07T11:37:59.559731+00:00",
-  "total_unique_lemmas": 5,
-  "total_tokens_after_filter": 13,
+  "generated_at": "2026-05-18T09:08:55.506879+00:00",
+  "total_unique_lemmas": 141,
+  "total_tokens_after_filter": 437,
   "vocab": [
     {
-      "lemma": "音",
-      "pos": "名詞",
-      "count": 7,
-      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0028",
-      "occurrences": [
-        {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0028",
-          "start": 81.583
-        },
-        {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0134",
-          "start": 488.416
-        },
-        {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0169",
-          "start": 622.416
-        },
-        {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0229",
-          "start": 857.125
-        },
-        {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0583",
-          "start": 2476.375
-        },
-        {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0702",
-          "start": 3000.708
-        },
-        {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0703",
-          "start": 3005.75
-        }
-      ],
-      "surface_examples": [
-        "音"
-      ]
-    },
-    {
-      "lemma": "閉まる",
+      "lemma": "間違える",
       "pos": "動詞",
       "count": 2,
-      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0134",
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0004",
       "occurrences": [
         {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0134",
-          "start": 488.416
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0004",
+          "start": 22.416
         },
         {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0703",
-          "start": 3005.75
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0012",
+          "start": 47.208
         }
       ],
       "surface_examples": [
-        "閉まる"
+        "間違え"
       ]
     },
     {
-      "lemma": "実",
+      "lemma": "壮亮",
       "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0139",
+      "count": 45,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0005",
       "occurrences": [
         {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0139",
-          "start": 507.125
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0005",
+          "start": 25.791
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0026",
+          "start": 78.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0027",
+          "start": 79.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0031",
+          "start": 95.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0032",
+          "start": 96.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0034",
+          "start": 100.958
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0037",
+          "start": 105.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0046",
+          "start": 142.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0061",
+          "start": 192.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0070",
+          "start": 229.791
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0080",
+          "start": 280.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0081",
+          "start": 283.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0104",
+          "start": 350.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0112",
+          "start": 395.708
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0132",
+          "start": 478.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0152",
+          "start": 565.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0163",
+          "start": 597.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0193",
+          "start": 717.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0197",
+          "start": 731.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0200",
+          "start": 742.791
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0205",
+          "start": 761.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0291",
+          "start": 1085.416
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0292",
+          "start": 1090.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0300",
+          "start": 1123.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0313",
+          "start": 1176.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0318",
+          "start": 1198.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0327",
+          "start": 1235.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0341",
+          "start": 1276.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0354",
+          "start": 1309.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0389",
+          "start": 1463.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0393",
+          "start": 1482.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0461",
+          "start": 1810.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0466",
+          "start": 1834.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0507",
+          "start": 2048.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0512",
+          "start": 2072.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0526",
+          "start": 2134.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0528",
+          "start": 2142.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0541",
+          "start": 2194.833
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0558",
+          "start": 2288.916
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0559",
+          "start": 2300.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0560",
+          "start": 2301.666
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0586",
+          "start": 2495.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0588",
+          "start": 2499.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0666",
+          "start": 2784.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0694",
+          "start": 2943.708
         }
       ],
       "surface_examples": [
-        "実"
+        "壮亮"
+      ]
+    },
+    {
+      "lemma": "気持ち",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0007",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0007",
+          "start": 33.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0008",
+          "start": 38.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0011",
+          "start": 43.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0475",
+          "start": 1872.541
+        }
+      ],
+      "surface_examples": [
+        "気持ち"
+      ]
+    },
+    {
+      "lemma": "家族",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0011",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0011",
+          "start": 43.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0507",
+          "start": 2048.166
+        }
+      ],
+      "surface_examples": [
+        "家族"
+      ]
+    },
+    {
+      "lemma": "男性",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0018",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0018",
+          "start": 59.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0167",
+          "start": 614.416
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0721",
+          "start": 3076.541
+        }
+      ],
+      "surface_examples": [
+        "男性"
+      ]
+    },
+    {
+      "lemma": "女性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0018",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0018",
+          "start": 59.041
+        }
+      ],
+      "surface_examples": [
+        "女性"
+      ]
+    },
+    {
+      "lemma": "韓国語",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0024",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0024",
+          "start": 71.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0700",
+          "start": 2961.375
+        }
+      ],
+      "surface_examples": [
+        "韓国語"
+      ]
+    },
+    {
+      "lemma": "受付",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0031",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0031",
+          "start": 95.083
+        }
+      ],
+      "surface_examples": [
+        "受付"
+      ]
+    },
+    {
+      "lemma": "藤原",
+      "pos": "名詞",
+      "count": 12,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0032",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0032",
+          "start": 96.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0046",
+          "start": 142.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0055",
+          "start": 175.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0056",
+          "start": 178.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0061",
+          "start": 192.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0111",
+          "start": 391.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0112",
+          "start": 395.708
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0163",
+          "start": 597.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0292",
+          "start": 1090.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0389",
+          "start": 1463.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0393",
+          "start": 1482.083
+        }
+      ],
+      "surface_examples": [
+        "藤原"
+      ]
+    },
+    {
+      "lemma": "役員",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0038",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0038",
+          "start": 107.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0041",
+          "start": 114.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0063",
+          "start": 205.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0081",
+          "start": 283.125
+        }
+      ],
+      "surface_examples": [
+        "役員"
+      ]
+    },
+    {
+      "lemma": "株主",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0041",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0041",
+          "start": 114.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0113",
+          "start": 400.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0211",
+          "start": 781.25
+        }
+      ],
+      "surface_examples": [
+        "株主"
+      ]
+    },
+    {
+      "lemma": "最近",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0041",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0041",
+          "start": 114.041
+        }
+      ],
+      "surface_examples": [
+        "最近"
+      ]
+    },
+    {
+      "lemma": "俊太郎",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0046",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0046",
+          "start": 142.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0061",
+          "start": 192.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0082",
+          "start": 287.916
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0083",
+          "start": 291.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0111",
+          "start": 391.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0556",
+          "start": 2269.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0559",
+          "start": 2300.75
+        }
+      ],
+      "surface_examples": [
+        "俊太郎"
+      ]
+    },
+    {
+      "lemma": "代表取締役",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0046",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0046",
+          "start": 142.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0054",
+          "start": 171.958
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0061",
+          "start": 192.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0111",
+          "start": 391.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0291",
+          "start": 1085.416
+        }
+      ],
+      "surface_examples": [
+        "代表取締役"
+      ]
+    },
+    {
+      "lemma": "双子",
+      "pos": "名詞",
+      "count": 19,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0047",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0047",
+          "start": 146.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0060",
+          "start": 188.416
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0074",
+          "start": 241.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0094",
+          "start": 322.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0107",
+          "start": 362.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0110",
+          "start": 384.958
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0114",
+          "start": 402.916
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0142",
+          "start": 518.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0164",
+          "start": 600.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0204",
+          "start": 751.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0291",
+          "start": 1085.416
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0294",
+          "start": 1102.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0295",
+          "start": 1106.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0307",
+          "start": 1152.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0361",
+          "start": 1339.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0509",
+          "start": 2057.666
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0524",
+          "start": 2125.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0586",
+          "start": 2495.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0588",
+          "start": 2499.583
+        }
+      ],
+      "surface_examples": [
+        "双子"
+      ]
+    },
+    {
+      "lemma": "製菓",
+      "pos": "名詞",
+      "count": 19,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0047",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0047",
+          "start": 146.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0060",
+          "start": 188.416
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0074",
+          "start": 241.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0094",
+          "start": 322.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0107",
+          "start": 362.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0110",
+          "start": 384.958
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0114",
+          "start": 402.916
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0142",
+          "start": 518.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0164",
+          "start": 600.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0204",
+          "start": 751.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0291",
+          "start": 1085.416
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0294",
+          "start": 1102.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0295",
+          "start": 1106.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0307",
+          "start": 1152.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0361",
+          "start": 1339.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0509",
+          "start": 2057.666
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0524",
+          "start": 2125.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0586",
+          "start": 2495.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0588",
+          "start": 2499.583
+        }
+      ],
+      "surface_examples": [
+        "製菓"
+      ]
+    },
+    {
+      "lemma": "経営",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0048",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0048",
+          "start": 151.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0049",
+          "start": 155.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0109",
+          "start": 383.416
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0522",
+          "start": 2118.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0593",
+          "start": 2514.833
+        }
+      ],
+      "surface_examples": [
+        "経営"
+      ]
+    },
+    {
+      "lemma": "職務",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0049",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0049",
+          "start": 155.458
+        }
+      ],
+      "surface_examples": [
+        "職務"
+      ]
+    },
+    {
+      "lemma": "代行者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0049",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0049",
+          "start": 155.458
+        }
+      ],
+      "surface_examples": [
+        "代行者"
+      ]
+    },
+    {
+      "lemma": "諮問",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0049",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0049",
+          "start": 155.458
+        }
+      ],
+      "surface_examples": [
+        "諮問"
+      ]
+    },
+    {
+      "lemma": "委員会",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0049",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0049",
+          "start": 155.458
+        }
+      ],
+      "surface_examples": [
+        "委員会"
+      ]
+    },
+    {
+      "lemma": "約束",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0051",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0051",
+          "start": 163.041
+        }
+      ],
+      "surface_examples": [
+        "約束"
+      ]
+    },
+    {
+      "lemma": "孝",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0052",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0052",
+          "start": 167.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0056",
+          "start": 178.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0064",
+          "start": 211.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0082",
+          "start": 287.916
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0102",
+          "start": 345.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0212",
+          "start": 783.666
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0220",
+          "start": 805.458
+        }
+      ],
+      "surface_examples": [
+        "孝"
+      ]
+    },
+    {
+      "lemma": "正太郎",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0055",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0055",
+          "start": 175.083
+        }
+      ],
+      "surface_examples": [
+        "正太郎"
+      ]
+    },
+    {
+      "lemma": "共同",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0055",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0055",
+          "start": 175.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0057",
+          "start": 180.875
+        }
+      ],
+      "surface_examples": [
+        "共同"
+      ]
+    },
+    {
+      "lemma": "創業者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0055",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0055",
+          "start": 175.083
+        }
+      ],
+      "surface_examples": [
+        "創業者"
+      ]
+    },
+    {
+      "lemma": "息子",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0055",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0055",
+          "start": 175.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0057",
+          "start": 180.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0058",
+          "start": 183.166
+        }
+      ],
+      "surface_examples": [
+        "息子"
+      ]
+    },
+    {
+      "lemma": "経営者",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0057",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0057",
+          "start": 180.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0084",
+          "start": 294.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0095",
+          "start": 327.291
+        }
+      ],
+      "surface_examples": [
+        "経営者"
+      ]
+    },
+    {
+      "lemma": "以上",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0060",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0060",
+          "start": 188.416
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0146",
+          "start": 537.583
+        }
+      ],
+      "surface_examples": [
+        "以上"
+      ]
+    },
+    {
+      "lemma": "取締役",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0062",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0062",
+          "start": 198.458
+        }
+      ],
+      "surface_examples": [
+        "取締役"
+      ]
+    },
+    {
+      "lemma": "解任",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0062",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0062",
+          "start": 198.458
+        }
+      ],
+      "surface_examples": [
+        "解任"
+      ]
+    },
+    {
+      "lemma": "臨時",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0063",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0063",
+          "start": 205.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0110",
+          "start": 384.958
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0111",
+          "start": 391.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0142",
+          "start": 518.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0195",
+          "start": 723.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0204",
+          "start": 751.25
+        }
+      ],
+      "surface_examples": [
+        "臨時"
+      ]
+    },
+    {
+      "lemma": "株主総会",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0063",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0063",
+          "start": 205.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0110",
+          "start": 384.958
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0111",
+          "start": 391.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0142",
+          "start": 518.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0195",
+          "start": 723.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0204",
+          "start": 751.25
+        }
+      ],
+      "surface_examples": [
+        "株主総会"
+      ]
+    },
+    {
+      "lemma": "準備",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0063",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0063",
+          "start": 205.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0135",
+          "start": 491.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0652",
+          "start": 2722.458
+        }
+      ],
+      "surface_examples": [
+        "準備"
+      ]
+    },
+    {
+      "lemma": "契約",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0064",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0064",
+          "start": 211.166
+        }
+      ],
+      "surface_examples": [
+        "契約"
+      ]
+    },
+    {
+      "lemma": "商品",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0068",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0068",
+          "start": 222.583
+        }
+      ],
+      "surface_examples": [
+        "商品"
+      ]
+    },
+    {
+      "lemma": "隠蔽",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0069",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0069",
+          "start": 225.541
+        }
+      ],
+      "surface_examples": [
+        "隠蔽"
+      ]
+    },
+    {
+      "lemma": "興味",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0074",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0074",
+          "start": 241.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0224",
+          "start": 816.958
+        }
+      ],
+      "surface_examples": [
+        "興味"
+      ]
+    },
+    {
+      "lemma": "病気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0076",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0076",
+          "start": 250.541
+        }
+      ],
+      "surface_examples": [
+        "病気"
+      ]
+    },
+    {
+      "lemma": "大変",
+      "pos": "形状詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0079",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0079",
+          "start": 263.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0565",
+          "start": 2391.916
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0591",
+          "start": 2510.5
+        }
+      ],
+      "surface_examples": [
+        "大変"
+      ]
+    },
+    {
+      "lemma": "場所",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0090",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0090",
+          "start": 310.5
+        }
+      ],
+      "surface_examples": [
+        "場所"
+      ]
+    },
+    {
+      "lemma": "意見",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0092",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0092",
+          "start": 316.666
+        }
+      ],
+      "surface_examples": [
+        "意見"
+      ]
+    },
+    {
+      "lemma": "冷静",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0098",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0098",
+          "start": 333.708
+        }
+      ],
+      "surface_examples": [
+        "冷静"
+      ]
+    },
+    {
+      "lemma": "努力",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0100",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0100",
+          "start": 338.916
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0589",
+          "start": 2503.5
+        }
+      ],
+      "surface_examples": [
+        "努力"
+      ]
+    },
+    {
+      "lemma": "親父",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0105",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0105",
+          "start": 357.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0504",
+          "start": 2038.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0506",
+          "start": 2044.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0533",
+          "start": 2163.833
+        }
+      ],
+      "surface_examples": [
+        "親父"
+      ]
+    },
+    {
+      "lemma": "一生",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0106",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0106",
+          "start": 360.333
+        }
+      ],
+      "surface_examples": [
+        "一生"
+      ]
+    },
+    {
+      "lemma": "買収",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0116",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0116",
+          "start": 407.833
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0117",
+          "start": 411.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0225",
+          "start": 820.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0307",
+          "start": 1152.291
+        }
+      ],
+      "surface_examples": [
+        "買収"
+      ]
+    },
+    {
+      "lemma": "会社",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0117",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0117",
+          "start": 411.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0144",
+          "start": 525.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0552",
+          "start": 2241.333
+        }
+      ],
+      "surface_examples": [
+        "会社"
+      ]
+    },
+    {
+      "lemma": "一同",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0122",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0122",
+          "start": 448.708
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0597",
+          "start": 2527.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0599",
+          "start": 2530.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0618",
+          "start": 2576.458
+        }
+      ],
+      "surface_examples": [
+        "一同"
+      ]
+    },
+    {
+      "lemma": "元美",
+      "pos": "名詞",
+      "count": 20,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0125",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0125",
+          "start": 454.708
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0126",
+          "start": 458.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0177",
+          "start": 650.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0178",
+          "start": 652.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0235",
+          "start": 880.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0243",
+          "start": 903.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0275",
+          "start": 1027.708
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0282",
+          "start": 1044.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0348",
+          "start": 1297.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0414",
+          "start": 1576.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0443",
+          "start": 1732.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0446",
+          "start": 1738.833
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0590",
+          "start": 2507.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0598",
+          "start": 2529.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0605",
+          "start": 2549.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0606",
+          "start": 2550.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0611",
+          "start": 2562.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0613",
+          "start": 2565.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0614",
+          "start": 2566.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0619",
+          "start": 2578.916
+        }
+      ],
+      "surface_examples": [
+        "元美"
+      ]
+    },
+    {
+      "lemma": "匿名",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0126",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0126",
+          "start": 458.125
+        }
+      ],
+      "surface_examples": [
+        "匿名"
+      ]
+    },
+    {
+      "lemma": "拍手",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0129",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0129",
+          "start": 468.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0262",
+          "start": 976.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0267",
+          "start": 996.666
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0274",
+          "start": 1025.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0279",
+          "start": 1037.833
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0281",
+          "start": 1042.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0347",
+          "start": 1294.708
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0675",
+          "start": 2828.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0693",
+          "start": 2934.75
+        }
+      ],
+      "surface_examples": [
+        "拍手"
+      ]
+    },
+    {
+      "lemma": "奈子",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0131",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0131",
+          "start": 471.791
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0179",
+          "start": 654.666
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0182",
+          "start": 661.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0185",
+          "start": 690.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0235",
+          "start": 880.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0447",
+          "start": 1739.958
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0604",
+          "start": 2548.208
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0621",
+          "start": 2582.791
+        }
+      ],
+      "surface_examples": [
+        "奈子"
+      ]
+    },
+    {
+      "lemma": "大会",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0135",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0135",
+          "start": 491.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0140",
+          "start": 511.333
+        }
+      ],
+      "surface_examples": [
+        "大会"
+      ]
+    },
+    {
+      "lemma": "全然",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0143",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0143",
+          "start": 522.791
+        }
+      ],
+      "surface_examples": [
+        "全然"
       ]
     },
     {
       "lemma": "大丈夫",
       "pos": "形状詞",
-      "count": 2,
-      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0416",
+      "count": 7,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0143",
       "occurrences": [
         {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0416",
-          "start": 1579.125
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0143",
+          "start": 522.791
         },
         {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0629",
-          "start": 2650.625
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0336",
+          "start": 1268.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0339",
+          "start": 1273.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0415",
+          "start": 1577.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0543",
+          "start": 2200.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0635",
+          "start": 2668.833
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0684",
+          "start": 2894.041
         }
       ],
       "surface_examples": [
@@ -97,18 +1633,1661 @@
       ]
     },
     {
-      "lemma": "開く",
-      "pos": "動詞",
-      "count": 1,
-      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0702",
+      "lemma": "重要",
+      "pos": "形状詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0144",
       "occurrences": [
         {
-          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0702",
-          "start": 3000.708
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0144",
+          "start": 525.0
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0310",
+          "start": 1166.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0314",
+          "start": 1180.833
         }
       ],
       "surface_examples": [
-        "開く"
+        "重要"
+      ]
+    },
+    {
+      "lemma": "不可能",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0147",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0147",
+          "start": 541.416
+        }
+      ],
+      "surface_examples": [
+        "不可能"
+      ]
+    },
+    {
+      "lemma": "助ける",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0148",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0148",
+          "start": 544.083
+        }
+      ],
+      "surface_examples": [
+        "助け"
+      ]
+    },
+    {
+      "lemma": "無理",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0150",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0150",
+          "start": 550.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0685",
+          "start": 2897.708
+        }
+      ],
+      "surface_examples": [
+        "無理"
+      ]
+    },
+    {
+      "lemma": "電話",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0159",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0159",
+          "start": 580.958
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0193",
+          "start": 717.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0195",
+          "start": 723.625
+        }
+      ],
+      "surface_examples": [
+        "電話"
+      ]
+    },
+    {
+      "lemma": "清美",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0163",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0163",
+          "start": 597.375
+        }
+      ],
+      "surface_examples": [
+        "清美"
+      ]
+    },
+    {
+      "lemma": "礼子",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0172",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0172",
+          "start": 627.208
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0173",
+          "start": 629.333
+        }
+      ],
+      "surface_examples": [
+        "礼子"
+      ]
+    },
+    {
+      "lemma": "杉山",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0173",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0173",
+          "start": 629.333
+        }
+      ],
+      "surface_examples": [
+        "杉山"
+      ]
+    },
+    {
+      "lemma": "突然",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0193",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0193",
+          "start": 717.583
+        }
+      ],
+      "surface_examples": [
+        "突然"
+      ]
+    },
+    {
+      "lemma": "寛",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0203",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0203",
+          "start": 749.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0210",
+          "start": 778.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0216",
+          "start": 793.166
+        }
+      ],
+      "surface_examples": [
+        "寛"
+      ]
+    },
+    {
+      "lemma": "判断",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0207",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0207",
+          "start": 766.666
+        }
+      ],
+      "surface_examples": [
+        "判断"
+      ]
+    },
+    {
+      "lemma": "連絡先",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0218",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0218",
+          "start": 798.958
+        }
+      ],
+      "surface_examples": [
+        "連絡先"
+      ]
+    },
+    {
+      "lemma": "黒岩",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0219",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0219",
+          "start": 802.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0220",
+          "start": 805.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0382",
+          "start": 1431.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0383",
+          "start": 1434.958
+        }
+      ],
+      "surface_examples": [
+        "黒岩"
+      ]
+    },
+    {
+      "lemma": "文子",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0219",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0219",
+          "start": 802.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0220",
+          "start": 805.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0380",
+          "start": 1428.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0382",
+          "start": 1431.583
+        }
+      ],
+      "surface_examples": [
+        "文子"
+      ]
+    },
+    {
+      "lemma": "大事",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0222",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0222",
+          "start": 810.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0238",
+          "start": 886.958
+        }
+      ],
+      "surface_examples": [
+        "大事"
+      ]
+    },
+    {
+      "lemma": "第三者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0225",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0225",
+          "start": 820.458
+        }
+      ],
+      "surface_examples": [
+        "第三者"
+      ]
+    },
+    {
+      "lemma": "割当",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0225",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0225",
+          "start": 820.458
+        }
+      ],
+      "surface_examples": [
+        "割当"
+      ]
+    },
+    {
+      "lemma": "増資",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0225",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0225",
+          "start": 820.458
+        }
+      ],
+      "surface_examples": [
+        "増資"
+      ]
+    },
+    {
+      "lemma": "航",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0244",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0244",
+          "start": 904.416
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0352",
+          "start": 1305.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0639",
+          "start": 2676.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0665",
+          "start": 2781.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0682",
+          "start": 2879.583
+        }
+      ],
+      "surface_examples": [
+        "航"
+      ]
+    },
+    {
+      "lemma": "健二",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0247",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0247",
+          "start": 909.208
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0310",
+          "start": 1166.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0323",
+          "start": 1212.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0383",
+          "start": 1434.958
+        }
+      ],
+      "surface_examples": [
+        "健二"
+      ]
+    },
+    {
+      "lemma": "先生",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0247",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0247",
+          "start": 909.208
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0585",
+          "start": 2489.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0606",
+          "start": 2550.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0623",
+          "start": 2585.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0713",
+          "start": 3036.541
+        }
+      ],
+      "surface_examples": [
+        "先生"
+      ]
+    },
+    {
+      "lemma": "歓声",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0262",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0262",
+          "start": 976.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0267",
+          "start": 996.666
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0274",
+          "start": 1025.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0279",
+          "start": 1037.833
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0281",
+          "start": 1042.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0347",
+          "start": 1294.708
+        }
+      ],
+      "surface_examples": [
+        "歓声"
+      ]
+    },
+    {
+      "lemma": "司会者",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0264",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0264",
+          "start": 987.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0266",
+          "start": 992.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0283",
+          "start": 1053.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0287",
+          "start": 1063.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0289",
+          "start": 1067.916
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0399",
+          "start": 1518.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0400",
+          "start": 1520.708
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0403",
+          "start": 1527.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0435",
+          "start": 1678.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0436",
+          "start": 1683.125
+        }
+      ],
+      "surface_examples": [
+        "司会者"
+      ]
+    },
+    {
+      "lemma": "英語",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0266",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0266",
+          "start": 992.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0322",
+          "start": 1211.208
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0336",
+          "start": 1268.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0574",
+          "start": 2448.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0580",
+          "start": 2468.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0721",
+          "start": 3076.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0724",
+          "start": 3088.791
+        }
+      ],
+      "surface_examples": [
+        "英語"
+      ]
+    },
+    {
+      "lemma": "深呼吸",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0277",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0277",
+          "start": 1035.25
+        }
+      ],
+      "surface_examples": [
+        "深呼吸"
+      ]
+    },
+    {
+      "lemma": "頑張る",
+      "pos": "動詞",
+      "count": 7,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0282",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0282",
+          "start": 1044.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0288",
+          "start": 1065.958
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0290",
+          "start": 1069.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0428",
+          "start": 1656.708
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0595",
+          "start": 2521.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0652",
+          "start": 2722.458
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0717",
+          "start": 3053.083
+        }
+      ],
+      "surface_examples": [
+        "頑張れ",
+        "頑張っ"
+      ]
+    },
+    {
+      "lemma": "本日",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0293",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0293",
+          "start": 1097.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0301",
+          "start": 1129.791
+        }
+      ],
+      "surface_examples": [
+        "本日"
+      ]
+    },
+    {
+      "lemma": "目指す",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0295",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0295",
+          "start": 1106.0
+        }
+      ],
+      "surface_examples": [
+        "目指す"
+      ]
+    },
+    {
+      "lemma": "長期的",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0295",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0295",
+          "start": 1106.0
+        }
+      ],
+      "surface_examples": [
+        "長期的"
+      ]
+    },
+    {
+      "lemma": "課題",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0295",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0295",
+          "start": 1106.0
+        }
+      ],
+      "surface_examples": [
+        "課題"
+      ]
+    },
+    {
+      "lemma": "報告",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0300",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0300",
+          "start": 1123.75
+        }
+      ],
+      "surface_examples": [
+        "報告"
+      ]
+    },
+    {
+      "lemma": "最高",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0302",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0302",
+          "start": 1135.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0368",
+          "start": 1382.416
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0698",
+          "start": 2956.0
+        }
+      ],
+      "surface_examples": [
+        "最高"
+      ]
+    },
+    {
+      "lemma": "気付く",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0305",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0305",
+          "start": 1143.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0576",
+          "start": 2455.083
+        }
+      ],
+      "surface_examples": [
+        "気付い",
+        "気付き"
+      ]
+    },
+    {
+      "lemma": "代表",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0307",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0307",
+          "start": 1152.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0366",
+          "start": 1375.666
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0384",
+          "start": 1439.083
+        }
+      ],
+      "surface_examples": [
+        "代表"
+      ]
+    },
+    {
+      "lemma": "伝統",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0308",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0308",
+          "start": 1156.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0601",
+          "start": 2536.208
+        }
+      ],
+      "surface_examples": [
+        "伝統"
+      ]
+    },
+    {
+      "lemma": "変化",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0308",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0308",
+          "start": 1156.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0588",
+          "start": 2499.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0601",
+          "start": 2536.208
+        }
+      ],
+      "surface_examples": [
+        "変化"
+      ]
+    },
+    {
+      "lemma": "材料",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0310",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0310",
+          "start": 1166.875
+        }
+      ],
+      "surface_examples": [
+        "材料"
+      ]
+    },
+    {
+      "lemma": "世界",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0328",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0328",
+          "start": 1238.916
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0368",
+          "start": 1382.416
+        }
+      ],
+      "surface_examples": [
+        "世界"
+      ]
+    },
+    {
+      "lemma": "開発",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0345",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0345",
+          "start": 1289.25
+        }
+      ],
+      "surface_examples": [
+        "開発"
+      ]
+    },
+    {
+      "lemma": "出会う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0356",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0356",
+          "start": 1316.041
+        }
+      ],
+      "surface_examples": [
+        "出会い"
+      ]
+    },
+    {
+      "lemma": "奇跡",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0358",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0358",
+          "start": 1326.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0359",
+          "start": 1332.208
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0391",
+          "start": 1474.625
+        }
+      ],
+      "surface_examples": [
+        "奇跡"
+      ]
+    },
+    {
+      "lemma": "勝手",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0371",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0371",
+          "start": 1399.958
+        }
+      ],
+      "surface_examples": [
+        "勝手"
+      ]
+    },
+    {
+      "lemma": "質問",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0376",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0376",
+          "start": 1416.791
+        }
+      ],
+      "surface_examples": [
+        "質問"
+      ]
+    },
+    {
+      "lemma": "希望",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0376",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0376",
+          "start": 1416.791
+        }
+      ],
+      "surface_examples": [
+        "希望"
+      ]
+    },
+    {
+      "lemma": "勇気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0387",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0387",
+          "start": 1453.166
+        }
+      ],
+      "surface_examples": [
+        "勇気"
+      ]
+    },
+    {
+      "lemma": "感謝",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0398",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0398",
+          "start": 1512.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0516",
+          "start": 2090.583
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0518",
+          "start": 2102.375
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0532",
+          "start": 2161.458
+        }
+      ],
+      "surface_examples": [
+        "感謝"
+      ]
+    },
+    {
+      "lemma": "司会",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0407",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0407",
+          "start": 1541.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0409",
+          "start": 1545.625
+        }
+      ],
+      "surface_examples": [
+        "司会"
+      ]
+    },
+    {
+      "lemma": "結果",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0430",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0430",
+          "start": 1666.125
+        }
+      ],
+      "surface_examples": [
+        "結果"
+      ]
+    },
+    {
+      "lemma": "感動",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0440",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0440",
+          "start": 1726.5
+        }
+      ],
+      "surface_examples": [
+        "感動"
+      ]
+    },
+    {
+      "lemma": "友達",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0456",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0456",
+          "start": 1796.291
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0625",
+          "start": 2591.291
+        }
+      ],
+      "surface_examples": [
+        "友達"
+      ]
+    },
+    {
+      "lemma": "告白",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0487",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0487",
+          "start": 1929.166
+        }
+      ],
+      "surface_examples": [
+        "告白"
+      ]
+    },
+    {
+      "lemma": "全部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0499",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0499",
+          "start": 2016.208
+        }
+      ],
+      "surface_examples": [
+        "全部"
+      ]
+    },
+    {
+      "lemma": "伯父",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0506",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0506",
+          "start": 2044.25
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0513",
+          "start": 2075.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0542",
+          "start": 2197.291
+        }
+      ],
+      "surface_examples": [
+        "伯父"
+      ]
+    },
+    {
+      "lemma": "大切",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0508",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0508",
+          "start": 2053.083
+        }
+      ],
+      "surface_examples": [
+        "大切"
+      ]
+    },
+    {
+      "lemma": "一人",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0553",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0553",
+          "start": 2246.708
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0753",
+          "start": 3261.458
+        }
+      ],
+      "surface_examples": [
+        "一人"
+      ]
+    },
+    {
+      "lemma": "苦労",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0553",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0553",
+          "start": 2246.708
+        }
+      ],
+      "surface_examples": [
+        "苦労"
+      ]
+    },
+    {
+      "lemma": "人生",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0565",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0565",
+          "start": 2391.916
+        }
+      ],
+      "surface_examples": [
+        "人生"
+      ]
+    },
+    {
+      "lemma": "厨房",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0570",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0570",
+          "start": 2436.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0600",
+          "start": 2533.625
+        }
+      ],
+      "surface_examples": [
+        "厨房"
+      ]
+    },
+    {
+      "lemma": "我慢",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0633",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0633",
+          "start": 2660.916
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0634",
+          "start": 2665.208
+        }
+      ],
+      "surface_examples": [
+        "我慢"
+      ]
+    },
+    {
+      "lemma": "二人",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0641",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0641",
+          "start": 2682.083
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0644",
+          "start": 2689.166
+        }
+      ],
+      "surface_examples": [
+        "二人"
+      ]
+    },
+    {
+      "lemma": "結婚",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0641",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0641",
+          "start": 2682.083
+        }
+      ],
+      "surface_examples": [
+        "結婚"
+      ]
+    },
+    {
+      "lemma": "皆",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0642",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0642",
+          "start": 2684.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0645",
+          "start": 2692.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0665",
+          "start": 2781.875
+        }
+      ],
+      "surface_examples": [
+        "皆"
+      ]
+    },
+    {
+      "lemma": "様",
+      "pos": "接尾辞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0642",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0642",
+          "start": 2684.333
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0645",
+          "start": 2692.75
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0665",
+          "start": 2781.875
+        }
+      ],
+      "surface_examples": [
+        "様"
+      ]
+    },
+    {
+      "lemma": "人前",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0643",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0643",
+          "start": 2687.041
+        }
+      ],
+      "surface_examples": [
+        "人前"
+      ]
+    },
+    {
+      "lemma": "結婚式",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0643",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0643",
+          "start": 2687.041
+        }
+      ],
+      "surface_examples": [
+        "結婚式"
+      ]
+    },
+    {
+      "lemma": "偶然",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0649",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0649",
+          "start": 2712.875
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0650",
+          "start": 2715.333
+        }
+      ],
+      "surface_examples": [
+        "偶然"
+      ]
+    },
+    {
+      "lemma": "浪川",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0662",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0662",
+          "start": 2765.125
+        }
+      ],
+      "surface_examples": [
+        "浪川"
+      ]
+    },
+    {
+      "lemma": "愛里",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0662",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0662",
+          "start": 2765.125
+        }
+      ],
+      "surface_examples": [
+        "愛里"
+      ]
+    },
+    {
+      "lemma": "小声",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0684",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0684",
+          "start": 2894.041
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0685",
+          "start": 2897.708
+        }
+      ],
+      "surface_examples": [
+        "小声"
+      ]
+    },
+    {
+      "lemma": "足音",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0690",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0690",
+          "start": 2928.583
+        }
+      ],
+      "surface_examples": [
+        "足音"
+      ]
+    },
+    {
+      "lemma": "緊張",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0705",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0705",
+          "start": 3016.833
+        }
+      ],
+      "surface_examples": [
+        "緊張"
+      ]
+    },
+    {
+      "lemma": "参加",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0707",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0707",
+          "start": 3020.5
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0723",
+          "start": 3080.958
+        }
+      ],
+      "surface_examples": [
+        "参加"
+      ]
+    },
+    {
+      "lemma": "症状",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0710",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0710",
+          "start": 3026.916
+        }
+      ],
+      "surface_examples": [
+        "症状"
+      ]
+    },
+    {
+      "lemma": "効果",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0711",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0711",
+          "start": 3030.708
+        }
+      ],
+      "surface_examples": [
+        "効果"
+      ]
+    },
+    {
+      "lemma": "安藤",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0715",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0715",
+          "start": 3046.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0724",
+          "start": 3088.791
+        }
+      ],
+      "surface_examples": [
+        "安藤"
+      ]
+    },
+    {
+      "lemma": "溢れる",
+      "pos": "動詞",
+      "count": 3,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0727",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0727",
+          "start": 3120.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0741",
+          "start": 3197.791
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0755",
+          "start": 3274.541
+        }
+      ],
+      "surface_examples": [
+        "溢れ"
+      ]
+    },
+    {
+      "lemma": "大好き",
+      "pos": "形状詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0727",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0727",
+          "start": 3120.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0741",
+          "start": 3197.791
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0755",
+          "start": 3274.541
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0763",
+          "start": 3316.708
+        }
+      ],
+      "surface_examples": [
+        "大好き"
+      ]
+    },
+    {
+      "lemma": "一歩",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0730",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0730",
+          "start": 3134.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0744",
+          "start": 3210.833
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0758",
+          "start": 3287.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0766",
+          "start": 3330.0
+        }
+      ],
+      "surface_examples": [
+        "一歩"
+      ]
+    },
+    {
+      "lemma": "踏み出す",
+      "pos": "動詞",
+      "count": 4,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0730",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0730",
+          "start": 3134.166
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0744",
+          "start": 3210.833
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0758",
+          "start": 3287.625
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0766",
+          "start": 3330.0
+        }
+      ],
+      "surface_examples": [
+        "踏み出せ",
+        "踏み出す"
+      ]
+    },
+    {
+      "lemma": "平気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0734",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0734",
+          "start": 3163.875
+        }
+      ],
+      "surface_examples": [
+        "平気"
+      ]
+    },
+    {
+      "lemma": "笑顔",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0736",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0736",
+          "start": 3174.125
+        },
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0750",
+          "start": 3250.833
+        }
+      ],
+      "surface_examples": [
+        "笑顔"
+      ]
+    },
+    {
+      "lemma": "視線",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0740",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0740",
+          "start": 3189.875
+        }
+      ],
+      "surface_examples": [
+        "視線"
+      ]
+    },
+    {
+      "lemma": "誤魔化す",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0740",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0740",
+          "start": 3189.875
+        }
+      ],
+      "surface_examples": [
+        "誤魔化し"
+      ]
+    },
+    {
+      "lemma": "溢れ出す",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0760",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0760",
+          "start": 3305.166
+        }
+      ],
+      "surface_examples": [
+        "溢れ出し"
+      ]
+    },
+    {
+      "lemma": "後悔",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "tokumei-no-koibito-tachi-s01-e08-0767",
+      "occurrences": [
+        {
+          "sentence_id": "tokumei-no-koibito-tachi-s01-e08-0767",
+          "start": 3333.208
+        }
+      ],
+      "surface_examples": [
+        "後悔"
       ]
     }
   ]

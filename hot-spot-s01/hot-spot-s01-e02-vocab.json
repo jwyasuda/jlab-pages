@@ -1,22 +1,3407 @@
 {
   "chapter_id": "hot-spot-s01-e02",
-  "generated_at": "2026-05-07T11:37:15.392271+00:00",
-  "total_unique_lemmas": 3,
-  "total_tokens_after_filter": 4,
+  "generated_at": "2026-05-18T09:08:31.379328+00:00",
+  "total_unique_lemmas": 187,
+  "total_tokens_after_filter": 1008,
   "vocab": [
+    {
+      "lemma": "富士山",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0001",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0001",
+          "start": 4.713
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0068",
+          "start": 224.14
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0088",
+          "start": 258.758
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0386",
+          "start": 977.726
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0401",
+          "start": 1006.588
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0414",
+          "start": 1029.695
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1007",
+          "start": 2625.706
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1019",
+          "start": 2651.982
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1034",
+          "start": 2687.059
+        }
+      ],
+      "surface_examples": [
+        "富士山"
+      ]
+    },
+    {
+      "lemma": "山梨",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0002",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0002",
+          "start": 7.007
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0068",
+          "start": 224.14
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0074",
+          "start": 233.816
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0391",
+          "start": 986.151
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0586",
+          "start": 1479.561
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1008",
+          "start": 2628.042
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1019",
+          "start": 2651.982
+        }
+      ],
+      "surface_examples": [
+        "山梨"
+      ]
+    },
+    {
+      "lemma": "富士",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0002",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0002",
+          "start": 7.007
+        }
+      ],
+      "surface_examples": [
+        "富士"
+      ]
+    },
+    {
+      "lemma": "浅田",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0002",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0002",
+          "start": 7.007
+        }
+      ],
+      "surface_examples": [
+        "浅田"
+      ]
+    },
+    {
+      "lemma": "市",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0002",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0002",
+          "start": 7.007
+        }
+      ],
+      "surface_examples": [
+        "市"
+      ]
+    },
+    {
+      "lemma": "遠藤",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0002",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0002",
+          "start": 7.007
+        }
+      ],
+      "surface_examples": [
+        "遠藤"
+      ]
+    },
+    {
+      "lemma": "清美",
+      "pos": "名詞",
+      "count": 174,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0002",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0002",
+          "start": 7.007
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0004",
+          "start": 16.141
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0006",
+          "start": 19.853
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0007",
+          "start": 20.895
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0012",
+          "start": 34.159
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0016",
+          "start": 44.919
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0029",
+          "start": 109.776
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0031",
+          "start": 113.822
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0033",
+          "start": 119.16
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0034",
+          "start": 122.33
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0035",
+          "start": 123.873
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0037",
+          "start": 127.502
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0038",
+          "start": 130.129
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0042",
+          "start": 136.928
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0044",
+          "start": 143.101
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0045",
+          "start": 150.066
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0046",
+          "start": 169.752
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0047",
+          "start": 181.764
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0050",
+          "start": 189.23
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0063",
+          "start": 217.884
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0070",
+          "start": 228.853
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0077",
+          "start": 239.489
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0081",
+          "start": 247.038
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0086",
+          "start": 255.546
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0090",
+          "start": 265.139
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0094",
+          "start": 271.813
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0096",
+          "start": 276.025
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0103",
+          "start": 287.912
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0105",
+          "start": 291.874
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0106",
+          "start": 292.875
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0109",
+          "start": 299.507
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0113",
+          "start": 306.472
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0118",
+          "start": 316.357
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0128",
+          "start": 334.834
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0134",
+          "start": 349.223
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0137",
+          "start": 355.063
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0139",
+          "start": 358.066
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0143",
+          "start": 365.156
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0146",
+          "start": 374.04
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0149",
+          "start": 379.504
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0152",
+          "start": 384.092
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0153",
+          "start": 386.469
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0184",
+          "start": 457.665
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0186",
+          "start": 461.252
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0190",
+          "start": 479.103
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0192",
+          "start": 484.609
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0195",
+          "start": 495.62
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0196",
+          "start": 498.456
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0229",
+          "start": 581.289
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0254",
+          "start": 638.971
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0286",
+          "start": 706.205
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0296",
+          "start": 728.519
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0299",
+          "start": 734.233
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0301",
+          "start": 738.654
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0304",
+          "start": 743.743
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0312",
+          "start": 762.219
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0317",
+          "start": 771.02
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0330",
+          "start": 804.553
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0332",
+          "start": 807.264
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0336",
+          "start": 817.566
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0345",
+          "start": 843.968
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0359",
+          "start": 882.715
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0361",
+          "start": 886.969
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0374",
+          "start": 923.213
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0379",
+          "start": 940.606
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0380",
+          "start": 942.358
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0382",
+          "start": 961.21
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0384",
+          "start": 973.43
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0387",
+          "start": 979.561
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0389",
+          "start": 983.649
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0392",
+          "start": 988.237
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0395",
+          "start": 993.117
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0399",
+          "start": 1002.835
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0400",
+          "start": 1004.795
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0405",
+          "start": 1014.388
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0406",
+          "start": 1016.89
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0407",
+          "start": 1018.267
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0410",
+          "start": 1022.688
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0413",
+          "start": 1027.943
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0414",
+          "start": 1029.695
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0419",
+          "start": 1049.923
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0428",
+          "start": 1075.866
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0433",
+          "start": 1086.627
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0435",
+          "start": 1099.181
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0437",
+          "start": 1108.982
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0441",
+          "start": 1121.119
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0448",
+          "start": 1139.721
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0449",
+          "start": 1142.391
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0472",
+          "start": 1208.874
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0558",
+          "start": 1420.335
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0564",
+          "start": 1431.555
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0579",
+          "start": 1459.458
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0581",
+          "start": 1466.381
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0589",
+          "start": 1489.529
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0591",
+          "start": 1495.368
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0596",
+          "start": 1506.421
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0597",
+          "start": 1512.302
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0599",
+          "start": 1519.809
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0603",
+          "start": 1530.946
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0608",
+          "start": 1565.355
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0610",
+          "start": 1570.61
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0612",
+          "start": 1574.573
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0613",
+          "start": 1587.419
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0615",
+          "start": 1590.463
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0617",
+          "start": 1593.675
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0621",
+          "start": 1605.895
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0629",
+          "start": 1638.47
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0632",
+          "start": 1644.643
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0636",
+          "start": 1651.9
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0640",
+          "start": 1658.782
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0675",
+          "start": 1736.067
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0679",
+          "start": 1743.7
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0681",
+          "start": 1749.664
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0683",
+          "start": 1760.55
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0693",
+          "start": 1776.941
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0704",
+          "start": 1868.741
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0707",
+          "start": 1875.748
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0717",
+          "start": 1898.438
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0726",
+          "start": 1913.119
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0729",
+          "start": 1921.294
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0738",
+          "start": 1935.767
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0740",
+          "start": 1940.813
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0753",
+          "start": 2004.043
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0758",
+          "start": 2012.593
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0759",
+          "start": 2014.011
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0767",
+          "start": 2041.831
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0778",
+          "start": 2064.562
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0779",
+          "start": 2065.605
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0786",
+          "start": 2078.409
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0792",
+          "start": 2088.836
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0813",
+          "start": 2144.934
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0819",
+          "start": 2155.736
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0835",
+          "start": 2186.434
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0836",
+          "start": 2188.227
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0843",
+          "start": 2214.837
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0845",
+          "start": 2218.09
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0848",
+          "start": 2224.931
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0856",
+          "start": 2238.903
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0857",
+          "start": 2241.781
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0860",
+          "start": 2245.618
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0861",
+          "start": 2247.662
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0864",
+          "start": 2253.751
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0865",
+          "start": 2254.794
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0870",
+          "start": 2264.428
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0871",
+          "start": 2266.055
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0899",
+          "start": 2331.996
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0902",
+          "start": 2337.293
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0905",
+          "start": 2341.756
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0907",
+          "start": 2344.717
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0910",
+          "start": 2350.806
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0935",
+          "start": 2431.72
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0940",
+          "start": 2453.659
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0945",
+          "start": 2466.63
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0947",
+          "start": 2470.342
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0953",
+          "start": 2483.939
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0955",
+          "start": 2488.235
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0958",
+          "start": 2494.45
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0967",
+          "start": 2512.927
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0969",
+          "start": 2516.514
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0973",
+          "start": 2524.355
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0974",
+          "start": 2527.9
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0978",
+          "start": 2539.328
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0983",
+          "start": 2551.799
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0988",
+          "start": 2563.978
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0991",
+          "start": 2572.069
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0998",
+          "start": 2587.209
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1010",
+          "start": 2634.673
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1013",
+          "start": 2640.721
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1014",
+          "start": 2642.556
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1023",
+          "start": 2659.406
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1026",
+          "start": 2665.454
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1040",
+          "start": 2702.116
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1042",
+          "start": 2706.829
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1053",
+          "start": 2739.903
+        }
+      ],
+      "surface_examples": [
+        "清美"
+      ]
+    },
+    {
+      "lemma": "葉月",
+      "pos": "名詞",
+      "count": 125,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0003",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0003",
+          "start": 10.719
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0013",
+          "start": 36.911
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0049",
+          "start": 188.146
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0051",
+          "start": 191.357
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0053",
+          "start": 195.528
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0063",
+          "start": 217.884
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0070",
+          "start": 228.853
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0077",
+          "start": 239.489
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0087",
+          "start": 257.799
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0095",
+          "start": 273.147
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0105",
+          "start": 291.874
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0113",
+          "start": 306.472
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0118",
+          "start": 316.357
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0131",
+          "start": 343.217
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0132",
+          "start": 346.554
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0137",
+          "start": 355.063
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0143",
+          "start": 365.156
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0158",
+          "start": 402.235
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0161",
+          "start": 408.616
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0164",
+          "start": 415.706
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0166",
+          "start": 419.585
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0174",
+          "start": 435.143
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0179",
+          "start": 443.86
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0191",
+          "start": 482.899
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0200",
+          "start": 509.467
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0201",
+          "start": 517.517
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0207",
+          "start": 529.904
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0209",
+          "start": 533.449
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0210",
+          "start": 536.744
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0215",
+          "start": 551.425
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0218",
+          "start": 557.014
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0248",
+          "start": 624.332
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0255",
+          "start": 641.223
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0259",
+          "start": 651.859
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0260",
+          "start": 653.778
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0261",
+          "start": 657.49
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0266",
+          "start": 666.415
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0273",
+          "start": 681.347
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0274",
+          "start": 682.306
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0280",
+          "start": 693.401
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0286",
+          "start": 706.205
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0297",
+          "start": 730.771
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0301",
+          "start": 738.654
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0306",
+          "start": 747.621
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0330",
+          "start": 804.553
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0332",
+          "start": 807.264
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0336",
+          "start": 817.566
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0474",
+          "start": 1220.844
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0476",
+          "start": 1223.639
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0479",
+          "start": 1231.355
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0480",
+          "start": 1233.941
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0486",
+          "start": 1249.081
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0487",
+          "start": 1251.041
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0488",
+          "start": 1253.418
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0492",
+          "start": 1261.843
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0497",
+          "start": 1275.983
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0501",
+          "start": 1288.87
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0505",
+          "start": 1296.753
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0508",
+          "start": 1303.343
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0513",
+          "start": 1316.064
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0516",
+          "start": 1322.988
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0517",
+          "start": 1325.073
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0518",
+          "start": 1327.909
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0520",
+          "start": 1331.621
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0539",
+          "start": 1370.869
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0550",
+          "start": 1397.395
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0551",
+          "start": 1401.9
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0573",
+          "start": 1448.697
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0575",
+          "start": 1452.2
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0576",
+          "start": 1453.451
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0583",
+          "start": 1471.761
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0585",
+          "start": 1475.098
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0611",
+          "start": 1571.611
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0614",
+          "start": 1589.713
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0620",
+          "start": 1601.224
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0626",
+          "start": 1628.585
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0628",
+          "start": 1631.379
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0640",
+          "start": 1658.782
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0659",
+          "start": 1702.784
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0670",
+          "start": 1725.014
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0685",
+          "start": 1763.511
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0702",
+          "start": 1862.61
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0707",
+          "start": 1875.748
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0721",
+          "start": 1905.153
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0722",
+          "start": 1906.863
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0735",
+          "start": 1931.179
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0738",
+          "start": 1935.767
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0740",
+          "start": 1940.813
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0758",
+          "start": 2012.593
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0759",
+          "start": 2014.011
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0768",
+          "start": 2044.5
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0773",
+          "start": 2054.552
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0775",
+          "start": 2057.805
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0806",
+          "start": 2132.588
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0810",
+          "start": 2139.804
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0815",
+          "start": 2147.395
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0827",
+          "start": 2170.209
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0835",
+          "start": 2186.434
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0842",
+          "start": 2213.336
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0844",
+          "start": 2216.714
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0845",
+          "start": 2218.09
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0846",
+          "start": 2221.344
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0847",
+          "start": 2222.887
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0849",
+          "start": 2225.848
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0850",
+          "start": 2227.099
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0859",
+          "start": 2244.45
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0860",
+          "start": 2245.618
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0865",
+          "start": 2254.794
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0870",
+          "start": 2264.428
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0875",
+          "start": 2273.688
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0898",
+          "start": 2330.244
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0899",
+          "start": 2331.996
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0910",
+          "start": 2350.806
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0916",
+          "start": 2362.818
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0936",
+          "start": 2433.848
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0937",
+          "start": 2435.808
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0947",
+          "start": 2470.342
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0951",
+          "start": 2479.56
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0955",
+          "start": 2488.235
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0956",
+          "start": 2489.695
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0959",
+          "start": 2495.451
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0963",
+          "start": 2504.21
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0983",
+          "start": 2551.799
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0985",
+          "start": 2554.969
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0988",
+          "start": 2563.978
+        }
+      ],
+      "surface_examples": [
+        "葉月"
+      ]
+    },
+    {
+      "lemma": "美波",
+      "pos": "名詞",
+      "count": 104,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0003",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0003",
+          "start": 10.719
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0005",
+          "start": 18.476
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0013",
+          "start": 36.911
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0081",
+          "start": 247.038
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0085",
+          "start": 253.795
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0086",
+          "start": 255.546
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0090",
+          "start": 265.139
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0095",
+          "start": 273.147
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0097",
+          "start": 277.11
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0103",
+          "start": 287.912
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0106",
+          "start": 292.875
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0109",
+          "start": 299.507
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0131",
+          "start": 343.217
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0134",
+          "start": 349.223
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0139",
+          "start": 358.066
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0149",
+          "start": 379.504
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0152",
+          "start": 384.092
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0153",
+          "start": 386.469
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0185",
+          "start": 459.459
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0188",
+          "start": 468.759
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0190",
+          "start": 479.103
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0250",
+          "start": 629.045
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0254",
+          "start": 638.971
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0283",
+          "start": 698.697
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0294",
+          "start": 724.223
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0296",
+          "start": 728.519
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0299",
+          "start": 734.233
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0304",
+          "start": 743.743
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0306",
+          "start": 747.621
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0312",
+          "start": 762.219
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0317",
+          "start": 771.02
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0522",
+          "start": 1335.917
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0527",
+          "start": 1345.26
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0532",
+          "start": 1356.396
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0536",
+          "start": 1364.863
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0537",
+          "start": 1367.574
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0562",
+          "start": 1427.342
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0581",
+          "start": 1466.381
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0583",
+          "start": 1471.761
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0585",
+          "start": 1475.098
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0612",
+          "start": 1574.573
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0615",
+          "start": 1590.463
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0617",
+          "start": 1593.675
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0620",
+          "start": 1601.224
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0622",
+          "start": 1606.98
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0626",
+          "start": 1628.585
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0630",
+          "start": 1640.638
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0651",
+          "start": 1684.307
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0659",
+          "start": 1702.784
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0663",
+          "start": 1711.584
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0667",
+          "start": 1720.009
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0670",
+          "start": 1725.014
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0672",
+          "start": 1728.81
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0683",
+          "start": 1760.55
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0703",
+          "start": 1865.613
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0704",
+          "start": 1868.741
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0719",
+          "start": 1902.15
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0721",
+          "start": 1905.153
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0722",
+          "start": 1906.863
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0727",
+          "start": 1913.87
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0729",
+          "start": 1921.294
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0742",
+          "start": 1980.061
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0753",
+          "start": 2004.043
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0766",
+          "start": 2040.496
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0773",
+          "start": 2054.552
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0775",
+          "start": 2057.805
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0778",
+          "start": 2064.562
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0786",
+          "start": 2078.409
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0792",
+          "start": 2088.836
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0793",
+          "start": 2091.13
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0794",
+          "start": 2092.924
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0804",
+          "start": 2130.044
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0807",
+          "start": 2133.506
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0809",
+          "start": 2139.053
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0813",
+          "start": 2144.934
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0827",
+          "start": 2170.209
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0831",
+          "start": 2177.717
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0835",
+          "start": 2186.434
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0843",
+          "start": 2214.837
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0846",
+          "start": 2221.344
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0847",
+          "start": 2222.887
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0850",
+          "start": 2227.099
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0856",
+          "start": 2238.903
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0857",
+          "start": 2241.781
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0859",
+          "start": 2244.45
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0861",
+          "start": 2247.662
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0863",
+          "start": 2252.375
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0864",
+          "start": 2253.751
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0871",
+          "start": 2266.055
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0875",
+          "start": 2273.688
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0902",
+          "start": 2337.293
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0905",
+          "start": 2341.756
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0907",
+          "start": 2344.717
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0916",
+          "start": 2362.818
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0937",
+          "start": 2435.808
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0942",
+          "start": 2459.206
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0947",
+          "start": 2470.342
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0951",
+          "start": 2479.56
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0956",
+          "start": 2489.695
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0983",
+          "start": 2551.799
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0988",
+          "start": 2563.978
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0999",
+          "start": 2592.798
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1002",
+          "start": 2603.434
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1004",
+          "start": 2606.103
+        }
+      ],
+      "surface_examples": [
+        "美波"
+      ]
+    },
+    {
+      "lemma": "毎日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0003",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0003",
+          "start": 10.719
+        }
+      ],
+      "surface_examples": [
+        "毎日"
+      ]
+    },
+    {
+      "lemma": "勤務先",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0008",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0008",
+          "start": 23.064
+        }
+      ],
+      "surface_examples": [
+        "勤務先"
+      ]
+    },
+    {
+      "lemma": "同僚",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0008",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0008",
+          "start": 23.064
+        }
+      ],
+      "surface_examples": [
+        "同僚"
+      ]
+    },
+    {
+      "lemma": "高橋",
+      "pos": "名詞",
+      "count": 76,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0008",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0008",
+          "start": 23.064
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0009",
+          "start": 27.527
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0010",
+          "start": 29.32
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0013",
+          "start": 36.911
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0016",
+          "start": 44.919
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0047",
+          "start": 181.764
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0327",
+          "start": 796.42
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0328",
+          "start": 799.006
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0345",
+          "start": 843.968
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0348",
+          "start": 853.561
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0361",
+          "start": 886.969
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0421",
+          "start": 1053.677
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0428",
+          "start": 1075.866
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0435",
+          "start": 1099.181
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0438",
+          "start": 1112.903
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0440",
+          "start": 1118.742
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0446",
+          "start": 1134.591
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0459",
+          "start": 1167.207
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0476",
+          "start": 1223.639
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0480",
+          "start": 1233.941
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0486",
+          "start": 1249.081
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0488",
+          "start": 1253.418
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0490",
+          "start": 1257.965
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0497",
+          "start": 1275.983
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0501",
+          "start": 1288.87
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0505",
+          "start": 1296.753
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0508",
+          "start": 1303.343
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0516",
+          "start": 1322.988
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0517",
+          "start": 1325.073
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0518",
+          "start": 1327.909
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0520",
+          "start": 1331.621
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0522",
+          "start": 1335.917
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0527",
+          "start": 1345.26
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0532",
+          "start": 1356.396
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0536",
+          "start": 1364.863
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0537",
+          "start": 1367.574
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0539",
+          "start": 1370.869
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0551",
+          "start": 1401.9
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0552",
+          "start": 1405.32
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0556",
+          "start": 1415.622
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0558",
+          "start": 1420.335
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0562",
+          "start": 1427.342
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0564",
+          "start": 1431.555
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0566",
+          "start": 1436.309
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0568",
+          "start": 1440.105
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0571",
+          "start": 1445.485
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0573",
+          "start": 1448.697
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0575",
+          "start": 1452.2
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0576",
+          "start": 1453.451
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0627",
+          "start": 1630.17
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0628",
+          "start": 1631.379
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0629",
+          "start": 1638.47
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0636",
+          "start": 1651.9
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0645",
+          "start": 1667.415
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0649",
+          "start": 1678.426
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0651",
+          "start": 1684.307
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0663",
+          "start": 1711.584
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0667",
+          "start": 1720.009
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0675",
+          "start": 1736.067
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0679",
+          "start": 1743.7
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0681",
+          "start": 1749.664
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0693",
+          "start": 1776.941
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0697",
+          "start": 1808.89
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0741",
+          "start": 1977.6
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0764",
+          "start": 2037.243
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0801",
+          "start": 2122.662
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0837",
+          "start": 2191.23
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0940",
+          "start": 2453.659
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0953",
+          "start": 2483.939
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0967",
+          "start": 2512.927
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0973",
+          "start": 2524.355
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0974",
+          "start": 2527.9
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0993",
+          "start": 2577.157
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0998",
+          "start": 2587.209
+        }
+      ],
+      "surface_examples": [
+        "高橋"
+      ]
+    },
+    {
+      "lemma": "宇宙",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0010",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0010",
+          "start": 29.32
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0438",
+          "start": 1112.903
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0457",
+          "start": 1160.159
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0459",
+          "start": 1167.207
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0866",
+          "start": 2258.172
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0894",
+          "start": 2318.899
+        }
+      ],
+      "surface_examples": [
+        "宇宙"
+      ]
+    },
+    {
+      "lemma": "人",
+      "pos": "接尾辞",
+      "count": 6,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0010",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0010",
+          "start": 29.32
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0438",
+          "start": 1112.903
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0457",
+          "start": 1160.159
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0459",
+          "start": 1167.207
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0866",
+          "start": 2258.172
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0894",
+          "start": 2318.899
+        }
+      ],
+      "surface_examples": [
+        "人"
+      ]
+    },
+    {
+      "lemma": "特別",
+      "pos": "形状詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0013",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0013",
+          "start": 36.911
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0428",
+          "start": 1075.866
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0476",
+          "start": 1223.639
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0994",
+          "start": 2578.909
+        }
+      ],
+      "surface_examples": [
+        "特別"
+      ]
+    },
+    {
+      "lemma": "能力",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0013",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0013",
+          "start": 36.911
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0986",
+          "start": 2556.47
+        }
+      ],
+      "surface_examples": [
+        "能力"
+      ]
+    },
+    {
+      "lemma": "秘密",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0014",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0014",
+          "start": 41.166
+        }
+      ],
+      "surface_examples": [
+        "秘密"
+      ]
+    },
+    {
+      "lemma": "彼女",
+      "pos": "代名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0017",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0017",
+          "start": 46.546
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0473",
+          "start": 1211.96
+        }
+      ],
+      "surface_examples": [
+        "彼女"
+      ]
+    },
+    {
+      "lemma": "生徒",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0019",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0019",
+          "start": 56.264
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0026",
+          "start": 78.203
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0027",
+          "start": 82.332
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0140",
+          "start": 360.443
+        }
+      ],
+      "surface_examples": [
+        "生徒"
+      ]
+    },
+    {
+      "lemma": "教師",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0020",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0020",
+          "start": 60.602
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0022",
+          "start": 66.357
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0259",
+          "start": 651.859
+        }
+      ],
+      "surface_examples": [
+        "教師"
+      ]
+    },
+    {
+      "lemma": "教室",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0020",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0020",
+          "start": 60.602
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0021",
+          "start": 62.353
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0024",
+          "start": 71.946
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0025",
+          "start": 75.241
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0745",
+          "start": 1988.611
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0820",
+          "start": 2157.738
+        }
+      ],
+      "surface_examples": [
+        "教室"
+      ]
+    },
+    {
+      "lemma": "若葉",
+      "pos": "名詞",
+      "count": 25,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0030",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0030",
+          "start": 111.444
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0034",
+          "start": 122.33
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0035",
+          "start": 123.873
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0036",
+          "start": 125.834
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0037",
+          "start": 127.502
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0038",
+          "start": 130.129
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0039",
+          "start": 132.59
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0588",
+          "start": 1487.194
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0590",
+          "start": 1492.866
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0591",
+          "start": 1495.368
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0596",
+          "start": 1506.421
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0597",
+          "start": 1512.302
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0599",
+          "start": 1519.809
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0601",
+          "start": 1526.233
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0603",
+          "start": 1530.946
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0619",
+          "start": 1596.72
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1010",
+          "start": 2634.673
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1014",
+          "start": 2642.556
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1022",
+          "start": 2657.404
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1026",
+          "start": 2665.454
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1032",
+          "start": 2684.264
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1038",
+          "start": 2699.238
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1041",
+          "start": 2704.743
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1044",
+          "start": 2712.418
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1046",
+          "start": 2715.587
+        }
+      ],
+      "surface_examples": [
+        "若葉"
+      ]
+    },
+    {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 9,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0041",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0041",
+          "start": 135.343
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0172",
+          "start": 431.264
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0504",
+          "start": 1295.252
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0514",
+          "start": 1317.983
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0817",
+          "start": 2151.107
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0845",
+          "start": 2218.09
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0922",
+          "start": 2383.547
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0964",
+          "start": 2505.961
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0965",
+          "start": 2507.505
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
+      ]
+    },
+    {
+      "lemma": "今週",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0044",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0044",
+          "start": 143.101
+        }
+      ],
+      "surface_examples": [
+        "今週"
+      ]
+    },
+    {
+      "lemma": "洗濯",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0044",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0044",
+          "start": 143.101
+        }
+      ],
+      "surface_examples": [
+        "洗濯"
+      ]
+    },
+    {
+      "lemma": "掃除",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0044",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0044",
+          "start": 143.101
+        }
+      ],
+      "surface_examples": [
+        "掃除"
+      ]
+    },
+    {
+      "lemma": "部分",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0052",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0052",
+          "start": 192.525
+        }
+      ],
+      "surface_examples": [
+        "部分"
+      ]
+    },
+    {
+      "lemma": "全然",
+      "pos": "副詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0057",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0057",
+          "start": 205.663
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0188",
+          "start": 468.759
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0212",
+          "start": 541.832
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0238",
+          "start": 603.811
+        }
+      ],
+      "surface_examples": [
+        "全然"
+      ]
+    },
+    {
+      "lemma": "番組",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0058",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0058",
+          "start": 209.459
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0059",
+          "start": 210.668
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0095",
+          "start": 273.147
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0096",
+          "start": 276.025
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0411",
+          "start": 1024.481
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0412",
+          "start": 1026.316
+        }
+      ],
+      "surface_examples": [
+        "番組"
+      ]
+    },
+    {
+      "lemma": "静岡",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0068",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0068",
+          "start": 224.14
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0079",
+          "start": 243.034
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0396",
+          "start": 994.91
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1008",
+          "start": 2628.042
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1019",
+          "start": 2651.982
+        }
+      ],
+      "surface_examples": [
+        "静岡"
+      ]
+    },
+    {
+      "lemma": "答える",
+      "pos": "動詞",
+      "count": 5,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0073",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0073",
+          "start": 232.815
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0083",
+          "start": 249.916
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0092",
+          "start": 268.142
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0390",
+          "start": 984.858
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0403",
+          "start": 1012.01
+        }
+      ],
+      "surface_examples": [
+        "答え"
+      ]
+    },
+    {
+      "lemma": "意図",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0077",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0077",
+          "start": 239.489
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0395",
+          "start": 993.117
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0415",
+          "start": 1032.698
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1042",
+          "start": 2706.829
+        }
+      ],
+      "surface_examples": [
+        "意図"
+      ]
+    },
+    {
+      "lemma": "必死",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0082",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0082",
+          "start": 248.331
+        }
+      ],
+      "surface_examples": [
+        "必死"
+      ]
+    },
+    {
+      "lemma": "笑い声",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0085",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0085",
+          "start": 253.795
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0094",
+          "start": 271.813
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0146",
+          "start": 374.04
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0297",
+          "start": 730.771
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0735",
+          "start": 1931.179
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0779",
+          "start": 2065.605
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0793",
+          "start": 2091.13
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0794",
+          "start": 2092.924
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0993",
+          "start": 2577.157
+        }
+      ],
+      "surface_examples": [
+        "笑い声"
+      ]
+    },
+    {
+      "lemma": "午後",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0102",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0102",
+          "start": 285.535
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0601",
+          "start": 1526.233
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1044",
+          "start": 2712.418
+        }
+      ],
+      "surface_examples": [
+        "午後"
+      ]
+    },
+    {
+      "lemma": "放送",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0102",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0102",
+          "start": 285.535
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0410",
+          "start": 1022.688
+        }
+      ],
+      "surface_examples": [
+        "放送"
+      ]
+    },
+    {
+      "lemma": "完全",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0111",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0111",
+          "start": 303.302
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0647",
+          "start": 1672.837
+        }
+      ],
+      "surface_examples": [
+        "完全"
+      ]
+    },
+    {
+      "lemma": "名前",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0117",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0117",
+          "start": 314.105
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0140",
+          "start": 360.443
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0528",
+          "start": 1347.888
+        }
+      ],
+      "surface_examples": [
+        "名前"
+      ]
+    },
+    {
+      "lemma": "会話",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0129",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0129",
+          "start": 336.169
+        }
+      ],
+      "surface_examples": [
+        "会話"
+      ]
+    },
+    {
+      "lemma": "相談",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0133",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0133",
+          "start": 347.722
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0148",
+          "start": 377.668
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0321",
+          "start": 782.907
+        }
+      ],
+      "surface_examples": [
+        "相談"
+      ]
+    },
+    {
+      "lemma": "職場",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0138",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0138",
+          "start": 356.105
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0139",
+          "start": 358.066
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0867",
+          "start": 2260.549
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0870",
+          "start": 2264.428
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0873",
+          "start": 2269.225
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1027",
+          "start": 2666.705
+        }
+      ],
+      "surface_examples": [
+        "職場"
+      ]
+    },
+    {
+      "lemma": "学校",
+      "pos": "名詞",
+      "count": 12,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0139",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0139",
+          "start": 358.066
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0311",
+          "start": 759.008
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0313",
+          "start": 763.721
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0350",
+          "start": 858.941
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0479",
+          "start": 1231.355
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0481",
+          "start": 1236.693
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0483",
+          "start": 1241.49
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0757",
+          "start": 2010.675
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0852",
+          "start": 2231.312
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0860",
+          "start": 2245.618
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0880",
+          "start": 2284.448
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1011",
+          "start": 2636.8
+        }
+      ],
+      "surface_examples": [
+        "学校"
+      ]
+    },
+    {
+      "lemma": "体育",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0155",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0155",
+          "start": 391.849
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0275",
+          "start": 683.766
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0278",
+          "start": 689.563
+        }
+      ],
+      "surface_examples": [
+        "体育"
+      ]
+    },
+    {
+      "lemma": "授業",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0155",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0155",
+          "start": 391.849
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0226",
+          "start": 575.616
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0227",
+          "start": 577.159
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0272",
+          "start": 678.552
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0275",
+          "start": 683.766
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0357",
+          "start": 877.71
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0748",
+          "start": 1995.576
+        }
+      ],
+      "surface_examples": [
+        "授業"
+      ]
+    },
+    {
+      "lemma": "児童",
+      "pos": "名詞",
+      "count": 21,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0158",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0158",
+          "start": 402.235
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0160",
+          "start": 406.406
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0161",
+          "start": 408.616
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0162",
+          "start": 411.619
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0163",
+          "start": 413.121
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0165",
+          "start": 417.041
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0169",
+          "start": 424.674
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0174",
+          "start": 435.143
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0175",
+          "start": 437.061
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0177",
+          "start": 440.398
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0178",
+          "start": 442.15
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0180",
+          "start": 446.237
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0197",
+          "start": 502.043
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0203",
+          "start": 520.895
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0207",
+          "start": 529.904
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0209",
+          "start": 533.449
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0213",
+          "start": 543.668
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0221",
+          "start": 566.065
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0222",
+          "start": 567.984
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0223",
+          "start": 570.236
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0228",
+          "start": 579.078
+        }
+      ],
+      "surface_examples": [
+        "児童"
+      ]
+    },
+    {
+      "lemma": "先生",
+      "pos": "名詞",
+      "count": 33,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0162",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0162",
+          "start": 411.619
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0173",
+          "start": 433.057
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0174",
+          "start": 435.143
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0175",
+          "start": 437.061
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0176",
+          "start": 438.479
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0177",
+          "start": 440.398
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0178",
+          "start": 442.15
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0182",
+          "start": 450.658
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0197",
+          "start": 502.043
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0198",
+          "start": 504.504
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0201",
+          "start": 517.517
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0216",
+          "start": 552.677
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0261",
+          "start": 657.49
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0265",
+          "start": 664.205
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0267",
+          "start": 667.792
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0295",
+          "start": 726.434
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0303",
+          "start": 741.449
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0305",
+          "start": 744.91
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0317",
+          "start": 771.02
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0362",
+          "start": 889.972
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0369",
+          "start": 908.699
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0371",
+          "start": 914.83
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0742",
+          "start": 1980.061
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0745",
+          "start": 1988.611
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0754",
+          "start": 2005.294
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0757",
+          "start": 2010.675
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0808",
+          "start": 2136.217
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0810",
+          "start": 2139.804
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0812",
+          "start": 2143.307
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0817",
+          "start": 2151.107
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0823",
+          "start": 2164.036
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0876",
+          "start": 2274.897
+        }
+      ],
+      "surface_examples": [
+        "先生"
+      ]
+    },
+    {
+      "lemma": "部員",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0183",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0183",
+          "start": 455.997
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0189",
+          "start": 472.68
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0195",
+          "start": 495.62
+        }
+      ],
+      "surface_examples": [
+        "部員"
+      ]
+    },
+    {
+      "lemma": "練習",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0185",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0185",
+          "start": 459.459
+        }
+      ],
+      "surface_examples": [
+        "練習"
+      ]
+    },
+    {
+      "lemma": "一同",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0194",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0194",
+          "start": 494.16
+        }
+      ],
+      "surface_examples": [
+        "一同"
+      ]
+    },
+    {
+      "lemma": "拍手",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0196",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0196",
+          "start": 498.456
+        }
+      ],
+      "surface_examples": [
+        "拍手"
+      ]
+    },
     {
       "lemma": "歓声",
       "pos": "名詞",
-      "count": 2,
-      "first_seen_sentence_id": "hot-spot-s01-e02-0199",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0196",
       "occurrences": [
         {
-          "sentence_id": "hot-spot-s01-e02-0199",
-          "start": 506.881
-        },
-        {
-          "sentence_id": "hot-spot-s01-e02-0642",
-          "start": 1661.743
+          "sentence_id": "hot-spot-s01-e02-0196",
+          "start": 498.456
         }
       ],
       "surface_examples": [
@@ -24,33 +3409,2637 @@
       ]
     },
     {
-      "lemma": "懐かしい",
-      "pos": "形容詞",
-      "count": 1,
-      "first_seen_sentence_id": "hot-spot-s01-e02-0230",
+      "lemma": "頑張る",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0214",
       "occurrences": [
         {
-          "sentence_id": "hot-spot-s01-e02-0230",
-          "start": 584.5
+          "sentence_id": "hot-spot-s01-e02-0214",
+          "start": 545.92
         }
       ],
       "surface_examples": [
-        "懐かしい"
+        "頑張り"
       ]
     },
     {
-      "lemma": "誰",
-      "pos": "代名詞",
-      "count": 1,
-      "first_seen_sentence_id": "hot-spot-s01-e02-0854",
+      "lemma": "体育館",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0229",
       "occurrences": [
         {
-          "sentence_id": "hot-spot-s01-e02-0854",
-          "start": 2234.982
+          "sentence_id": "hot-spot-s01-e02-0229",
+          "start": 581.289
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0242",
+          "start": 613.237
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0262",
+          "start": 658.991
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0349",
+          "start": 855.813
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0480",
+          "start": 1233.941
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0493",
+          "start": 1263.971
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0498",
+          "start": 1278.402
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1000",
+          "start": 2594.592
         }
       ],
       "surface_examples": [
-        "誰"
+        "体育館"
+      ]
+    },
+    {
+      "lemma": "天井",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0229",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0229",
+          "start": 581.289
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0242",
+          "start": 613.237
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0262",
+          "start": 658.991
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0268",
+          "start": 670.961
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0275",
+          "start": 683.766
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0331",
+          "start": 805.804
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0343",
+          "start": 838.337
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0349",
+          "start": 855.813
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0373",
+          "start": 920.753
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1000",
+          "start": 2594.592
+        }
+      ],
+      "surface_examples": [
+        "天井"
+      ]
+    },
+    {
+      "lemma": "業者",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0249",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0249",
+          "start": 626.459
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0250",
+          "start": 629.045
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0252",
+          "start": 634.008
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0353",
+          "start": 867.199
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0354",
+          "start": 868.409
+        }
+      ],
+      "surface_examples": [
+        "業者"
+      ]
+    },
+    {
+      "lemma": "来年",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0254",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0254",
+          "start": 638.971
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0354",
+          "start": 868.409
+        }
+      ],
+      "surface_examples": [
+        "来年"
+      ]
+    },
+    {
+      "lemma": "藤田",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0260",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0260",
+          "start": 653.778
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0261",
+          "start": 657.49
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0264",
+          "start": 662.995
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0271",
+          "start": 677.635
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0273",
+          "start": 681.347
+        }
+      ],
+      "surface_examples": [
+        "藤田"
+      ]
+    },
+    {
+      "lemma": "廊下",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0264",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0264",
+          "start": 662.995
+        }
+      ],
+      "surface_examples": [
+        "廊下"
+      ]
+    },
+    {
+      "lemma": "中断",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0272",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0272",
+          "start": 678.552
+        }
+      ],
+      "surface_examples": [
+        "中断"
+      ]
+    },
+    {
+      "lemma": "井村",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0274",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0274",
+          "start": 682.306
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0277",
+          "start": 688.145
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0280",
+          "start": 693.401
+        }
+      ],
+      "surface_examples": [
+        "井村"
+      ]
+    },
+    {
+      "lemma": "情報",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0283",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0283",
+          "start": 698.697
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0307",
+          "start": 748.748
+        }
+      ],
+      "surface_examples": [
+        "情報"
+      ]
+    },
+    {
+      "lemma": "卒業",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0288",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0288",
+          "start": 709.458
+        }
+      ],
+      "surface_examples": [
+        "卒業"
+      ]
+    },
+    {
+      "lemma": "面倒くさい",
+      "pos": "形容詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0289",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0289",
+          "start": 712.67
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0315",
+          "start": 768.35
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0316",
+          "start": 769.56
+        }
+      ],
+      "surface_examples": [
+        "面倒くさい",
+        "面倒くさ"
+      ]
+    },
+    {
+      "lemma": "卒業式",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0291",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0291",
+          "start": 715.881
+        }
+      ],
+      "surface_examples": [
+        "卒業式"
+      ]
+    },
+    {
+      "lemma": "修学旅行",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0292",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0292",
+          "start": 719.009
+        }
+      ],
+      "surface_examples": [
+        "修学旅行"
+      ]
+    },
+    {
+      "lemma": "担任",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0298",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0298",
+          "start": 732.231
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0742",
+          "start": 1980.061
+        }
+      ],
+      "surface_examples": [
+        "担任"
+      ]
+    },
+    {
+      "lemma": "間違える",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0303",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0303",
+          "start": 741.449
+        }
+      ],
+      "surface_examples": [
+        "間違え"
+      ]
+    },
+    {
+      "lemma": "失敗",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0305",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0305",
+          "start": 744.91
+        }
+      ],
+      "surface_examples": [
+        "失敗"
+      ]
+    },
+    {
+      "lemma": "間違う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0307",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0307",
+          "start": 748.748
+        }
+      ],
+      "surface_examples": [
+        "間違っ"
+      ]
+    },
+    {
+      "lemma": "問題",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0310",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0310",
+          "start": 756.505
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0375",
+          "start": 926.383
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0423",
+          "start": 1059.6
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1034",
+          "start": 2687.059
+        }
+      ],
+      "surface_examples": [
+        "問題"
+      ]
+    },
+    {
+      "lemma": "一応",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0314",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0314",
+          "start": 766.474
+        }
+      ],
+      "surface_examples": [
+        "一応"
+      ]
+    },
+    {
+      "lemma": "大変",
+      "pos": "形状詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0317",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0317",
+          "start": 771.02
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0708",
+          "start": 1877.959
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0877",
+          "start": 2276.816
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0970",
+          "start": 2517.723
+        }
+      ],
+      "surface_examples": [
+        "大変"
+      ]
+    },
+    {
+      "lemma": "客室",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0341",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0341",
+          "start": 830.079
+        }
+      ],
+      "surface_examples": [
+        "客室"
+      ]
+    },
+    {
+      "lemma": "本人",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0347",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0347",
+          "start": 850.599
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0359",
+          "start": 882.715
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0453",
+          "start": 1150.274
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0776",
+          "start": 2058.806
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0943",
+          "start": 2460.207
+        }
+      ],
+      "surface_examples": [
+        "本人"
+      ]
+    },
+    {
+      "lemma": "意外",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0347",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0347",
+          "start": 850.599
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0365",
+          "start": 899.023
+        }
+      ],
+      "surface_examples": [
+        "意外"
+      ]
+    },
+    {
+      "lemma": "深刻",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0347",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0347",
+          "start": 850.599
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0348",
+          "start": 853.561
+        }
+      ],
+      "surface_examples": [
+        "深刻"
+      ]
+    },
+    {
+      "lemma": "結構",
+      "pos": "副詞",
+      "count": 5,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0357",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0357",
+          "start": 877.71
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0488",
+          "start": 1253.418
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0498",
+          "start": 1278.402
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0739",
+          "start": 1937.185
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0754",
+          "start": 2005.294
+        }
+      ],
+      "surface_examples": [
+        "結構"
+      ]
+    },
+    {
+      "lemma": "毎回",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0360",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0360",
+          "start": 884.717
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0361",
+          "start": 886.969
+        }
+      ],
+      "surface_examples": [
+        "毎回"
+      ]
+    },
+    {
+      "lemma": "体調",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0371",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0371",
+          "start": 914.83
+        }
+      ],
+      "surface_examples": [
+        "体調"
+      ]
+    },
+    {
+      "lemma": "原因",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0373",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0373",
+          "start": 920.753
+        }
+      ],
+      "surface_examples": [
+        "原因"
+      ]
+    },
+    {
+      "lemma": "由美",
+      "pos": "名詞",
+      "count": 25,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0379",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0379",
+          "start": 940.606
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0382",
+          "start": 961.21
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0384",
+          "start": 973.43
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0387",
+          "start": 979.561
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0389",
+          "start": 983.649
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0392",
+          "start": 988.237
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0395",
+          "start": 993.117
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0399",
+          "start": 1002.835
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0400",
+          "start": 1004.795
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0405",
+          "start": 1014.388
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0407",
+          "start": 1018.267
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0410",
+          "start": 1022.688
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0413",
+          "start": 1027.943
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0435",
+          "start": 1099.181
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0441",
+          "start": 1121.119
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0444",
+          "start": 1127.584
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0446",
+          "start": 1134.591
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0449",
+          "start": 1142.391
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0451",
+          "start": 1146.979
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0454",
+          "start": 1153.235
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0460",
+          "start": 1170.919
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0467",
+          "start": 1188.186
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0468",
+          "start": 1192.357
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0469",
+          "start": 1197.195
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1027",
+          "start": 2666.705
+        }
+      ],
+      "surface_examples": [
+        "由美"
+      ]
+    },
+    {
+      "lemma": "取材",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0383",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0383",
+          "start": 970.01
+        }
+      ],
+      "surface_examples": [
+        "取材"
+      ]
+    },
+    {
+      "lemma": "友達",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0388",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0388",
+          "start": 981.689
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0406",
+          "start": 1016.89
+        }
+      ],
+      "surface_examples": [
+        "友達"
+      ]
+    },
+    {
+      "lemma": "反応",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0408",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0408",
+          "start": 1019.727
+        }
+      ],
+      "surface_examples": [
+        "反応"
+      ]
+    },
+    {
+      "lemma": "仲裁",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0412",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0412",
+          "start": 1026.316
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1008",
+          "start": 2628.042
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1035",
+          "start": 2690.145
+        }
+      ],
+      "surface_examples": [
+        "仲裁"
+      ]
+    },
+    {
+      "lemma": "都市",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0436",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0436",
+          "start": 1106.313
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0437",
+          "start": 1108.982
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0462",
+          "start": 1175.924
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0464",
+          "start": 1180.304
+        }
+      ],
+      "surface_examples": [
+        "都市"
+      ]
+    },
+    {
+      "lemma": "伝説",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0436",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0436",
+          "start": 1106.313
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0437",
+          "start": 1108.982
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0462",
+          "start": 1175.924
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0464",
+          "start": 1180.304
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0468",
+          "start": 1192.357
+        }
+      ],
+      "surface_examples": [
+        "伝説"
+      ]
+    },
+    {
+      "lemma": "説",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0438",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0438",
+          "start": 1112.903
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0459",
+          "start": 1167.207
+        }
+      ],
+      "surface_examples": [
+        "説"
+      ]
+    },
+    {
+      "lemma": "謎",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0442",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0442",
+          "start": 1124.873
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0443",
+          "start": 1126.083
+        }
+      ],
+      "surface_examples": [
+        "謎"
+      ]
+    },
+    {
+      "lemma": "家族",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0447",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0447",
+          "start": 1137.135
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0777",
+          "start": 2062.268
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0778",
+          "start": 2064.562
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0782",
+          "start": 2070.234
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0789",
+          "start": 2083.247
+        }
+      ],
+      "surface_examples": [
+        "家族"
+      ]
+    },
+    {
+      "lemma": "普通",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0453",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0453",
+          "start": 1150.274
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0631",
+          "start": 1642.349
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0815",
+          "start": 2147.395
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0833",
+          "start": 2182.43
+        }
+      ],
+      "surface_examples": [
+        "普通"
+      ]
+    },
+    {
+      "lemma": "知覚",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0455",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0455",
+          "start": 1154.82
+        }
+      ],
+      "surface_examples": [
+        "知覚"
+      ]
+    },
+    {
+      "lemma": "過敏",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0455",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0455",
+          "start": 1154.82
+        }
+      ],
+      "surface_examples": [
+        "過敏"
+      ]
+    },
+    {
+      "lemma": "磯村",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0468",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0468",
+          "start": 1192.357
+        }
+      ],
+      "surface_examples": [
+        "磯村"
+      ]
+    },
+    {
+      "lemma": "一瞬",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0472",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0472",
+          "start": 1208.874
+        }
+      ],
+      "surface_examples": [
+        "一瞬"
+      ]
+    },
+    {
+      "lemma": "計画",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0482",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0482",
+          "start": 1239.238
+        }
+      ],
+      "surface_examples": [
+        "計画"
+      ]
+    },
+    {
+      "lemma": "簡単",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0483",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0483",
+          "start": 1241.49
+        }
+      ],
+      "surface_examples": [
+        "簡単"
+      ]
+    },
+    {
+      "lemma": "監視",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0484",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0484",
+          "start": 1245.202
+        }
+      ],
+      "surface_examples": [
+        "監視"
+      ]
+    },
+    {
+      "lemma": "最近",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0525",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0525",
+          "start": 1341.173
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0530",
+          "start": 1351.558
+        }
+      ],
+      "surface_examples": [
+        "最近"
+      ]
+    },
+    {
+      "lemma": "超能力",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0535",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0535",
+          "start": 1362.486
+        }
+      ],
+      "surface_examples": [
+        "超能力"
+      ]
+    },
+    {
+      "lemma": "条件",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0561",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0561",
+          "start": 1425.006
+        }
+      ],
+      "surface_examples": [
+        "条件"
+      ]
+    },
+    {
+      "lemma": "森田",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0586",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0586",
+          "start": 1479.561
+        }
+      ],
+      "surface_examples": [
+        "森田"
+      ]
+    },
+    {
+      "lemma": "家計",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0587",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0587",
+          "start": 1482.314
+        }
+      ],
+      "surface_examples": [
+        "家計"
+      ]
+    },
+    {
+      "lemma": "応援",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0587",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0587",
+          "start": 1482.314
+        }
+      ],
+      "surface_examples": [
+        "応援"
+      ]
+    },
+    {
+      "lemma": "企画",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0587",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0587",
+          "start": 1482.314
+        }
+      ],
+      "surface_examples": [
+        "企画"
+      ]
+    },
+    {
+      "lemma": "紹介",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0587",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0587",
+          "start": 1482.314
+        }
+      ],
+      "surface_examples": [
+        "紹介"
+      ]
+    },
+    {
+      "lemma": "部活",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0591",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0591",
+          "start": 1495.368
+        }
+      ],
+      "surface_examples": [
+        "部活"
+      ]
+    },
+    {
+      "lemma": "受信",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0606",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0606",
+          "start": 1543.875
+        }
+      ],
+      "surface_examples": [
+        "受信"
+      ]
+    },
+    {
+      "lemma": "音",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0606",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0606",
+          "start": 1543.875
+        }
+      ],
+      "surface_examples": [
+        "音"
+      ]
+    },
+    {
+      "lemma": "待機",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0622",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0622",
+          "start": 1606.98
+        }
+      ],
+      "surface_examples": [
+        "待機"
+      ]
+    },
+    {
+      "lemma": "宇宙船",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0630",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0630",
+          "start": 1640.638
+        }
+      ],
+      "surface_examples": [
+        "宇宙船"
+      ]
+    },
+    {
+      "lemma": "お菓子",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0639",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0639",
+          "start": 1656.279
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0645",
+          "start": 1667.415
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0689",
+          "start": 1769.1
+        }
+      ],
+      "surface_examples": [
+        "お菓子"
+      ]
+    },
+    {
+      "lemma": "全部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0641",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0641",
+          "start": 1660.617
+        }
+      ],
+      "surface_examples": [
+        "全部"
+      ]
+    },
+    {
+      "lemma": "対応",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0647",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0647",
+          "start": 1672.837
+        }
+      ],
+      "surface_examples": [
+        "対応"
+      ]
+    },
+    {
+      "lemma": "普段",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0650",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0650",
+          "start": 1680.762
+        }
+      ],
+      "surface_examples": [
+        "普段"
+      ]
+    },
+    {
+      "lemma": "勝手に",
+      "pos": "副詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0656",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0656",
+          "start": 1695.735
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0657",
+          "start": 1697.654
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0892",
+          "start": 2314.729
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1008",
+          "start": 2628.042
+        }
+      ],
+      "surface_examples": [
+        "勝手に"
+      ]
+    },
+    {
+      "lemma": "世代",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0666",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0666",
+          "start": 1716.881
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0680",
+          "start": 1746.202
+        }
+      ],
+      "surface_examples": [
+        "世代"
+      ]
+    },
+    {
+      "lemma": "女子",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0673",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0673",
+          "start": 1729.853
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0674",
+          "start": 1731.98
+        }
+      ],
+      "surface_examples": [
+        "女子"
+      ]
+    },
+    {
+      "lemma": "看護師",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0702",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0702",
+          "start": 1862.61
+        }
+      ],
+      "surface_examples": [
+        "看護師"
+      ]
+    },
+    {
+      "lemma": "緊急",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0705",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0705",
+          "start": 1870.201
+        }
+      ],
+      "surface_examples": [
+        "緊急"
+      ]
+    },
+    {
+      "lemma": "最初",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0709",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0709",
+          "start": 1880.169
+        }
+      ],
+      "surface_examples": [
+        "最初"
+      ]
+    },
+    {
+      "lemma": "患者",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0713",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0713",
+          "start": 1889.345
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0715",
+          "start": 1894.058
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0727",
+          "start": 1913.87
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0736",
+          "start": 1932.263
+        }
+      ],
+      "surface_examples": [
+        "患者"
+      ]
+    },
+    {
+      "lemma": "年齢",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0727",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0727",
+          "start": 1913.87
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1054",
+          "start": 2743.907
+        }
+      ],
+      "surface_examples": [
+        "年齢"
+      ]
+    },
+    {
+      "lemma": "雰囲気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0727",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0727",
+          "start": 1913.87
+        }
+      ],
+      "surface_examples": [
+        "雰囲気"
+      ]
+    },
+    {
+      "lemma": "新人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0730",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0730",
+          "start": 1923.087
+        }
+      ],
+      "surface_examples": [
+        "新人"
+      ]
+    },
+    {
+      "lemma": "単純",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0732",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0732",
+          "start": 1926.674
+        }
+      ],
+      "surface_examples": [
+        "単純"
+      ]
+    },
+    {
+      "lemma": "小学校",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0742",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0742",
+          "start": 1980.061
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0745",
+          "start": 1988.611
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0754",
+          "start": 2005.294
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0828",
+          "start": 2171.419
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0952",
+          "start": 2480.853
+        }
+      ],
+      "surface_examples": [
+        "小学校"
+      ]
+    },
+    {
+      "lemma": "基本",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0744",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0744",
+          "start": 1986.442
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0820",
+          "start": 2157.738
+        }
+      ],
+      "surface_examples": [
+        "基本"
+      ]
+    },
+    {
+      "lemma": "職員室",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0744",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0744",
+          "start": 1986.442
+        }
+      ],
+      "surface_examples": [
+        "職員室"
+      ]
+    },
+    {
+      "lemma": "平気",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0759",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0759",
+          "start": 2014.011
+        }
+      ],
+      "surface_examples": [
+        "平気"
+      ]
+    },
+    {
+      "lemma": "お客さん",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0767",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0767",
+          "start": 2041.831
+        }
+      ],
+      "surface_examples": [
+        "お客さん"
+      ]
+    },
+    {
+      "lemma": "余裕",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0769",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0769",
+          "start": 2046.127
+        }
+      ],
+      "surface_examples": [
+        "余裕"
+      ]
+    },
+    {
+      "lemma": "部屋",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0772",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0772",
+          "start": 2052.633
+        }
+      ],
+      "surface_examples": [
+        "部屋"
+      ]
+    },
+    {
+      "lemma": "感覚",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0776",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0776",
+          "start": 2058.806
+        }
+      ],
+      "surface_examples": [
+        "感覚"
+      ]
+    },
+    {
+      "lemma": "追加料金",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0787",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0787",
+          "start": 2080.244
+        }
+      ],
+      "surface_examples": [
+        "追加料金"
+      ]
+    },
+    {
+      "lemma": "うめき声",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0803",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0803",
+          "start": 2126.582
+        }
+      ],
+      "surface_examples": [
+        "うめき声"
+      ]
+    },
+    {
+      "lemma": "給食",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0804",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0804",
+          "start": 2130.044
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0808",
+          "start": 2136.217
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0811",
+          "start": 2141.264
+        }
+      ],
+      "surface_examples": [
+        "給食"
+      ]
+    },
+    {
+      "lemma": "昼休み",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0830",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0830",
+          "start": 2176.215
+        }
+      ],
+      "surface_examples": [
+        "昼休み"
+      ]
+    },
+    {
+      "lemma": "関係者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0852",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0852",
+          "start": 2231.312
+        }
+      ],
+      "surface_examples": [
+        "関係者"
+      ]
+    },
+    {
+      "lemma": "職員",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0853",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0853",
+          "start": 2232.98
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0874",
+          "start": 2271.31
+        }
+      ],
+      "surface_examples": [
+        "職員"
+      ]
+    },
+    {
+      "lemma": "地上絵",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0856",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0856",
+          "start": 2238.903
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0857",
+          "start": 2241.781
+        }
+      ],
+      "surface_examples": [
+        "地上絵"
+      ]
+    },
+    {
+      "lemma": "間違い",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0864",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0864",
+          "start": 2253.751
+        }
+      ],
+      "surface_examples": [
+        "間違い"
+      ]
+    },
+    {
+      "lemma": "愉快犯",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0865",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0865",
+          "start": 2254.794
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-1015",
+          "start": 2643.682
+        }
+      ],
+      "surface_examples": [
+        "愉快犯"
+      ]
+    },
+    {
+      "lemma": "仕業",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0866",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0866",
+          "start": 2258.172
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0894",
+          "start": 2318.899
+        }
+      ],
+      "surface_examples": [
+        "仕業"
+      ]
+    },
+    {
+      "lemma": "後輩",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0867",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0867",
+          "start": 2260.549
+        }
+      ],
+      "surface_examples": [
+        "後輩"
+      ]
+    },
+    {
+      "lemma": "宇",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0869",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0869",
+          "start": 2263.219
+        }
+      ],
+      "surface_examples": [
+        "宇"
+      ]
+    },
+    {
+      "lemma": "宙人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0869",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0869",
+          "start": 2263.219
+        }
+      ],
+      "surface_examples": [
+        "宙人"
+      ]
+    },
+    {
+      "lemma": "迷惑",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0872",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0872",
+          "start": 2266.973
+        }
+      ],
+      "surface_examples": [
+        "迷惑"
+      ]
+    },
+    {
+      "lemma": "面白い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0881",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0881",
+          "start": 2286.659
+        }
+      ],
+      "surface_examples": [
+        "面白い"
+      ]
+    },
+    {
+      "lemma": "勘違い",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0881",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0881",
+          "start": 2286.659
+        }
+      ],
+      "surface_examples": [
+        "勘違い"
+      ]
+    },
+    {
+      "lemma": "気持ち",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0881",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0881",
+          "start": 2286.659
+        }
+      ],
+      "surface_examples": [
+        "気持ち"
+      ]
+    },
+    {
+      "lemma": "悪い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0881",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0881",
+          "start": 2286.659
+        }
+      ],
+      "surface_examples": [
+        "悪い"
+      ]
+    },
+    {
+      "lemma": "男性",
+      "pos": "名詞",
+      "count": 31,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0883",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0883",
+          "start": 2295.543
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0884",
+          "start": 2300.256
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0885",
+          "start": 2301.716
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0886",
+          "start": 2304.427
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0887",
+          "start": 2306.971
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0888",
+          "start": 2308.431
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0889",
+          "start": 2310.099
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0890",
+          "start": 2312.226
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0891",
+          "start": 2313.227
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0892",
+          "start": 2314.729
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0893",
+          "start": 2317.523
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0894",
+          "start": 2318.899
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0895",
+          "start": 2321.61
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0896",
+          "start": 2323.529
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0897",
+          "start": 2324.905
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0919",
+          "start": 2375.873
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0920",
+          "start": 2379.168
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0921",
+          "start": 2381.212
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0922",
+          "start": 2383.547
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0923",
+          "start": 2387.301
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0924",
+          "start": 2389.261
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0925",
+          "start": 2391.472
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0926",
+          "start": 2394.475
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0927",
+          "start": 2395.768
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0938",
+          "start": 2443.983
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0939",
+          "start": 2447.153
+        }
+      ],
+      "surface_examples": [
+        "男性"
+      ]
+    },
+    {
+      "lemma": "出来",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0885",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0885",
+          "start": 2301.716
+        }
+      ],
+      "surface_examples": [
+        "出来"
+      ]
+    },
+    {
+      "lemma": "結局",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0888",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0888",
+          "start": 2308.431
+        }
+      ],
+      "surface_examples": [
+        "結局"
+      ]
+    },
+    {
+      "lemma": "実際",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0894",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0894",
+          "start": 2318.899
+        }
+      ],
+      "surface_examples": [
+        "実際"
+      ]
+    },
+    {
+      "lemma": "最後",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0896",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0896",
+          "start": 2323.529
+        }
+      ],
+      "surface_examples": [
+        "最後"
+      ]
+    },
+    {
+      "lemma": "注意",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0899",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0899",
+          "start": 2331.996
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0900",
+          "start": 2333.205
+        }
+      ],
+      "surface_examples": [
+        "注意"
+      ]
+    },
+    {
+      "lemma": "通報",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0902",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0902",
+          "start": 2337.293
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0903",
+          "start": 2338.586
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0915",
+          "start": 2361.108
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0916",
+          "start": 2362.818
+        }
+      ],
+      "surface_examples": [
+        "通報"
+      ]
+    },
+    {
+      "lemma": "動画",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0906",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0906",
+          "start": 2343.007
+        }
+      ],
+      "surface_examples": [
+        "動画"
+      ]
+    },
+    {
+      "lemma": "証拠",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0907",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0907",
+          "start": 2344.717
+        }
+      ],
+      "surface_examples": [
+        "証拠"
+      ]
+    },
+    {
+      "lemma": "距離",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0908",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0908",
+          "start": 2346.302
+        }
+      ],
+      "surface_examples": [
+        "距離"
+      ]
+    },
+    {
+      "lemma": "電話",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0918",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0918",
+          "start": 2367.239
+        }
+      ],
+      "surface_examples": [
+        "電話"
+      ]
+    },
+    {
+      "lemma": "酒",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0926",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0926",
+          "start": 2394.475
+        }
+      ],
+      "surface_examples": [
+        "酒"
+      ]
+    },
+    {
+      "lemma": "命中",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0934",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0934",
+          "start": 2420.459
+        }
+      ],
+      "surface_examples": [
+        "命中"
+      ]
+    },
+    {
+      "lemma": "父親",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0950",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0950",
+          "start": 2475.973
+        }
+      ],
+      "surface_examples": [
+        "父親"
+      ]
+    },
+    {
+      "lemma": "母校",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0954",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0954",
+          "start": 2485.9
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0957",
+          "start": 2490.988
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0959",
+          "start": 2495.451
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0960",
+          "start": 2498.037
+        }
+      ],
+      "surface_examples": [
+        "母校"
+      ]
+    },
+    {
+      "lemma": "副作用",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0964",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0964",
+          "start": 2505.961
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0970",
+          "start": 2517.723
+        }
+      ],
+      "surface_examples": [
+        "副作用"
+      ]
+    },
+    {
+      "lemma": "熱",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0966",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0966",
+          "start": 2508.881
+        }
+      ],
+      "surface_examples": [
+        "熱"
+      ]
+    },
+    {
+      "lemma": "口内炎",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0967",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0967",
+          "start": 2512.927
+        }
+      ],
+      "surface_examples": [
+        "口内炎"
+      ]
+    },
+    {
+      "lemma": "温泉",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0972",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0972",
+          "start": 2521.435
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0975",
+          "start": 2529.652
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0989",
+          "start": 2565.729
+        }
+      ],
+      "surface_examples": [
+        "温泉"
+      ]
+    },
+    {
+      "lemma": "程度",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0972",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0972",
+          "start": 2521.435
+        }
+      ],
+      "surface_examples": [
+        "程度"
+      ]
+    },
+    {
+      "lemma": "回復",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0972",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0972",
+          "start": 2521.435
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0983",
+          "start": 2551.799
+        }
+      ],
+      "surface_examples": [
+        "回復"
+      ]
+    },
+    {
+      "lemma": "成分",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0975",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0975",
+          "start": 2529.652
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0976",
+          "start": 2533.447
+        },
+        {
+          "sentence_id": "hot-spot-s01-e02-0986",
+          "start": 2556.47
+        }
+      ],
+      "surface_examples": [
+        "成分"
+      ]
+    },
+    {
+      "lemma": "特殊",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0975",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0975",
+          "start": 2529.652
+        }
+      ],
+      "surface_examples": [
+        "特殊"
+      ]
+    },
+    {
+      "lemma": "効力",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0977",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0977",
+          "start": 2537.368
+        }
+      ],
+      "surface_examples": [
+        "効力"
+      ]
+    },
+    {
+      "lemma": "場所",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0982",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0982",
+          "start": 2549.421
+        }
+      ],
+      "surface_examples": [
+        "場所"
+      ]
+    },
+    {
+      "lemma": "風呂",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-0992",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-0992",
+          "start": 2573.404
+        }
+      ],
+      "surface_examples": [
+        "風呂"
+      ]
+    },
+    {
+      "lemma": "掛け声",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-1001",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-1001",
+          "start": 2599.221
+        }
+      ],
+      "surface_examples": [
+        "掛け声"
+      ]
+    },
+    {
+      "lemma": "女性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-1021",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-1021",
+          "start": 2656.362
+        }
+      ],
+      "surface_examples": [
+        "女性"
+      ]
+    },
+    {
+      "lemma": "以前",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-1035",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-1035",
+          "start": 2690.145
+        }
+      ],
+      "surface_examples": [
+        "以前"
+      ]
+    },
+    {
+      "lemma": "地元",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-1035",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-1035",
+          "start": 2690.145
+        }
+      ],
+      "surface_examples": [
+        "地元"
+      ]
+    },
+    {
+      "lemma": "皆",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-1035",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-1035",
+          "start": 2690.145
+        }
+      ],
+      "surface_examples": [
+        "皆"
+      ]
+    },
+    {
+      "lemma": "さん",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-1035",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-1035",
+          "start": 2690.145
+        }
+      ],
+      "surface_examples": [
+        "さん"
+      ]
+    },
+    {
+      "lemma": "時代",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-1042",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-1042",
+          "start": 2706.829
+        }
+      ],
+      "surface_examples": [
+        "時代"
+      ]
+    },
+    {
+      "lemma": "昨日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hot-spot-s01-e02-1046",
+      "occurrences": [
+        {
+          "sentence_id": "hot-spot-s01-e02-1046",
+          "start": 2715.587
+        }
+      ],
+      "surface_examples": [
+        "昨日"
       ]
     }
   ]

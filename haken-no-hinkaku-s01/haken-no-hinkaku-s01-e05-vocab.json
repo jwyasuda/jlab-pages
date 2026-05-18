@@ -1,37 +1,3527 @@
 {
   "chapter_id": "haken-no-hinkaku-s01-e05",
-  "generated_at": "2026-05-07T11:37:26.713274+00:00",
-  "total_unique_lemmas": 2,
-  "total_tokens_after_filter": 2,
+  "generated_at": "2026-05-18T09:08:20.524482+00:00",
+  "total_unique_lemmas": 119,
+  "total_tokens_after_filter": 569,
   "vocab": [
     {
-      "lemma": "落ち着く",
-      "pos": "動詞",
-      "count": 1,
-      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0473",
+      "lemma": "美雪",
+      "pos": "名詞",
+      "count": 21,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0001",
       "occurrences": [
         {
-          "sentence_id": "haken-no-hinkaku-s01-e05-0473",
-          "start": 1703.468
+          "sentence_id": "haken-no-hinkaku-s01-e05-0001",
+          "start": 26.526
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0018",
+          "start": 72.439
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0020",
+          "start": 76.876
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0049",
+          "start": 178.044
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0057",
+          "start": 198.064
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0060",
+          "start": 208.675
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0184",
+          "start": 675.107
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0186",
+          "start": 681.147
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0253",
+          "start": 904.47
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0258",
+          "start": 918.784
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0377",
+          "start": 1359.791
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0397",
+          "start": 1411.276
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0423",
+          "start": 1513.178
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0439",
+          "start": 1578.109
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0486",
+          "start": 1738.737
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0504",
+          "start": 1797.529
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0550",
+          "start": 1985.249
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0660",
+          "start": 2434.365
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0709",
+          "start": 2690.22
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0715",
+          "start": 2704.001
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0718",
+          "start": 2725.055
         }
       ],
       "surface_examples": [
-        "落ち着い"
+        "美雪"
       ]
     },
     {
-      "lemma": "何",
-      "pos": "代名詞",
-      "count": 1,
-      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0545",
+      "lemma": "春子",
+      "pos": "名詞",
+      "count": 34,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0001",
       "occurrences": [
         {
-          "sentence_id": "haken-no-hinkaku-s01-e05-0545",
-          "start": 1972.203
+          "sentence_id": "haken-no-hinkaku-s01-e05-0001",
+          "start": 26.526
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0002",
+          "start": 29.796
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0066",
+          "start": 231.097
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0070",
+          "start": 245.845
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0083",
+          "start": 302.302
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0116",
+          "start": 430.53
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0140",
+          "start": 488.054
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0158",
+          "start": 578.878
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0159",
+          "start": 581.447
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0215",
+          "start": 760.092
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0222",
+          "start": 790.322
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0224",
+          "start": 794.16
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0263",
+          "start": 936.168
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0299",
+          "start": 1014.313
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0303",
+          "start": 1027.86
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0334",
+          "start": 1151.75
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0420",
+          "start": 1496.795
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0442",
+          "start": 1585.817
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0454",
+          "start": 1638.603
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0489",
+          "start": 1745.844
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0564",
+          "start": 2030.261
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0575",
+          "start": 2134.599
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0580",
+          "start": 2154.619
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0582",
+          "start": 2161.526
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0586",
+          "start": 2182.88
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0609",
+          "start": 2247.278
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0619",
+          "start": 2304.669
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0631",
+          "start": 2339.704
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0663",
+          "start": 2438.903
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0694",
+          "start": 2593.023
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0707",
+          "start": 2659.59
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0717",
+          "start": 2721.351
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0719",
+          "start": 2727.357
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0722",
+          "start": 2732.963
         }
       ],
       "surface_examples": [
-        "何"
+        "春子"
+      ]
+    },
+    {
+      "lemma": "先輩",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0001",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0001",
+          "start": 26.526
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0009",
+          "start": 49.115
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0017",
+          "start": 71.371
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0060",
+          "start": 208.675
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0097",
+          "start": 356.255
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0377",
+          "start": 1359.791
+        }
+      ],
+      "surface_examples": [
+        "先輩"
+      ]
+    },
+    {
+      "lemma": "東海林",
+      "pos": "名詞",
+      "count": 43,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0003",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0003",
+          "start": 34.367
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0040",
+          "start": 154.354
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0046",
+          "start": 168.735
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0047",
+          "start": 170.97
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0048",
+          "start": 172.172
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0073",
+          "start": 272.872
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0089",
+          "start": 320.887
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0094",
+          "start": 340.573
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0164",
+          "start": 603.803
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0187",
+          "start": 683.716
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0190",
+          "start": 692.058
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0205",
+          "start": 723.122
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0215",
+          "start": 760.092
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0269",
+          "start": 946.979
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0274",
+          "start": 955.154
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0282",
+          "start": 973.339
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0284",
+          "start": 976.809
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0285",
+          "start": 978.277
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0299",
+          "start": 1014.313
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0317",
+          "start": 1064.463
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0388",
+          "start": 1387.018
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0390",
+          "start": 1393.759
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0467",
+          "start": 1687.052
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0487",
+          "start": 1741.172
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0492",
+          "start": 1755.42
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0494",
+          "start": 1761.493
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0496",
+          "start": 1766.464
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0506",
+          "start": 1808.273
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0509",
+          "start": 1817.916
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0520",
+          "start": 1860.358
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0550",
+          "start": 1985.249
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0619",
+          "start": 2304.669
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0631",
+          "start": 2339.704
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0639",
+          "start": 2364.729
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0662",
+          "start": 2437.668
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0663",
+          "start": 2438.903
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0665",
+          "start": 2448.679
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0682",
+          "start": 2537.968
+        }
+      ],
+      "surface_examples": [
+        "東海林"
+      ]
+    },
+    {
+      "lemma": "匡子",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0003",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0003",
+          "start": 34.367
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0039",
+          "start": 152.118
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0046",
+          "start": 168.735
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0365",
+          "start": 1309.641
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0409",
+          "start": 1467.666
+        }
+      ],
+      "surface_examples": [
+        "匡子"
+      ]
+    },
+    {
+      "lemma": "小笠原",
+      "pos": "名詞",
+      "count": 106,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0005",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0005",
+          "start": 38.838
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0006",
+          "start": 42.876
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0008",
+          "start": 47.747
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0014",
+          "start": 61.594
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0018",
+          "start": 72.439
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0025",
+          "start": 89.222
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0051",
+          "start": 185.518
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0057",
+          "start": 198.064
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0074",
+          "start": 277.377
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0093",
+          "start": 335.334
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0098",
+          "start": 361.394
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0100",
+          "start": 368.634
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0106",
+          "start": 402.568
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0111",
+          "start": 414.547
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0119",
+          "start": 438.805
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0129",
+          "start": 465.198
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0136",
+          "start": 478.311
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0138",
+          "start": 481.747
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0139",
+          "start": 485.785
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0140",
+          "start": 488.054
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0152",
+          "start": 546.245
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0154",
+          "start": 559.558
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0155",
+          "start": 561.527
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0160",
+          "start": 586.252
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0165",
+          "start": 605.838
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0167",
+          "start": 609.075
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0173",
+          "start": 625.625
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0182",
+          "start": 670.136
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0184",
+          "start": 675.107
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0191",
+          "start": 693.692
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0195",
+          "start": 701.701
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0206",
+          "start": 725.324
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0209",
+          "start": 735.201
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0230",
+          "start": 809.975
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0242",
+          "start": 866.165
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0249",
+          "start": 892.591
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0253",
+          "start": 904.47
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0254",
+          "start": 906.739
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0258",
+          "start": 918.784
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0260",
+          "start": 924.79
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0295",
+          "start": 1005.537
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0300",
+          "start": 1017.716
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0318",
+          "start": 1069.435
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0322",
+          "start": 1087.586
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0323",
+          "start": 1091.957
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0342",
+          "start": 1191.089
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0343",
+          "start": 1198.297
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0352",
+          "start": 1239.404
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0366",
+          "start": 1312.21
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0367",
+          "start": 1315.814
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0374",
+          "start": 1340.305
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0380",
+          "start": 1365.364
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0398",
+          "start": 1413.578
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0424",
+          "start": 1516.414
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0426",
+          "start": 1527.692
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0431",
+          "start": 1546.978
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0435",
+          "start": 1562.394
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0438",
+          "start": 1573.038
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0445",
+          "start": 1594.192
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0453",
+          "start": 1630.628
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0457",
+          "start": 1649.547
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0475",
+          "start": 1708.506
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0485",
+          "start": 1737.001
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0486",
+          "start": 1738.737
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0488",
+          "start": 1743.007
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0490",
+          "start": 1749.047
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0492",
+          "start": 1755.42
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0499",
+          "start": 1777.609
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0503",
+          "start": 1794.993
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0504",
+          "start": 1797.529
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0507",
+          "start": 1810.408
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0508",
+          "start": 1811.976
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0515",
+          "start": 1834.098
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0524",
+          "start": 1872.337
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0528",
+          "start": 1880.979
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0529",
+          "start": 1885.383
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0531",
+          "start": 1892.423
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0535",
+          "start": 1916.214
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0544",
+          "start": 1970.201
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0549",
+          "start": 1983.548
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0571",
+          "start": 2120.952
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0579",
+          "start": 2147.211
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0584",
+          "start": 2175.039
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0586",
+          "start": 2182.88
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0597",
+          "start": 2216.147
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0598",
+          "start": 2218.115
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0600",
+          "start": 2223.454
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0604",
+          "start": 2233.598
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0609",
+          "start": 2247.278
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0610",
+          "start": 2252.75
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0626",
+          "start": 2325.556
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0649",
+          "start": 2406.604
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0653",
+          "start": 2417.882
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0656",
+          "start": 2422.086
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0657",
+          "start": 2425.589
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0670",
+          "start": 2468.332
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0682",
+          "start": 2537.968
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0701",
+          "start": 2634.398
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0709",
+          "start": 2690.22
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0711",
+          "start": 2694.992
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0716",
+          "start": 2706.67
+        }
+      ],
+      "surface_examples": [
+        "小笠原"
+      ]
+    },
+    {
+      "lemma": "浅野",
+      "pos": "名詞",
+      "count": 16,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0006",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0006",
+          "start": 42.876
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0014",
+          "start": 61.594
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0132",
+          "start": 471.07
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0135",
+          "start": 476.075
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0186",
+          "start": 681.147
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0370",
+          "start": 1326.992
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0428",
+          "start": 1534.866
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0439",
+          "start": 1578.109
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0441",
+          "start": 1583.381
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0463",
+          "start": 1677.809
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0479",
+          "start": 1719.718
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0488",
+          "start": 1743.007
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0492",
+          "start": 1755.42
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0504",
+          "start": 1797.529
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0715",
+          "start": 2704.001
+        }
+      ],
+      "surface_examples": [
+        "浅野"
+      ]
+    },
+    {
+      "lemma": "近",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0007",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0007",
+          "start": 45.979
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0053",
+          "start": 190.59
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0058",
+          "start": 201.1
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0201",
+          "start": 714.447
+        }
+      ],
+      "surface_examples": [
+        "近"
+      ]
+    },
+    {
+      "lemma": "人事部",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0010",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0010",
+          "start": 50.65
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0037",
+          "start": 139.339
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0438",
+          "start": 1573.038
+        }
+      ],
+      "surface_examples": [
+        "人事部"
+      ]
+    },
+    {
+      "lemma": "一切",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0013",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0013",
+          "start": 58.458
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0068",
+          "start": 238.171
+        }
+      ],
+      "surface_examples": [
+        "一切"
+      ]
+    },
+    {
+      "lemma": "電源",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0016",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0016",
+          "start": 66.733
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0019",
+          "start": 74.274
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0021",
+          "start": 77.777
+        }
+      ],
+      "surface_examples": [
+        "電源"
+      ]
+    },
+    {
+      "lemma": "森",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0018",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0018",
+          "start": 72.439
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0198",
+          "start": 709.241
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0200",
+          "start": 712.678
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0396",
+          "start": 1408.907
+        }
+      ],
+      "surface_examples": [
+        "森"
+      ]
+    },
+    {
+      "lemma": "桐島",
+      "pos": "名詞",
+      "count": 11,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0025",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0025",
+          "start": 89.222
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0026",
+          "start": 92.725
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0092",
+          "start": 329.162
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0296",
+          "start": 1008.04
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0351",
+          "start": 1228.126
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0388",
+          "start": 1387.018
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0390",
+          "start": 1393.759
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0646",
+          "start": 2397.328
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0653",
+          "start": 2417.882
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0658",
+          "start": 2427.258
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0662",
+          "start": 2437.668
+        }
+      ],
+      "surface_examples": [
+        "桐島"
+      ]
+    },
+    {
+      "lemma": "営業マン",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0026",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0026",
+          "start": 92.725
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0590",
+          "start": 2195.293
+        }
+      ],
+      "surface_examples": [
+        "営業マン"
+      ]
+    },
+    {
+      "lemma": "同期",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0027",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0027",
+          "start": 95.862
+        }
+      ],
+      "surface_examples": [
+        "同期"
+      ]
+    },
+    {
+      "lemma": "東海",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0029",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0029",
+          "start": 102.368
+        }
+      ],
+      "surface_examples": [
+        "東海"
+      ]
+    },
+    {
+      "lemma": "林",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0029",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0029",
+          "start": 102.368
+        }
+      ],
+      "surface_examples": [
+        "林"
+      ]
+    },
+    {
+      "lemma": "里中",
+      "pos": "名詞",
+      "count": 43,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0031",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0031",
+          "start": 114.881
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0042",
+          "start": 159.359
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0048",
+          "start": 172.172
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0135",
+          "start": 476.075
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0138",
+          "start": 481.747
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0184",
+          "start": 675.107
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0192",
+          "start": 696.862
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0219",
+          "start": 774.507
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0223",
+          "start": 793.058
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0269",
+          "start": 946.979
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0270",
+          "start": 948.547
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0284",
+          "start": 976.809
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0316",
+          "start": 1062.06
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0342",
+          "start": 1191.089
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0343",
+          "start": 1198.297
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0347",
+          "start": 1211.41
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0365",
+          "start": 1309.641
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0369",
+          "start": 1324.022
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0441",
+          "start": 1583.381
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0463",
+          "start": 1677.809
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0467",
+          "start": 1687.052
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0468",
+          "start": 1689.254
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0486",
+          "start": 1738.737
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0499",
+          "start": 1777.609
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0506",
+          "start": 1808.273
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0507",
+          "start": 1810.408
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0524",
+          "start": 1872.337
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0531",
+          "start": 1892.423
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0532",
+          "start": 1902.967
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0543",
+          "start": 1968.833
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0544",
+          "start": 1970.201
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0547",
+          "start": 1978.042
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0572",
+          "start": 2126.924
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0579",
+          "start": 2147.211
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0580",
+          "start": 2154.619
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0581",
+          "start": 2157.355
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0582",
+          "start": 2161.526
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0584",
+          "start": 2175.039
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0596",
+          "start": 2214.078
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0598",
+          "start": 2218.115
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0658",
+          "start": 2427.258
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0665",
+          "start": 2448.679
+        }
+      ],
+      "surface_examples": [
+        "里中"
+      ]
+    },
+    {
+      "lemma": "会社",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0032",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0032",
+          "start": 116.349
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0065",
+          "start": 227.093
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0100",
+          "start": 368.634
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0331",
+          "start": 1125.824
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0383",
+          "start": 1371.903
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0435",
+          "start": 1562.394
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0536",
+          "start": 1919.183
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0673",
+          "start": 2486.116
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0704",
+          "start": 2643.507
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0706",
+          "start": 2652.249
+        }
+      ],
+      "surface_examples": [
+        "会社"
+      ]
+    },
+    {
+      "lemma": "来月",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0033",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0033",
+          "start": 119.652
+        }
+      ],
+      "surface_examples": [
+        "来月"
+      ]
+    },
+    {
+      "lemma": "更新",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0033",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0033",
+          "start": 119.652
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0353",
+          "start": 1246.845
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0696",
+          "start": 2601.065
+        }
+      ],
+      "surface_examples": [
+        "更新"
+      ]
+    },
+    {
+      "lemma": "主任",
+      "pos": "名詞",
+      "count": 16,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0034",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0034",
+          "start": 124.39
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0120",
+          "start": 442.442
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0187",
+          "start": 683.716
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0297",
+          "start": 1010.376
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0340",
+          "start": 1184.116
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0347",
+          "start": 1211.41
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0368",
+          "start": 1318.55
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0434",
+          "start": 1558.223
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0439",
+          "start": 1578.109
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0444",
+          "start": 1591.556
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0447",
+          "start": 1600.432
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0468",
+          "start": 1689.254
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0532",
+          "start": 1902.967
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0584",
+          "start": 2175.039
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0595",
+          "start": 2211.542
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0639",
+          "start": 2364.729
+        }
+      ],
+      "surface_examples": [
+        "主任"
+      ]
+    },
+    {
+      "lemma": "部長",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0035",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0035",
+          "start": 132.699
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0195",
+          "start": 701.701
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0217",
+          "start": 767.333
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0229",
+          "start": 805.337
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0238",
+          "start": 843.409
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0241",
+          "start": 862.161
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0351",
+          "start": 1228.126
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0444",
+          "start": 1591.556
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0652",
+          "start": 2416.18
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0661",
+          "start": 2435.266
+        }
+      ],
+      "surface_examples": [
+        "部長"
+      ]
+    },
+    {
+      "lemma": "決定",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0037",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0037",
+          "start": 139.339
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0438",
+          "start": 1573.038
+        }
+      ],
+      "surface_examples": [
+        "決定"
+      ]
+    },
+    {
+      "lemma": "経理",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0038",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0038",
+          "start": 147.947
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0389",
+          "start": 1390.388
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0417",
+          "start": 1489.12
+        }
+      ],
+      "surface_examples": [
+        "経理"
+      ]
+    },
+    {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 5,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0040",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0040",
+          "start": 154.354
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0314",
+          "start": 1056.588
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0597",
+          "start": 2216.147
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0598",
+          "start": 2218.115
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0714",
+          "start": 2700.731
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
+      ]
+    },
+    {
+      "lemma": "問題",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0041",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0041",
+          "start": 157.19
+        }
+      ],
+      "surface_examples": [
+        "問題"
+      ]
+    },
+    {
+      "lemma": "場合",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0057",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0057",
+          "start": 198.064
+        }
+      ],
+      "surface_examples": [
+        "場合"
+      ]
+    },
+    {
+      "lemma": "正社員",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0064",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0064",
+          "start": 224.257
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0224",
+          "start": 794.16
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0302",
+          "start": 1023.789
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0303",
+          "start": 1027.86
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0442",
+          "start": 1585.817
+        }
+      ],
+      "surface_examples": [
+        "正社員"
+      ]
+    },
+    {
+      "lemma": "派遣",
+      "pos": "名詞",
+      "count": 16,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0065",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0065",
+          "start": 227.093
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0070",
+          "start": 245.845
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0072",
+          "start": 268.434
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0093",
+          "start": 335.334
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0231",
+          "start": 816.348
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0235",
+          "start": 829.895
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0259",
+          "start": 921.387
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0260",
+          "start": 924.79
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0302",
+          "start": 1023.789
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0328",
+          "start": 1113.378
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0374",
+          "start": 1340.305
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0432",
+          "start": 1549.848
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0433",
+          "start": 1553.418
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0442",
+          "start": 1585.817
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0705",
+          "start": 2648.278
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0718",
+          "start": 2725.055
+        }
+      ],
+      "surface_examples": [
+        "派遣"
+      ]
+    },
+    {
+      "lemma": "大前",
+      "pos": "名詞",
+      "count": 23,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0066",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0066",
+          "start": 231.097
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0070",
+          "start": 245.845
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0083",
+          "start": 302.302
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0129",
+          "start": 465.198
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0158",
+          "start": 578.878
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0159",
+          "start": 581.447
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0216",
+          "start": 761.794
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0230",
+          "start": 809.975
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0321",
+          "start": 1081.413
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0391",
+          "start": 1397.295
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0441",
+          "start": 1583.381
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0459",
+          "start": 1654.853
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0460",
+          "start": 1656.287
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0470",
+          "start": 1693.892
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0471",
+          "start": 1696.394
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0472",
+          "start": 1699.097
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0486",
+          "start": 1738.737
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0493",
+          "start": 1760.058
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0572",
+          "start": 2126.924
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0575",
+          "start": 2134.599
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0576",
+          "start": 2137.368
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0602",
+          "start": 2229.827
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0722",
+          "start": 2732.963
+        }
+      ],
+      "surface_examples": [
+        "大前"
+      ]
+    },
+    {
+      "lemma": "彼女",
+      "pos": "代名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0067",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0067",
+          "start": 233.533
+        }
+      ],
+      "surface_examples": [
+        "彼女"
+      ]
+    },
+    {
+      "lemma": "辞書",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0067",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0067",
+          "start": 233.533
+        }
+      ],
+      "surface_examples": [
+        "辞書"
+      ]
+    },
+    {
+      "lemma": "不可能",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0067",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0067",
+          "start": 233.533
+        }
+      ],
+      "surface_examples": [
+        "不可能"
+      ]
+    },
+    {
+      "lemma": "残業",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0067",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0067",
+          "start": 233.533
+        }
+      ],
+      "surface_examples": [
+        "残業"
+      ]
+    },
+    {
+      "lemma": "文字",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0067",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0067",
+          "start": 233.533
+        }
+      ],
+      "surface_examples": [
+        "文字"
+      ]
+    },
+    {
+      "lemma": "人間関係",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0068",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0068",
+          "start": 238.171
+        }
+      ],
+      "surface_examples": [
+        "人間関係"
+      ]
+    },
+    {
+      "lemma": "排除",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0068",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0068",
+          "start": 238.171
+        }
+      ],
+      "surface_examples": [
+        "排除"
+      ]
+    },
+    {
+      "lemma": "契約",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0069",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0069",
+          "start": 240.94
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0171",
+          "start": 620.186
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0353",
+          "start": 1246.845
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0369",
+          "start": 1324.022
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0437",
+          "start": 1570.368
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0628",
+          "start": 2331.128
+        }
+      ],
+      "surface_examples": [
+        "契約"
+      ]
+    },
+    {
+      "lemma": "終了",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0069",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0069",
+          "start": 240.94
+        }
+      ],
+      "surface_examples": [
+        "終了"
+      ]
+    },
+    {
+      "lemma": "非正社員",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0071",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0071",
+          "start": 248.681
+        }
+      ],
+      "surface_examples": [
+        "非正社員"
+      ]
+    },
+    {
+      "lemma": "資格",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0077",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0077",
+          "start": 285.918
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0327",
+          "start": 1109.875
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0573",
+          "start": 2128.359
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0575",
+          "start": 2134.599
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0576",
+          "start": 2137.368
+        }
+      ],
+      "surface_examples": [
+        "資格"
+      ]
+    },
+    {
+      "lemma": "別",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0078",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0078",
+          "start": 288.988
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0130",
+          "start": 467.133
+        }
+      ],
+      "surface_examples": [
+        "別"
+      ]
+    },
+    {
+      "lemma": "二",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0087",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0087",
+          "start": 317.016
+        }
+      ],
+      "surface_examples": [
+        "二"
+      ]
+    },
+    {
+      "lemma": "度",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0087",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0087",
+          "start": 317.016
+        }
+      ],
+      "surface_examples": [
+        "度"
+      ]
+    },
+    {
+      "lemma": "人事",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0092",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0092",
+          "start": 329.162
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0302",
+          "start": 1023.789
+        }
+      ],
+      "surface_examples": [
+        "人事"
+      ]
+    },
+    {
+      "lemma": "切る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0093",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0093",
+          "start": 335.334
+        }
+      ],
+      "surface_examples": [
+        "切ろ"
+      ]
+    },
+    {
+      "lemma": "賢",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0096",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0096",
+          "start": 353.586
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0190",
+          "start": 692.058
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0262",
+          "start": 929.928
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0461",
+          "start": 1674.072
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0522",
+          "start": 1866.064
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0665",
+          "start": 2448.679
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0677",
+          "start": 2504.068
+        }
+      ],
+      "surface_examples": [
+        "賢"
+      ]
+    },
+    {
+      "lemma": "以上",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0097",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0097",
+          "start": 356.255
+        }
+      ],
+      "surface_examples": [
+        "以上"
+      ]
+    },
+    {
+      "lemma": "大事",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0097",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0097",
+          "start": 356.255
+        }
+      ],
+      "surface_examples": [
+        "大事"
+      ]
+    },
+    {
+      "lemma": "手柄",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0098",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0098",
+          "start": 361.394
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0104",
+          "start": 384.183
+        }
+      ],
+      "surface_examples": [
+        "手柄"
+      ]
+    },
+    {
+      "lemma": "結果",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0099",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0099",
+          "start": 365.631
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0101",
+          "start": 373.272
+        }
+      ],
+      "surface_examples": [
+        "結果"
+      ]
+    },
+    {
+      "lemma": "一番",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0108",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0108",
+          "start": 408.441
+        }
+      ],
+      "surface_examples": [
+        "一番"
+      ]
+    },
+    {
+      "lemma": "大好き",
+      "pos": "形状詞",
+      "count": 3,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0109",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0109",
+          "start": 410.943
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0248",
+          "start": 890.589
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0435",
+          "start": 1562.394
+        }
+      ],
+      "surface_examples": [
+        "大好き"
+      ]
+    },
+    {
+      "lemma": "企画",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0121",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0121",
+          "start": 444.11
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0195",
+          "start": 701.701
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0242",
+          "start": 866.165
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0245",
+          "start": 882.014
+        }
+      ],
+      "surface_examples": [
+        "企画"
+      ]
+    },
+    {
+      "lemma": "早速",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0126",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0126",
+          "start": 458.224
+        }
+      ],
+      "surface_examples": [
+        "早速"
+      ]
+    },
+    {
+      "lemma": "頑張る",
+      "pos": "動詞",
+      "count": 3,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0136",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0136",
+          "start": 478.311
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0252",
+          "start": 901.734
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0510",
+          "start": 1820.084
+        }
+      ],
+      "surface_examples": [
+        "頑張り",
+        "頑張る"
+      ]
+    },
+    {
+      "lemma": "信用",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0143",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0143",
+          "start": 506.606
+        }
+      ],
+      "surface_examples": [
+        "信用"
+      ]
+    },
+    {
+      "lemma": "伝票",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0147",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0147",
+          "start": 522.388
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0415",
+          "start": 1485.35
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0462",
+          "start": 1675.14
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0514",
+          "start": 1831.729
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0559",
+          "start": 2012.009
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0587",
+          "start": 2185.116
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0626",
+          "start": 2325.556
+        }
+      ],
+      "surface_examples": [
+        "伝票"
+      ]
+    },
+    {
+      "lemma": "店員",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0155",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0155",
+          "start": 561.527
+        }
+      ],
+      "surface_examples": [
+        "店員"
+      ]
+    },
+    {
+      "lemma": "店長",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0157",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0157",
+          "start": 576.576
+        }
+      ],
+      "surface_examples": [
+        "店長"
+      ]
+    },
+    {
+      "lemma": "見積もり",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0157",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0157",
+          "start": 576.576
+        }
+      ],
+      "surface_examples": [
+        "見積もり"
+      ]
+    },
+    {
+      "lemma": "迷子",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0159",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0159",
+          "start": 581.447
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0168",
+          "start": 612.912
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0171",
+          "start": 620.186
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0177",
+          "start": 640.74
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0185",
+          "start": 677.777
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0186",
+          "start": 681.147
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0708",
+          "start": 2662.559
+        }
+      ],
+      "surface_examples": [
+        "迷子"
+      ]
+    },
+    {
+      "lemma": "関口",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0162",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0162",
+          "start": 597.964
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0163",
+          "start": 600.733
+        }
+      ],
+      "surface_examples": [
+        "関口"
+      ]
+    },
+    {
+      "lemma": "面倒",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0171",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0171",
+          "start": 620.186
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0189",
+          "start": 689.655
+        }
+      ],
+      "surface_examples": [
+        "面倒"
+      ]
+    },
+    {
+      "lemma": "大変",
+      "pos": "形状詞",
+      "count": 3,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0173",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0173",
+          "start": 625.625
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0347",
+          "start": 1211.41
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0480",
+          "start": 1722.42
+        }
+      ],
+      "surface_examples": [
+        "大変"
+      ]
+    },
+    {
+      "lemma": "出来る",
+      "pos": "動詞",
+      "count": 3,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0179",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0179",
+          "start": 661.093
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0180",
+          "start": 662.528
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0199",
+          "start": 711.577
+        }
+      ],
+      "surface_examples": [
+        "出来"
+      ]
+    },
+    {
+      "lemma": "助かる",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0187",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0187",
+          "start": 683.716
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0633",
+          "start": 2348.446
+        }
+      ],
+      "surface_examples": [
+        "助かり",
+        "助かっ"
+      ]
+    },
+    {
+      "lemma": "企画書",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0217",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0217",
+          "start": 767.333
+        }
+      ],
+      "surface_examples": [
+        "企画書"
+      ]
+    },
+    {
+      "lemma": "ご馳走",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0227",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0227",
+          "start": 801.1
+        }
+      ],
+      "surface_examples": [
+        "ご馳走"
+      ]
+    },
+    {
+      "lemma": "結構",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0228",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0228",
+          "start": 802.701
+        }
+      ],
+      "surface_examples": [
+        "結構"
+      ]
+    },
+    {
+      "lemma": "社員",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0231",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0231",
+          "start": 816.348
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0420",
+          "start": 1496.795
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0433",
+          "start": 1553.418
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0484",
+          "start": 1735.366
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0553",
+          "start": 1995.56
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0554",
+          "start": 1997.962
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0706",
+          "start": 2652.249
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0719",
+          "start": 2727.357
+        }
+      ],
+      "surface_examples": [
+        "社員"
+      ]
+    },
+    {
+      "lemma": "意見",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0233",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0233",
+          "start": 821.787
+        }
+      ],
+      "surface_examples": [
+        "意見"
+      ]
+    },
+    {
+      "lemma": "立場",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0235",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0235",
+          "start": 829.895
+        }
+      ],
+      "surface_examples": [
+        "立場"
+      ]
+    },
+    {
+      "lemma": "気持ち",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0243",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0243",
+          "start": 871.87
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0309",
+          "start": 1044.076
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0592",
+          "start": 2202.767
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0699",
+          "start": 2619.95
+        }
+      ],
+      "surface_examples": [
+        "気持ち"
+      ]
+    },
+    {
+      "lemma": "本人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0244",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0244",
+          "start": 874.94
+        }
+      ],
+      "surface_examples": [
+        "本人"
+      ]
+    },
+    {
+      "lemma": "祖父",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0248",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0248",
+          "start": 890.589
+        }
+      ],
+      "surface_examples": [
+        "祖父"
+      ]
+    },
+    {
+      "lemma": "嬉しい",
+      "pos": "形容詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0251",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0251",
+          "start": 896.362
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0592",
+          "start": 2202.767
+        }
+      ],
+      "surface_examples": [
+        "嬉しい"
+      ]
+    },
+    {
+      "lemma": "眉子",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0267",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0267",
+          "start": 942.508
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0290",
+          "start": 987.986
+        }
+      ],
+      "surface_examples": [
+        "眉子"
+      ]
+    },
+    {
+      "lemma": "無理",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0275",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0275",
+          "start": 958.991
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0407",
+          "start": 1463.495
+        }
+      ],
+      "surface_examples": [
+        "無理"
+      ]
+    },
+    {
+      "lemma": "乾杯",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0291",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0291",
+          "start": 991.156
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0292",
+          "start": 994.126
+        }
+      ],
+      "surface_examples": [
+        "乾杯"
+      ]
+    },
+    {
+      "lemma": "時給",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0294",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0294",
+          "start": 1002.234
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0300",
+          "start": 1017.716
+        }
+      ],
+      "surface_examples": [
+        "時給"
+      ]
+    },
+    {
+      "lemma": "面倒くさい",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0303",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0303",
+          "start": 1027.86
+        }
+      ],
+      "surface_examples": [
+        "面倒くさ"
+      ]
+    },
+    {
+      "lemma": "助ける",
+      "pos": "動詞",
+      "count": 4,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0313",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0313",
+          "start": 1053.852
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0446",
+          "start": 1598.663
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0626",
+          "start": 2325.556
+        }
+      ],
+      "surface_examples": [
+        "助け",
+        "助けれ"
+      ]
+    },
+    {
+      "lemma": "契約更新",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0319",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0319",
+          "start": 1075.074
+        }
+      ],
+      "surface_examples": [
+        "契約更新"
+      ]
+    },
+    {
+      "lemma": "家族",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0322",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0322",
+          "start": 1087.586
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0325",
+          "start": 1098.33
+        }
+      ],
+      "surface_examples": [
+        "家族"
+      ]
+    },
+    {
+      "lemma": "毎日",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0324",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0324",
+          "start": 1095.094
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0393",
+          "start": 1402.234
+        }
+      ],
+      "surface_examples": [
+        "毎日"
+      ]
+    },
+    {
+      "lemma": "管理職",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0347",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0347",
+          "start": 1211.41
+        }
+      ],
+      "surface_examples": [
+        "管理職"
+      ]
+    },
+    {
+      "lemma": "今月",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0370",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0370",
+          "start": 1326.992
+        }
+      ],
+      "surface_examples": [
+        "今月"
+      ]
+    },
+    {
+      "lemma": "最近",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0379",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0379",
+          "start": 1363.695
+        }
+      ],
+      "surface_examples": [
+        "最近"
+      ]
+    },
+    {
+      "lemma": "状態",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0385",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0385",
+          "start": 1379.311
+        }
+      ],
+      "surface_examples": [
+        "状態"
+      ]
+    },
+    {
+      "lemma": "香",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0391",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0391",
+          "start": 1397.295
+        }
+      ],
+      "surface_examples": [
+        "香"
+      ]
+    },
+    {
+      "lemma": "給料",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0394",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0394",
+          "start": 1404.636
+        }
+      ],
+      "surface_examples": [
+        "給料"
+      ]
+    },
+    {
+      "lemma": "瞳",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0396",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0396",
+          "start": 1408.907
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0397",
+          "start": 1411.276
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0420",
+          "start": 1496.795
+        }
+      ],
+      "surface_examples": [
+        "瞳"
+      ]
+    },
+    {
+      "lemma": "次郎",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0401",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0401",
+          "start": 1427.592
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0402",
+          "start": 1440.038
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0452",
+          "start": 1627.892
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0453",
+          "start": 1630.628
+        }
+      ],
+      "surface_examples": [
+        "次郎"
+      ]
+    },
+    {
+      "lemma": "気分",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0402",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0402",
+          "start": 1440.038
+        }
+      ],
+      "surface_examples": [
+        "気分"
+      ]
+    },
+    {
+      "lemma": "元気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0404",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0404",
+          "start": 1447.746
+        }
+      ],
+      "surface_examples": [
+        "元気"
+      ]
+    },
+    {
+      "lemma": "昨日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0413",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0413",
+          "start": 1477.642
+        }
+      ],
+      "surface_examples": [
+        "昨日"
+      ]
+    },
+    {
+      "lemma": "決算",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0414",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0414",
+          "start": 1480.712
+        }
+      ],
+      "surface_examples": [
+        "決算"
+      ]
+    },
+    {
+      "lemma": "困る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0420",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0420",
+          "start": 1496.795
+        }
+      ],
+      "surface_examples": [
+        "困っ"
+      ]
+    },
+    {
+      "lemma": "業務",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0422",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0422",
+          "start": 1509.474
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0627",
+          "start": 2329.493
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0628",
+          "start": 2331.128
+        }
+      ],
+      "surface_examples": [
+        "業務"
+      ]
+    },
+    {
+      "lemma": "お世話",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0429",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0429",
+          "start": 1537.068
+        }
+      ],
+      "surface_examples": [
+        "お世話"
+      ]
+    },
+    {
+      "lemma": "手伝う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0462",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0462",
+          "start": 1675.14
+        }
+      ],
+      "surface_examples": [
+        "手伝っ"
+      ]
+    },
+    {
+      "lemma": "全員",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0464",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0464",
+          "start": 1679.644
+        }
+      ],
+      "surface_examples": [
+        "全員"
+      ]
+    },
+    {
+      "lemma": "間違い",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0478",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0478",
+          "start": 1717.482
+        }
+      ],
+      "surface_examples": [
+        "間違い"
+      ]
+    },
+    {
+      "lemma": "返事",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0487",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0487",
+          "start": 1741.172
+        }
+      ],
+      "surface_examples": [
+        "返事"
+      ]
+    },
+    {
+      "lemma": "運ぶ",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0497",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0497",
+          "start": 1767.365
+        }
+      ],
+      "surface_examples": [
+        "運ん"
+      ]
+    },
+    {
+      "lemma": "皆",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0498",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0498",
+          "start": 1774.405
+        }
+      ],
+      "surface_examples": [
+        "皆"
+      ]
+    },
+    {
+      "lemma": "一同",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0511",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0511",
+          "start": 1823.388
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0648",
+          "start": 2404.635
+        }
+      ],
+      "surface_examples": [
+        "一同"
+      ]
+    },
+    {
+      "lemma": "質問",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0527",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0527",
+          "start": 1879.077
+        }
+      ],
+      "surface_examples": [
+        "質問"
+      ]
+    },
+    {
+      "lemma": "最後",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0533",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0533",
+          "start": 1906.137
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0534",
+          "start": 1912.443
+        }
+      ],
+      "surface_examples": [
+        "最後"
+      ]
+    },
+    {
+      "lemma": "大切",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0539",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0539",
+          "start": 1928.393
+        }
+      ],
+      "surface_examples": [
+        "大切"
+      ]
+    },
+    {
+      "lemma": "報告",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0560",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0560",
+          "start": 2016.314
+        }
+      ],
+      "surface_examples": [
+        "報告"
+      ]
+    },
+    {
+      "lemma": "指示",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0574",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0574",
+          "start": 2131.896
+        }
+      ],
+      "surface_examples": [
+        "指示"
+      ]
+    },
+    {
+      "lemma": "昇降機",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0576",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0576",
+          "start": 2137.368
+        }
+      ],
+      "surface_examples": [
+        "昇降機"
+      ]
+    },
+    {
+      "lemma": "検査",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0576",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0576",
+          "start": 2137.368
+        }
+      ],
+      "surface_examples": [
+        "検査"
+      ]
+    },
+    {
+      "lemma": "余計",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0624",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0624",
+          "start": 2321.686
+        },
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0625",
+          "start": 2323.354
+        }
+      ],
+      "surface_examples": [
+        "余計"
+      ]
+    },
+    {
+      "lemma": "片付ける",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0645",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0645",
+          "start": 2386.384
+        }
+      ],
+      "surface_examples": [
+        "片付け"
+      ]
+    },
+    {
+      "lemma": "義理",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "haken-no-hinkaku-s01-e05-0718",
+      "occurrences": [
+        {
+          "sentence_id": "haken-no-hinkaku-s01-e05-0718",
+          "start": 2725.055
+        }
+      ],
+      "surface_examples": [
+        "義理"
       ]
     }
   ]

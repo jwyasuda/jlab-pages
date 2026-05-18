@@ -1,97 +1,1721 @@
 {
   "chapter_id": "good-luck-s01-e04",
-  "generated_at": "2026-05-07T11:38:16.972643+00:00",
-  "total_unique_lemmas": 6,
-  "total_tokens_after_filter": 6,
+  "generated_at": "2026-05-18T09:08:17.507522+00:00",
+  "total_unique_lemmas": 66,
+  "total_tokens_after_filter": 253,
   "vocab": [
     {
-      "lemma": "皆",
+      "lemma": "新海",
+      "pos": "名詞",
+      "count": 13,
+      "first_seen_sentence_id": "good-luck-s01-e04-0006",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0006",
+          "start": 17.217
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0035",
+          "start": 87.32
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0100",
+          "start": 297.297
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0147",
+          "start": 474.707
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0149",
+          "start": 481.18
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0153",
+          "start": 495.595
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0288",
+          "start": 1056.722
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0302",
+          "start": 1098.931
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0332",
+          "start": 1197.996
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0475",
+          "start": 1917.015
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0496",
+          "start": 1986.15
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0615",
+          "start": 2573.938
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0623",
+          "start": 2600.898
+        }
+      ],
+      "surface_examples": [
+        "新海"
+      ]
+    },
+    {
+      "lemma": "安住",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "good-luck-s01-e04-0007",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0007",
+          "start": 19.786
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0010",
+          "start": 27.093
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0018",
+          "start": 54.421
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0019",
+          "start": 57.724
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0025",
+          "start": 67.867
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0029",
+          "start": 76.476
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0153",
+          "start": 495.595
+        }
+      ],
+      "surface_examples": [
+        "安住"
+      ]
+    },
+    {
+      "lemma": "龍二郎",
       "pos": "名詞",
       "count": 1,
-      "first_seen_sentence_id": "good-luck-s01-e04-0199",
+      "first_seen_sentence_id": "good-luck-s01-e04-0007",
       "occurrences": [
         {
-          "sentence_id": "good-luck-s01-e04-0199",
-          "start": 648.714
+          "sentence_id": "good-luck-s01-e04-0007",
+          "start": 19.786
         }
       ],
       "surface_examples": [
-        "皆"
+        "龍二郎"
       ]
     },
     {
-      "lemma": "一同",
+      "lemma": "内藤",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "good-luck-s01-e04-0011",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0011",
+          "start": 30.997
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0018",
+          "start": 54.421
+        }
+      ],
+      "surface_examples": [
+        "内藤"
+      ]
+    },
+    {
+      "lemma": "無理",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "good-luck-s01-e04-0030",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0030",
+          "start": 78.978
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0133",
+          "start": 431.364
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0374",
+          "start": 1405.37
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0482",
+          "start": 1932.597
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0484",
+          "start": 1936.2
+        }
+      ],
+      "surface_examples": [
+        "無理"
+      ]
+    },
+    {
+      "lemma": "操縦桿",
       "pos": "名詞",
       "count": 1,
-      "first_seen_sentence_id": "good-luck-s01-e04-0200",
+      "first_seen_sentence_id": "good-luck-s01-e04-0032",
       "occurrences": [
         {
-          "sentence_id": "good-luck-s01-e04-0200",
-          "start": 650.683
+          "sentence_id": "good-luck-s01-e04-0032",
+          "start": 82.015
         }
       ],
       "surface_examples": [
-        "一同"
+        "操縦桿"
       ]
     },
     {
-      "lemma": "落ち着く",
-      "pos": "動詞",
-      "count": 1,
-      "first_seen_sentence_id": "good-luck-s01-e04-0354",
+      "lemma": "如月",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "good-luck-s01-e04-0035",
       "occurrences": [
         {
-          "sentence_id": "good-luck-s01-e04-0354",
-          "start": 1353.785
+          "sentence_id": "good-luck-s01-e04-0035",
+          "start": 87.32
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0036",
+          "start": 89.089
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0037",
+          "start": 90.79
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0120",
+          "start": 400.399
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0203",
+          "start": 661.56
         }
       ],
       "surface_examples": [
-        "落ち着い"
+        "如月"
       ]
     },
     {
-      "lemma": "閉まる",
-      "pos": "動詞",
-      "count": 1,
-      "first_seen_sentence_id": "good-luck-s01-e04-0451",
-      "occurrences": [
-        {
-          "sentence_id": "good-luck-s01-e04-0451",
-          "start": 1788.419
-        }
-      ],
-      "surface_examples": [
-        "閉まる"
-      ]
-    },
-    {
-      "lemma": "音",
+      "lemma": "雪子",
       "pos": "名詞",
       "count": 1,
-      "first_seen_sentence_id": "good-luck-s01-e04-0451",
+      "first_seen_sentence_id": "good-luck-s01-e04-0035",
       "occurrences": [
         {
-          "sentence_id": "good-luck-s01-e04-0451",
-          "start": 1788.419
+          "sentence_id": "good-luck-s01-e04-0035",
+          "start": 87.32
         }
       ],
       "surface_examples": [
-        "音"
+        "雪子"
       ]
     },
     {
-      "lemma": "失礼",
+      "lemma": "副操縦士",
       "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "good-luck-s01-e04-0593",
+      "count": 2,
+      "first_seen_sentence_id": "good-luck-s01-e04-0035",
       "occurrences": [
         {
-          "sentence_id": "good-luck-s01-e04-0593",
-          "start": 2482.179
+          "sentence_id": "good-luck-s01-e04-0035",
+          "start": 87.32
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0149",
+          "start": 481.18
         }
       ],
       "surface_examples": [
-        "失礼"
+        "副操縦士"
+      ]
+    },
+    {
+      "lemma": "富樫",
+      "pos": "名詞",
+      "count": 22,
+      "first_seen_sentence_id": "good-luck-s01-e04-0041",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0041",
+          "start": 104.671
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0043",
+          "start": 108.308
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0063",
+          "start": 175.475
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0127",
+          "start": 415.548
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0184",
+          "start": 593.292
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0193",
+          "start": 619.852
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0242",
+          "start": 837.57
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0264",
+          "start": 959.925
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0376",
+          "start": 1408.974
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0380",
+          "start": 1438.403
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0437",
+          "start": 1676.074
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0449",
+          "start": 1778.476
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0455",
+          "start": 1800.398
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0457",
+          "start": 1806.171
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0459",
+          "start": 1813.478
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0461",
+          "start": 1818.95
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0462",
+          "start": 1823.922
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0468",
+          "start": 1848.88
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0476",
+          "start": 1919.15
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0500",
+          "start": 1999.63
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0515",
+          "start": 2038.803
+        }
+      ],
+      "surface_examples": [
+        "富樫"
+      ]
+    },
+    {
+      "lemma": "久木田",
+      "pos": "名詞",
+      "count": 11,
+      "first_seen_sentence_id": "good-luck-s01-e04-0042",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0042",
+          "start": 106.773
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0045",
+          "start": 113.313
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0046",
+          "start": 116.282
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0048",
+          "start": 122.021
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0056",
+          "start": 152.652
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0061",
+          "start": 169.903
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0066",
+          "start": 184.784
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0586",
+          "start": 2465.529
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0589",
+          "start": 2470.668
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0594",
+          "start": 2485.783
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0601",
+          "start": 2506.67
+        }
+      ],
+      "surface_examples": [
+        "久木田"
+      ]
+    },
+    {
+      "lemma": "教官",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "good-luck-s01-e04-0056",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0056",
+          "start": 152.652
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0216",
+          "start": 727.159
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0225",
+          "start": 754.253
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0504",
+          "start": 2006.537
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0610",
+          "start": 2558.255
+        }
+      ],
+      "surface_examples": [
+        "教官"
+      ]
+    },
+    {
+      "lemma": "課",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "good-luck-s01-e04-0056",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0056",
+          "start": 152.652
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0216",
+          "start": 727.159
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0225",
+          "start": 754.253
+        }
+      ],
+      "surface_examples": [
+        "課"
+      ]
+    },
+    {
+      "lemma": "長",
+      "pos": "接尾辞",
+      "count": 3,
+      "first_seen_sentence_id": "good-luck-s01-e04-0056",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0056",
+          "start": 152.652
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0216",
+          "start": 727.159
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0225",
+          "start": 754.253
+        }
+      ],
+      "surface_examples": [
+        "長"
+      ]
+    },
+    {
+      "lemma": "白石",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "good-luck-s01-e04-0073",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0073",
+          "start": 218.585
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0078",
+          "start": 232.765
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0080",
+          "start": 237.604
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0083",
+          "start": 247.68
+        }
+      ],
+      "surface_examples": [
+        "白石"
+      ]
+    },
+    {
+      "lemma": "島村",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0075",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0075",
+          "start": 224.324
+        }
+      ],
+      "surface_examples": [
+        "島村"
+      ]
+    },
+    {
+      "lemma": "吉田",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0075",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0075",
+          "start": 224.324
+        }
+      ],
+      "surface_examples": [
+        "吉田"
+      ]
+    },
+    {
+      "lemma": "工藤",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0078",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0078",
+          "start": 232.765
+        }
+      ],
+      "surface_examples": [
+        "工藤"
+      ]
+    },
+    {
+      "lemma": "相沢",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0078",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0078",
+          "start": 232.765
+        }
+      ],
+      "surface_examples": [
+        "相沢"
+      ]
+    },
+    {
+      "lemma": "脇坂",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0080",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0080",
+          "start": 237.604
+        }
+      ],
+      "surface_examples": [
+        "脇坂"
+      ]
+    },
+    {
+      "lemma": "阿部",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "good-luck-s01-e04-0080",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0080",
+          "start": 237.604
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0177",
+          "start": 556.122
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0181",
+          "start": 577.476
+        }
+      ],
+      "surface_examples": [
+        "阿部"
+      ]
+    },
+    {
+      "lemma": "緊急",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "good-luck-s01-e04-0080",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0080",
+          "start": 237.604
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0139",
+          "start": 444.243
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0198",
+          "start": 644.81
+        }
+      ],
+      "surface_examples": [
+        "緊急"
+      ]
+    },
+    {
+      "lemma": "対策",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "good-luck-s01-e04-0080",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0080",
+          "start": 237.604
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0139",
+          "start": 444.243
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0198",
+          "start": 644.81
+        }
+      ],
+      "surface_examples": [
+        "対策"
+      ]
+    },
+    {
+      "lemma": "会議",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "good-luck-s01-e04-0080",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0080",
+          "start": 237.604
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0139",
+          "start": 444.243
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0198",
+          "start": 644.81
+        }
+      ],
+      "surface_examples": [
+        "会議"
+      ]
+    },
+    {
+      "lemma": "成田",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0083",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0083",
+          "start": 247.68
+        }
+      ],
+      "surface_examples": [
+        "成田"
+      ]
+    },
+    {
+      "lemma": "了解",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "good-luck-s01-e04-0084",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0084",
+          "start": 250.984
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0336",
+          "start": 1204.736
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0448",
+          "start": 1776.574
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0450",
+          "start": 1780.612
+        }
+      ],
+      "surface_examples": [
+        "了解"
+      ]
+    },
+    {
+      "lemma": "武藤",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "good-luck-s01-e04-0086",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0086",
+          "start": 255.655
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0088",
+          "start": 264.364
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0102",
+          "start": 302.702
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0138",
+          "start": 440.573
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0198",
+          "start": 644.81
+        }
+      ],
+      "surface_examples": [
+        "武藤"
+      ]
+    },
+    {
+      "lemma": "香田",
+      "pos": "名詞",
+      "count": 32,
+      "first_seen_sentence_id": "good-luck-s01-e04-0102",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0102",
+          "start": 302.702
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0103",
+          "start": 305.438
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0105",
+          "start": 312.745
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0140",
+          "start": 448.014
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0141",
+          "start": 453.286
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0168",
+          "start": 529.629
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0184",
+          "start": 593.292
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0185",
+          "start": 595.795
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0187",
+          "start": 600.866
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0190",
+          "start": 610.476
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0203",
+          "start": 661.56
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0206",
+          "start": 671.704
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0214",
+          "start": 720.319
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0223",
+          "start": 746.912
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0243",
+          "start": 850.616
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0244",
+          "start": 856.355
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0260",
+          "start": 944.343
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0292",
+          "start": 1067.966
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0320",
+          "start": 1150.382
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0361",
+          "start": 1367.766
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0364",
+          "start": 1375.006
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0368",
+          "start": 1385.751
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0372",
+          "start": 1400.332
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0381",
+          "start": 1442.274
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0453",
+          "start": 1794.459
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0454",
+          "start": 1796.728
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0456",
+          "start": 1803.201
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0458",
+          "start": 1810.775
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0463",
+          "start": 1828.893
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0525",
+          "start": 2078.81
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0625",
+          "start": 2622.886
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0627",
+          "start": 2642.139
+        }
+      ],
+      "surface_examples": [
+        "香田"
+      ]
+    },
+    {
+      "lemma": "監査室",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0103",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0103",
+          "start": 305.438
+        }
+      ],
+      "surface_examples": [
+        "監査室"
+      ]
+    },
+    {
+      "lemma": "緒川",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "good-luck-s01-e04-0112",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0112",
+          "start": 379.445
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0181",
+          "start": 577.476
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0301",
+          "start": 1095.694
+        }
+      ],
+      "surface_examples": [
+        "緒川"
+      ]
+    },
+    {
+      "lemma": "歩実",
+      "pos": "名詞",
+      "count": 16,
+      "first_seen_sentence_id": "good-luck-s01-e04-0112",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0112",
+          "start": 379.445
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0113",
+          "start": 381.681
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0115",
+          "start": 389.922
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0182",
+          "start": 582.415
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0206",
+          "start": 671.704
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0235",
+          "start": 813.045
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0237",
+          "start": 817.616
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0243",
+          "start": 850.616
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0250",
+          "start": 883.949
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0536",
+          "start": 2218.616
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0539",
+          "start": 2228.659
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0541",
+          "start": 2243.708
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0542",
+          "start": 2253.084
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0553",
+          "start": 2309.507
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0555",
+          "start": 2321.919
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0560",
+          "start": 2348.746
+        }
+      ],
+      "surface_examples": [
+        "歩実"
+      ]
+    },
+    {
+      "lemma": "太田",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "good-luck-s01-e04-0122",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0122",
+          "start": 403.403
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0124",
+          "start": 408.741
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0125",
+          "start": 411.477
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0126",
+          "start": 414.013
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0131",
+          "start": 427.693
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0136",
+          "start": 436.502
+        }
+      ],
+      "surface_examples": [
+        "太田"
+      ]
+    },
+    {
+      "lemma": "健三郎",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0122",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0122",
+          "start": 403.403
+        }
+      ],
+      "surface_examples": [
+        "健三郎"
+      ]
+    },
+    {
+      "lemma": "深浦",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0122",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0122",
+          "start": 403.403
+        }
+      ],
+      "surface_examples": [
+        "深浦"
+      ]
+    },
+    {
+      "lemma": "稲垣",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0132",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0132",
+          "start": 430.096
+        }
+      ],
+      "surface_examples": [
+        "稲垣"
+      ]
+    },
+    {
+      "lemma": "千佳",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "good-luck-s01-e04-0132",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0132",
+          "start": 430.096
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0134",
+          "start": 434.066
+        }
+      ],
+      "surface_examples": [
+        "千佳"
+      ]
+    },
+    {
+      "lemma": "庄司",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0133",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0133",
+          "start": 431.364
+        }
+      ],
+      "surface_examples": [
+        "庄司"
+      ]
+    },
+    {
+      "lemma": "恭子",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "good-luck-s01-e04-0133",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0133",
+          "start": 431.364
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0293",
+          "start": 1069.835
+        }
+      ],
+      "surface_examples": [
+        "恭子"
+      ]
+    },
+    {
+      "lemma": "臨時",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0138",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0138",
+          "start": 440.573
+        }
+      ],
+      "surface_examples": [
+        "臨時"
+      ]
+    },
+    {
+      "lemma": "特別",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0138",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0138",
+          "start": 440.573
+        }
+      ],
+      "surface_examples": [
+        "特別"
+      ]
+    },
+    {
+      "lemma": "機",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0138",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0138",
+          "start": 440.573
+        }
+      ],
+      "surface_examples": [
+        "機"
+      ]
+    },
+    {
+      "lemma": "飛行",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0139",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0139",
+          "start": 444.243
+        }
+      ],
+      "surface_examples": [
+        "飛行"
+      ]
+    },
+    {
+      "lemma": "一樹",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0141",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0141",
+          "start": 453.286
+        }
+      ],
+      "surface_examples": [
+        "一樹"
+      ]
+    },
+    {
+      "lemma": "安全",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0143",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0143",
+          "start": 458.524
+        }
+      ],
+      "surface_examples": [
+        "安全"
+      ]
+    },
+    {
+      "lemma": "機内",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "good-luck-s01-e04-0144",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0144",
+          "start": 465.164
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0182",
+          "start": 582.415
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0279",
+          "start": 1039.038
+        }
+      ],
+      "surface_examples": [
+        "機内"
+      ]
+    },
+    {
+      "lemma": "相馬",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "good-luck-s01-e04-0164",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0164",
+          "start": 517.817
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0176",
+          "start": 552.385
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0346",
+          "start": 1316.882
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0352",
+          "start": 1349.915
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0360",
+          "start": 1365.097
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0362",
+          "start": 1369.234
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0394",
+          "start": 1494.893
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0402",
+          "start": 1527.659
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0492",
+          "start": 1972.303
+        }
+      ],
+      "surface_examples": [
+        "相馬"
+      ]
+    },
+    {
+      "lemma": "衛生",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0175",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0175",
+          "start": 547.78
+        }
+      ],
+      "surface_examples": [
+        "衛生"
+      ]
+    },
+    {
+      "lemma": "大学",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0175",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0175",
+          "start": 547.78
+        }
+      ],
+      "surface_examples": [
+        "大学"
+      ]
+    },
+    {
+      "lemma": "付属",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0175",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0175",
+          "start": 547.78
+        }
+      ],
+      "surface_examples": [
+        "付属"
+      ]
+    },
+    {
+      "lemma": "病院",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0175",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0175",
+          "start": 547.78
+        }
+      ],
+      "surface_examples": [
+        "病院"
+      ]
+    },
+    {
+      "lemma": "貴之",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0177",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0177",
+          "start": 556.122
+        }
+      ],
+      "surface_examples": [
+        "貴之"
+      ]
+    },
+    {
+      "lemma": "出発",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0180",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0180",
+          "start": 572.138
+        }
+      ],
+      "surface_examples": [
+        "出発"
+      ]
+    },
+    {
+      "lemma": "整備",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "good-luck-s01-e04-0180",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0180",
+          "start": 572.138
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0185",
+          "start": 595.795
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0561",
+          "start": 2353.617
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0572",
+          "start": 2405.269
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0573",
+          "start": 2413.077
+        }
+      ],
+      "surface_examples": [
+        "整備"
+      ]
+    },
+    {
+      "lemma": "搭乗",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0196",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0196",
+          "start": 632.365
+        }
+      ],
+      "surface_examples": [
+        "搭乗"
+      ]
+    },
+    {
+      "lemma": "原田",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "good-luck-s01-e04-0201",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0201",
+          "start": 656.255
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0283",
+          "start": 1047.913
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0357",
+          "start": 1359.291
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0409",
+          "start": 1554.052
+        }
+      ],
+      "surface_examples": [
+        "原田"
+      ]
+    },
+    {
+      "lemma": "美和子",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "good-luck-s01-e04-0201",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0201",
+          "start": 656.255
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0263",
+          "start": 955.187
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0283",
+          "start": 1047.913
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0284",
+          "start": 1049.915
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0337",
+          "start": 1214.813
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0360",
+          "start": 1365.097
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0390",
+          "start": 1478.443
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0411",
+          "start": 1558.356
+        }
+      ],
+      "surface_examples": [
+        "美和子"
+      ]
+    },
+    {
+      "lemma": "本田",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "good-luck-s01-e04-0205",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0205",
+          "start": 668.267
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0341",
+          "start": 1226.658
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0342",
+          "start": 1229.328
+        }
+      ],
+      "surface_examples": [
+        "本田"
+      ]
+    },
+    {
+      "lemma": "機長",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "good-luck-s01-e04-0245",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0245",
+          "start": 861.26
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0310",
+          "start": 1119.251
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0615",
+          "start": 2573.938
+        }
+      ],
+      "surface_examples": [
+        "機長"
+      ]
+    },
+    {
+      "lemma": "到着",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0273",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0273",
+          "start": 1024.323
+        }
+      ],
+      "surface_examples": [
+        "到着"
+      ]
+    },
+    {
+      "lemma": "医師",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "good-luck-s01-e04-0275",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0275",
+          "start": 1028.293
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0277",
+          "start": 1035.3
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0281",
+          "start": 1044.543
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0352",
+          "start": 1349.915
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0355",
+          "start": 1354.686
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0356",
+          "start": 1356.555
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0359",
+          "start": 1364.196
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0364",
+          "start": 1375.006
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0389",
+          "start": 1476.608
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0390",
+          "start": 1478.443
+        }
+      ],
+      "surface_examples": [
+        "医師"
+      ]
+    },
+    {
+      "lemma": "片瀬",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0290",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0290",
+          "start": 1061.059
+        }
+      ],
+      "surface_examples": [
+        "片瀬"
+      ]
+    },
+    {
+      "lemma": "香織",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "good-luck-s01-e04-0301",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0301",
+          "start": 1095.694
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0305",
+          "start": 1108.941
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0309",
+          "start": 1117.616
+        }
+      ],
+      "surface_examples": [
+        "香織"
+      ]
+    },
+    {
+      "lemma": "離陸",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "good-luck-s01-e04-0337",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0337",
+          "start": 1214.813
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0361",
+          "start": 1367.766
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0363",
+          "start": 1372.304
+        },
+        {
+          "sentence_id": "good-luck-s01-e04-0410",
+          "start": 1555.453
+        }
+      ],
+      "surface_examples": [
+        "離陸"
+      ]
+    },
+    {
+      "lemma": "判断",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0364",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0364",
+          "start": 1375.006
+        }
+      ],
+      "surface_examples": [
+        "判断"
+      ]
+    },
+    {
+      "lemma": "会社",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0509",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0509",
+          "start": 2023.554
+        }
+      ],
+      "surface_examples": [
+        "会社"
+      ]
+    },
+    {
+      "lemma": "乗客",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "good-luck-s01-e04-0554",
+      "occurrences": [
+        {
+          "sentence_id": "good-luck-s01-e04-0554",
+          "start": 2313.411
+        }
+      ],
+      "surface_examples": [
+        "乗客"
       ]
     }
   ]

@@ -1,8 +1,8 @@
 {
   "chapter_id": "bg-shinpen-keigonin-s01-e03",
-  "generated_at": "2026-05-07T14:29:48.571612+00:00",
-  "total_unique_lemmas": 462,
-  "total_tokens_after_filter": 830,
+  "generated_at": "2026-05-18T09:08:09.937537+00:00",
+  "total_unique_lemmas": 464,
+  "total_tokens_after_filter": 835,
   "vocab": [
     {
       "lemma": "瞬",
@@ -45,7 +45,7 @@
     {
       "lemma": "章",
       "pos": "名詞",
-      "count": 27,
+      "count": 28,
       "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e03-0008",
       "occurrences": [
         {
@@ -91,6 +91,10 @@
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e03-0279",
           "start": 1019
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e03-0296",
+          "start": 1116
         },
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e03-0300",
@@ -2784,6 +2788,25 @@
       ]
     },
     {
+      "lemma": "了解",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e03-0132",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e03-0132",
+          "start": 487
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e03-0223",
+          "start": 805
+        }
+      ],
+      "surface_examples": [
+        "了解"
+      ]
+    },
+    {
       "lemma": "行き先",
       "pos": "名詞",
       "count": 1,
@@ -4161,25 +4184,6 @@
       ]
     },
     {
-      "lemma": "了解",
-      "pos": "名詞",
-      "count": 2,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e03-0223",
-      "occurrences": [
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e03-0223",
-          "start": 805
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e03-0511",
-          "start": 2087
-        }
-      ],
-      "surface_examples": [
-        "了解"
-      ]
-    },
-    {
       "lemma": "探る",
       "pos": "動詞",
       "count": 1,
@@ -4728,7 +4732,7 @@
     {
       "lemma": "警備",
       "pos": "名詞",
-      "count": 2,
+      "count": 4,
       "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e03-0256",
       "occurrences": [
         {
@@ -4736,8 +4740,16 @@
           "start": 921
         },
         {
+          "sentence_id": "bg-shinpen-keigonin-s01-e03-0457",
+          "start": 1831
+        },
+        {
           "sentence_id": "bg-shinpen-keigonin-s01-e03-0599",
           "start": 2557
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e03-0608",
+          "start": 2585
         }
       ],
       "surface_examples": [
@@ -5042,25 +5054,6 @@
       ]
     },
     {
-      "lemma": "信ずる",
-      "pos": "動詞",
-      "count": 2,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e03-0277",
-      "occurrences": [
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e03-0277",
-          "start": 1010
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e03-0394",
-          "start": 1519
-        }
-      ],
-      "surface_examples": [
-        "信じ"
-      ]
-    },
-    {
       "lemma": "代わる",
       "pos": "動詞",
       "count": 1,
@@ -5272,6 +5265,21 @@
       ],
       "surface_examples": [
         "上がっ"
+      ]
+    },
+    {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e03-0296",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e03-0296",
+          "start": 1116
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
       ]
     },
     {
@@ -6429,6 +6437,36 @@
       ]
     },
     {
+      "lemma": "大臣",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e03-0394",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e03-0394",
+          "start": 1519
+        }
+      ],
+      "surface_examples": [
+        "大臣"
+      ]
+    },
+    {
+      "lemma": "信ずる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e03-0394",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e03-0394",
+          "start": 1519
+        }
+      ],
+      "surface_examples": [
+        "信じ"
+      ]
+    },
+    {
       "lemma": "伺う",
       "pos": "動詞",
       "count": 1,
@@ -7190,6 +7228,25 @@
       ]
     },
     {
+      "lemma": "保障",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e03-0457",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e03-0457",
+          "start": 1831
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e03-0608",
+          "start": 2585
+        }
+      ],
+      "surface_examples": [
+        "保障"
+      ]
+    },
+    {
       "lemma": "照会",
       "pos": "名詞",
       "count": 1,
@@ -7356,21 +7413,6 @@
       ],
       "surface_examples": [
         "使っ"
-      ]
-    },
-    {
-      "lemma": "当たり前",
-      "pos": "形状詞",
-      "count": 1,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e03-0469",
-      "occurrences": [
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e03-0469",
-          "start": 1872
-        }
-      ],
-      "surface_examples": [
-        "当たり前"
       ]
     },
     {

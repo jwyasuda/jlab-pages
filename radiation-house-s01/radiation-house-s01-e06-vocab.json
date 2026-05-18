@@ -1,64 +1,1620 @@
 {
   "chapter_id": "radiation-house-s01-e06",
-  "generated_at": "2026-05-07T14:22:52.374852+00:00",
-  "total_unique_lemmas": 5,
-  "total_tokens_after_filter": 9,
+  "generated_at": "2026-05-18T09:08:43.111882+00:00",
+  "total_unique_lemmas": 246,
+  "total_tokens_after_filter": 960,
   "vocab": [
     {
-      "lemma": "到着",
+      "lemma": "実際",
       "pos": "名詞",
-      "count": 2,
-      "first_seen_sentence_id": "radiation-house-s01-e06-0090",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0003",
       "occurrences": [
         {
-          "sentence_id": "radiation-house-s01-e06-0090",
-          "start": 290.056
+          "sentence_id": "radiation-house-s01-e06-0003",
+          "start": 17.584
         },
         {
-          "sentence_id": "radiation-house-s01-e06-0238",
-          "start": 911.844
+          "sentence_id": "radiation-house-s01-e06-0545",
+          "start": 2064.662
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0692",
+          "start": 2635.966
         }
       ],
       "surface_examples": [
-        "到着"
+        "実際"
       ]
     },
     {
-      "lemma": "音",
+      "lemma": "人生",
       "pos": "名詞",
       "count": 3,
-      "first_seen_sentence_id": "radiation-house-s01-e06-0090",
+      "first_seen_sentence_id": "radiation-house-s01-e06-0004",
       "occurrences": [
         {
-          "sentence_id": "radiation-house-s01-e06-0090",
-          "start": 290.056
+          "sentence_id": "radiation-house-s01-e06-0004",
+          "start": 20.286
         },
         {
-          "sentence_id": "radiation-house-s01-e06-0238",
-          "start": 911.844
+          "sentence_id": "radiation-house-s01-e06-0222",
+          "start": 823.222
         },
         {
-          "sentence_id": "radiation-house-s01-e06-0459",
-          "start": 1739.17
+          "sentence_id": "radiation-house-s01-e06-0693",
+          "start": 2638.635
         }
       ],
       "surface_examples": [
-        "音"
+        "人生"
+      ]
+    },
+    {
+      "lemma": "信頼",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0007",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0007",
+          "start": 33.8
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0689",
+          "start": 2616.48
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0703",
+          "start": 2693.59
+        }
+      ],
+      "surface_examples": [
+        "信頼"
+      ]
+    },
+    {
+      "lemma": "杏",
+      "pos": "名詞",
+      "count": 47,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0008",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0008",
+          "start": 39.172
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0023",
+          "start": 96.396
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0030",
+          "start": 108.775
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0031",
+          "start": 111.311
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0046",
+          "start": 148.681
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0047",
+          "start": 150.817
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0094",
+          "start": 301.3
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0097",
+          "start": 307.04
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0128",
+          "start": 475.708
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0130",
+          "start": 481.347
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0136",
+          "start": 494.293
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0142",
+          "start": 510.81
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0143",
+          "start": 512.378
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0164",
+          "start": 574.373
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0186",
+          "start": 682.081
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0279",
+          "start": 1106.438
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0393",
+          "start": 1526.625
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0397",
+          "start": 1535.2
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0464",
+          "start": 1771.87
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0475",
+          "start": 1816.915
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0481",
+          "start": 1850.081
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0486",
+          "start": 1876.875
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0491",
+          "start": 1890.388
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0492",
+          "start": 1907.605
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0493",
+          "start": 1917.615
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0500",
+          "start": 1938.67
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0503",
+          "start": 1943.841
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0524",
+          "start": 2006.738
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0525",
+          "start": 2008.539
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0535",
+          "start": 2042.206
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0541",
+          "start": 2055.553
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0543",
+          "start": 2059.924
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0551",
+          "start": 2078.776
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0556",
+          "start": 2094.692
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0562",
+          "start": 2128.059
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0567",
+          "start": 2137.668
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0572",
+          "start": 2150.381
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0576",
+          "start": 2165.897
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0577",
+          "start": 2176.741
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0588",
+          "start": 2211.976
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0589",
+          "start": 2222.353
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0595",
+          "start": 2240.605
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0596",
+          "start": 2243.307
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0601",
+          "start": 2266.631
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0685",
+          "start": 2597.795
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0708",
+          "start": 2721.051
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0716",
+          "start": 2773.937
+        }
+      ],
+      "surface_examples": [
+        "杏"
+      ]
+    },
+    {
+      "lemma": "広瀬",
+      "pos": "名詞",
+      "count": 29,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0009",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0009",
+          "start": 53.853
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0017",
+          "start": 77.21
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0020",
+          "start": 84.818
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0036",
+          "start": 121.654
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0144",
+          "start": 514.78
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0180",
+          "start": 626.192
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0213",
+          "start": 785.017
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0215",
+          "start": 790.556
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0274",
+          "start": 1078.477
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0279",
+          "start": 1106.438
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0282",
+          "start": 1117.683
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0311",
+          "start": 1233.398
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0313",
+          "start": 1246.078
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0332",
+          "start": 1349.614
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0333",
+          "start": 1351.483
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0335",
+          "start": 1356.755
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0354",
+          "start": 1407.672
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0355",
+          "start": 1409.841
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0369",
+          "start": 1442.774
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0383",
+          "start": 1494.926
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0384",
+          "start": 1497.729
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0443",
+          "start": 1688.353
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0504",
+          "start": 1946.144
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0525",
+          "start": 2008.539
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0527",
+          "start": 2013.611
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0533",
+          "start": 2035.032
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0622",
+          "start": 2365.796
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0699",
+          "start": 2679.877
+        }
+      ],
+      "surface_examples": [
+        "広瀬"
+      ]
+    },
+    {
+      "lemma": "一同",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0009",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0009",
+          "start": 53.853
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0012",
+          "start": 61.194
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0021",
+          "start": 86.453
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0050",
+          "start": 159.492
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0664",
+          "start": 2492.656
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0698",
+          "start": 2678.809
+        }
+      ],
+      "surface_examples": [
+        "一同"
+      ]
+    },
+    {
+      "lemma": "悠",
+      "pos": "名詞",
+      "count": 26,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0010",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0010",
+          "start": 56.99
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0013",
+          "start": 62.996
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0023",
+          "start": 96.396
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0026",
+          "start": 104.003
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0105",
+          "start": 337.103
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0132",
+          "start": 485.084
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0139",
+          "start": 503.903
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0145",
+          "start": 517.149
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0173",
+          "start": 599.332
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0200",
+          "start": 738.804
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0206",
+          "start": 754.253
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0332",
+          "start": 1349.614
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0334",
+          "start": 1354.319
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0350",
+          "start": 1396.962
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0353",
+          "start": 1404.703
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0354",
+          "start": 1407.672
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0371",
+          "start": 1446.244
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0372",
+          "start": 1449.614
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0427",
+          "start": 1635.333
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0504",
+          "start": 1946.144
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0527",
+          "start": 2013.611
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0530",
+          "start": 2026.724
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0620",
+          "start": 2361.459
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0640",
+          "start": 2417.715
+        }
+      ],
+      "surface_examples": [
+        "悠"
+      ]
+    },
+    {
+      "lemma": "木",
+      "pos": "名詞",
+      "count": 26,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0010",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0010",
+          "start": 56.99
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0013",
+          "start": 62.996
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0023",
+          "start": 96.396
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0026",
+          "start": 104.003
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0105",
+          "start": 337.103
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0132",
+          "start": 485.084
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0139",
+          "start": 503.903
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0145",
+          "start": 517.149
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0173",
+          "start": 599.332
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0200",
+          "start": 738.804
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0206",
+          "start": 754.253
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0332",
+          "start": 1349.614
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0334",
+          "start": 1354.319
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0350",
+          "start": 1396.962
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0353",
+          "start": 1404.703
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0354",
+          "start": 1407.672
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0371",
+          "start": 1446.244
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0372",
+          "start": 1449.614
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0427",
+          "start": 1635.333
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0504",
+          "start": 1946.144
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0527",
+          "start": 2013.611
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0530",
+          "start": 2026.724
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0620",
+          "start": 2361.459
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0640",
+          "start": 2417.715
+        }
+      ],
+      "surface_examples": [
+        "木"
+      ]
+    },
+    {
+      "lemma": "甘",
+      "pos": "名詞",
+      "count": 14,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0010",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0010",
+          "start": 56.99
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0064",
+          "start": 204.003
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0214",
+          "start": 786.752
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0414",
+          "start": 1596.161
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0436",
+          "start": 1667.565
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0499",
+          "start": 1935.933
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0517",
+          "start": 1987.218
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0534",
+          "start": 2038.069
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0557",
+          "start": 2097.628
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0560",
+          "start": 2108.539
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0608",
+          "start": 2312.176
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0632",
+          "start": 2390.821
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0671",
+          "start": 2531.262
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0681",
+          "start": 2576.24
+        }
+      ],
+      "surface_examples": [
+        "甘"
+      ]
+    },
+    {
+      "lemma": "春",
+      "pos": "名詞",
+      "count": 15,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0010",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0010",
+          "start": 56.99
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0064",
+          "start": 204.003
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0214",
+          "start": 786.752
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0251",
+          "start": 964.43
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0414",
+          "start": 1596.161
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0436",
+          "start": 1667.565
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0499",
+          "start": 1935.933
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0517",
+          "start": 1987.218
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0534",
+          "start": 2038.069
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0557",
+          "start": 2097.628
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0560",
+          "start": 2108.539
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0608",
+          "start": 2312.176
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0632",
+          "start": 2390.821
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0671",
+          "start": 2531.262
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0681",
+          "start": 2576.24
+        }
+      ],
+      "surface_examples": [
+        "春"
+      ]
+    },
+    {
+      "lemma": "先生",
+      "pos": "名詞",
+      "count": 40,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0010",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0010",
+          "start": 56.99
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0064",
+          "start": 204.003
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0085",
+          "start": 275.041
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0102",
+          "start": 328.294
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0111",
+          "start": 351.05
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0143",
+          "start": 512.378
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0158",
+          "start": 557.056
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0178",
+          "start": 617.55
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0184",
+          "start": 647.947
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0189",
+          "start": 696.629
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0214",
+          "start": 786.752
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0243",
+          "start": 937.603
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0266",
+          "start": 1035.601
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0280",
+          "start": 1108.807
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0324",
+          "start": 1276.174
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0399",
+          "start": 1540.038
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0400",
+          "start": 1549.214
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0401",
+          "start": 1551.583
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0404",
+          "start": 1564.429
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0405",
+          "start": 1568.099
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0408",
+          "start": 1574.372
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0412",
+          "start": 1588.62
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0414",
+          "start": 1596.161
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0421",
+          "start": 1614.746
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0423",
+          "start": 1620.418
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0436",
+          "start": 1667.565
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0450",
+          "start": 1705.937
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0455",
+          "start": 1729.761
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0499",
+          "start": 1935.933
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0518",
+          "start": 1992.657
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0525",
+          "start": 2008.539
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0534",
+          "start": 2038.069
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0557",
+          "start": 2097.628
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0560",
+          "start": 2108.539
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0608",
+          "start": 2312.176
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0632",
+          "start": 2390.821
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0653",
+          "start": 2453.317
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0661",
+          "start": 2476.807
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0671",
+          "start": 2531.262
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0716",
+          "start": 2773.937
+        }
+      ],
+      "surface_examples": [
+        "先生"
+      ]
+    },
+    {
+      "lemma": "小野寺",
+      "pos": "名詞",
+      "count": 32,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0011",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0011",
+          "start": 59.926
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0021",
+          "start": 86.453
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0029",
+          "start": 107.874
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0039",
+          "start": 130.53
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0130",
+          "start": 481.347
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0137",
+          "start": 497.697
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0138",
+          "start": 500.7
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0173",
+          "start": 599.332
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0199",
+          "start": 737.77
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0203",
+          "start": 746.979
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0309",
+          "start": 1229.728
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0344",
+          "start": 1382.247
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0346",
+          "start": 1388.186
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0347",
+          "start": 1390.155
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0380",
+          "start": 1486.451
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0429",
+          "start": 1643.441
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0444",
+          "start": 1691.723
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0445",
+          "start": 1693.992
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0479",
+          "start": 1830.695
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0502",
+          "start": 1942.473
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0519",
+          "start": 1995.727
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0523",
+          "start": 2004.902
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0554",
+          "start": 2089.921
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0557",
+          "start": 2097.628
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0562",
+          "start": 2128.059
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0586",
+          "start": 2205.336
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0595",
+          "start": 2240.605
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0597",
+          "start": 2254.518
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0599",
+          "start": 2260.091
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0621",
+          "start": 2364.261
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0625",
+          "start": 2375.339
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0667",
+          "start": 2509.073
+        }
+      ],
+      "surface_examples": [
+        "小野寺"
+      ]
+    },
+    {
+      "lemma": "看護師",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0013",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0013",
+          "start": 62.996
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0122",
+          "start": 442.809
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0124",
+          "start": 454.72
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0378",
+          "start": 1481.012
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0385",
+          "start": 1500.499
+        }
+      ],
+      "surface_examples": [
+        "看護師"
+      ]
+    },
+    {
+      "lemma": "体調",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0014",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0014",
+          "start": 65.298
+        }
+      ],
+      "surface_examples": [
+        "体調"
+      ]
+    },
+    {
+      "lemma": "間違い",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0016",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0016",
+          "start": 73.673
+        }
+      ],
+      "surface_examples": [
+        "間違い"
+      ]
+    },
+    {
+      "lemma": "お嬢様",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0016",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0016",
+          "start": 73.673
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0041",
+          "start": 134.667
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0316",
+          "start": 1252.551
+        }
+      ],
+      "surface_examples": [
+        "お嬢様"
+      ]
+    },
+    {
+      "lemma": "軒下",
+      "pos": "名詞",
+      "count": 39,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0018",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0018",
+          "start": 78.545
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0030",
+          "start": 108.775
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0032",
+          "start": 114.147
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0035",
+          "start": 119.986
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0041",
+          "start": 134.667
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0080",
+          "start": 259.626
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0084",
+          "start": 272.805
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0100",
+          "start": 325.725
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0111",
+          "start": 351.05
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0143",
+          "start": 512.378
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0192",
+          "start": 720.386
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0227",
+          "start": 866.165
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0228",
+          "start": 869.668
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0229",
+          "start": 873.372
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0233",
+          "start": 886.452
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0237",
+          "start": 897.963
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0316",
+          "start": 1252.551
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0336",
+          "start": 1357.689
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0340",
+          "start": 1371.369
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0343",
+          "start": 1379.911
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0349",
+          "start": 1395.327
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0399",
+          "start": 1540.038
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0449",
+          "start": 1703.768
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0507",
+          "start": 1966.731
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0518",
+          "start": 1992.657
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0528",
+          "start": 2019.484
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0570",
+          "start": 2141.906
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0604",
+          "start": 2292.69
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0605",
+          "start": 2294.425
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0617",
+          "start": 2353.084
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0625",
+          "start": 2375.339
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0628",
+          "start": 2383.681
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0630",
+          "start": 2386.65
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0632",
+          "start": 2390.821
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0641",
+          "start": 2420.751
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0707",
+          "start": 2720.117
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0709",
+          "start": 2723.454
+        }
+      ],
+      "surface_examples": [
+        "軒下"
+      ]
+    },
+    {
+      "lemma": "謙虚",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0018",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0018",
+          "start": 78.545
+        }
+      ],
+      "surface_examples": [
+        "謙虚"
+      ]
+    },
+    {
+      "lemma": "威能",
+      "pos": "名詞",
+      "count": 17,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0019",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0019",
+          "start": 81.815
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0030",
+          "start": 108.775
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0031",
+          "start": 111.311
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0032",
+          "start": 114.147
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0145",
+          "start": 517.149
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0194",
+          "start": 726.292
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0213",
+          "start": 785.017
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0337",
+          "start": 1361.993
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0341",
+          "start": 1374.272
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0444",
+          "start": 1691.723
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0469",
+          "start": 1787.452
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0604",
+          "start": 2292.69
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0605",
+          "start": 2294.425
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0619",
+          "start": 2359.19
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0626",
+          "start": 2377.675
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0638",
+          "start": 2413.11
+        }
+      ],
+      "surface_examples": [
+        "威能"
+      ]
+    },
+    {
+      "lemma": "昨日",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0024",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0024",
+          "start": 98.231
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0671",
+          "start": 2531.262
+        }
+      ],
+      "surface_examples": [
+        "昨日"
+      ]
+    },
+    {
+      "lemma": "了解",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0029",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0029",
+          "start": 107.874
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0033",
+          "start": 116.149
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0138",
+          "start": 500.7
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0383",
+          "start": 1494.926
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0595",
+          "start": 2240.605
+        }
+      ],
+      "surface_examples": [
+        "了解"
+      ]
+    },
+    {
+      "lemma": "風紀",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0035",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0035",
+          "start": 119.986
+        }
+      ],
+      "surface_examples": [
+        "風紀"
+      ]
+    },
+    {
+      "lemma": "委員長",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0035",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0035",
+          "start": 119.986
+        }
+      ],
+      "surface_examples": [
+        "委員長"
+      ]
+    },
+    {
+      "lemma": "違う",
+      "pos": "動詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0039",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0039",
+          "start": 130.53
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0045",
+          "start": 144.31
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0184",
+          "start": 647.947
+        }
+      ],
+      "surface_examples": [
+        "違い",
+        "違う"
+      ]
+    },
+    {
+      "lemma": "病院",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0041",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0041",
+          "start": 134.667
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0118",
+          "start": 434.534
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0235",
+          "start": 890.99
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0253",
+          "start": 968.967
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0316",
+          "start": 1252.551
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0402",
+          "start": 1556.855
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0517",
+          "start": 1987.218
+        }
+      ],
+      "surface_examples": [
+        "病院"
+      ]
+    },
+    {
+      "lemma": "目線",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0043",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0043",
+          "start": 139.539
+        }
+      ],
+      "surface_examples": [
+        "目線"
+      ]
+    },
+    {
+      "lemma": "世界",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0045",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0045",
+          "start": 144.31
+        }
+      ],
+      "surface_examples": [
+        "世界"
       ]
     },
     {
       "lemma": "店員",
       "pos": "名詞",
-      "count": 2,
-      "first_seen_sentence_id": "radiation-house-s01-e06-0454",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0046",
       "occurrences": [
         {
-          "sentence_id": "radiation-house-s01-e06-0454",
-          "start": 1725.323
+          "sentence_id": "radiation-house-s01-e06-0046",
+          "start": 148.681
         },
         {
-          "sentence_id": "radiation-house-s01-e06-0460",
-          "start": 1740.939
+          "sentence_id": "radiation-house-s01-e06-0047",
+          "start": 150.817
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0227",
+          "start": 866.165
         }
       ],
       "surface_examples": [
@@ -66,33 +1622,4848 @@
       ]
     },
     {
-      "lemma": "携帯電話",
+      "lemma": "鏑木",
       "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "radiation-house-s01-e06-0459",
+      "count": 41,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0049",
       "occurrences": [
         {
-          "sentence_id": "radiation-house-s01-e06-0459",
-          "start": 1739.17
+          "sentence_id": "radiation-house-s01-e06-0049",
+          "start": 155.955
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0053",
+          "start": 171.838
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0054",
+          "start": 177.944
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0065",
+          "start": 207.674
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0067",
+          "start": 216.516
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0068",
+          "start": 217.951
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0069",
+          "start": 219.953
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0075",
+          "start": 237.203
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0081",
+          "start": 262.662
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0085",
+          "start": 275.041
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0102",
+          "start": 328.294
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0111",
+          "start": 351.05
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0143",
+          "start": 512.378
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0161",
+          "start": 567.099
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0176",
+          "start": 606.839
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0178",
+          "start": 617.55
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0189",
+          "start": 696.629
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0228",
+          "start": 869.668
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0229",
+          "start": 873.372
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0233",
+          "start": 886.452
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0234",
+          "start": 888.12
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0243",
+          "start": 937.603
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0266",
+          "start": 1035.601
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0280",
+          "start": 1108.807
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0399",
+          "start": 1540.038
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0400",
+          "start": 1549.214
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0412",
+          "start": 1588.62
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0421",
+          "start": 1614.746
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0423",
+          "start": 1620.418
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0450",
+          "start": 1705.937
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0453",
+          "start": 1716.347
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0455",
+          "start": 1729.761
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0506",
+          "start": 1965.663
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0518",
+          "start": 1992.657
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0623",
+          "start": 2369.2
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0628",
+          "start": 2383.681
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0632",
+          "start": 2390.821
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0653",
+          "start": 2453.317
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0661",
+          "start": 2476.807
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0712",
+          "start": 2766.23
         }
       ],
       "surface_examples": [
-        "携帯電話"
+        "鏑木"
       ]
     },
     {
-      "lemma": "振動",
+      "lemma": "五十嵐",
       "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "radiation-house-s01-e06-0459",
+      "count": 29,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0049",
       "occurrences": [
         {
-          "sentence_id": "radiation-house-s01-e06-0459",
-          "start": 1739.17
+          "sentence_id": "radiation-house-s01-e06-0049",
+          "start": 155.955
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0051",
+          "start": 162.028
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0079",
+          "start": 255.855
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0080",
+          "start": 259.626
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0098",
+          "start": 309.242
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0099",
+          "start": 317.784
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0112",
+          "start": 360.46
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0132",
+          "start": 485.084
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0224",
+          "start": 849.782
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0236",
+          "start": 894.393
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0310",
+          "start": 1231.863
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0349",
+          "start": 1395.327
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0356",
+          "start": 1410.742
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0371",
+          "start": 1446.244
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0445",
+          "start": 1693.992
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0483",
+          "start": 1856.387
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0520",
+          "start": 1997.495
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0533",
+          "start": 2035.032
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0536",
+          "start": 2043.107
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0545",
+          "start": 2064.662
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0551",
+          "start": 2078.776
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0564",
+          "start": 2130.595
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0574",
+          "start": 2160.458
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0613",
+          "start": 2330.027
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0647",
+          "start": 2440.204
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0648",
+          "start": 2444.708
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0658",
+          "start": 2468.732
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0706",
+          "start": 2718.615
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0710",
+          "start": 2761.992
         }
       ],
       "surface_examples": [
-        "振動"
+        "五十嵐"
+      ]
+    },
+    {
+      "lemma": "放射線",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0049",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0049",
+          "start": 155.955
+        }
+      ],
+      "surface_examples": [
+        "放射線"
+      ]
+    },
+    {
+      "lemma": "技師",
+      "pos": "名詞",
+      "count": 14,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0049",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0049",
+          "start": 155.955
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0063",
+          "start": 200.066
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0065",
+          "start": 207.674
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0082",
+          "start": 264.731
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0106",
+          "start": 339.972
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0176",
+          "start": 606.839
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0261",
+          "start": 1013.612
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0265",
+          "start": 1030.729
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0268",
+          "start": 1047.212
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0299",
+          "start": 1193.258
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0303",
+          "start": 1204.269
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0418",
+          "start": 1607.706
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0709",
+          "start": 2723.454
+        }
+      ],
+      "surface_examples": [
+        "技師"
+      ]
+    },
+    {
+      "lemma": "医師",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0049",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0049",
+          "start": 155.955
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0065",
+          "start": 207.674
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0221",
+          "start": 818.517
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0320",
+          "start": 1262.461
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0708",
+          "start": 2721.051
+        }
+      ],
+      "surface_examples": [
+        "医師"
+      ]
+    },
+    {
+      "lemma": "大森",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0052",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0052",
+          "start": 167.834
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0060",
+          "start": 194.861
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0062",
+          "start": 198.364
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0067",
+          "start": 216.516
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0068",
+          "start": 217.951
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0590",
+          "start": 2223.788
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0613",
+          "start": 2330.027
+        }
+      ],
+      "surface_examples": [
+        "大森"
+      ]
+    },
+    {
+      "lemma": "読影",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0056",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0056",
+          "start": 181.147
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0064",
+          "start": 204.003
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0252",
+          "start": 966.598
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0254",
+          "start": 971.303
+        }
+      ],
+      "surface_examples": [
+        "読影"
+      ]
+    },
+    {
+      "lemma": "抵触",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0057",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0057",
+          "start": 183.65
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0267",
+          "start": 1039.838
+        }
+      ],
+      "surface_examples": [
+        "抵触"
+      ]
+    },
+    {
+      "lemma": "可能性",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0057",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0057",
+          "start": 183.65
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0163",
+          "start": 571.003
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0171",
+          "start": 594.36
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0267",
+          "start": 1039.838
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0465",
+          "start": 1774.506
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0553",
+          "start": 2086.451
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0706",
+          "start": 2718.615
+        }
+      ],
+      "surface_examples": [
+        "可能性"
+      ]
+    },
+    {
+      "lemma": "立場",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0058",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0058",
+          "start": 188.221
+        }
+      ],
+      "surface_examples": [
+        "立場"
+      ]
+    },
+    {
+      "lemma": "事態",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0059",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0059",
+          "start": 191.424
+        }
+      ],
+      "surface_examples": [
+        "事態"
+      ]
+    },
+    {
+      "lemma": "外科医",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0060",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0060",
+          "start": 194.861
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0092",
+          "start": 296.396
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0655",
+          "start": 2459.824
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0658",
+          "start": 2468.732
+        }
+      ],
+      "surface_examples": [
+        "外科医"
+      ]
+    },
+    {
+      "lemma": "六",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0060",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0060",
+          "start": 194.861
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0655",
+          "start": 2459.824
+        }
+      ],
+      "surface_examples": [
+        "六"
+      ]
+    },
+    {
+      "lemma": "人",
+      "pos": "接尾辞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0060",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0060",
+          "start": 194.861
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0655",
+          "start": 2459.824
+        }
+      ],
+      "surface_examples": [
+        "人"
+      ]
+    },
+    {
+      "lemma": "金閣",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0060",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0060",
+          "start": 194.861
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0290",
+          "start": 1167.366
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0528",
+          "start": 2019.484
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0536",
+          "start": 2043.107
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0537",
+          "start": 2045.643
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0654",
+          "start": 2456.754
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0685",
+          "start": 2597.795
+        }
+      ],
+      "surface_examples": [
+        "金閣"
+      ]
+    },
+    {
+      "lemma": "寺",
+      "pos": "接尾辞",
+      "count": 7,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0060",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0060",
+          "start": 194.861
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0290",
+          "start": 1167.366
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0528",
+          "start": 2019.484
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0536",
+          "start": 2043.107
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0537",
+          "start": 2045.643
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0654",
+          "start": 2456.754
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0685",
+          "start": 2597.795
+        }
+      ],
+      "surface_examples": [
+        "寺"
+      ]
+    },
+    {
+      "lemma": "意見",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0063",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0063",
+          "start": 200.066
+        }
+      ],
+      "surface_examples": [
+        "意見"
+      ]
+    },
+    {
+      "lemma": "所見",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0063",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0063",
+          "start": 200.066
+        }
+      ],
+      "surface_examples": [
+        "所見"
+      ]
+    },
+    {
+      "lemma": "診断",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0064",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0064",
+          "start": 204.003
+        }
+      ],
+      "surface_examples": [
+        "診断"
+      ]
+    },
+    {
+      "lemma": "役割",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0065",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0065",
+          "start": 207.674
+        }
+      ],
+      "surface_examples": [
+        "役割"
+      ]
+    },
+    {
+      "lemma": "観点",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0066",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0066",
+          "start": 211.878
+        }
+      ],
+      "surface_examples": [
+        "観点"
+      ]
+    },
+    {
+      "lemma": "院長",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0069",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0069",
+          "start": 219.953
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0071",
+          "start": 227.227
+        }
+      ],
+      "surface_examples": [
+        "院長"
+      ]
+    },
+    {
+      "lemma": "問題",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0070",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0070",
+          "start": 222.855
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0258",
+          "start": 994.626
+        }
+      ],
+      "surface_examples": [
+        "問題"
+      ]
+    },
+    {
+      "lemma": "場合",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0070",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0070",
+          "start": 222.855
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0086",
+          "start": 280.48
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0168",
+          "start": 584.917
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0350",
+          "start": 1396.962
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0369",
+          "start": 1442.774
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0542",
+          "start": 2056.854
+        }
+      ],
+      "surface_examples": [
+        "場合"
+      ]
+    },
+    {
+      "lemma": "皆",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0082",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0082",
+          "start": 264.731
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0230",
+          "start": 877.643
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0673",
+          "start": 2544.008
+        }
+      ],
+      "surface_examples": [
+        "皆"
+      ]
+    },
+    {
+      "lemma": "さん",
+      "pos": "接尾辞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0082",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0082",
+          "start": 264.731
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0230",
+          "start": 877.643
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0673",
+          "start": 2544.008
+        }
+      ],
+      "surface_examples": [
+        "さん"
+      ]
+    },
+    {
+      "lemma": "様子",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0082",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0082",
+          "start": 264.731
+        }
+      ],
+      "surface_examples": [
+        "様子"
+      ]
+    },
+    {
+      "lemma": "放射線科",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0085",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0085",
+          "start": 275.041
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0472",
+          "start": 1791.556
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0655",
+          "start": 2459.824
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0660",
+          "start": 2473.304
+        }
+      ],
+      "surface_examples": [
+        "放射線科"
+      ]
+    },
+    {
+      "lemma": "不審",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0086",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0086",
+          "start": 280.48
+        }
+      ],
+      "surface_examples": [
+        "不審"
+      ]
+    },
+    {
+      "lemma": "行動",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0086",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0086",
+          "start": 280.48
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0269",
+          "start": 1050.983
+        }
+      ],
+      "surface_examples": [
+        "行動"
+      ]
+    },
+    {
+      "lemma": "辻村",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0091",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0091",
+          "start": 292.592
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0092",
+          "start": 296.396
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0097",
+          "start": 307.04
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0226",
+          "start": 863.696
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0374",
+          "start": 1465.096
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0681",
+          "start": 2576.24
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0683",
+          "start": 2582.613
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0686",
+          "start": 2601.432
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0716",
+          "start": 2773.937
+        }
+      ],
+      "surface_examples": [
+        "辻村"
+      ]
+    },
+    {
+      "lemma": "笑い声",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0091",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0091",
+          "start": 292.592
+        }
+      ],
+      "surface_examples": [
+        "笑い声"
+      ]
+    },
+    {
+      "lemma": "途中",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0095",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0095",
+          "start": 303.469
+        }
+      ],
+      "surface_examples": [
+        "途中"
+      ]
+    },
+    {
+      "lemma": "悪い",
+      "pos": "形容詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0096",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0096",
+          "start": 305.071
+        }
+      ],
+      "surface_examples": [
+        "悪い"
+      ]
+    },
+    {
+      "lemma": "面白い",
+      "pos": "形容詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0097",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0097",
+          "start": 307.04
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0287",
+          "start": 1156.855
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0288",
+          "start": 1158.991
+        }
+      ],
+      "surface_examples": [
+        "面白い"
+      ]
+    },
+    {
+      "lemma": "取材",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0102",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0102",
+          "start": 328.294
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0111",
+          "start": 351.05
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0230",
+          "start": 877.643
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0661",
+          "start": 2476.807
+        }
+      ],
+      "surface_examples": [
+        "取材"
+      ]
+    },
+    {
+      "lemma": "協力",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0102",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0102",
+          "start": 328.294
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0111",
+          "start": 351.05
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0230",
+          "start": 877.643
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0661",
+          "start": 2476.807
+        }
+      ],
+      "surface_examples": [
+        "協力"
+      ]
+    },
+    {
+      "lemma": "医者",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0105",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0105",
+          "start": 337.103
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0193",
+          "start": 722.721
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0194",
+          "start": 726.292
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0281",
+          "start": 1112.945
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0304",
+          "start": 1208.173
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0339",
+          "start": 1368.567
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0360",
+          "start": 1420.218
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0442",
+          "start": 1684.716
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0514",
+          "start": 1980.345
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0705",
+          "start": 2717.147
+        }
+      ],
+      "surface_examples": [
+        "医者"
+      ]
+    },
+    {
+      "lemma": "主役",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0105",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0105",
+          "start": 337.103
+        }
+      ],
+      "surface_examples": [
+        "主役"
+      ]
+    },
+    {
+      "lemma": "女性",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0114",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0114",
+          "start": 397.997
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0274",
+          "start": 1078.477
+        }
+      ],
+      "surface_examples": [
+        "女性"
+      ]
+    },
+    {
+      "lemma": "莉奈",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0115",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0115",
+          "start": 415.148
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0118",
+          "start": 434.534
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0149",
+          "start": 530.496
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0183",
+          "start": 645.644
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0328",
+          "start": 1303.268
+        }
+      ],
+      "surface_examples": [
+        "莉奈"
+      ]
+    },
+    {
+      "lemma": "沙里",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0115",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0115",
+          "start": 415.148
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0116",
+          "start": 417.283
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0117",
+          "start": 418.885
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0119",
+          "start": 437.203
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0120",
+          "start": 438.871
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0141",
+          "start": 508.641
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0216",
+          "start": 793.025
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0242",
+          "start": 932.231
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0328",
+          "start": 1303.268
+        }
+      ],
+      "surface_examples": [
+        "沙里"
+      ]
+    },
+    {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 9,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0117",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0117",
+          "start": 418.885
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0118",
+          "start": 434.534
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0126",
+          "start": 467.133
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0328",
+          "start": 1303.268
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0426",
+          "start": 1630.061
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0449",
+          "start": 1703.768
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0467",
+          "start": 1780.912
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0561",
+          "start": 2111.476
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0623",
+          "start": 2369.2
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
+      ]
+    },
+    {
+      "lemma": "頑張る",
+      "pos": "動詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0119",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0119",
+          "start": 437.203
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0251",
+          "start": 964.43
+        }
+      ],
+      "surface_examples": [
+        "頑張れ",
+        "頑張っ"
+      ]
+    },
+    {
+      "lemma": "里美",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0120",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0120",
+          "start": 438.871
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0123",
+          "start": 445.878
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0182",
+          "start": 643.809
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0480",
+          "start": 1833.331
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0482",
+          "start": 1854.986
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0499",
+          "start": 1935.933
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0522",
+          "start": 2003.201
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0563",
+          "start": 2129.694
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0598",
+          "start": 2257.788
+        }
+      ],
+      "surface_examples": [
+        "里美"
+      ]
+    },
+    {
+      "lemma": "後藤",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0120",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0120",
+          "start": 438.871
+        }
+      ],
+      "surface_examples": [
+        "後藤"
+      ]
+    },
+    {
+      "lemma": "単純",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0121",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0121",
+          "start": 440.039
+        }
+      ],
+      "surface_examples": [
+        "単純"
+      ]
+    },
+    {
+      "lemma": "造影",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0121",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0121",
+          "start": 440.039
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0141",
+          "start": 508.641
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0345",
+          "start": 1384.616
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0380",
+          "start": 1486.451
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0549",
+          "start": 2073.671
+        }
+      ],
+      "surface_examples": [
+        "造影"
+      ]
+    },
+    {
+      "lemma": "血管",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0128",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0128",
+          "start": 475.708
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0141",
+          "start": 508.641
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0151",
+          "start": 536.736
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0152",
+          "start": 540.239
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0338",
+          "start": 1365.163
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0350",
+          "start": 1396.962
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0357",
+          "start": 1412.244
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0358",
+          "start": 1414.513
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0363",
+          "start": 1425.423
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0592",
+          "start": 2227.558
+        }
+      ],
+      "surface_examples": [
+        "血管"
+      ]
+    },
+    {
+      "lemma": "脾臓",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0129",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0129",
+          "start": 478.144
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0162",
+          "start": 568.968
+        }
+      ],
+      "surface_examples": [
+        "脾臓"
+      ]
+    },
+    {
+      "lemma": "損傷",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0129",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0129",
+          "start": 478.144
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0162",
+          "start": 568.968
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0369",
+          "start": 1442.774
+        }
+      ],
+      "surface_examples": [
+        "損傷"
+      ]
+    },
+    {
+      "lemma": "止血",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0129",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0129",
+          "start": 478.144
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0153",
+          "start": 543.91
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0218",
+          "start": 799.798
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0369",
+          "start": 1442.774
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0392",
+          "start": 1524.322
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0466",
+          "start": 1778.209
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0497",
+          "start": 1929.16
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0578",
+          "start": 2179.677
+        }
+      ],
+      "surface_examples": [
+        "止血"
+      ]
+    },
+    {
+      "lemma": "一番",
+      "pos": "副詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0134",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0134",
+          "start": 490.556
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0209",
+          "start": 764.563
+        }
+      ],
+      "surface_examples": [
+        "一番"
+      ]
+    },
+    {
+      "lemma": "勉強",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0135",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0135",
+          "start": 492.959
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0297",
+          "start": 1189.755
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0300",
+          "start": 1195.394
+        }
+      ],
+      "surface_examples": [
+        "勉強"
+      ]
+    },
+    {
+      "lemma": "慎重",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0136",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0136",
+          "start": 494.293
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0269",
+          "start": 1050.983
+        }
+      ],
+      "surface_examples": [
+        "慎重"
+      ]
+    },
+    {
+      "lemma": "室",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0141",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0141",
+          "start": 508.641
+        }
+      ],
+      "surface_examples": [
+        "室"
+      ]
+    },
+    {
+      "lemma": "画像",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0145",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0145",
+          "start": 517.149
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0361",
+          "start": 1421.686
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0428",
+          "start": 1639.037
+        }
+      ],
+      "surface_examples": [
+        "画像"
+      ]
+    },
+    {
+      "lemma": "下",
+      "pos": "接尾辞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0145",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0145",
+          "start": 517.149
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0476",
+          "start": 1820.251
+        }
+      ],
+      "surface_examples": [
+        "下"
+      ]
+    },
+    {
+      "lemma": "治療",
+      "pos": "名詞",
+      "count": 17,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0145",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0145",
+          "start": 517.149
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0147",
+          "start": 523.055
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0150",
+          "start": 533.132
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0160",
+          "start": 562.528
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0221",
+          "start": 818.517
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0262",
+          "start": 1017.683
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0263",
+          "start": 1021.82
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0272",
+          "start": 1064.663
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0299",
+          "start": 1193.258
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0301",
+          "start": 1198.497
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0302",
+          "start": 1200.832
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0363",
+          "start": 1425.423
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0380",
+          "start": 1486.451
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0387",
+          "start": 1510.876
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0464",
+          "start": 1771.87
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0473",
+          "start": 1794.192
+        }
+      ],
+      "surface_examples": [
+        "治療"
+      ]
+    },
+    {
+      "lemma": "患者",
+      "pos": "名詞",
+      "count": 24,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0146",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0146",
+          "start": 519.452
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0176",
+          "start": 606.839
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0177",
+          "start": 610.776
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0179",
+          "start": 622.321
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0197",
+          "start": 731.397
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0222",
+          "start": 823.222
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0243",
+          "start": 937.603
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0253",
+          "start": 968.967
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0262",
+          "start": 1017.683
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0263",
+          "start": 1021.82
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0272",
+          "start": 1064.663
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0281",
+          "start": 1112.945
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0322",
+          "start": 1270.202
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0324",
+          "start": 1276.174
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0342",
+          "start": 1376.508
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0380",
+          "start": 1486.451
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0387",
+          "start": 1510.876
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0421",
+          "start": 1614.746
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0441",
+          "start": 1682.08
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0512",
+          "start": 1974.605
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0555",
+          "start": 2091.556
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0579",
+          "start": 2184.482
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0672",
+          "start": 2536.4
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0708",
+          "start": 2721.051
+        }
+      ],
+      "surface_examples": [
+        "患者"
+      ]
+    },
+    {
+      "lemma": "人類",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0148",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0148",
+          "start": 526.592
+        }
+      ],
+      "surface_examples": [
+        "人類"
+      ]
+    },
+    {
+      "lemma": "方法",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0149",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0149",
+          "start": 530.496
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0155",
+          "start": 548.848
+        }
+      ],
+      "surface_examples": [
+        "方法"
+      ]
+    },
+    {
+      "lemma": "娘",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0150",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0150",
+          "start": 533.132
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0158",
+          "start": 557.056
+        }
+      ],
+      "surface_examples": [
+        "娘"
+      ]
+    },
+    {
+      "lemma": "血液",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0153",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0153",
+          "start": 543.91
+        }
+      ],
+      "surface_examples": [
+        "血液"
+      ]
+    },
+    {
+      "lemma": "部分",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0153",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0153",
+          "start": 543.91
+        }
+      ],
+      "surface_examples": [
+        "部分"
+      ]
+    },
+    {
+      "lemma": "傷",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0156",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0156",
+          "start": 552.852
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0165",
+          "start": 577.109
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0211",
+          "start": 775.608
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0220",
+          "start": 808.874
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0242",
+          "start": 932.231
+        }
+      ],
+      "surface_examples": [
+        "傷"
+      ]
+    },
+    {
+      "lemma": "放射線科医",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0160",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0160",
+          "start": 562.528
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0248",
+          "start": 953.118
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0254",
+          "start": 971.303
+        }
+      ],
+      "surface_examples": [
+        "放射線科医"
+      ]
+    },
+    {
+      "lemma": "出血",
+      "pos": "名詞",
+      "count": 18,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0163",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0163",
+          "start": 571.003
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0381",
+          "start": 1489.554
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0391",
+          "start": 1521.82
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0465",
+          "start": 1774.506
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0502",
+          "start": 1942.473
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0508",
+          "start": 1967.632
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0520",
+          "start": 1997.495
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0547",
+          "start": 2068.032
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0548",
+          "start": 2070.868
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0552",
+          "start": 2081.412
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0566",
+          "start": 2135.233
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0577",
+          "start": 2176.741
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0583",
+          "start": 2197.962
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0587",
+          "start": 2207.438
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0594",
+          "start": 2235.566
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0595",
+          "start": 2240.605
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0652",
+          "start": 2451.015
+        }
+      ],
+      "surface_examples": [
+        "出血"
+      ]
+    },
+    {
+      "lemma": "彼女",
+      "pos": "代名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0164",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0164",
+          "start": 574.373
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0415",
+          "start": 1600.165
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0632",
+          "start": 2390.821
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0633",
+          "start": 2393.157
+        }
+      ],
+      "surface_examples": [
+        "彼女"
+      ]
+    },
+    {
+      "lemma": "開腹",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0165",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0165",
+          "start": 577.109
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0183",
+          "start": 645.644
+        }
+      ],
+      "surface_examples": [
+        "開腹"
+      ]
+    },
+    {
+      "lemma": "手術",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0165",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0165",
+          "start": 577.109
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0183",
+          "start": 645.644
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0396",
+          "start": 1532.43
+        }
+      ],
+      "surface_examples": [
+        "手術"
+      ]
+    },
+    {
+      "lemma": "一度",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0168",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0168",
+          "start": 584.917
+        }
+      ],
+      "surface_examples": [
+        "一度"
+      ]
+    },
+    {
+      "lemma": "対応",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0169",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0169",
+          "start": 589.088
+        }
+      ],
+      "surface_examples": [
+        "対応"
+      ]
+    },
+    {
+      "lemma": "最悪",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0170",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0170",
+          "start": 591.657
+        }
+      ],
+      "surface_examples": [
+        "最悪"
+      ]
+    },
+    {
+      "lemma": "危険性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0170",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0170",
+          "start": 591.657
+        }
+      ],
+      "surface_examples": [
+        "危険性"
+      ]
+    },
+    {
+      "lemma": "以上",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0171",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0171",
+          "start": 594.36
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0189",
+          "start": 696.629
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0194",
+          "start": 726.292
+        }
+      ],
+      "surface_examples": [
+        "以上"
+      ]
+    },
+    {
+      "lemma": "選択",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0172",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0172",
+          "start": 596.996
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0477",
+          "start": 1822.687
+        }
+      ],
+      "surface_examples": [
+        "選択"
+      ]
+    },
+    {
+      "lemma": "安全",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0172",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0172",
+          "start": 596.996
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0398",
+          "start": 1537.836
+        }
+      ],
+      "surface_examples": [
+        "安全"
+      ]
+    },
+    {
+      "lemma": "余計",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0176",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0176",
+          "start": 606.839
+        }
+      ],
+      "surface_examples": [
+        "余計"
+      ]
+    },
+    {
+      "lemma": "指示",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0178",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0178",
+          "start": 617.55
+        }
+      ],
+      "surface_examples": [
+        "指示"
+      ]
+    },
+    {
+      "lemma": "優先",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0179",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0179",
+          "start": 622.321
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0209",
+          "start": 764.563
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0243",
+          "start": 937.603
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0281",
+          "start": 1112.945
+        }
+      ],
+      "surface_examples": [
+        "優先"
+      ]
+    },
+    {
+      "lemma": "状況",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0185",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0185",
+          "start": 650.383
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0364",
+          "start": 1430.262
+        }
+      ],
+      "surface_examples": [
+        "状況"
+      ]
+    },
+    {
+      "lemma": "経験",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0187",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0187",
+          "start": 689.822
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0414",
+          "start": 1596.161
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0424",
+          "start": 1625.357
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0633",
+          "start": 2393.157
+        }
+      ],
+      "surface_examples": [
+        "経験"
+      ]
+    },
+    {
+      "lemma": "判断",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0189",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0189",
+          "start": 696.629
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0244",
+          "start": 940.406
+        }
+      ],
+      "surface_examples": [
+        "判断"
+      ]
+    },
+    {
+      "lemma": "元気",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0192",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0192",
+          "start": 720.386
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0220",
+          "start": 808.874
+        }
+      ],
+      "surface_examples": [
+        "元気"
+      ]
+    },
+    {
+      "lemma": "方針",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0193",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0193",
+          "start": 722.721
+        }
+      ],
+      "surface_examples": [
+        "方針"
+      ]
+    },
+    {
+      "lemma": "様",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0193",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0193",
+          "start": 722.721
+        }
+      ],
+      "surface_examples": [
+        "様"
+      ]
+    },
+    {
+      "lemma": "無理",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0196",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0196",
+          "start": 730.196
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0250",
+          "start": 961.694
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0255",
+          "start": 975.174
+        }
+      ],
+      "surface_examples": [
+        "無理"
+      ]
+    },
+    {
+      "lemma": "技師長",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0200",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0200",
+          "start": 738.804
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0434",
+          "start": 1655.453
+        }
+      ],
+      "surface_examples": [
+        "技師長"
+      ]
+    },
+    {
+      "lemma": "技術",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0201",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0201",
+          "start": 741.64
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0241",
+          "start": 926.892
+        }
+      ],
+      "surface_examples": [
+        "技術"
+      ]
+    },
+    {
+      "lemma": "野郎",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0203",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0203",
+          "start": 746.979
+        }
+      ],
+      "surface_examples": [
+        "野郎"
+      ]
+    },
+    {
+      "lemma": "腕",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0214",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0214",
+          "start": 786.752
+        }
+      ],
+      "surface_examples": [
+        "腕"
+      ]
+    },
+    {
+      "lemma": "お父様",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0214",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0214",
+          "start": 786.752
+        }
+      ],
+      "surface_examples": [
+        "お父様"
+      ]
+    },
+    {
+      "lemma": "成功",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0219",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0219",
+          "start": 803.402
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0684",
+          "start": 2590.154
+        }
+      ],
+      "surface_examples": [
+        "成功"
+      ]
+    },
+    {
+      "lemma": "退院",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0220",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0220",
+          "start": 808.874
+        }
+      ],
+      "surface_examples": [
+        "退院"
+      ]
+    },
+    {
+      "lemma": "現実",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0223",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0223",
+          "start": 828.194
+        }
+      ],
+      "surface_examples": [
+        "現実"
+      ]
+    },
+    {
+      "lemma": "弁当",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0229",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0229",
+          "start": 873.372
+        }
+      ],
+      "surface_examples": [
+        "弁当"
+      ]
+    },
+    {
+      "lemma": "今週",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0234",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0234",
+          "start": 888.12
+        }
+      ],
+      "surface_examples": [
+        "今週"
+      ]
+    },
+    {
+      "lemma": "悔しい",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0240",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0240",
+          "start": 923.222
+        }
+      ],
+      "surface_examples": [
+        "悔しい"
+      ]
+    },
+    {
+      "lemma": "間違う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0244",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0244",
+          "start": 940.406
+        }
+      ],
+      "surface_examples": [
+        "間違っ"
+      ]
+    },
+    {
+      "lemma": "全然",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0249",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0249",
+          "start": 958.957
+        }
+      ],
+      "surface_examples": [
+        "全然"
+      ]
+    },
+    {
+      "lemma": "甘い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0251",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0251",
+          "start": 964.43
+        }
+      ],
+      "surface_examples": [
+        "甘"
+      ]
+    },
+    {
+      "lemma": "毎日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0252",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0252",
+          "start": 966.598
+        }
+      ],
+      "surface_examples": [
+        "毎日"
+      ]
+    },
+    {
+      "lemma": "専門",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0254",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0254",
+          "start": 971.303
+        }
+      ],
+      "surface_examples": [
+        "専門"
+      ]
+    },
+    {
+      "lemma": "声",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0257",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0257",
+          "start": 985.985
+        }
+      ],
+      "surface_examples": [
+        "声"
+      ]
+    },
+    {
+      "lemma": "理想",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0259",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0259",
+          "start": 999.398
+        }
+      ],
+      "surface_examples": [
+        "理想"
+      ]
+    },
+    {
+      "lemma": "行為",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0266",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0266",
+          "start": 1035.601
+        }
+      ],
+      "surface_examples": [
+        "行為"
+      ]
+    },
+    {
+      "lemma": "大事",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0275",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0275",
+          "start": 1079.778
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0620",
+          "start": 2361.459
+        }
+      ],
+      "surface_examples": [
+        "大事"
+      ]
+    },
+    {
+      "lemma": "当然",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0281",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0281",
+          "start": 1112.945
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0312",
+          "start": 1243.041
+        }
+      ],
+      "surface_examples": [
+        "当然"
+      ]
+    },
+    {
+      "lemma": "壮麗",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0290",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0290",
+          "start": 1167.366
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0528",
+          "start": 2019.484
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0537",
+          "start": 2045.643
+        }
+      ],
+      "surface_examples": [
+        "壮麗"
+      ]
+    },
+    {
+      "lemma": "参道",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0291",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0291",
+          "start": 1171.737
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0529",
+          "start": 2023.488
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0538",
+          "start": 2048.279
+        }
+      ],
+      "surface_examples": [
+        "参道"
+      ]
+    },
+    {
+      "lemma": "陸",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0291",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0291",
+          "start": 1171.737
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0529",
+          "start": 2023.488
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0538",
+          "start": 2048.279
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0542",
+          "start": 2056.854
+        }
+      ],
+      "surface_examples": [
+        "陸"
+      ]
+    },
+    {
+      "lemma": "舟",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0291",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0291",
+          "start": 1171.737
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0529",
+          "start": 2023.488
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0538",
+          "start": 2048.279
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0542",
+          "start": 2056.854
+        }
+      ],
+      "surface_examples": [
+        "舟"
+      ]
+    },
+    {
+      "lemma": "存在",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0291",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0291",
+          "start": 1171.737
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0529",
+          "start": 2023.488
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0592",
+          "start": 2227.558
+        }
+      ],
+      "surface_examples": [
+        "存在"
+      ]
+    },
+    {
+      "lemma": "気付く",
+      "pos": "動詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0291",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0291",
+          "start": 1171.737
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0529",
+          "start": 2023.488
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0688",
+          "start": 2608.572
+        }
+      ],
+      "surface_examples": [
+        "気付か",
+        "気付い"
+      ]
+    },
+    {
+      "lemma": "京都",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0292",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0292",
+          "start": 1176.542
+        }
+      ],
+      "surface_examples": [
+        "京都"
+      ]
+    },
+    {
+      "lemma": "三",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0292",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0292",
+          "start": 1176.542
+        }
+      ],
+      "surface_examples": [
+        "三"
+      ]
+    },
+    {
+      "lemma": "大",
+      "pos": "接頭辞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0292",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0292",
+          "start": 1176.542
+        }
+      ],
+      "surface_examples": [
+        "大"
+      ]
+    },
+    {
+      "lemma": "松",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0292",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0292",
+          "start": 1176.542
+        }
+      ],
+      "surface_examples": [
+        "松"
+      ]
+    },
+    {
+      "lemma": "無駄",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0300",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0300",
+          "start": 1195.394
+        }
+      ],
+      "surface_examples": [
+        "無駄"
+      ]
+    },
+    {
+      "lemma": "中",
+      "pos": "接尾辞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0302",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0302",
+          "start": 1200.832
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0363",
+          "start": 1425.423
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0380",
+          "start": 1486.451
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0387",
+          "start": 1510.876
+        }
+      ],
+      "surface_examples": [
+        "中"
+      ]
+    },
+    {
+      "lemma": "背負う",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0304",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0304",
+          "start": 1208.173
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0321",
+          "start": 1264.363
+        }
+      ],
+      "surface_examples": [
+        "背負い",
+        "背負う"
+      ]
+    },
+    {
+      "lemma": "不安",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0305",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0305",
+          "start": 1212.344
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0308",
+          "start": 1222.254
+        }
+      ],
+      "surface_examples": [
+        "不安"
+      ]
+    },
+    {
+      "lemma": "免許",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0320",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0320",
+          "start": 1262.461
+        }
+      ],
+      "surface_examples": [
+        "免許"
+      ]
+    },
+    {
+      "lemma": "直接",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0322",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0322",
+          "start": 1270.202
+        }
+      ],
+      "surface_examples": [
+        "直接"
+      ]
+    },
+    {
+      "lemma": "塞栓",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0333",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0333",
+          "start": 1351.483
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0503",
+          "start": 1943.841
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0508",
+          "start": 1967.632
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0595",
+          "start": 2240.605
+        }
+      ],
+      "surface_examples": [
+        "塞栓"
+      ]
+    },
+    {
+      "lemma": "症例",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0336",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0336",
+          "start": 1357.689
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0684",
+          "start": 2590.154
+        }
+      ],
+      "surface_examples": [
+        "症例"
+      ]
+    },
+    {
+      "lemma": "全部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0336",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0336",
+          "start": 1357.689
+        }
+      ],
+      "surface_examples": [
+        "全部"
+      ]
+    },
+    {
+      "lemma": "練習",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0337",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0337",
+          "start": 1361.993
+        }
+      ],
+      "surface_examples": [
+        "練習"
+      ]
+    },
+    {
+      "lemma": "発想",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0358",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0358",
+          "start": 1414.513
+        }
+      ],
+      "surface_examples": [
+        "発想"
+      ]
+    },
+    {
+      "lemma": "造影剤",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0363",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0363",
+          "start": 1425.423
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0383",
+          "start": 1494.926
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0390",
+          "start": 1519.351
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0483",
+          "start": 1856.387
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0547",
+          "start": 2068.032
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0566",
+          "start": 2135.233
+        }
+      ],
+      "surface_examples": [
+        "造影剤"
+      ]
+    },
+    {
+      "lemma": "一瞬",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0363",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0363",
+          "start": 1425.423
+        }
+      ],
+      "surface_examples": [
+        "一瞬"
+      ]
+    },
+    {
+      "lemma": "地図",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0365",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0365",
+          "start": 1432.898
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0530",
+          "start": 2026.724
+        }
+      ],
+      "surface_examples": [
+        "地図"
+      ]
+    },
+    {
+      "lemma": "肝臓",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0369",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0369",
+          "start": 1442.774
+        }
+      ],
+      "surface_examples": [
+        "肝臓"
+      ]
+    },
+    {
+      "lemma": "腹腔",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0372",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0372",
+          "start": 1449.614
+        }
+      ],
+      "surface_examples": [
+        "腹腔"
+      ]
+    },
+    {
+      "lemma": "動脈",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0372",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0372",
+          "start": 1449.614
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0476",
+          "start": 1820.251
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0565",
+          "start": 2132.997
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0568",
+          "start": 2138.569
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0572",
+          "start": 2150.381
+        }
+      ],
+      "surface_examples": [
+        "動脈"
+      ]
+    },
+    {
+      "lemma": "受付",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0374",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0374",
+          "start": 1465.096
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0377",
+          "start": 1477.809
+        }
+      ],
+      "surface_examples": [
+        "受付"
+      ]
+    },
+    {
+      "lemma": "外来",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0374",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0374",
+          "start": 1465.096
+        }
+      ],
+      "surface_examples": [
+        "外来"
+      ]
+    },
+    {
+      "lemma": "篠原",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0378",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0378",
+          "start": 1481.012
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0394",
+          "start": 1527.526
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0465",
+          "start": 1774.506
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0598",
+          "start": 2257.788
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0652",
+          "start": 2451.015
+        }
+      ],
+      "surface_examples": [
+        "篠原"
+      ]
+    },
+    {
+      "lemma": "大腸がん",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0380",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0380",
+          "start": 1486.451
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0387",
+          "start": 1510.876
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0465",
+          "start": 1774.506
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0521",
+          "start": 2000.365
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0539",
+          "start": 2051.449
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0552",
+          "start": 2081.412
+        }
+      ],
+      "surface_examples": [
+        "大腸がん"
+      ]
+    },
+    {
+      "lemma": "症状",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0381",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0381",
+          "start": 1489.554
+        }
+      ],
+      "surface_examples": [
+        "症状"
+      ]
+    },
+    {
+      "lemma": "消化管",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0381",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0381",
+          "start": 1489.554
+        }
+      ],
+      "surface_examples": [
+        "消化管"
+      ]
+    },
+    {
+      "lemma": "田中",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0386",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0386",
+          "start": 1508.44
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0411",
+          "start": 1584.282
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0413",
+          "start": 1592.724
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0417",
+          "start": 1606.037
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0449",
+          "start": 1703.768
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0525",
+          "start": 2008.539
+        }
+      ],
+      "surface_examples": [
+        "田中"
+      ]
+    },
+    {
+      "lemma": "腫瘍",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0388",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0388",
+          "start": 1514.112
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0390",
+          "start": 1519.351
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0477",
+          "start": 1822.687
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0487",
+          "start": 1879.344
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0545",
+          "start": 2064.662
+        }
+      ],
+      "surface_examples": [
+        "腫瘍"
+      ]
+    },
+    {
+      "lemma": "樫木",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0400",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0400",
+          "start": 1549.214
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0402",
+          "start": 1556.855
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0404",
+          "start": 1564.429
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0410",
+          "start": 1583.081
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0453",
+          "start": 1716.347
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0455",
+          "start": 1729.761
+        }
+      ],
+      "surface_examples": [
+        "樫木"
+      ]
+    },
+    {
+      "lemma": "参考",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0401",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0401",
+          "start": 1551.583
+        }
+      ],
+      "surface_examples": [
+        "参考"
+      ]
+    },
+    {
+      "lemma": "横浜",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0402",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0402",
+          "start": 1556.855
+        }
+      ],
+      "surface_examples": [
+        "横浜"
+      ]
+    },
+    {
+      "lemma": "臨港",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0402",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0402",
+          "start": 1556.855
+        }
+      ],
+      "surface_examples": [
+        "臨港"
+      ]
+    },
+    {
+      "lemma": "懇親会",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0404",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0404",
+          "start": 1564.429
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0408",
+          "start": 1574.372
+        }
+      ],
+      "surface_examples": [
+        "懇親会"
+      ]
+    },
+    {
+      "lemma": "有名",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0406",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0406",
+          "start": 1570.535
+        }
+      ],
+      "surface_examples": [
+        "有名"
+      ]
+    },
+    {
+      "lemma": "お店",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0406",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0406",
+          "start": 1570.535
+        }
+      ],
+      "surface_examples": [
+        "お店"
+      ]
+    },
+    {
+      "lemma": "知識",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0427",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0427",
+          "start": 1635.333
+        }
+      ],
+      "surface_examples": [
+        "知識"
+      ]
+    },
+    {
+      "lemma": "失敗",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0428",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0428",
+          "start": 1639.037
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0439",
+          "start": 1678.443
+        }
+      ],
+      "surface_examples": [
+        "失敗"
+      ]
+    },
+    {
+      "lemma": "名乗る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0442",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0442",
+          "start": 1684.716
+        }
+      ],
+      "surface_examples": [
+        "名乗る"
+      ]
+    },
+    {
+      "lemma": "搬送",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0444",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0444",
+          "start": 1691.723
+        }
+      ],
+      "surface_examples": [
+        "搬送"
+      ]
+    },
+    {
+      "lemma": "手伝う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0444",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0444",
+          "start": 1691.723
+        }
+      ],
+      "surface_examples": [
+        "手伝っ"
+      ]
+    },
+    {
+      "lemma": "一応",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0450",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0450",
+          "start": 1705.937
+        }
+      ],
+      "surface_examples": [
+        "一応"
+      ]
+    },
+    {
+      "lemma": "電話",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0450",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0450",
+          "start": 1705.937
+        }
+      ],
+      "surface_examples": [
+        "電話"
+      ]
+    },
+    {
+      "lemma": "男性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0451",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0451",
+          "start": 1711.743
+        }
+      ],
+      "surface_examples": [
+        "男性"
+      ]
+    },
+    {
+      "lemma": "乾杯",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0451",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0451",
+          "start": 1711.743
+        }
+      ],
+      "surface_examples": [
+        "乾杯"
+      ]
+    },
+    {
+      "lemma": "厚岸",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0456",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0456",
+          "start": 1733.198
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0457",
+          "start": 1734.699
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0644",
+          "start": 2430.828
+        }
+      ],
+      "surface_examples": [
+        "厚岸"
+      ]
+    },
+    {
+      "lemma": "美人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0463",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0463",
+          "start": 1758.423
+        }
+      ],
+      "surface_examples": [
+        "美人"
+      ]
+    },
+    {
+      "lemma": "部下",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0464",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0464",
+          "start": 1771.87
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0467",
+          "start": 1780.912
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0471",
+          "start": 1790.488
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0515",
+          "start": 1982.68
+        }
+      ],
+      "surface_examples": [
+        "部下"
+      ]
+    },
+    {
+      "lemma": "血",
+      "pos": "接頭辞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0464",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0464",
+          "start": 1771.87
+        }
+      ],
+      "surface_examples": [
+        "血"
+      ]
+    },
+    {
+      "lemma": "管内",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0464",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0464",
+          "start": 1771.87
+        }
+      ],
+      "surface_examples": [
+        "管内"
+      ]
+    },
+    {
+      "lemma": "当院",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0472",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0472",
+          "start": 1791.556
+        }
+      ],
+      "surface_examples": [
+        "当院"
+      ]
+    },
+    {
+      "lemma": "一",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0472",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0472",
+          "start": 1791.556
+        }
+      ],
+      "surface_examples": [
+        "一"
+      ]
+    },
+    {
+      "lemma": "優秀",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0472",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0472",
+          "start": 1791.556
+        }
+      ],
+      "surface_examples": [
+        "優秀"
+      ]
+    },
+    {
+      "lemma": "提供",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0473",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0473",
+          "start": 1794.192
+        }
+      ],
+      "surface_examples": [
+        "提供"
+      ]
+    },
+    {
+      "lemma": "穿刺",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0475",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0475",
+          "start": 1816.915
+        }
+      ],
+      "surface_examples": [
+        "穿刺"
+      ]
+    },
+    {
+      "lemma": "鼠径部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0475",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0475",
+          "start": 1816.915
+        }
+      ],
+      "surface_examples": [
+        "鼠径部"
+      ]
+    },
+    {
+      "lemma": "腸間膜",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0476",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0476",
+          "start": 1820.251
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0565",
+          "start": 2132.997
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0568",
+          "start": 2138.569
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0572",
+          "start": 2150.381
+        }
+      ],
+      "surface_examples": [
+        "腸間膜"
+      ]
+    },
+    {
+      "lemma": "撮影",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0481",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0481",
+          "start": 1850.081
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0493",
+          "start": 1917.615
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0573",
+          "start": 2158.022
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0588",
+          "start": 2211.976
+        }
+      ],
+      "surface_examples": [
+        "撮影"
+      ]
+    },
+    {
+      "lemma": "離れる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0482",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0482",
+          "start": 1854.986
+        }
+      ],
+      "surface_examples": [
+        "離れ"
+      ]
+    },
+    {
+      "lemma": "心電",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0498",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0498",
+          "start": 1934.766
+        }
+      ],
+      "surface_examples": [
+        "心電"
+      ]
+    },
+    {
+      "lemma": "計",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0498",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0498",
+          "start": 1934.766
+        }
+      ],
+      "surface_examples": [
+        "計"
+      ]
+    },
+    {
+      "lemma": "警告",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0498",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0498",
+          "start": 1934.766
+        }
+      ],
+      "surface_examples": [
+        "警告"
+      ]
+    },
+    {
+      "lemma": "音",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0498",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0498",
+          "start": 1934.766
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0665",
+          "start": 2499.163
+        }
+      ],
+      "surface_examples": [
+        "音"
+      ]
+    },
+    {
+      "lemma": "原因",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0504",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0504",
+          "start": 1946.144
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0509",
+          "start": 1969.968
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0540",
+          "start": 2053.785
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0541",
+          "start": 2055.553
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0652",
+          "start": 2451.015
+        }
+      ],
+      "surface_examples": [
+        "原因"
+      ]
+    },
+    {
+      "lemma": "大変",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0507",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0507",
+          "start": 1966.731
+        }
+      ],
+      "surface_examples": [
+        "大変"
+      ]
+    },
+    {
+      "lemma": "急患",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0508",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0508",
+          "start": 1967.632
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0629",
+          "start": 2385.282
+        }
+      ],
+      "surface_examples": [
+        "急患"
+      ]
+    },
+    {
+      "lemma": "到着",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0511",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0511",
+          "start": 1972.87
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0518",
+          "start": 1992.657
+        }
+      ],
+      "surface_examples": [
+        "到着"
+      ]
+    },
+    {
+      "lemma": "運転手",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0513",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0513",
+          "start": 1978.142
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0514",
+          "start": 1980.345
+        }
+      ],
+      "surface_examples": [
+        "運転手"
+      ]
+    },
+    {
+      "lemma": "お客さん",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0514",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0514",
+          "start": 1980.345
+        }
+      ],
+      "surface_examples": [
+        "お客さん"
+      ]
+    },
+    {
+      "lemma": "箇所",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0520",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0520",
+          "start": 1997.495
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0566",
+          "start": 2135.233
+        }
+      ],
+      "surface_examples": [
+        "箇所"
+      ]
+    },
+    {
+      "lemma": "見当たる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0520",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0520",
+          "start": 1997.495
+        }
+      ],
+      "surface_examples": [
+        "見当たら"
+      ]
+    },
+    {
+      "lemma": "重大",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0534",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0534",
+          "start": 2038.069
+        }
+      ],
+      "surface_examples": [
+        "重大"
+      ]
+    },
+    {
+      "lemma": "勘違い",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0534",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0534",
+          "start": 2038.069
+        }
+      ],
+      "surface_examples": [
+        "勘違い"
+      ]
+    },
+    {
+      "lemma": "小腸",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0542",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0542",
+          "start": 2056.854
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0543",
+          "start": 2059.924
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0566",
+          "start": 2135.233
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0590",
+          "start": 2223.788
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0594",
+          "start": 2235.566
+        }
+      ],
+      "surface_examples": [
+        "小腸"
+      ]
+    },
+    {
+      "lemma": "視野",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0552",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0552",
+          "start": 2081.412
+        }
+      ],
+      "surface_examples": [
+        "視野"
+      ]
+    },
+    {
+      "lemma": "状態",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0555",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0555",
+          "start": 2091.556
+        }
+      ],
+      "surface_examples": [
+        "状態"
+      ]
+    },
+    {
+      "lemma": "一旦",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0564",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0564",
+          "start": 2130.595
+        }
+      ],
+      "surface_examples": [
+        "一旦"
+      ]
+    },
+    {
+      "lemma": "腹部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0564",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0564",
+          "start": 2130.595
+        }
+      ],
+      "surface_examples": [
+        "腹部"
+      ]
+    },
+    {
+      "lemma": "大動脈",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0564",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0564",
+          "start": 2130.595
+        }
+      ],
+      "surface_examples": [
+        "大動脈"
+      ]
+    },
+    {
+      "lemma": "上",
+      "pos": "接頭辞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0565",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0565",
+          "start": 2132.997
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0568",
+          "start": 2138.569
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0572",
+          "start": 2150.381
+        }
+      ],
+      "surface_examples": [
+        "上"
+      ]
+    },
+    {
+      "lemma": "特定",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0566",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0566",
+          "start": 2135.233
+        }
+      ],
+      "surface_examples": [
+        "特定"
+      ]
+    },
+    {
+      "lemma": "点",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0577",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0577",
+          "start": 2176.741
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0583",
+          "start": 2197.962
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0587",
+          "start": 2207.438
+        }
+      ],
+      "surface_examples": [
+        "点"
+      ]
+    },
+    {
+      "lemma": "動",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0590",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0590",
+          "start": 2223.788
+        }
+      ],
+      "surface_examples": [
+        "動"
+      ]
+    },
+    {
+      "lemma": "静脈",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0590",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0590",
+          "start": 2223.788
+        }
+      ],
+      "surface_examples": [
+        "静脈"
+      ]
+    },
+    {
+      "lemma": "奇形",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0590",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0590",
+          "start": 2223.788
+        }
+      ],
+      "surface_examples": [
+        "奇形"
+      ]
+    },
+    {
+      "lemma": "成長",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0593",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0593",
+          "start": 2231.829
+        }
+      ],
+      "surface_examples": [
+        "成長"
+      ]
+    },
+    {
+      "lemma": "安定",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0598",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0598",
+          "start": 2257.788
+        }
+      ],
+      "surface_examples": [
+        "安定"
+      ]
+    },
+    {
+      "lemma": "真似",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0610",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0610",
+          "start": 2318.749
+        }
+      ],
+      "surface_examples": [
+        "真似"
+      ]
+    },
+    {
+      "lemma": "無事",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0617",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0617",
+          "start": 2353.084
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0631",
+          "start": 2388.786
+        },
+        {
+          "sentence_id": "radiation-house-s01-e06-0637",
+          "start": 2410.007
+        }
+      ],
+      "surface_examples": [
+        "無事"
+      ]
+    },
+    {
+      "lemma": "卒業",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0637",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0637",
+          "start": 2410.007
+        }
+      ],
+      "surface_examples": [
+        "卒業"
+      ]
+    },
+    {
+      "lemma": "出世",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0638",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0638",
+          "start": 2413.11
+        }
+      ],
+      "surface_examples": [
+        "出世"
+      ]
+    },
+    {
+      "lemma": "嘘",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0641",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0641",
+          "start": 2420.751
+        }
+      ],
+      "surface_examples": [
+        "嘘"
+      ]
+    },
+    {
+      "lemma": "唯",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0647",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0647",
+          "start": 2440.204
+        }
+      ],
+      "surface_examples": [
+        "唯"
+      ]
+    },
+    {
+      "lemma": "織",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0647",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0647",
+          "start": 2440.204
+        }
+      ],
+      "surface_examples": [
+        "織"
+      ]
+    },
+    {
+      "lemma": "気付ける",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0652",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0652",
+          "start": 2451.015
+        }
+      ],
+      "surface_examples": [
+        "気付け"
+      ]
+    },
+    {
+      "lemma": "内容",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0662",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0662",
+          "start": 2479.577
+        }
+      ],
+      "surface_examples": [
+        "内容"
+      ]
+    },
+    {
+      "lemma": "通知",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0665",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0665",
+          "start": 2499.163
+        }
+      ],
+      "surface_examples": [
+        "通知"
+      ]
+    },
+    {
+      "lemma": "限界",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0675",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0675",
+          "start": 2551.248
+        }
+      ],
+      "surface_examples": [
+        "限界"
+      ]
+    },
+    {
+      "lemma": "驚く",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0683",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0683",
+          "start": 2582.613
+        }
+      ],
+      "surface_examples": [
+        "驚い"
+      ]
+    },
+    {
+      "lemma": "真貴",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0704",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0704",
+          "start": 2715.813
+        }
+      ],
+      "surface_examples": [
+        "真貴"
+      ]
+    },
+    {
+      "lemma": "悪性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0706",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0706",
+          "start": 2718.615
+        }
+      ],
+      "surface_examples": [
+        "悪性"
+      ]
+    },
+    {
+      "lemma": "志朗",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0707",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0707",
+          "start": 2720.117
+        }
+      ],
+      "surface_examples": [
+        "志朗"
+      ]
+    },
+    {
+      "lemma": "運命",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e06-0710",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e06-0710",
+          "start": 2761.992
+        }
+      ],
+      "surface_examples": [
+        "運命"
       ]
     }
   ]

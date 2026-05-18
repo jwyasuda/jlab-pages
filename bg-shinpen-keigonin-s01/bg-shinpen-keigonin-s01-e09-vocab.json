@@ -1,8 +1,8 @@
 {
   "chapter_id": "bg-shinpen-keigonin-s01-e09",
-  "generated_at": "2026-05-07T14:29:50.319865+00:00",
-  "total_unique_lemmas": 570,
-  "total_tokens_after_filter": 1227,
+  "generated_at": "2026-05-18T09:08:11.527712+00:00",
+  "total_unique_lemmas": 574,
+  "total_tokens_after_filter": 1232,
   "vocab": [
     {
       "lemma": "年",
@@ -812,7 +812,7 @@
     {
       "lemma": "お父さん",
       "pos": "名詞",
-      "count": 10,
+      "count": 9,
       "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0012",
       "occurrences": [
         {
@@ -822,10 +822,6 @@
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e09-0013",
           "start": 29.0
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e09-0127",
-          "start": 463
         },
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e09-0133",
@@ -3818,26 +3814,6 @@
       ]
     },
     {
-      "lemma": "喜ぶ",
-      "pos": "動詞",
-      "count": 2,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0119",
-      "occurrences": [
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e09-0119",
-          "start": 400
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e09-0126",
-          "start": 458
-        }
-      ],
-      "surface_examples": [
-        "喜ん",
-        "喜び"
-      ]
-    },
-    {
       "lemma": "部屋",
       "pos": "名詞",
       "count": 3,
@@ -3915,6 +3891,21 @@
       ],
       "surface_examples": [
         "靖子"
+      ]
+    },
+    {
+      "lemma": "喜ぶ",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0126",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0126",
+          "start": 458
+        }
+      ],
+      "surface_examples": [
+        "喜び"
       ]
     },
     {
@@ -4410,7 +4401,7 @@
     {
       "lemma": "了解",
       "pos": "名詞",
-      "count": 5,
+      "count": 9,
       "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0177",
       "occurrences": [
         {
@@ -4426,12 +4417,28 @@
           "start": 2252
         },
         {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0520",
+          "start": 2296
+        },
+        {
           "sentence_id": "bg-shinpen-keigonin-s01-e09-0524",
           "start": 2320
         },
         {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0534",
+          "start": 2373
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0535",
+          "start": 2376
+        },
+        {
           "sentence_id": "bg-shinpen-keigonin-s01-e09-0763",
           "start": 3463
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0767",
+          "start": 3508
         }
       ],
       "surface_examples": [
@@ -5319,6 +5326,29 @@
       ]
     },
     {
+      "lemma": "一度",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0230",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0230",
+          "start": 961
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0438",
+          "start": 1870
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0542",
+          "start": 2409
+        }
+      ],
+      "surface_examples": [
+        "一度"
+      ]
+    },
+    {
       "lemma": "果たす",
       "pos": "動詞",
       "count": 1,
@@ -5585,6 +5615,51 @@
       ]
     },
     {
+      "lemma": "希望",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0244",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0244",
+          "start": 1004
+        }
+      ],
+      "surface_examples": [
+        "希望"
+      ]
+    },
+    {
+      "lemma": "的",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0244",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0244",
+          "start": 1004
+        }
+      ],
+      "surface_examples": [
+        "的"
+      ]
+    },
+    {
+      "lemma": "観測",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0244",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0244",
+          "start": 1004
+        }
+      ],
+      "surface_examples": [
+        "観測"
+      ]
+    },
+    {
       "lemma": "亡くなる",
       "pos": "動詞",
       "count": 2,
@@ -5827,12 +5902,16 @@
     {
       "lemma": "担当",
       "pos": "名詞",
-      "count": 1,
+      "count": 2,
       "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0266",
       "occurrences": [
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e09-0266",
           "start": 1099
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0267",
+          "start": 1101
         }
       ],
       "surface_examples": [
@@ -5875,6 +5954,21 @@
       ],
       "surface_examples": [
         "各"
+      ]
+    },
+    {
+      "lemma": "大臣",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0267",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0267",
+          "start": 1101
+        }
+      ],
+      "surface_examples": [
+        "大臣"
       ]
     },
     {
@@ -7944,25 +8038,6 @@
       ]
     },
     {
-      "lemma": "一度",
-      "pos": "名詞",
-      "count": 2,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0438",
-      "occurrences": [
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e09-0438",
-          "start": 1870
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e09-0542",
-          "start": 2409
-        }
-      ],
-      "surface_examples": [
-        "一度"
-      ]
-    },
-    {
       "lemma": "辺",
       "pos": "名詞",
       "count": 1,
@@ -8448,7 +8523,7 @@
     {
       "lemma": "秒",
       "pos": "名詞",
-      "count": 9,
+      "count": 8,
       "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0462",
       "occurrences": [
         {
@@ -8474,10 +8549,6 @@
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e09-0474",
           "start": 2073
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e09-0475",
-          "start": 2077
         },
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e09-0477",
@@ -9755,16 +9826,12 @@
     {
       "lemma": "警察官",
       "pos": "名詞",
-      "count": 2,
+      "count": 1,
       "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0574",
       "occurrences": [
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e09-0574",
           "start": 2558
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e09-0601",
-          "start": 2662
         }
       ],
       "surface_examples": [
@@ -9919,25 +9986,6 @@
       ]
     },
     {
-      "lemma": "止まる",
-      "pos": "動詞",
-      "count": 2,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0595",
-      "occurrences": [
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e09-0595",
-          "start": 2636
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e09-0607",
-          "start": 2721
-        }
-      ],
-      "surface_examples": [
-        "止まれ"
-      ]
-    },
-    {
       "lemma": "行動",
       "pos": "名詞",
       "count": 1,
@@ -10055,6 +10103,21 @@
       ],
       "surface_examples": [
         "頼れ"
+      ]
+    },
+    {
+      "lemma": "止まる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e09-0607",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e09-0607",
+          "start": 2721
+        }
+      ],
+      "surface_examples": [
+        "止まれ"
       ]
     },
     {

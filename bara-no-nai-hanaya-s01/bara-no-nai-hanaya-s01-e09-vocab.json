@@ -1,37 +1,1363 @@
 {
   "chapter_id": "bara-no-nai-hanaya-s01-e09",
-  "generated_at": "2026-05-07T11:38:23.692295+00:00",
-  "total_unique_lemmas": 2,
-  "total_tokens_after_filter": 2,
+  "generated_at": "2026-05-18T09:25:51.011097+00:00",
+  "total_unique_lemmas": 28,
+  "total_tokens_after_filter": 267,
   "vocab": [
     {
-      "lemma": "閉まる",
-      "pos": "動詞",
-      "count": 1,
-      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0175",
+      "lemma": "神山",
+      "pos": "名詞",
+      "count": 43,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0001",
       "occurrences": [
         {
-          "sentence_id": "bara-no-nai-hanaya-s01-e09-0175",
-          "start": 578.544
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0001",
+          "start": 9.542
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0003",
+          "start": 16.149
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0005",
+          "start": 21.521
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0009",
+          "start": 29.062
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0013",
+          "start": 39.539
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0016",
+          "start": 47.547
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0017",
+          "start": 49.382
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0019",
+          "start": 53.186
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0064",
+          "start": 271.07
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0089",
+          "start": 348.147
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0095",
+          "start": 363.396
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0131",
+          "start": 457.857
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0132",
+          "start": 460.76
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0141",
+          "start": 480.413
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0143",
+          "start": 484.951
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0152",
+          "start": 508.574
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0177",
+          "start": 590.256
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0179",
+          "start": 593.125
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0181",
+          "start": 596.729
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0186",
+          "start": 603.602
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0189",
+          "start": 609.408
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0192",
+          "start": 615.314
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0199",
+          "start": 633.065
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0208",
+          "start": 652.318
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0358",
+          "start": 1179.344
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0360",
+          "start": 1184.283
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0361",
+          "start": 1186.084
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0363",
+          "start": 1190.189
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0364",
+          "start": 1192.491
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0365",
+          "start": 1195.527
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0366",
+          "start": 1196.995
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0369",
+          "start": 1202.134
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0370",
+          "start": 1203.835
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0372",
+          "start": 1205.737
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0414",
+          "start": 1366.631
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0416",
+          "start": 1370.969
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0418",
+          "start": 1376.641
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0472",
+          "start": 1584.683
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0475",
+          "start": 1592.724
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0652",
+          "start": 2122.653
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0664",
+          "start": 2145.71
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0685",
+          "start": 2235.766
         }
       ],
       "surface_examples": [
-        "閉まる"
+        "神山"
       ]
     },
     {
-      "lemma": "音",
+      "lemma": "英治",
       "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0175",
+      "count": 43,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0002",
       "occurrences": [
         {
-          "sentence_id": "bara-no-nai-hanaya-s01-e09-0175",
-          "start": 578.544
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0002",
+          "start": 13.68
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0004",
+          "start": 19.619
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0012",
+          "start": 36.169
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0014",
+          "start": 43.309
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0017",
+          "start": 49.382
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0031",
+          "start": 143.743
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0046",
+          "start": 189.656
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0054",
+          "start": 208.975
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0083",
+          "start": 323.022
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0120",
+          "start": 429.896
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0122",
+          "start": 433.232
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0131",
+          "start": 457.857
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0132",
+          "start": 460.76
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0134",
+          "start": 465.932
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0136",
+          "start": 469.869
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0146",
+          "start": 491.791
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0156",
+          "start": 525.625
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0182",
+          "start": 597.997
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0206",
+          "start": 647.647
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0208",
+          "start": 652.318
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0248",
+          "start": 809.508
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0296",
+          "start": 962.695
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0298",
+          "start": 968.033
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0302",
+          "start": 975.741
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0310",
+          "start": 1012.644
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0324",
+          "start": 1055.554
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0328",
+          "start": 1066.398
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0329",
+          "start": 1073.238
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0332",
+          "start": 1078.11
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0353",
+          "start": 1167.366
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0401",
+          "start": 1296.862
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0405",
+          "start": 1307.873
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0415",
+          "start": 1369.201
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0417",
+          "start": 1372.704
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0452",
+          "start": 1487.352
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0472",
+          "start": 1584.683
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0474",
+          "start": 1590.622
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0480",
+          "start": 1604.069
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0481",
+          "start": 1604.502
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0493",
+          "start": 1629.995
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0555",
+          "start": 1855.353
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0556",
+          "start": 1862.393
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0564",
+          "start": 1886.884
         }
       ],
       "surface_examples": [
-        "音"
+        "英治"
+      ]
+    },
+    {
+      "lemma": "安西",
+      "pos": "名詞",
+      "count": 17,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0007",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0007",
+          "start": 25.191
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0064",
+          "start": 271.07
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0155",
+          "start": 521.32
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0158",
+          "start": 528.06
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0163",
+          "start": 545.144
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0171",
+          "start": 568.768
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0263",
+          "start": 856.455
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0423",
+          "start": 1393.825
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0435",
+          "start": 1431.43
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0512",
+          "start": 1703.601
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0537",
+          "start": 1803.067
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0660",
+          "start": 2137.869
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0665",
+          "start": 2148.613
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0667",
+          "start": 2153.15
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0710",
+          "start": 2359.423
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0714",
+          "start": 2370.334
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0717",
+          "start": 2379.443
+        }
+      ],
+      "surface_examples": [
+        "安西"
+      ]
+    },
+    {
+      "lemma": "柊",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0008",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0008",
+          "start": 27.494
+        }
+      ],
+      "surface_examples": [
+        "柊"
+      ]
+    },
+    {
+      "lemma": "友",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0008",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0008",
+          "start": 27.494
+        }
+      ],
+      "surface_examples": [
+        "友"
+      ]
+    },
+    {
+      "lemma": "会",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0008",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0008",
+          "start": 27.494
+        }
+      ],
+      "surface_examples": [
+        "会"
+      ]
+    },
+    {
+      "lemma": "総合",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0008",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0008",
+          "start": 27.494
+        }
+      ],
+      "surface_examples": [
+        "総合"
+      ]
+    },
+    {
+      "lemma": "病院",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0008",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0008",
+          "start": 27.494
+        }
+      ],
+      "surface_examples": [
+        "病院"
+      ]
+    },
+    {
+      "lemma": "舜",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0017",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0017",
+          "start": 49.382
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0132",
+          "start": 460.76
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0141",
+          "start": 480.413
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0183",
+          "start": 600.132
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0208",
+          "start": 652.318
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0210",
+          "start": 655.354
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0504",
+          "start": 1667.098
+        }
+      ],
+      "surface_examples": [
+        "舜"
+      ]
+    },
+    {
+      "lemma": "美桜",
+      "pos": "名詞",
+      "count": 29,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0022",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0022",
+          "start": 114.147
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0031",
+          "start": 143.743
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0037",
+          "start": 159.659
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0045",
+          "start": 182.782
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0046",
+          "start": 189.656
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0054",
+          "start": 208.975
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0057",
+          "start": 241.507
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0059",
+          "start": 246.012
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0088",
+          "start": 345.144
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0089",
+          "start": 348.147
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0128",
+          "start": 450.95
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0129",
+          "start": 452.985
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0134",
+          "start": 465.932
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0136",
+          "start": 469.869
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0340",
+          "start": 1122.955
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0353",
+          "start": 1167.366
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0382",
+          "start": 1233.498
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0460",
+          "start": 1540.872
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0466",
+          "start": 1560.258
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0595",
+          "start": 1955.353
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0598",
+          "start": 1961.926
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0602",
+          "start": 1972.67
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0615",
+          "start": 2014.445
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0625",
+          "start": 2048.346
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0629",
+          "start": 2059.724
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0668",
+          "start": 2188.686
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0670",
+          "start": 2194.025
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0673",
+          "start": 2204.302
+        }
+      ],
+      "surface_examples": [
+        "美桜"
+      ]
+    },
+    {
+      "lemma": "白戸",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0056",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0056",
+          "start": 237.704
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0088",
+          "start": 345.144
+        }
+      ],
+      "surface_examples": [
+        "白戸"
+      ]
+    },
+    {
+      "lemma": "小野",
+      "pos": "名詞",
+      "count": 15,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0063",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0063",
+          "start": 262.362
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0106",
+          "start": 397.663
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0107",
+          "start": 399.165
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0112",
+          "start": 410.076
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0116",
+          "start": 417.683
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0128",
+          "start": 450.95
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0140",
+          "start": 479.145
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0143",
+          "start": 484.951
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0187",
+          "start": 605.004
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0220",
+          "start": 754.186
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0243",
+          "start": 799.865
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0256",
+          "start": 840.639
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0258",
+          "start": 844.877
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0280",
+          "start": 898.063
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0285",
+          "start": 909.208
+        }
+      ],
+      "surface_examples": [
+        "小野"
+      ]
+    },
+    {
+      "lemma": "日本人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0091",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0091",
+          "start": 352.118
+        }
+      ],
+      "surface_examples": [
+        "日本人"
+      ]
+    },
+    {
+      "lemma": "女性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0091",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0091",
+          "start": 352.118
+        }
+      ],
+      "surface_examples": [
+        "女性"
+      ]
+    },
+    {
+      "lemma": "汐見",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0107",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0107",
+          "start": 399.165
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0156",
+          "start": 525.625
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0211",
+          "start": 656.455
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0282",
+          "start": 902.134
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0636",
+          "start": 2077.341
+        }
+      ],
+      "surface_examples": [
+        "汐見"
+      ]
+    },
+    {
+      "lemma": "直哉",
+      "pos": "名詞",
+      "count": 14,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0113",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0113",
+          "start": 411.11
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0154",
+          "start": 519.852
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0157",
+          "start": 527.059
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0258",
+          "start": 844.877
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0277",
+          "start": 891.056
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0283",
+          "start": 905.504
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0285",
+          "start": 909.208
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0467",
+          "start": 1564.095
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0471",
+          "start": 1577.676
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0556",
+          "start": 1862.393
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0632",
+          "start": 2067.565
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0649",
+          "start": 2108.106
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0711",
+          "start": 2362.96
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0716",
+          "start": 2376.04
+        }
+      ],
+      "surface_examples": [
+        "直哉"
+      ]
+    },
+    {
+      "lemma": "優貴",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0140",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0140",
+          "start": 479.145
+        }
+      ],
+      "surface_examples": [
+        "優貴"
+      ]
+    },
+    {
+      "lemma": "雫",
+      "pos": "名詞",
+      "count": 30,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0168",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0168",
+          "start": 560.393
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0216",
+          "start": 697.43
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0264",
+          "start": 858.023
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0273",
+          "start": 879.044
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0282",
+          "start": 902.134
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0287",
+          "start": 919.585
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0288",
+          "start": 933.565
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0291",
+          "start": 947.012
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0293",
+          "start": 955.521
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0294",
+          "start": 957.489
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0295",
+          "start": 960.259
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0296",
+          "start": 962.695
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0302",
+          "start": 975.741
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0304",
+          "start": 984.75
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0310",
+          "start": 1012.644
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0315",
+          "start": 1031.83
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0317",
+          "start": 1036.402
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0321",
+          "start": 1046.245
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0324",
+          "start": 1055.554
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0326",
+          "start": 1063.462
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0328",
+          "start": 1066.398
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0329",
+          "start": 1073.238
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0330",
+          "start": 1074.573
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0332",
+          "start": 1078.11
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0392",
+          "start": 1265.397
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0462",
+          "start": 1548.313
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0645",
+          "start": 2098.83
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0699",
+          "start": 2286.15
+        }
+      ],
+      "surface_examples": [
+        "雫"
+      ]
+    },
+    {
+      "lemma": "薔薇",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0203",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0203",
+          "start": 640.973
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0204",
+          "start": 643.175
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0205",
+          "start": 647.079
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0209",
+          "start": 653.719
+        }
+      ],
+      "surface_examples": [
+        "薔薇"
+      ]
+    },
+    {
+      "lemma": "四条",
+      "pos": "名詞",
+      "count": 14,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0220",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0220",
+          "start": 754.186
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0222",
+          "start": 759.325
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0234",
+          "start": 783.048
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0238",
+          "start": 789.588
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0251",
+          "start": 815.881
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0252",
+          "start": 817.383
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0253",
+          "start": 819.285
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0263",
+          "start": 856.455
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0272",
+          "start": 877.409
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0274",
+          "start": 883.282
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0541",
+          "start": 1827.325
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0555",
+          "start": 1855.353
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0592",
+          "start": 1945.009
+        }
+      ],
+      "surface_examples": [
+        "四条"
+      ]
+    },
+    {
+      "lemma": "菱田",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0260",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0260",
+          "start": 848.047
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0263",
+          "start": 856.455
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0264",
+          "start": 858.023
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0272",
+          "start": 877.409
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0274",
+          "start": 883.282
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0311",
+          "start": 1017.082
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0392",
+          "start": 1265.397
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0732",
+          "start": 2456.053
+        }
+      ],
+      "surface_examples": [
+        "菱田"
+      ]
+    },
+    {
+      "lemma": "相馬",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0375",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0375",
+          "start": 1210.409
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0651",
+          "start": 2118.783
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0660",
+          "start": 2137.869
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0663",
+          "start": 2142.573
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0664",
+          "start": 2145.71
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0665",
+          "start": 2148.613
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0666",
+          "start": 2150.515
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0725",
+          "start": 2425.656
+        }
+      ],
+      "surface_examples": [
+        "相馬"
+      ]
+    },
+    {
+      "lemma": "瑠璃",
+      "pos": "名詞",
+      "count": 11,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0429",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0429",
+          "start": 1413.745
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0430",
+          "start": 1416.648
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0440",
+          "start": 1448.58
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0443",
+          "start": 1458.79
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0450",
+          "start": 1480.045
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0473",
+          "start": 1586.384
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0482",
+          "start": 1604.502
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0483",
+          "start": 1604.97
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0489",
+          "start": 1615.88
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0494",
+          "start": 1632.43
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0631",
+          "start": 2064.729
+        }
+      ],
+      "surface_examples": [
+        "瑠璃"
+      ]
+    },
+    {
+      "lemma": "二十歳",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0476",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0476",
+          "start": 1594.96
+        }
+      ],
+      "surface_examples": [
+        "二十歳"
+      ]
+    },
+    {
+      "lemma": "暴力団",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0549",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0549",
+          "start": 1843.775
+        }
+      ],
+      "surface_examples": [
+        "暴力団"
+      ]
+    },
+    {
+      "lemma": "担当",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0549",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0549",
+          "start": 1843.775
+        }
+      ],
+      "surface_examples": [
+        "担当"
+      ]
+    },
+    {
+      "lemma": "渾身",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0587",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0587",
+          "start": 1932.931
+        }
+      ],
+      "surface_examples": [
+        "渾身"
+      ]
+    },
+    {
+      "lemma": "辰巳",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "bara-no-nai-hanaya-s01-e09-0593",
+      "occurrences": [
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0593",
+          "start": 1948.446
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0596",
+          "start": 1957.588
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0599",
+          "start": 1964.295
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0608",
+          "start": 1991.656
+        },
+        {
+          "sentence_id": "bara-no-nai-hanaya-s01-e09-0615",
+          "start": 2014.445
+        }
+      ],
+      "surface_examples": [
+        "辰巳"
       ]
     }
   ]

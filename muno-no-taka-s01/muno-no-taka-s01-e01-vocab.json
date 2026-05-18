@@ -1,22 +1,4603 @@
 {
   "chapter_id": "muno-no-taka-s01-e01",
-  "generated_at": "2026-05-07T14:29:56.408664+00:00",
-  "total_unique_lemmas": 1,
-  "total_tokens_after_filter": 1,
+  "generated_at": "2026-05-18T09:08:35.354193+00:00",
+  "total_unique_lemmas": 167,
+  "total_tokens_after_filter": 697,
   "vocab": [
     {
-      "lemma": "結構",
-      "pos": "形状詞",
-      "count": 1,
-      "first_seen_sentence_id": "muno-no-taka-s01-e01-0530",
+      "lemma": "鶸田",
+      "pos": "名詞",
+      "count": 91,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0001",
       "occurrences": [
         {
-          "sentence_id": "muno-no-taka-s01-e01-0530",
-          "start": 2442
+          "sentence_id": "muno-no-taka-s01-e01-0001",
+          "start": 30.0
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0004",
+          "start": 60
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0007",
+          "start": 80
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0014",
+          "start": 145
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0029",
+          "start": 203
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0032",
+          "start": 226
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0039",
+          "start": 262
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0061",
+          "start": 423
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0073",
+          "start": 453
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0076",
+          "start": 462
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0078",
+          "start": 465
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0088",
+          "start": 507
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0089",
+          "start": 512
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0090",
+          "start": 519
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0102",
+          "start": 563
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0104",
+          "start": 566
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0106",
+          "start": 571
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0107",
+          "start": 573
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0114",
+          "start": 602
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0133",
+          "start": 665
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0139",
+          "start": 698
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0154",
+          "start": 783
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0164",
+          "start": 816
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0165",
+          "start": 819
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0167",
+          "start": 825
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0169",
+          "start": 833
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0172",
+          "start": 842
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0179",
+          "start": 863
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0190",
+          "start": 900
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0192",
+          "start": 909
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0193",
+          "start": 910
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0207",
+          "start": 963
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0214",
+          "start": 978
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0245",
+          "start": 1230
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0295",
+          "start": 1393
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0296",
+          "start": 1397
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0298",
+          "start": 1406
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0299",
+          "start": 1430
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0302",
+          "start": 1457
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0331",
+          "start": 1588
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0333",
+          "start": 1592
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0336",
+          "start": 1599
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0341",
+          "start": 1624
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0349",
+          "start": 1656
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0354",
+          "start": 1684
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0357",
+          "start": 1698
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0360",
+          "start": 1708
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0363",
+          "start": 1724
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0364",
+          "start": 1729
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0366",
+          "start": 1737
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0374",
+          "start": 1786
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0378",
+          "start": 1797
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0380",
+          "start": 1802
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0382",
+          "start": 1805
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0383",
+          "start": 1807
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0392",
+          "start": 1834
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0397",
+          "start": 1851
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0408",
+          "start": 1875
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0424",
+          "start": 1936
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0435",
+          "start": 2021
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0438",
+          "start": 2058
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0443",
+          "start": 2073
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0451",
+          "start": 2112
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0464",
+          "start": 2174
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0467",
+          "start": 2184
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0472",
+          "start": 2196
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0473",
+          "start": 2201
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0484",
+          "start": 2236
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0485",
+          "start": 2246
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0486",
+          "start": 2256
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0495",
+          "start": 2292
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0500",
+          "start": 2305
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0509",
+          "start": 2333
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0510",
+          "start": 2335
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0532",
+          "start": 2454
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0543",
+          "start": 2522
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0547",
+          "start": 2533
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0554",
+          "start": 2548
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0556",
+          "start": 2553
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0561",
+          "start": 2571
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0565",
+          "start": 2585
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0578",
+          "start": 2622
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0581",
+          "start": 2682
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0586",
+          "start": 2720
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0590",
+          "start": 2730
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0598",
+          "start": 2750
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0599",
+          "start": 2754
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0600",
+          "start": 2756
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0603",
+          "start": 2764
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0613",
+          "start": 2829
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0615",
+          "start": 2838
+        }
+      ],
+      "surface_examples": [
+        "鶸田"
+      ]
+    },
+    {
+      "lemma": "大事",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0001",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0001",
+          "start": 30.0
+        }
+      ],
+      "surface_examples": [
+        "大事"
+      ]
+    },
+    {
+      "lemma": "烏森",
+      "pos": "名詞",
+      "count": 17,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0006",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0006",
+          "start": 67
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0164",
+          "start": 816
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0165",
+          "start": 819
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0166",
+          "start": 821
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0168",
+          "start": 827
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0170",
+          "start": 835
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0173",
+          "start": 844
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0180",
+          "start": 874
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0181",
+          "start": 876
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0182",
+          "start": 878
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0185",
+          "start": 885
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0188",
+          "start": 892
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0189",
+          "start": 894
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0190",
+          "start": 900
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0191",
+          "start": 906
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0193",
+          "start": 910
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0205",
+          "start": 957
+        }
+      ],
+      "surface_examples": [
+        "烏森"
+      ]
+    },
+    {
+      "lemma": "腹筋",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0007",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0007",
+          "start": 80
+        }
+      ],
+      "surface_examples": [
+        "腹筋"
+      ]
+    },
+    {
+      "lemma": "余裕",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0008",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0008",
+          "start": 83
+        }
+      ],
+      "surface_examples": [
+        "余裕"
+      ]
+    },
+    {
+      "lemma": "彼女",
+      "pos": "代名詞",
+      "count": 6,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0009",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0009",
+          "start": 123
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0023",
+          "start": 171
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0032",
+          "start": 226
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0058",
+          "start": 358
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0378",
+          "start": 1797
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0409",
+          "start": 1877
+        }
+      ],
+      "surface_examples": [
+        "彼女"
+      ]
+    },
+    {
+      "lemma": "瞬間",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0009",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0009",
+          "start": 123
+        }
+      ],
+      "surface_examples": [
+        "瞬間"
+      ]
+    },
+    {
+      "lemma": "鷹野",
+      "pos": "名詞",
+      "count": 73,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0011",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0011",
+          "start": 137
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0033",
+          "start": 232
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0036",
+          "start": 253
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0037",
+          "start": 256
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0042",
+          "start": 270
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0045",
+          "start": 282
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0048",
+          "start": 294
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0060",
+          "start": 391
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0119",
+          "start": 614
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0128",
+          "start": 645
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0130",
+          "start": 651
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0131",
+          "start": 657
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0140",
+          "start": 706
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0150",
+          "start": 768
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0164",
+          "start": 816
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0225",
+          "start": 1097
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0227",
+          "start": 1102
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0297",
+          "start": 1405
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0322",
+          "start": 1543
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0326",
+          "start": 1553
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0332",
+          "start": 1591
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0334",
+          "start": 1594
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0337",
+          "start": 1602
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0339",
+          "start": 1617
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0349",
+          "start": 1656
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0351",
+          "start": 1665
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0354",
+          "start": 1684
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0360",
+          "start": 1708
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0363",
+          "start": 1724
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0364",
+          "start": 1729
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0365",
+          "start": 1735
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0369",
+          "start": 1770
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0371",
+          "start": 1776
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0373",
+          "start": 1785
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0377",
+          "start": 1794
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0379",
+          "start": 1799
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0383",
+          "start": 1807
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0386",
+          "start": 1816
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0391",
+          "start": 1829
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0392",
+          "start": 1834
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0393",
+          "start": 1841
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0400",
+          "start": 1856
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0402",
+          "start": 1861
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0405",
+          "start": 1866
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0407",
+          "start": 1870
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0413",
+          "start": 1885
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0425",
+          "start": 1947
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0426",
+          "start": 1951
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0436",
+          "start": 2051
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0438",
+          "start": 2058
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0449",
+          "start": 2103
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0452",
+          "start": 2118
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0459",
+          "start": 2145
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0465",
+          "start": 2175
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0472",
+          "start": 2196
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0474",
+          "start": 2203
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0476",
+          "start": 2210
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0478",
+          "start": 2220
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0479",
+          "start": 2224
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0495",
+          "start": 2292
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0496",
+          "start": 2294
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0520",
+          "start": 2385
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0549",
+          "start": 2537
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0569",
+          "start": 2598
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0570",
+          "start": 2600
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0573",
+          "start": 2608
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0577",
+          "start": 2619
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0581",
+          "start": 2682
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0599",
+          "start": 2754
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0601",
+          "start": 2758
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0604",
+          "start": 2767
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0607",
+          "start": 2785
+        }
+      ],
+      "surface_examples": [
+        "鷹野"
+      ]
+    },
+    {
+      "lemma": "公共",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0014",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0014",
+          "start": 145
+        }
+      ],
+      "surface_examples": [
+        "公共"
+      ]
+    },
+    {
+      "lemma": "放送",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0014",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0014",
+          "start": 145
+        }
+      ],
+      "surface_examples": [
+        "放送"
+      ]
+    },
+    {
+      "lemma": "声",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0014",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0014",
+          "start": 145
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0595",
+          "start": 2742
+        }
+      ],
+      "surface_examples": [
+        "声"
+      ]
+    },
+    {
+      "lemma": "威圧",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0017",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0017",
+          "start": 154
+        }
+      ],
+      "surface_examples": [
+        "威圧"
+      ]
+    },
+    {
+      "lemma": "感",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0017",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0017",
+          "start": 154
+        }
+      ],
+      "surface_examples": [
+        "感"
+      ]
+    },
+    {
+      "lemma": "冗談",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0018",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0018",
+          "start": 157
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0481",
+          "start": 2231
+        }
+      ],
+      "surface_examples": [
+        "冗談"
+      ]
+    },
+    {
+      "lemma": "人徳",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0018",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0018",
+          "start": 157
+        }
+      ],
+      "surface_examples": [
+        "人徳"
+      ]
+    },
+    {
+      "lemma": "成長",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0020",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0020",
+          "start": 162
+        }
+      ],
+      "surface_examples": [
+        "成長"
+      ]
+    },
+    {
+      "lemma": "謙虚",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0020",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0020",
+          "start": 162
+        }
+      ],
+      "surface_examples": [
+        "謙虚"
+      ]
+    },
+    {
+      "lemma": "物腰",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0020",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0020",
+          "start": 162
+        }
+      ],
+      "surface_examples": [
+        "物腰"
+      ]
+    },
+    {
+      "lemma": "手当たり",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0022",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0022",
+          "start": 167
+        }
+      ],
+      "surface_examples": [
+        "手当たり"
+      ]
+    },
+    {
+      "lemma": "最初",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0022",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0022",
+          "start": 167
+        }
+      ],
+      "surface_examples": [
+        "最初"
+      ]
+    },
+    {
+      "lemma": "会社",
+      "pos": "名詞",
+      "count": 16,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0022",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0022",
+          "start": 167
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0030",
+          "start": 216
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0061",
+          "start": 423
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0335",
+          "start": 1596
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0338",
+          "start": 1603
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0340",
+          "start": 1620
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0347",
+          "start": 1642
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0349",
+          "start": 1656
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0361",
+          "start": 1710
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0376",
+          "start": 1792
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0391",
+          "start": 1829
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0432",
+          "start": 1982
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0460",
+          "start": 2149
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0479",
+          "start": 2224
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0593",
+          "start": 2736
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0615",
+          "start": 2838
+        }
+      ],
+      "surface_examples": [
+        "会社"
+      ]
+    },
+    {
+      "lemma": "案内役",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0023",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0023",
+          "start": 171
+        }
+      ],
+      "surface_examples": [
+        "案内役"
+      ]
+    },
+    {
+      "lemma": "社員",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0023",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0023",
+          "start": 171
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0299",
+          "start": 1430
+        }
+      ],
+      "surface_examples": [
+        "社員"
+      ]
+    },
+    {
+      "lemma": "一目",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0023",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0023",
+          "start": 171
+        }
+      ],
+      "surface_examples": [
+        "一目"
+      ]
+    },
+    {
+      "lemma": "置く",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0023",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0023",
+          "start": 171
+        }
+      ],
+      "surface_examples": [
+        "置い"
+      ]
+    },
+    {
+      "lemma": "頑張る",
+      "pos": "動詞",
+      "count": 7,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0027",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0027",
+          "start": 190
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0112",
+          "start": 589
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0236",
+          "start": 1171
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0446",
+          "start": 2081
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0457",
+          "start": 2138
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0458",
+          "start": 2141
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0459",
+          "start": 2145
+        }
+      ],
+      "surface_examples": [
+        "頑張り",
+        "頑張れ",
+        "頑張ろう"
+      ]
+    },
+    {
+      "lemma": "就職",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0030",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0030",
+          "start": 216
+        }
+      ],
+      "surface_examples": [
+        "就職"
+      ]
+    },
+    {
+      "lemma": "面接",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0031",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0031",
+          "start": 219
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0326",
+          "start": 1553
+        }
+      ],
+      "surface_examples": [
+        "面接"
+      ]
+    },
+    {
+      "lemma": "女性",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0031",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0031",
+          "start": 219
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0222",
+          "start": 1088
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0235",
+          "start": 1162
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0238",
+          "start": 1173
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0239",
+          "start": 1175
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0269",
+          "start": 1288
+        }
+      ],
+      "surface_examples": [
+        "女性"
+      ]
+    },
+    {
+      "lemma": "営業部",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0031",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0031",
+          "start": 219
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0166",
+          "start": 821
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0179",
+          "start": 863
+        }
+      ],
+      "surface_examples": [
+        "営業部"
+      ]
+    },
+    {
+      "lemma": "配属",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0031",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0031",
+          "start": 219
+        }
+      ],
+      "surface_examples": [
+        "配属"
+      ]
+    },
+    {
+      "lemma": "鳩山",
+      "pos": "名詞",
+      "count": 25,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0033",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0033",
+          "start": 232
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0036",
+          "start": 253
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0040",
+          "start": 265
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0041",
+          "start": 268
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0124",
+          "start": 635
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0125",
+          "start": 637
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0127",
+          "start": 642
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0128",
+          "start": 645
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0130",
+          "start": 651
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0198",
+          "start": 943
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0207",
+          "start": 963
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0227",
+          "start": 1102
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0285",
+          "start": 1343
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0425",
+          "start": 1947
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0428",
+          "start": 1962
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0546",
+          "start": 2530
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0555",
+          "start": 2550
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0574",
+          "start": 2613
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0579",
+          "start": 2625
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0589",
+          "start": 2726
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0590",
+          "start": 2730
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0596",
+          "start": 2744
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0597",
+          "start": 2746
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0610",
+          "start": 2816
+        }
+      ],
+      "surface_examples": [
+        "鳩山"
+      ]
+    },
+    {
+      "lemma": "完了",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0034",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0034",
+          "start": 237
+        }
+      ],
+      "surface_examples": [
+        "完了"
+      ]
+    },
+    {
+      "lemma": "鵜飼",
+      "pos": "名詞",
+      "count": 32,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0040",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0040",
+          "start": 265
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0053",
+          "start": 325
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0137",
+          "start": 677
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0181",
+          "start": 876
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0182",
+          "start": 878
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0183",
+          "start": 881
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0187",
+          "start": 890
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0189",
+          "start": 894
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0190",
+          "start": 900
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0197",
+          "start": 941
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0199",
+          "start": 944
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0200",
+          "start": 947
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0202",
+          "start": 951
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0204",
+          "start": 955
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0207",
+          "start": 963
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0213",
+          "start": 977
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0216",
+          "start": 982
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0224",
+          "start": 1096
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0226",
+          "start": 1100
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0228",
+          "start": 1103
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0266",
+          "start": 1283
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0267",
+          "start": 1285
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0272",
+          "start": 1298
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0391",
+          "start": 1829
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0427",
+          "start": 1956
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0549",
+          "start": 2537
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0577",
+          "start": 2619
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0590",
+          "start": 2730
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0591",
+          "start": 2733
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0594",
+          "start": 2739
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0611",
+          "start": 2819
+        }
+      ],
+      "surface_examples": [
+        "鵜飼"
+      ]
+    },
+    {
+      "lemma": "入社",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0042",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0042",
+          "start": 270
+        }
+      ],
+      "surface_examples": [
+        "入社"
+      ]
+    },
+    {
+      "lemma": "焦る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0044",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0044",
+          "start": 277
+        }
+      ],
+      "surface_examples": [
+        "焦ら"
+      ]
+    },
+    {
+      "lemma": "雉",
+      "pos": "名詞",
+      "count": 45,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0045",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0045",
+          "start": 282
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0047",
+          "start": 292
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0067",
+          "start": 439
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0069",
+          "start": 444
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0070",
+          "start": 445
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0072",
+          "start": 450
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0084",
+          "start": 492
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0101",
+          "start": 560
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0103",
+          "start": 565
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0106",
+          "start": 571
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0113",
+          "start": 601
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0115",
+          "start": 603
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0131",
+          "start": 657
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0156",
+          "start": 788
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0199",
+          "start": 944
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0201",
+          "start": 950
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0203",
+          "start": 952
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0206",
+          "start": 961
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0208",
+          "start": 965
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0226",
+          "start": 1100
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0267",
+          "start": 1285
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0272",
+          "start": 1298
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0273",
+          "start": 1300
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0276",
+          "start": 1312
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0374",
+          "start": 1786
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0382",
+          "start": 1805
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0385",
+          "start": 1812
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0400",
+          "start": 1856
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0402",
+          "start": 1861
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0403",
+          "start": 1863
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0406",
+          "start": 1869
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0412",
+          "start": 1882
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0426",
+          "start": 1951
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0443",
+          "start": 2073
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0475",
+          "start": 2207
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0553",
+          "start": 2545
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0557",
+          "start": 2554
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0560",
+          "start": 2567
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0576",
+          "start": 2616
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0590",
+          "start": 2730
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0592",
+          "start": 2734
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0597",
+          "start": 2746
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0608",
+          "start": 2788
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0612",
+          "start": 2820
+        }
+      ],
+      "surface_examples": [
+        "雉"
+      ]
+    },
+    {
+      "lemma": "谷",
+      "pos": "名詞",
+      "count": 45,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0045",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0045",
+          "start": 282
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0047",
+          "start": 292
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0067",
+          "start": 439
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0069",
+          "start": 444
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0070",
+          "start": 445
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0072",
+          "start": 450
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0084",
+          "start": 492
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0101",
+          "start": 560
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0103",
+          "start": 565
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0106",
+          "start": 571
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0113",
+          "start": 601
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0115",
+          "start": 603
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0131",
+          "start": 657
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0156",
+          "start": 788
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0199",
+          "start": 944
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0201",
+          "start": 950
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0203",
+          "start": 952
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0206",
+          "start": 961
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0208",
+          "start": 965
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0226",
+          "start": 1100
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0267",
+          "start": 1285
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0272",
+          "start": 1298
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0273",
+          "start": 1300
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0276",
+          "start": 1312
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0374",
+          "start": 1786
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0382",
+          "start": 1805
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0385",
+          "start": 1812
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0400",
+          "start": 1856
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0402",
+          "start": 1861
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0403",
+          "start": 1863
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0406",
+          "start": 1869
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0412",
+          "start": 1882
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0426",
+          "start": 1951
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0443",
+          "start": 2073
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0475",
+          "start": 2207
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0553",
+          "start": 2545
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0557",
+          "start": 2554
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0560",
+          "start": 2567
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0576",
+          "start": 2616
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0590",
+          "start": 2730
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0592",
+          "start": 2734
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0597",
+          "start": 2746
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0608",
+          "start": 2788
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0612",
+          "start": 2820
+        }
+      ],
+      "surface_examples": [
+        "谷"
+      ]
+    },
+    {
+      "lemma": "練習",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0045",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0045",
+          "start": 282
+        }
+      ],
+      "surface_examples": [
+        "練習"
+      ]
+    },
+    {
+      "lemma": "絶望的",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0046",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0046",
+          "start": 287
+        }
+      ],
+      "surface_examples": [
+        "絶望的"
+      ]
+    },
+    {
+      "lemma": "状況",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0046",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0046",
+          "start": 287
+        }
+      ],
+      "surface_examples": [
+        "状況"
+      ]
+    },
+    {
+      "lemma": "解決",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0050",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0050",
+          "start": 307
+        }
+      ],
+      "surface_examples": [
+        "解決"
+      ]
+    },
+    {
+      "lemma": "社内",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0059",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0059",
+          "start": 366
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0168",
+          "start": 827
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0529",
+          "start": 2439
+        }
+      ],
+      "surface_examples": [
+        "社内"
+      ]
+    },
+    {
+      "lemma": "店員",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0060",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0060",
+          "start": 391
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0198",
+          "start": 943
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0232",
+          "start": 1116
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0284",
+          "start": 1339
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0287",
+          "start": 1346
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0588",
+          "start": 2724
+        }
+      ],
+      "surface_examples": [
+        "店員"
+      ]
+    },
+    {
+      "lemma": "簡単",
+      "pos": "形状詞",
+      "count": 4,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0062",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0062",
+          "start": 426
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0348",
+          "start": 1647
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0487",
+          "start": 2264
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0505",
+          "start": 2321
+        }
+      ],
+      "surface_examples": [
+        "簡単"
+      ]
+    },
+    {
+      "lemma": "大崎",
+      "pos": "名詞",
+      "count": 14,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0065",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0065",
+          "start": 435
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0068",
+          "start": 442
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0074",
+          "start": 456
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0079",
+          "start": 473
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0437",
+          "start": 2054
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0439",
+          "start": 2061
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0449",
+          "start": 2103
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0464",
+          "start": 2174
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0469",
+          "start": 2189
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0474",
+          "start": 2203
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0475",
+          "start": 2207
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0480",
+          "start": 2229
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0508",
+          "start": 2330
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0521",
+          "start": 2400
+        }
+      ],
+      "surface_examples": [
+        "大崎"
+      ]
+    },
+    {
+      "lemma": "三澤",
+      "pos": "名詞",
+      "count": 14,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0066",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0066",
+          "start": 437
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0071",
+          "start": 446
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0077",
+          "start": 463
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0088",
+          "start": 507
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0440",
+          "start": 2062
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0466",
+          "start": 2178
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0471",
+          "start": 2194
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0481",
+          "start": 2231
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0507",
+          "start": 2327
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0522",
+          "start": 2402
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0531",
+          "start": 2449
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0533",
+          "start": 2455
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0538",
+          "start": 2469
+        }
+      ],
+      "surface_examples": [
+        "三澤"
+      ]
+    },
+    {
+      "lemma": "名刺",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0071",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0071",
+          "start": 446
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0536",
+          "start": 2466
+        }
+      ],
+      "surface_examples": [
+        "名刺"
+      ]
+    },
+    {
+      "lemma": "名前",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0077",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0077",
+          "start": 463
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0427",
+          "start": 1956
+        }
+      ],
+      "surface_examples": [
+        "名前"
+      ]
+    },
+    {
+      "lemma": "新入社員",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0079",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0079",
+          "start": 473
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0549",
+          "start": 2537
+        }
+      ],
+      "surface_examples": [
+        "新入社員"
+      ]
+    },
+    {
+      "lemma": "雰囲気",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0082",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0082",
+          "start": 481
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0109",
+          "start": 578
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0368",
+          "start": 1745
+        }
+      ],
+      "surface_examples": [
+        "雰囲気"
+      ]
+    },
+    {
+      "lemma": "導入",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0084",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0084",
+          "start": 492
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0375",
+          "start": 1789
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0395",
+          "start": 1845
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0501",
+          "start": 2307
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0511",
+          "start": 2336
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0523",
+          "start": 2416
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0544",
+          "start": 2523
+        }
+      ],
+      "surface_examples": [
+        "導入"
+      ]
+    },
+    {
+      "lemma": "以上",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0086",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0086",
+          "start": 498
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0506",
+          "start": 2322
+        }
+      ],
+      "surface_examples": [
+        "以上"
+      ]
+    },
+    {
+      "lemma": "弊社",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0086",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0086",
+          "start": 498
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0089",
+          "start": 512
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0092",
+          "start": 529
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0501",
+          "start": 2307
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0506",
+          "start": 2322
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0540",
+          "start": 2472
+        }
+      ],
+      "surface_examples": [
+        "弊社"
+      ]
+    },
+    {
+      "lemma": "提案",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0087",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0087",
+          "start": 501
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0092",
+          "start": 529
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0506",
+          "start": 2322
+        }
+      ],
+      "surface_examples": [
+        "提案"
+      ]
+    },
+    {
+      "lemma": "意見",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0088",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0088",
+          "start": 507
+        }
+      ],
+      "surface_examples": [
+        "意見"
+      ]
+    },
+    {
+      "lemma": "他社",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0094",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0094",
+          "start": 534
+        }
+      ],
+      "surface_examples": [
+        "他社"
+      ]
+    },
+    {
+      "lemma": "実践",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0095",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0095",
+          "start": 536
+        }
+      ],
+      "surface_examples": [
+        "実践"
+      ]
+    },
+    {
+      "lemma": "操作",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0098",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0098",
+          "start": 546
+        }
+      ],
+      "surface_examples": [
+        "操作"
+      ]
+    },
+    {
+      "lemma": "話",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0105",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0105",
+          "start": 569
+        }
+      ],
+      "surface_examples": [
+        "話"
+      ]
+    },
+    {
+      "lemma": "聞く",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0105",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0105",
+          "start": 569
+        }
+      ],
+      "surface_examples": [
+        "聞い"
+      ]
+    },
+    {
+      "lemma": "印象",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0107",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0107",
+          "start": 573
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0211",
+          "start": 972
+        }
+      ],
+      "surface_examples": [
+        "印象"
+      ]
+    },
+    {
+      "lemma": "営業",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0110",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0110",
+          "start": 582
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0154",
+          "start": 783
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0177",
+          "start": 857
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0194",
+          "start": 912
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0209",
+          "start": 967
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0369",
+          "start": 1770
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0373",
+          "start": 1785
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0383",
+          "start": 1807
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0387",
+          "start": 1819
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0391",
+          "start": 1829
+        }
+      ],
+      "surface_examples": [
+        "営業"
+      ]
+    },
+    {
+      "lemma": "朱雀",
+      "pos": "名詞",
+      "count": 17,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0116",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0116",
+          "start": 607
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0118",
+          "start": 612
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0123",
+          "start": 630
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0126",
+          "start": 638
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0166",
+          "start": 821
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0175",
+          "start": 848
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0304",
+          "start": 1481
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0315",
+          "start": 1526
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0322",
+          "start": 1543
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0324",
+          "start": 1549
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0325",
+          "start": 1551
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0328",
+          "start": 1558
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0377",
+          "start": 1794
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0379",
+          "start": 1799
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0407",
+          "start": 1870
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0423",
+          "start": 1920
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0545",
+          "start": 2526
+        }
+      ],
+      "surface_examples": [
+        "朱雀"
+      ]
+    },
+    {
+      "lemma": "拡大",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0121",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0121",
+          "start": 626
+        }
+      ],
+      "surface_examples": [
+        "拡大"
+      ]
+    },
+    {
+      "lemma": "部",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0127",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0127",
+          "start": 642
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0166",
+          "start": 821
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0175",
+          "start": 848
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0407",
+          "start": 1870
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0423",
+          "start": 1920
+        }
+      ],
+      "surface_examples": [
+        "部"
+      ]
+    },
+    {
+      "lemma": "長",
+      "pos": "接尾辞",
+      "count": 5,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0127",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0127",
+          "start": 642
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0166",
+          "start": 821
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0175",
+          "start": 848
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0407",
+          "start": 1870
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0423",
+          "start": 1920
+        }
+      ],
+      "surface_examples": [
+        "長"
+      ]
+    },
+    {
+      "lemma": "全部",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0129",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0129",
+          "start": 648
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0300",
+          "start": 1444
+        }
+      ],
+      "surface_examples": [
+        "全部"
+      ]
+    },
+    {
+      "lemma": "教育",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0131",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0131",
+          "start": 657
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0208",
+          "start": 965
+        }
+      ],
+      "surface_examples": [
+        "教育"
+      ]
+    },
+    {
+      "lemma": "係",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0131",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0131",
+          "start": 657
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0208",
+          "start": 965
+        }
+      ],
+      "surface_examples": [
+        "係"
+      ]
+    },
+    {
+      "lemma": "笑い声",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0134",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0134",
+          "start": 671
+        }
+      ],
+      "surface_examples": [
+        "笑い声"
+      ]
+    },
+    {
+      "lemma": "話し声",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0134",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0134",
+          "start": 671
+        }
+      ],
+      "surface_examples": [
+        "話し声"
+      ]
+    },
+    {
+      "lemma": "梟",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0135",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0135",
+          "start": 673
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0137",
+          "start": 677
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0548",
+          "start": 2533
+        }
+      ],
+      "surface_examples": [
+        "梟"
+      ]
+    },
+    {
+      "lemma": "井",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0135",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0135",
+          "start": 673
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0137",
+          "start": 677
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0548",
+          "start": 2533
+        }
+      ],
+      "surface_examples": [
+        "井"
+      ]
+    },
+    {
+      "lemma": "白鳥",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0135",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0135",
+          "start": 673
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0283",
+          "start": 1336
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0295",
+          "start": 1393
+        }
+      ],
+      "surface_examples": [
+        "白鳥"
+      ]
+    },
+    {
+      "lemma": "最後",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0146",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0146",
+          "start": 745
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0519",
+          "start": 2372
+        }
+      ],
+      "surface_examples": [
+        "最後"
+      ]
+    },
+    {
+      "lemma": "部長",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0152",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0152",
+          "start": 775
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0175",
+          "start": 848
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0179",
+          "start": 863
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0204",
+          "start": 955
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0266",
+          "start": 1283
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0269",
+          "start": 1288
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0428",
+          "start": 1962
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0538",
+          "start": 2469
+        }
+      ],
+      "surface_examples": [
+        "部長"
+      ]
+    },
+    {
+      "lemma": "全然",
+      "pos": "副詞",
+      "count": 5,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0155",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0155",
+          "start": 785
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0211",
+          "start": 972
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0218",
+          "start": 1000
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0350",
+          "start": 1660
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0587",
+          "start": 2721
+        }
+      ],
+      "surface_examples": [
+        "全然"
+      ]
+    },
+    {
+      "lemma": "相関図",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0168",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0168",
+          "start": 827
+        }
+      ],
+      "surface_examples": [
+        "相関図"
+      ]
+    },
+    {
+      "lemma": "人事",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0170",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0170",
+          "start": 835
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0205",
+          "start": 957
+        }
+      ],
+      "surface_examples": [
+        "人事"
+      ]
+    },
+    {
+      "lemma": "把握",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0170",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0170",
+          "start": 835
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0499",
+          "start": 2301
+        }
+      ],
+      "surface_examples": [
+        "把握"
+      ]
+    },
+    {
+      "lemma": "同期",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0171",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0171",
+          "start": 838
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0385",
+          "start": 1812
+        }
+      ],
+      "surface_examples": [
+        "同期"
+      ]
+    },
+    {
+      "lemma": "情報",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0174",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0174",
+          "start": 846
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0491",
+          "start": 2280
+        }
+      ],
+      "surface_examples": [
+        "情報"
+      ]
+    },
+    {
+      "lemma": "開発部",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0175",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0175",
+          "start": 848
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0323",
+          "start": 1546
+        }
+      ],
+      "surface_examples": [
+        "開発部"
+      ]
+    },
+    {
+      "lemma": "鴫石",
+      "pos": "名詞",
+      "count": 14,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0175",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0175",
+          "start": 848
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0177",
+          "start": 857
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0306",
+          "start": 1492
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0309",
+          "start": 1510
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0310",
+          "start": 1513
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0315",
+          "start": 1526
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0316",
+          "start": 1528
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0318",
+          "start": 1536
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0321",
+          "start": 1541
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0323",
+          "start": 1546
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0325",
+          "start": 1551
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0566",
+          "start": 2589
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0574",
+          "start": 2613
+        }
+      ],
+      "surface_examples": [
+        "鴫石"
+      ]
+    },
+    {
+      "lemma": "今後",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0186",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0186",
+          "start": 888
+        }
+      ],
+      "surface_examples": [
+        "今後"
+      ]
+    },
+    {
+      "lemma": "苦労",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0196",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0196",
+          "start": 926
+        }
+      ],
+      "surface_examples": [
+        "苦労"
+      ]
+    },
+    {
+      "lemma": "今年",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0200",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0200",
+          "start": 947
+        }
+      ],
+      "surface_examples": [
+        "今年"
+      ]
+    },
+    {
+      "lemma": "新人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0200",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0200",
+          "start": 947
+        }
+      ],
+      "surface_examples": [
+        "新人"
+      ]
+    },
+    {
+      "lemma": "最近",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0201",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0201",
+          "start": 950
+        }
+      ],
+      "surface_examples": [
+        "最近"
+      ]
+    },
+    {
+      "lemma": "結構",
+      "pos": "副詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0206",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0206",
+          "start": 961
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0233",
+          "start": 1119
         }
       ],
       "surface_examples": [
         "結構"
+      ]
+    },
+    {
+      "lemma": "男性",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0220",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0220",
+          "start": 1084
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0221",
+          "start": 1086
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0223",
+          "start": 1091
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0235",
+          "start": 1162
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0236",
+          "start": 1171
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0237",
+          "start": 1172
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0290",
+          "start": 1355
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0291",
+          "start": 1359
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0292",
+          "start": 1372
+        }
+      ],
+      "surface_examples": [
+        "男性"
+      ]
+    },
+    {
+      "lemma": "本性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0231",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0231",
+          "start": 1111
+        }
+      ],
+      "surface_examples": [
+        "本性"
+      ]
+    },
+    {
+      "lemma": "手伝い",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0232",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0232",
+          "start": 1116
+        }
+      ],
+      "surface_examples": [
+        "手伝い"
+      ]
+    },
+    {
+      "lemma": "一同",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0234",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0234",
+          "start": 1126
+        }
+      ],
+      "surface_examples": [
+        "一同"
+      ]
+    },
+    {
+      "lemma": "気持ち",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0241",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0241",
+          "start": 1186
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0275",
+          "start": 1309
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0386",
+          "start": 1816
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0420",
+          "start": 1910
+        }
+      ],
+      "surface_examples": [
+        "気持ち"
+      ]
+    },
+    {
+      "lemma": "携帯電話",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0243",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0243",
+          "start": 1222
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0447",
+          "start": 2090
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0451",
+          "start": 2112
+        }
+      ],
+      "surface_examples": [
+        "携帯電話"
+      ]
+    },
+    {
+      "lemma": "母親",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0245",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0245",
+          "start": 1230
+        }
+      ],
+      "surface_examples": [
+        "母親"
+      ]
+    },
+    {
+      "lemma": "菊池",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0247",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0247",
+          "start": 1233
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0249",
+          "start": 1240
+        }
+      ],
+      "surface_examples": [
+        "菊池"
+      ]
+    },
+    {
+      "lemma": "小学校",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0247",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0247",
+          "start": 1233
+        }
+      ],
+      "surface_examples": [
+        "小学校"
+      ]
+    },
+    {
+      "lemma": "結婚",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0250",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0250",
+          "start": 1245
+        }
+      ],
+      "surface_examples": [
+        "結婚"
+      ]
+    },
+    {
+      "lemma": "先月",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0258",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0258",
+          "start": 1265
+        }
+      ],
+      "surface_examples": [
+        "先月"
+      ]
+    },
+    {
+      "lemma": "明日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0278",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0278",
+          "start": 1316
+        }
+      ],
+      "surface_examples": [
+        "明日"
+      ]
+    },
+    {
+      "lemma": "先方",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0278",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0278",
+          "start": 1316
+        }
+      ],
+      "surface_examples": [
+        "先方"
+      ]
+    },
+    {
+      "lemma": "お客さん",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0284",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0284",
+          "start": 1339
+        }
+      ],
+      "surface_examples": [
+        "お客さん"
+      ]
+    },
+    {
+      "lemma": "迷惑メール",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0300",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0300",
+          "start": 1444
+        }
+      ],
+      "surface_examples": [
+        "迷惑メール"
+      ]
+    },
+    {
+      "lemma": "動画",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0302",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0302",
+          "start": 1457
+        }
+      ],
+      "surface_examples": [
+        "動画"
+      ]
+    },
+    {
+      "lemma": "鵙尾",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0306",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0306",
+          "start": 1492
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0316",
+          "start": 1528
+        }
+      ],
+      "surface_examples": [
+        "鵙尾"
+      ]
+    },
+    {
+      "lemma": "鵤",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0307",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0307",
+          "start": 1500
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0308",
+          "start": 1505
+        }
+      ],
+      "surface_examples": [
+        "鵤"
+      ]
+    },
+    {
+      "lemma": "承知",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0314",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0314",
+          "start": 1523
+        }
+      ],
+      "surface_examples": [
+        "承知"
+      ]
+    },
+    {
+      "lemma": "大体",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0317",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0317",
+          "start": 1532
+        }
+      ],
+      "surface_examples": [
+        "大体"
+      ]
+    },
+    {
+      "lemma": "優秀",
+      "pos": "形状詞",
+      "count": 3,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0327",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0327",
+          "start": 1555
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0484",
+          "start": 2236
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0496",
+          "start": 2294
+        }
+      ],
+      "surface_examples": [
+        "優秀"
+      ]
+    },
+    {
+      "lemma": "人事部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0329",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0329",
+          "start": 1559
+        }
+      ],
+      "surface_examples": [
+        "人事部"
+      ]
+    },
+    {
+      "lemma": "入社前",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0344",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0344",
+          "start": 1634
+        }
+      ],
+      "surface_examples": [
+        "入社前"
+      ]
+    },
+    {
+      "lemma": "想像",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0344",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0344",
+          "start": 1634
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0345",
+          "start": 1637
+        }
+      ],
+      "surface_examples": [
+        "想像"
+      ]
+    },
+    {
+      "lemma": "現実",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0348",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0348",
+          "start": 1647
+        }
+      ],
+      "surface_examples": [
+        "現実"
+      ]
+    },
+    {
+      "lemma": "正直",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0349",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0349",
+          "start": 1656
+        }
+      ],
+      "surface_examples": [
+        "正直"
+      ]
+    },
+    {
+      "lemma": "受付",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0353",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0353",
+          "start": 1672
+        }
+      ],
+      "surface_examples": [
+        "受付"
+      ]
+    },
+    {
+      "lemma": "世界",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0364",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0364",
+          "start": 1729
+        }
+      ],
+      "surface_examples": [
+        "世界"
+      ]
+    },
+    {
+      "lemma": "有能",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0368",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0368",
+          "start": 1745
+        }
+      ],
+      "surface_examples": [
+        "有能"
+      ]
+    },
+    {
+      "lemma": "行く",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0369",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0369",
+          "start": 1770
+        }
+      ],
+      "surface_examples": [
+        "行か"
+      ]
+    },
+    {
+      "lemma": "契約",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0371",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0371",
+          "start": 1776
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0532",
+          "start": 2454
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0542",
+          "start": 2518
+        }
+      ],
+      "surface_examples": [
+        "契約"
+      ]
+    },
+    {
+      "lemma": "新規",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0375",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0375",
+          "start": 1789
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0395",
+          "start": 1845
+        }
+      ],
+      "surface_examples": [
+        "新規"
+      ]
+    },
+    {
+      "lemma": "検討",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0375",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0375",
+          "start": 1789
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0529",
+          "start": 2439
+        }
+      ],
+      "surface_examples": [
+        "検討"
+      ]
+    },
+    {
+      "lemma": "外回り",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0383",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0383",
+          "start": 1807
+        }
+      ],
+      "surface_examples": [
+        "外回り"
+      ]
+    },
+    {
+      "lemma": "経験",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0384",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0384",
+          "start": 1811
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0511",
+          "start": 2336
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0513",
+          "start": 2347
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0523",
+          "start": 2416
+        }
+      ],
+      "surface_examples": [
+        "経験"
+      ]
+    },
+    {
+      "lemma": "面倒",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0385",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0385",
+          "start": 1812
+        }
+      ],
+      "surface_examples": [
+        "面倒"
+      ]
+    },
+    {
+      "lemma": "失敗",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0391",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0391",
+          "start": 1829
+        }
+      ],
+      "surface_examples": [
+        "失敗"
+      ]
+    },
+    {
+      "lemma": "信用",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0391",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0391",
+          "start": 1829
+        }
+      ],
+      "surface_examples": [
+        "信用"
+      ]
+    },
+    {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0392",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0392",
+          "start": 1834
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0433",
+          "start": 1986
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
+      ]
+    },
+    {
+      "lemma": "資料",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0392",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0392",
+          "start": 1834
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0438",
+          "start": 2058
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0486",
+          "start": 2256
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0528",
+          "start": 2435
+        }
+      ],
+      "surface_examples": [
+        "資料"
+      ]
+    },
+    {
+      "lemma": "案件",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0393",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0393",
+          "start": 1841
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0406",
+          "start": 1869
+        }
+      ],
+      "surface_examples": [
+        "案件"
+      ]
+    },
+    {
+      "lemma": "皆",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0413",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0413",
+          "start": 1885
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0420",
+          "start": 1910
+        }
+      ],
+      "surface_examples": [
+        "皆"
+      ]
+    },
+    {
+      "lemma": "さん",
+      "pos": "接尾辞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0413",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0413",
+          "start": 1885
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0420",
+          "start": 1910
+        }
+      ],
+      "surface_examples": [
+        "さん"
+      ]
+    },
+    {
+      "lemma": "存在",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0417",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0417",
+          "start": 1898
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0421",
+          "start": 1913
+        }
+      ],
+      "surface_examples": [
+        "存在"
+      ]
+    },
+    {
+      "lemma": "排除",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0418",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0418",
+          "start": 1904
+        }
+      ],
+      "surface_examples": [
+        "排除"
+      ]
+    },
+    {
+      "lemma": "内容",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0425",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0425",
+          "start": 1947
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0528",
+          "start": 2435
+        }
+      ],
+      "surface_examples": [
+        "内容"
+      ]
+    },
+    {
+      "lemma": "要する",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0426",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0426",
+          "start": 1951
+        }
+      ],
+      "surface_examples": [
+        "要する"
+      ]
+    },
+    {
+      "lemma": "鷹",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0427",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0427",
+          "start": 1956
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0552",
+          "start": 2544
+        }
+      ],
+      "surface_examples": [
+        "鷹"
+      ]
+    },
+    {
+      "lemma": "説明",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0440",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0440",
+          "start": 2062
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0441",
+          "start": 2067
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0449",
+          "start": 2103
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0472",
+          "start": 2196
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0485",
+          "start": 2246
+        }
+      ],
+      "surface_examples": [
+        "説明"
+      ]
+    },
+    {
+      "lemma": "毎日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0460",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0460",
+          "start": 2149
+        }
+      ],
+      "surface_examples": [
+        "毎日"
+      ]
+    },
+    {
+      "lemma": "面白い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0465",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0465",
+          "start": 2175
+        }
+      ],
+      "surface_examples": [
+        "面白い"
+      ]
+    },
+    {
+      "lemma": "無能",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0479",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0479",
+          "start": 2224
+        }
+      ],
+      "surface_examples": [
+        "無能"
+      ]
+    },
+    {
+      "lemma": "現在",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0487",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0487",
+          "start": 2264
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0490",
+          "start": 2278
+        }
+      ],
+      "surface_examples": [
+        "現在"
+      ]
+    },
+    {
+      "lemma": "御",
+      "pos": "接頭辞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0487",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0487",
+          "start": 2264
+        }
+      ],
+      "surface_examples": [
+        "御"
+      ]
+    },
+    {
+      "lemma": "社",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0487",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0487",
+          "start": 2264
+        }
+      ],
+      "surface_examples": [
+        "社"
+      ]
+    },
+    {
+      "lemma": "現状",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0489",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0489",
+          "start": 2273
+        }
+      ],
+      "surface_examples": [
+        "現状"
+      ]
+    },
+    {
+      "lemma": "反応",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0497",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0497",
+          "start": 2297
+        }
+      ],
+      "surface_examples": [
+        "反応"
+      ]
+    },
+    {
+      "lemma": "行動",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0498",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0498",
+          "start": 2299
+        }
+      ],
+      "surface_examples": [
+        "行動"
+      ]
+    },
+    {
+      "lemma": "対策",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0501",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0501",
+          "start": 2307
+        }
+      ],
+      "surface_examples": [
+        "対策"
+      ]
+    },
+    {
+      "lemma": "対応",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0502",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0502",
+          "start": 2311
+        }
+      ],
+      "surface_examples": [
+        "対応"
+      ]
+    },
+    {
+      "lemma": "結果",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0526",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0526",
+          "start": 2426
+        }
+      ],
+      "surface_examples": [
+        "結果"
+      ]
+    },
+    {
+      "lemma": "本日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0528",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0528",
+          "start": 2435
+        }
+      ],
+      "surface_examples": [
+        "本日"
+      ]
+    },
+    {
+      "lemma": "一度",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0529",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0529",
+          "start": 2439
+        }
+      ],
+      "surface_examples": [
+        "一度"
+      ]
+    },
+    {
+      "lemma": "具体的",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0531",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0531",
+          "start": 2449
+        }
+      ],
+      "surface_examples": [
+        "具体的"
+      ]
+    },
+    {
+      "lemma": "見抜く",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0540",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0540",
+          "start": 2472
+        }
+      ],
+      "surface_examples": [
+        "見抜い"
+      ]
+    },
+    {
+      "lemma": "来月",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0544",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0544",
+          "start": 2523
+        }
+      ],
+      "surface_examples": [
+        "来月"
+      ]
+    },
+    {
+      "lemma": "開始",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0544",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0544",
+          "start": 2523
+        }
+      ],
+      "surface_examples": [
+        "開始"
+      ]
+    },
+    {
+      "lemma": "ご苦労",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0545",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0545",
+          "start": 2526
+        }
+      ],
+      "surface_examples": [
+        "ご苦労"
+      ]
+    },
+    {
+      "lemma": "謎",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0549",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0549",
+          "start": 2537
+        }
+      ],
+      "surface_examples": [
+        "謎"
+      ]
+    },
+    {
+      "lemma": "出来る",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0550",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0550",
+          "start": 2539
+        },
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0551",
+          "start": 2541
+        }
+      ],
+      "surface_examples": [
+        "出来る",
+        "出来"
+      ]
+    },
+    {
+      "lemma": "上司",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0553",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0553",
+          "start": 2545
+        }
+      ],
+      "surface_examples": [
+        "上司"
+      ]
+    },
+    {
+      "lemma": "お客さま",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0572",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0572",
+          "start": 2605
+        }
+      ],
+      "surface_examples": [
+        "お客さま"
+      ]
+    },
+    {
+      "lemma": "結局",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0578",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0578",
+          "start": 2622
+        }
+      ],
+      "surface_examples": [
+        "結局"
+      ]
+    },
+    {
+      "lemma": "世代",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0593",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0593",
+          "start": 2736
+        }
+      ],
+      "surface_examples": [
+        "世代"
+      ]
+    },
+    {
+      "lemma": "お店",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0602",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0602",
+          "start": 2761
+        }
+      ],
+      "surface_examples": [
+        "お店"
+      ]
+    },
+    {
+      "lemma": "燃費",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "muno-no-taka-s01-e01-0617",
+      "occurrences": [
+        {
+          "sentence_id": "muno-no-taka-s01-e01-0617",
+          "start": 2856
+        }
+      ],
+      "surface_examples": [
+        "燃費"
       ]
     }
   ]

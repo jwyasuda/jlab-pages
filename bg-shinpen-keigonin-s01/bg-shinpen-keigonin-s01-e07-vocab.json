@@ -1,8 +1,8 @@
 {
   "chapter_id": "bg-shinpen-keigonin-s01-e07",
-  "generated_at": "2026-05-07T14:29:49.689990+00:00",
+  "generated_at": "2026-05-18T09:08:10.963155+00:00",
   "total_unique_lemmas": 487,
-  "total_tokens_after_filter": 947,
+  "total_tokens_after_filter": 944,
   "vocab": [
     {
       "lemma": "島崎",
@@ -1087,7 +1087,7 @@
     {
       "lemma": "大丈夫",
       "pos": "形状詞",
-      "count": 6,
+      "count": 5,
       "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e07-0022",
       "occurrences": [
         {
@@ -1105,10 +1105,6 @@
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e07-0596",
           "start": 2831
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0618",
-          "start": 2909
         },
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e07-0657",
@@ -1639,12 +1635,16 @@
     {
       "lemma": "警備",
       "pos": "名詞",
-      "count": 1,
+      "count": 2,
       "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e07-0048",
       "occurrences": [
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e07-0048",
           "start": 175
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e07-0222",
+          "start": 993
         }
       ],
       "surface_examples": [
@@ -2216,16 +2216,12 @@
     {
       "lemma": "店員",
       "pos": "名詞",
-      "count": 6,
+      "count": 4,
       "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e07-0073",
       "occurrences": [
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e07-0073",
           "start": 324
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0079",
-          "start": 349
         },
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e07-0098",
@@ -2238,10 +2234,6 @@
         {
           "sentence_id": "bg-shinpen-keigonin-s01-e07-0374",
           "start": 1801
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0379",
-          "start": 1853
         }
       ],
       "surface_examples": [
@@ -4021,6 +4013,33 @@
       ]
     },
     {
+      "lemma": "了解",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e07-0187",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e07-0187",
+          "start": 836
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e07-0244",
+          "start": 1078
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e07-0246",
+          "start": 1085
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e07-0339",
+          "start": 1646
+        }
+      ],
+      "surface_examples": [
+        "了解"
+      ]
+    },
+    {
       "lemma": "時",
       "pos": "名詞",
       "count": 3,
@@ -4239,6 +4258,21 @@
       ],
       "surface_examples": [
         "日ノ出"
+      ]
+    },
+    {
+      "lemma": "保障",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e07-0222",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e07-0222",
+          "start": 993
+        }
+      ],
+      "surface_examples": [
+        "保障"
       ]
     },
     {
@@ -4566,29 +4600,6 @@
       ],
       "surface_examples": [
         "向かい"
-      ]
-    },
-    {
-      "lemma": "了解",
-      "pos": "名詞",
-      "count": 3,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e07-0244",
-      "occurrences": [
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0244",
-          "start": 1078
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0246",
-          "start": 1085
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0339",
-          "start": 1646
-        }
-      ],
-      "surface_examples": [
-        "了解"
       ]
     },
     {
@@ -5605,33 +5616,6 @@
       ]
     },
     {
-      "lemma": "落ち着く",
-      "pos": "動詞",
-      "count": 4,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e07-0304",
-      "occurrences": [
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0304",
-          "start": 1462
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0319",
-          "start": 1522
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0456",
-          "start": 2222
-        },
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0535",
-          "start": 2538
-        }
-      ],
-      "surface_examples": [
-        "落ち着い"
-      ]
-    },
-    {
       "lemma": "尾行",
       "pos": "名詞",
       "count": 1,
@@ -5851,6 +5835,25 @@
         "来",
         "来る",
         "来い"
+      ]
+    },
+    {
+      "lemma": "落ち着く",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e07-0319",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e07-0319",
+          "start": 1522
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s01-e07-0535",
+          "start": 2538
+        }
+      ],
+      "surface_examples": [
+        "落ち着い"
       ]
     },
     {
@@ -7347,21 +7350,6 @@
       ],
       "surface_examples": [
         "手段"
-      ]
-    },
-    {
-      "lemma": "悲鳴",
-      "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s01-e07-0469",
-      "occurrences": [
-        {
-          "sentence_id": "bg-shinpen-keigonin-s01-e07-0469",
-          "start": 2273
-        }
-      ],
-      "surface_examples": [
-        "悲鳴"
       ]
     },
     {

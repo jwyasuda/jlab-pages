@@ -1,7 +1,4001 @@
 {
   "chapter_id": "hanasaki-mai-s02-e09",
-  "generated_at": "2026-05-05T10:17:48.894571+00:00",
-  "total_unique_lemmas": 0,
-  "total_tokens_after_filter": 0,
-  "vocab": []
+  "generated_at": "2026-05-18T09:08:29.144704+00:00",
+  "total_unique_lemmas": 103,
+  "total_tokens_after_filter": 724,
+  "vocab": [
+    {
+      "lemma": "舞",
+      "pos": "名詞",
+      "count": 90,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0001",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0001",
+          "start": 5.105
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0002",
+          "start": 12.012
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0008",
+          "start": 29.396
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0009",
+          "start": 31.064
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0014",
+          "start": 45.612
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0016",
+          "start": 52.018
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0028",
+          "start": 83.349
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0032",
+          "start": 92.092
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0042",
+          "start": 118.918
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0065",
+          "start": 192.692
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0072",
+          "start": 216.616
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0141",
+          "start": 442.542
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0180",
+          "start": 559.158
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0187",
+          "start": 579.779
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0192",
+          "start": 591.257
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0195",
+          "start": 603.102
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0199",
+          "start": 616.649
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0201",
+          "start": 619.819
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0202",
+          "start": 623.255
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0204",
+          "start": 628.828
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0207",
+          "start": 639.572
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0211",
+          "start": 653.786
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0213",
+          "start": 660.393
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0229",
+          "start": 714.58
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0248",
+          "start": 776.442
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0250",
+          "start": 783.382
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0256",
+          "start": 815.915
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0257",
+          "start": 820.186
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0258",
+          "start": 821.954
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0260",
+          "start": 828.494
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0270",
+          "start": 848.314
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0275",
+          "start": 862.928
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0276",
+          "start": 865.03
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0281",
+          "start": 879.511
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0282",
+          "start": 881.413
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0283",
+          "start": 883.582
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0285",
+          "start": 889.521
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0287",
+          "start": 894.727
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0292",
+          "start": 907.339
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0297",
+          "start": 920.452
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0299",
+          "start": 927.059
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0305",
+          "start": 938.704
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0313",
+          "start": 964.563
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0320",
+          "start": 982.548
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0325",
+          "start": 1000.232
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0332",
+          "start": 1019.218
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0333",
+          "start": 1022.688
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0334",
+          "start": 1025.057
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0343",
+          "start": 1047.246
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0357",
+          "start": 1088.754
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0395",
+          "start": 1224.323
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0402",
+          "start": 1244.676
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0411",
+          "start": 1268.4
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0412",
+          "start": 1269.968
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0414",
+          "start": 1275.974
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0415",
+          "start": 1279.411
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0424",
+          "start": 1302.134
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0434",
+          "start": 1351.65
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0436",
+          "start": 1356.922
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0442",
+          "start": 1373.972
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0455",
+          "start": 1416.882
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0467",
+          "start": 1465.297
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0496",
+          "start": 1599.097
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0502",
+          "start": 1615.213
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0509",
+          "start": 1631.396
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0520",
+          "start": 1652.317
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0544",
+          "start": 1715.146
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0545",
+          "start": 1720.552
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0547",
+          "start": 1724.789
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0550",
+          "start": 1734.466
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0558",
+          "start": 1756.121
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0559",
+          "start": 1759.157
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0563",
+          "start": 1766.931
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0567",
+          "start": 1779.778
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0571",
+          "start": 1792.69
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0574",
+          "start": 1800.431
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0577",
+          "start": 1807.472
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0588",
+          "start": 1846.211
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0589",
+          "start": 1850.982
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0602",
+          "start": 1907.939
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0614",
+          "start": 1946.978
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0645",
+          "start": 2119.884
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0650",
+          "start": 2151.782
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0711",
+          "start": 2437.201
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0718",
+          "start": 2470.267
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0786",
+          "start": 2777.541
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0832",
+          "start": 2971.601
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0842",
+          "start": 3007.17
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0843",
+          "start": 3009.506
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0844",
+          "start": 3022.152
+        }
+      ],
+      "surface_examples": [
+        "舞"
+      ]
+    },
+    {
+      "lemma": "臨",
+      "pos": "名詞",
+      "count": 12,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0001",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0001",
+          "start": 5.105
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0071",
+          "start": 213.746
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0075",
+          "start": 225.792
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0078",
+          "start": 231.397
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0080",
+          "start": 239.606
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0091",
+          "start": 270.069
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0205",
+          "start": 631.897
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0209",
+          "start": 647.413
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0806",
+          "start": 2879.91
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0813",
+          "start": 2915.345
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0846",
+          "start": 3026.456
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0862",
+          "start": 3057.954
+        }
+      ],
+      "surface_examples": [
+        "臨"
+      ]
+    },
+    {
+      "lemma": "店",
+      "pos": "接尾辞",
+      "count": 12,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0001",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0001",
+          "start": 5.105
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0071",
+          "start": 213.746
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0075",
+          "start": 225.792
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0078",
+          "start": 231.397
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0080",
+          "start": 239.606
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0091",
+          "start": 270.069
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0205",
+          "start": 631.897
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0209",
+          "start": 647.413
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0806",
+          "start": 2879.91
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0813",
+          "start": 2915.345
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0846",
+          "start": 3026.456
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0862",
+          "start": 3057.954
+        }
+      ],
+      "surface_examples": [
+        "店"
+      ]
+    },
+    {
+      "lemma": "相馬",
+      "pos": "名詞",
+      "count": 74,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0003",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0003",
+          "start": 14.014
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0008",
+          "start": 29.396
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0009",
+          "start": 31.064
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0015",
+          "start": 48.081
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0028",
+          "start": 83.349
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0032",
+          "start": 92.092
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0034",
+          "start": 97.397
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0035",
+          "start": 101.468
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0040",
+          "start": 114.38
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0043",
+          "start": 122.322
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0053",
+          "start": 146.646
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0059",
+          "start": 161.995
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0065",
+          "start": 192.692
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0069",
+          "start": 208.908
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0071",
+          "start": 213.746
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0082",
+          "start": 245.111
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0111",
+          "start": 349.348
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0118",
+          "start": 374.273
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0120",
+          "start": 381.881
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0123",
+          "start": 389.255
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0124",
+          "start": 392.892
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0182",
+          "start": 565.498
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0186",
+          "start": 576.776
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0192",
+          "start": 591.257
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0198",
+          "start": 612.678
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0201",
+          "start": 619.819
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0207",
+          "start": 639.572
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0209",
+          "start": 647.413
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0248",
+          "start": 776.442
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0249",
+          "start": 779.211
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0256",
+          "start": 815.915
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0257",
+          "start": 820.186
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0268",
+          "start": 845.044
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0270",
+          "start": 848.314
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0299",
+          "start": 927.059
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0304",
+          "start": 935.834
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0313",
+          "start": 964.563
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0320",
+          "start": 982.548
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0333",
+          "start": 1022.688
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0334",
+          "start": 1025.057
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0357",
+          "start": 1088.754
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0367",
+          "start": 1125.958
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0379",
+          "start": 1157.789
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0388",
+          "start": 1195.928
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0397",
+          "start": 1229.194
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0411",
+          "start": 1268.4
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0423",
+          "start": 1299.164
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0432",
+          "start": 1346.445
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0435",
+          "start": 1354.92
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0443",
+          "start": 1377.309
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0455",
+          "start": 1416.882
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0467",
+          "start": 1465.297
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0495",
+          "start": 1596.962
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0498",
+          "start": 1603.201
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0522",
+          "start": 1658.089
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0542",
+          "start": 1709.474
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0544",
+          "start": 1715.146
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0558",
+          "start": 1756.121
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0567",
+          "start": 1779.778
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0588",
+          "start": 1846.211
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0602",
+          "start": 1907.939
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0612",
+          "start": 1941.172
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0628",
+          "start": 2021.219
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0755",
+          "start": 2627.625
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0766",
+          "start": 2676.974
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0789",
+          "start": 2826.99
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0844",
+          "start": 3022.152
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0856",
+          "start": 3044.174
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0860",
+          "start": 3055.218
+        }
+      ],
+      "surface_examples": [
+        "相馬"
+      ]
+    },
+    {
+      "lemma": "神田",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0007",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0007",
+          "start": 25.925
+        }
+      ],
+      "surface_examples": [
+        "神田"
+      ]
+    },
+    {
+      "lemma": "花咲",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0009",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0009",
+          "start": 31.064
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0072",
+          "start": 216.616
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0182",
+          "start": 565.498
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0186",
+          "start": 576.776
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0207",
+          "start": 639.572
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0279",
+          "start": 873.172
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0432",
+          "start": 1346.445
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0605",
+          "start": 1919.35
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0854",
+          "start": 3040.871
+        }
+      ],
+      "surface_examples": [
+        "花咲"
+      ]
+    },
+    {
+      "lemma": "元彼",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0013",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0013",
+          "start": 44.444
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0018",
+          "start": 56.356
+        }
+      ],
+      "surface_examples": [
+        "元彼"
+      ]
+    },
+    {
+      "lemma": "公務員",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0015",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0015",
+          "start": 48.081
+        }
+      ],
+      "surface_examples": [
+        "公務員"
+      ]
+    },
+    {
+      "lemma": "元奥",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0023",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0023",
+          "start": 69.602
+        }
+      ],
+      "surface_examples": [
+        "元奥"
+      ]
+    },
+    {
+      "lemma": "さん",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0023",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0023",
+          "start": 69.602
+        }
+      ],
+      "surface_examples": [
+        "さん"
+      ]
+    },
+    {
+      "lemma": "結構",
+      "pos": "形状詞",
+      "count": 4,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0027",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0027",
+          "start": 80.58
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0308",
+          "start": 946.812
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0510",
+          "start": 1632.797
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0526",
+          "start": 1669.401
+        }
+      ],
+      "surface_examples": [
+        "結構"
+      ]
+    },
+    {
+      "lemma": "分",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0037",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0037",
+          "start": 105.338
+        }
+      ],
+      "surface_examples": [
+        "分"
+      ]
+    },
+    {
+      "lemma": "無料",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0037",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0037",
+          "start": 105.338
+        }
+      ],
+      "surface_examples": [
+        "無料"
+      ]
+    },
+    {
+      "lemma": "優待",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0037",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0037",
+          "start": 105.338
+        }
+      ],
+      "surface_examples": [
+        "優待"
+      ]
+    },
+    {
+      "lemma": "券",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0037",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0037",
+          "start": 105.338
+        }
+      ],
+      "surface_examples": [
+        "券"
+      ]
+    },
+    {
+      "lemma": "芝崎",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0039",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0039",
+          "start": 112.111
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0040",
+          "start": 114.38
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0047",
+          "start": 131.898
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0493",
+          "start": 1593.458
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0495",
+          "start": 1596.962
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0514",
+          "start": 1640.538
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0518",
+          "start": 1648.813
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0788",
+          "start": 2822.886
+        }
+      ],
+      "surface_examples": [
+        "芝崎"
+      ]
+    },
+    {
+      "lemma": "次長",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0040",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0040",
+          "start": 114.38
+        }
+      ],
+      "surface_examples": [
+        "次長"
+      ]
+    },
+    {
+      "lemma": "三鷹",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0041",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0041",
+          "start": 116.049
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0043",
+          "start": 122.322
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0097",
+          "start": 295.762
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0098",
+          "start": 298.798
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0225",
+          "start": 702.968
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0484",
+          "start": 1532.097
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0788",
+          "start": 2822.886
+        }
+      ],
+      "surface_examples": [
+        "三鷹"
+      ]
+    },
+    {
+      "lemma": "支店",
+      "pos": "名詞",
+      "count": 21,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0041",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0041",
+          "start": 116.049
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0043",
+          "start": 122.322
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0055",
+          "start": 151.217
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0078",
+          "start": 231.397
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0097",
+          "start": 295.762
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0098",
+          "start": 298.798
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0123",
+          "start": 389.255
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0126",
+          "start": 397.13
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0129",
+          "start": 409.275
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0208",
+          "start": 642.575
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0225",
+          "start": 702.968
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0259",
+          "start": 825.09
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0263",
+          "start": 833.899
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0398",
+          "start": 1231.363
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0400",
+          "start": 1237.936
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0450",
+          "start": 1397.129
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0484",
+          "start": 1532.097
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0501",
+          "start": 1610.442
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0589",
+          "start": 1850.982
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0788",
+          "start": 2822.886
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0791",
+          "start": 2831.562
+        }
+      ],
+      "surface_examples": [
+        "支店"
+      ]
+    },
+    {
+      "lemma": "取引先",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0045",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0045",
+          "start": 126.259
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0114",
+          "start": 356.556
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0503",
+          "start": 1616.448
+        }
+      ],
+      "surface_examples": [
+        "取引先"
+      ]
+    },
+    {
+      "lemma": "約束",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0045",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0045",
+          "start": 126.259
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0385",
+          "start": 1183.749
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0393",
+          "start": 1214.179
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0659",
+          "start": 2188.319
+        }
+      ],
+      "surface_examples": [
+        "約束"
+      ]
+    },
+    {
+      "lemma": "手形",
+      "pos": "名詞",
+      "count": 43,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0045",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0045",
+          "start": 126.259
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0048",
+          "start": 134.434
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0051",
+          "start": 140.373
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0058",
+          "start": 159.025
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0060",
+          "start": 163.163
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0087",
+          "start": 257.924
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0094",
+          "start": 281.714
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0096",
+          "start": 291.624
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0103",
+          "start": 316.549
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0112",
+          "start": 350.45
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0117",
+          "start": 370.002
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0126",
+          "start": 397.13
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0132",
+          "start": 414.914
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0139",
+          "start": 437.77
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0152",
+          "start": 473.372
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0158",
+          "start": 491.257
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0165",
+          "start": 517.55
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0169",
+          "start": 529.462
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0193",
+          "start": 595.528
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0205",
+          "start": 631.897
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0246",
+          "start": 767.199
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0250",
+          "start": 783.382
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0306",
+          "start": 941.006
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0315",
+          "start": 968.267
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0318",
+          "start": 976.275
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0337",
+          "start": 1029.395
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0355",
+          "start": 1081.346
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0358",
+          "start": 1093.525
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0365",
+          "start": 1121.253
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0375",
+          "start": 1146.278
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0381",
+          "start": 1162.661
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0386",
+          "start": 1186.885
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0466",
+          "start": 1460.692
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0468",
+          "start": 1469.668
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0476",
+          "start": 1505.003
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0534",
+          "start": 1690.722
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0663",
+          "start": 2204.669
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0664",
+          "start": 2212.643
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0689",
+          "start": 2332.163
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0752",
+          "start": 2617.581
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0759",
+          "start": 2648.512
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0763",
+          "start": 2665.429
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0788",
+          "start": 2822.886
+        }
+      ],
+      "surface_examples": [
+        "手形"
+      ]
+    },
+    {
+      "lemma": "紛失",
+      "pos": "名詞",
+      "count": 12,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0045",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0045",
+          "start": 126.259
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0054",
+          "start": 147.981
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0060",
+          "start": 163.163
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0087",
+          "start": 257.924
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0103",
+          "start": 316.549
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0112",
+          "start": 350.45
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0250",
+          "start": 783.382
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0338",
+          "start": 1031.73
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0468",
+          "start": 1469.668
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0752",
+          "start": 2617.581
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0759",
+          "start": 2648.512
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0788",
+          "start": 2822.886
+        }
+      ],
+      "surface_examples": [
+        "紛失"
+      ]
+    },
+    {
+      "lemma": "行員",
+      "pos": "名詞",
+      "count": 14,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0047",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0047",
+          "start": 131.898
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0065",
+          "start": 192.692
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0066",
+          "start": 197.764
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0069",
+          "start": 208.908
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0137",
+          "start": 433.733
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0234",
+          "start": 732.998
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0236",
+          "start": 738.971
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0237",
+          "start": 741.107
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0238",
+          "start": 743.075
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0239",
+          "start": 745.478
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0358",
+          "start": 1093.525
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0360",
+          "start": 1100.933
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0361",
+          "start": 1104.503
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0363",
+          "start": 1111.31
+        }
+      ],
+      "surface_examples": [
+        "行員"
+      ]
+    },
+    {
+      "lemma": "総出",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0047",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0047",
+          "start": 131.898
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0065",
+          "start": 192.692
+        }
+      ],
+      "surface_examples": [
+        "総出"
+      ]
+    },
+    {
+      "lemma": "小切手",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0048",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0048",
+          "start": 134.434
+        }
+      ],
+      "surface_examples": [
+        "小切手"
+      ]
+    },
+    {
+      "lemma": "有価証券",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0048",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0048",
+          "start": 134.434
+        }
+      ],
+      "surface_examples": [
+        "有価証券"
+      ]
+    },
+    {
+      "lemma": "現金",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0049",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0049",
+          "start": 136.669
+        }
+      ],
+      "surface_examples": [
+        "現金"
+      ]
+    },
+    {
+      "lemma": "大変",
+      "pos": "形状詞",
+      "count": 5,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0052",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0052",
+          "start": 144.41
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0320",
+          "start": 982.548
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0368",
+          "start": 1127.659
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0423",
+          "start": 1299.164
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0493",
+          "start": 1593.458
+        }
+      ],
+      "surface_examples": [
+        "大変"
+      ]
+    },
+    {
+      "lemma": "信用",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0055",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0055",
+          "start": 151.217
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0104",
+          "start": 319.085
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0717",
+          "start": 2462.359
+        }
+      ],
+      "surface_examples": [
+        "信用"
+      ]
+    },
+    {
+      "lemma": "本部",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0056",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0056",
+          "start": 154.554
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0071",
+          "start": 213.746
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0091",
+          "start": 270.069
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0205",
+          "start": 631.897
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0209",
+          "start": 647.413
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0350",
+          "start": 1065.631
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0364",
+          "start": 1118.217
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0366",
+          "start": 1123.689
+        }
+      ],
+      "surface_examples": [
+        "本部"
+      ]
+    },
+    {
+      "lemma": "捜索",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0058",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0058",
+          "start": 159.025
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0083",
+          "start": 247.847
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0232",
+          "start": 727.126
+        }
+      ],
+      "surface_examples": [
+        "捜索"
+      ]
+    },
+    {
+      "lemma": "金額",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0060",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0060",
+          "start": 163.163
+        }
+      ],
+      "surface_examples": [
+        "金額"
+      ]
+    },
+    {
+      "lemma": "野口",
+      "pos": "名詞",
+      "count": 25,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0066",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0066",
+          "start": 197.764
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0067",
+          "start": 202.068
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0070",
+          "start": 212.712
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0073",
+          "start": 218.017
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0080",
+          "start": 239.606
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0082",
+          "start": 245.111
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0085",
+          "start": 254.12
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0088",
+          "start": 259.826
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0089",
+          "start": 263.129
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0100",
+          "start": 302.502
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0167",
+          "start": 524.09
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0176",
+          "start": 548.047
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0182",
+          "start": 565.498
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0185",
+          "start": 575.641
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0194",
+          "start": 600.833
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0231",
+          "start": 720.252
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0244",
+          "start": 758.858
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0254",
+          "start": 802.368
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0321",
+          "start": 985.718
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0345",
+          "start": 1052.618
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0478",
+          "start": 1512.677
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0483",
+          "start": 1527.158
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0484",
+          "start": 1532.097
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0803",
+          "start": 2868.065
+        }
+      ],
+      "surface_examples": [
+        "野口"
+      ]
+    },
+    {
+      "lemma": "班",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0071",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0071",
+          "start": 213.746
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0091",
+          "start": 270.069
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0205",
+          "start": 631.897
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0209",
+          "start": 647.413
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0813",
+          "start": 2915.345
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0862",
+          "start": 3057.954
+        }
+      ],
+      "surface_examples": [
+        "班"
+      ]
+    },
+    {
+      "lemma": "支店長",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0073",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0073",
+          "start": 218.017
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0085",
+          "start": 254.12
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0100",
+          "start": 302.502
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0171",
+          "start": 535.034
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0231",
+          "start": 720.252
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0245",
+          "start": 761.26
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0259",
+          "start": 825.09
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0321",
+          "start": 985.718
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0803",
+          "start": 2868.065
+        }
+      ],
+      "surface_examples": [
+        "支店長"
+      ]
+    },
+    {
+      "lemma": "報告",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0074",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0074",
+          "start": 222.055
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0087",
+          "start": 257.924
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0170",
+          "start": 531.264
+        }
+      ],
+      "surface_examples": [
+        "報告"
+      ]
+    },
+    {
+      "lemma": "小泉",
+      "pos": "名詞",
+      "count": 11,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0085",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0085",
+          "start": 254.12
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0088",
+          "start": 259.826
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0092",
+          "start": 273.64
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0177",
+          "start": 550.116
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0194",
+          "start": 600.833
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0231",
+          "start": 720.252
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0235",
+          "start": 734.467
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0241",
+          "start": 750.416
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0347",
+          "start": 1058.457
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0478",
+          "start": 1512.677
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0480",
+          "start": 1517.015
+        }
+      ],
+      "surface_examples": [
+        "小泉"
+      ]
+    },
+    {
+      "lemma": "機械",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0086",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0086",
+          "start": 256.823
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0115",
+          "start": 361.294
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0120",
+          "start": 381.881
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0173",
+          "start": 539.705
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0311",
+          "start": 958.424
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0317",
+          "start": 972.237
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0337",
+          "start": 1029.395
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0794",
+          "start": 2839.57
+        }
+      ],
+      "surface_examples": [
+        "機械"
+      ]
+    },
+    {
+      "lemma": "堀田",
+      "pos": "名詞",
+      "count": 65,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0089",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0089",
+          "start": 263.129
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0093",
+          "start": 275.375
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0113",
+          "start": 354.854
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0116",
+          "start": 365.932
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0119",
+          "start": 376.676
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0123",
+          "start": 389.255
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0125",
+          "start": 395.628
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0131",
+          "start": 413.713
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0136",
+          "start": 429.762
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0137",
+          "start": 433.733
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0145",
+          "start": 451.484
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0146",
+          "start": 454.821
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0149",
+          "start": 464.23
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0155",
+          "start": 478.845
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0156",
+          "start": 485.485
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0176",
+          "start": 548.047
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0224",
+          "start": 700.099
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0229",
+          "start": 714.58
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0251",
+          "start": 787.72
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0324",
+          "start": 995.527
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0325",
+          "start": 1000.232
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0329",
+          "start": 1009.942
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0335",
+          "start": 1026.325
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0344",
+          "start": 1048.514
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0356",
+          "start": 1084.049
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0374",
+          "start": 1141.974
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0383",
+          "start": 1173.005
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0394",
+          "start": 1217.816
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0396",
+          "start": 1227.392
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0402",
+          "start": 1244.676
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0424",
+          "start": 1302.134
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0435",
+          "start": 1354.92
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0436",
+          "start": 1356.922
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0444",
+          "start": 1380.912
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0477",
+          "start": 1509.841
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0483",
+          "start": 1527.158
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0523",
+          "start": 1659.991
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0527",
+          "start": 1671.803
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0529",
+          "start": 1678.977
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0533",
+          "start": 1688.353
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0535",
+          "start": 1694.192
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0537",
+          "start": 1697.595
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0589",
+          "start": 1850.982
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0597",
+          "start": 1883.982
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0609",
+          "start": 1933.865
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0620",
+          "start": 1967.832
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0622",
+          "start": 1977.375
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0628",
+          "start": 2021.219
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0629",
+          "start": 2023.921
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0639",
+          "start": 2062.56
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0646",
+          "start": 2121.853
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0649",
+          "start": 2143.441
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0652",
+          "start": 2162.326
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0657",
+          "start": 2180.378
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0701",
+          "start": 2394.592
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0742",
+          "start": 2583.013
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0748",
+          "start": 2605.869
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0756",
+          "start": 2632.63
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0758",
+          "start": 2643.907
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0766",
+          "start": 2676.974
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0774",
+          "start": 2709.173
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0780",
+          "start": 2734.898
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0787",
+          "start": 2804.735
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0791",
+          "start": 2831.562
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0828",
+          "start": 2961.725
+        }
+      ],
+      "surface_examples": [
+        "堀田"
+      ]
+    },
+    {
+      "lemma": "融資",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0092",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0092",
+          "start": 273.64
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0116",
+          "start": 365.932
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0386",
+          "start": 1186.885
+        }
+      ],
+      "surface_examples": [
+        "融資"
+      ]
+    },
+    {
+      "lemma": "課",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0092",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0092",
+          "start": 273.64
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0200",
+          "start": 617.75
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0206",
+          "start": 635.801
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0600",
+          "start": 1897.328
+        }
+      ],
+      "surface_examples": [
+        "課"
+      ]
+    },
+    {
+      "lemma": "長",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0092",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0092",
+          "start": 273.64
+        }
+      ],
+      "surface_examples": [
+        "長"
+      ]
+    },
+    {
+      "lemma": "真藤",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0096",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0096",
+          "start": 291.624
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0098",
+          "start": 298.798
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0102",
+          "start": 312.779
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0108",
+          "start": 338.571
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0807",
+          "start": 2885.682
+        }
+      ],
+      "surface_examples": [
+        "真藤"
+      ]
+    },
+    {
+      "lemma": "児玉",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0096",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0096",
+          "start": 291.624
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0100",
+          "start": 302.502
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0102",
+          "start": 312.779
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0803",
+          "start": 2868.065
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0807",
+          "start": 2885.682
+        }
+      ],
+      "surface_examples": [
+        "児玉"
+      ]
+    },
+    {
+      "lemma": "東京",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0104",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0104",
+          "start": 319.085
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0485",
+          "start": 1536.935
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0865",
+          "start": 3061.124
+        }
+      ],
+      "surface_examples": [
+        "東京"
+      ]
+    },
+    {
+      "lemma": "第",
+      "pos": "接頭辞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0104",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0104",
+          "start": 319.085
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0485",
+          "start": 1536.935
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0865",
+          "start": 3061.124
+        }
+      ],
+      "surface_examples": [
+        "第"
+      ]
+    },
+    {
+      "lemma": "一",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0104",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0104",
+          "start": 319.085
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0485",
+          "start": 1536.935
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0865",
+          "start": 3061.124
+        }
+      ],
+      "surface_examples": [
+        "一"
+      ]
+    },
+    {
+      "lemma": "銀行",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0104",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0104",
+          "start": 319.085
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0276",
+          "start": 865.03
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0310",
+          "start": 952.918
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0471",
+          "start": 1479.811
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0485",
+          "start": 1536.935
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0624",
+          "start": 1984.048
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0817",
+          "start": 2925.422
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0859",
+          "start": 3053.35
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0865",
+          "start": 3061.124
+        }
+      ],
+      "surface_examples": [
+        "銀行"
+      ]
+    },
+    {
+      "lemma": "派閥",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0105",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0105",
+          "start": 324.19
+        }
+      ],
+      "surface_examples": [
+        "派閥"
+      ]
+    },
+    {
+      "lemma": "常務",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0108",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0108",
+          "start": 338.571
+        }
+      ],
+      "surface_examples": [
+        "常務"
+      ]
+    },
+    {
+      "lemma": "川端",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0116",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0116",
+          "start": 365.932
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0364",
+          "start": 1118.217
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0374",
+          "start": 1141.974
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0375",
+          "start": 1146.278
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0388",
+          "start": 1195.928
+        }
+      ],
+      "surface_examples": [
+        "川端"
+      ]
+    },
+    {
+      "lemma": "集金",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0118",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0118",
+          "start": 374.273
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0149",
+          "start": 464.23
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0157",
+          "start": 487.453
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0161",
+          "start": 508.207
+        }
+      ],
+      "surface_examples": [
+        "集金"
+      ]
+    },
+    {
+      "lemma": "袋",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0118",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0118",
+          "start": 374.273
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0149",
+          "start": 464.23
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0157",
+          "start": 487.453
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0161",
+          "start": 508.207
+        }
+      ],
+      "surface_examples": [
+        "袋"
+      ]
+    },
+    {
+      "lemma": "営業課",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0131",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0131",
+          "start": 413.713
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0600",
+          "start": 1897.328
+        }
+      ],
+      "surface_examples": [
+        "営業課"
+      ]
+    },
+    {
+      "lemma": "電話",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0145",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0145",
+          "start": 451.484
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0576",
+          "start": 1803.668
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0577",
+          "start": 1807.472
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0578",
+          "start": 1808.373
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0685",
+          "start": 2299.93
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0761",
+          "start": 2657.421
+        }
+      ],
+      "surface_examples": [
+        "電話"
+      ]
+    },
+    {
+      "lemma": "間違う",
+      "pos": "動詞",
+      "count": 4,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0162",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0162",
+          "start": 511.277
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0183",
+          "start": 568.234
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0709",
+          "start": 2426.757
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0868",
+          "start": 3065.929
+        }
+      ],
+      "surface_examples": [
+        "間違っ"
+      ]
+    },
+    {
+      "lemma": "心当たり",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0166",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0166",
+          "start": 521.52
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0446",
+          "start": 1388.32
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0447",
+          "start": 1390.756
+        }
+      ],
+      "surface_examples": [
+        "心当たり"
+      ]
+    },
+    {
+      "lemma": "大",
+      "pos": "接頭辞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0170",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0170",
+          "start": 531.264
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0485",
+          "start": 1536.935
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0809",
+          "start": 2893.59
+        }
+      ],
+      "surface_examples": [
+        "大"
+      ]
+    },
+    {
+      "lemma": "失態",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0170",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0170",
+          "start": 531.264
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0485",
+          "start": 1536.935
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0809",
+          "start": 2893.59
+        }
+      ],
+      "surface_examples": [
+        "失態"
+      ]
+    },
+    {
+      "lemma": "入金",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0173",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0173",
+          "start": 539.705
+        }
+      ],
+      "surface_examples": [
+        "入金"
+      ]
+    },
+    {
+      "lemma": "希望日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0173",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0173",
+          "start": 539.705
+        }
+      ],
+      "surface_examples": [
+        "希望日"
+      ]
+    },
+    {
+      "lemma": "金曜日",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0174",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0174",
+          "start": 542.174
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0317",
+          "start": 972.237
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0377",
+          "start": 1152.05
+        }
+      ],
+      "surface_examples": [
+        "金曜日"
+      ]
+    },
+    {
+      "lemma": "明日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0175",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0175",
+          "start": 543.242
+        }
+      ],
+      "surface_examples": [
+        "明日"
+      ]
+    },
+    {
+      "lemma": "同僚",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0183",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0183",
+          "start": 568.234
+        }
+      ],
+      "surface_examples": [
+        "同僚"
+      ]
+    },
+    {
+      "lemma": "印鑑証明書",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0183",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0183",
+          "start": 568.234
+        }
+      ],
+      "surface_examples": [
+        "印鑑証明書"
+      ]
+    },
+    {
+      "lemma": "香澄",
+      "pos": "名詞",
+      "count": 63,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0200",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0200",
+          "start": 617.75
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0202",
+          "start": 623.255
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0203",
+          "start": 626.692
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0204",
+          "start": 628.828
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0208",
+          "start": 642.575
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0209",
+          "start": 647.413
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0210",
+          "start": 650.716
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0211",
+          "start": 653.786
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0219",
+          "start": 679.412
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0256",
+          "start": 815.915
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0257",
+          "start": 820.186
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0258",
+          "start": 821.954
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0261",
+          "start": 829.828
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0263",
+          "start": 833.899
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0266",
+          "start": 841.207
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0268",
+          "start": 845.044
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0269",
+          "start": 846.879
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0273",
+          "start": 855.955
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0275",
+          "start": 862.928
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0276",
+          "start": 865.03
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0282",
+          "start": 881.413
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0285",
+          "start": 889.521
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0287",
+          "start": 894.727
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0288",
+          "start": 898.097
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0297",
+          "start": 920.452
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0298",
+          "start": 924.29
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0324",
+          "start": 995.527
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0325",
+          "start": 1000.232
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0332",
+          "start": 1019.218
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0358",
+          "start": 1093.525
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0359",
+          "start": 1098.063
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0363",
+          "start": 1111.31
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0431",
+          "start": 1323.622
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0607",
+          "start": 1928.559
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0609",
+          "start": 1933.865
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0611",
+          "start": 1938.403
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0614",
+          "start": 1946.978
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0635",
+          "start": 2040.338
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0644",
+          "start": 2115.446
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0645",
+          "start": 2119.884
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0653",
+          "start": 2166.397
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0665",
+          "start": 2215.846
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0673",
+          "start": 2248.012
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0685",
+          "start": 2299.93
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0701",
+          "start": 2394.592
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0704",
+          "start": 2405.269
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0714",
+          "start": 2451.015
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0720",
+          "start": 2483.481
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0728",
+          "start": 2511.375
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0730",
+          "start": 2520.851
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0734",
+          "start": 2542.273
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0741",
+          "start": 2569.967
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0749",
+          "start": 2608.205
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0751",
+          "start": 2614.845
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0777",
+          "start": 2723.954
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0781",
+          "start": 2739.269
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0790",
+          "start": 2828.625
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0798",
+          "start": 2852.416
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0832",
+          "start": 2971.601
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0840",
+          "start": 2997.194
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0843",
+          "start": 3009.506
+        }
+      ],
+      "surface_examples": [
+        "香澄"
+      ]
+    },
+    {
+      "lemma": "渉外",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0200",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0200",
+          "start": 617.75
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0206",
+          "start": 635.801
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0600",
+          "start": 1897.328
+        }
+      ],
+      "surface_examples": [
+        "渉外"
+      ]
+    },
+    {
+      "lemma": "赤坂",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0208",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0208",
+          "start": 642.575
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0259",
+          "start": 825.09
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0263",
+          "start": 833.899
+        }
+      ],
+      "surface_examples": [
+        "赤坂"
+      ]
+    },
+    {
+      "lemma": "先輩",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0208",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0208",
+          "start": 642.575
+        }
+      ],
+      "surface_examples": [
+        "先輩"
+      ]
+    },
+    {
+      "lemma": "西原",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0208",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0208",
+          "start": 642.575
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0209",
+          "start": 647.413
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0271",
+          "start": 852.585
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0279",
+          "start": 873.172
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0607",
+          "start": 1928.559
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0635",
+          "start": 2040.338
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0642",
+          "start": 2079.043
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0760",
+          "start": 2654.718
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0790",
+          "start": 2828.625
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0816",
+          "start": 2921.918
+        }
+      ],
+      "surface_examples": [
+        "西原"
+      ]
+    },
+    {
+      "lemma": "気持ち",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0242",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0242",
+          "start": 751.884
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0692",
+          "start": 2349.58
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0701",
+          "start": 2394.592
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0780",
+          "start": 2734.898
+        }
+      ],
+      "surface_examples": [
+        "気持ち"
+      ]
+    },
+    {
+      "lemma": "幸三",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0262",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0262",
+          "start": 832.198
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0266",
+          "start": 841.207
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0293",
+          "start": 909.541
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0496",
+          "start": 1599.097
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0507",
+          "start": 1627.058
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0509",
+          "start": 1631.396
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0519",
+          "start": 1650.015
+        }
+      ],
+      "surface_examples": [
+        "幸三"
+      ]
+    },
+    {
+      "lemma": "山田",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0284",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0284",
+          "start": 886.919
+        }
+      ],
+      "surface_examples": [
+        "山田"
+      ]
+    },
+    {
+      "lemma": "結婚",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0285",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0285",
+          "start": 889.521
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0288",
+          "start": 898.097
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0295",
+          "start": 913.913
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0614",
+          "start": 1946.978
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0616",
+          "start": 1952.283
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0620",
+          "start": 1967.832
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0653",
+          "start": 2166.397
+        }
+      ],
+      "surface_examples": [
+        "結婚"
+      ]
+    },
+    {
+      "lemma": "裁判所",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0312",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0312",
+          "start": 961.527
+        }
+      ],
+      "surface_examples": [
+        "裁判所"
+      ]
+    },
+    {
+      "lemma": "間違い",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0316",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0316",
+          "start": 970.436
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0383",
+          "start": 1173.005
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0588",
+          "start": 1846.211
+        }
+      ],
+      "surface_examples": [
+        "間違い"
+      ]
+    },
+    {
+      "lemma": "足取り",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0335",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0335",
+          "start": 1026.325
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0336",
+          "start": 1028.293
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0345",
+          "start": 1052.618
+        }
+      ],
+      "surface_examples": [
+        "足取り"
+      ]
+    },
+    {
+      "lemma": "昨日",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0358",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0358",
+          "start": 1093.525
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0383",
+          "start": 1173.005
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0389",
+          "start": 1198.397
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0414",
+          "start": 1275.974
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0419",
+          "start": 1287.619
+        }
+      ],
+      "surface_examples": [
+        "昨日"
+      ]
+    },
+    {
+      "lemma": "経営",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0378",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0378",
+          "start": 1154.319
+        }
+      ],
+      "surface_examples": [
+        "経営"
+      ]
+    },
+    {
+      "lemma": "店長",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0415",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0415",
+          "start": 1279.411
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0559",
+          "start": 1759.157
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0560",
+          "start": 1760.658
+        }
+      ],
+      "surface_examples": [
+        "店長"
+      ]
+    },
+    {
+      "lemma": "男性",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0431",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0431",
+          "start": 1323.622
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0576",
+          "start": 1803.668
+        }
+      ],
+      "surface_examples": [
+        "男性"
+      ]
+    },
+    {
+      "lemma": "弁償",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0461",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0461",
+          "start": 1439.504
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0465",
+          "start": 1454.319
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0469",
+          "start": 1471.97
+        }
+      ],
+      "surface_examples": [
+        "弁償"
+      ]
+    },
+    {
+      "lemma": "貯金",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0464",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0464",
+          "start": 1451.883
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0825",
+          "start": 2952.316
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0836",
+          "start": 2982.746
+        }
+      ],
+      "surface_examples": [
+        "貯金"
+      ]
+    },
+    {
+      "lemma": "銀行員",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0474",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0474",
+          "start": 1493.892
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0705",
+          "start": 2408.439
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0710",
+          "start": 2432.496
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0721",
+          "start": 2487.284
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0771",
+          "start": 2695.125
+        }
+      ],
+      "surface_examples": [
+        "銀行員"
+      ]
+    },
+    {
+      "lemma": "全体",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0485",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0485",
+          "start": 1536.935
+        }
+      ],
+      "surface_examples": [
+        "全体"
+      ]
+    },
+    {
+      "lemma": "転勤",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0488",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0488",
+          "start": 1554.92
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0489",
+          "start": 1567.032
+        }
+      ],
+      "surface_examples": [
+        "転勤"
+      ]
+    },
+    {
+      "lemma": "店員",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0546",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0546",
+          "start": 1722.22
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0550",
+          "start": 1734.466
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0553",
+          "start": 1744.576
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0570",
+          "start": 1790.288
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0571",
+          "start": 1792.69
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0578",
+          "start": 1808.373
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0627",
+          "start": 1995.76
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0636",
+          "start": 2049.48
+        }
+      ],
+      "surface_examples": [
+        "店員"
+      ]
+    },
+    {
+      "lemma": "女性",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0573",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0573",
+          "start": 1796.861
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0574",
+          "start": 1800.431
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0579",
+          "start": 1811.442
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0582",
+          "start": 1820.485
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0633",
+          "start": 2036.467
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0635",
+          "start": 2040.338
+        }
+      ],
+      "surface_examples": [
+        "女性"
+      ]
+    },
+    {
+      "lemma": "事情",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0591",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0591",
+          "start": 1859.624
+        }
+      ],
+      "surface_examples": [
+        "事情"
+      ]
+    },
+    {
+      "lemma": "不倫",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0621",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0621",
+          "start": 1973.338
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0625",
+          "start": 1986.851
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0647",
+          "start": 2129.16
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0648",
+          "start": 2139.537
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0677",
+          "start": 2261.659
+        }
+      ],
+      "surface_examples": [
+        "不倫"
+      ]
+    },
+    {
+      "lemma": "彼女",
+      "pos": "代名詞",
+      "count": 3,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0622",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0622",
+          "start": 1977.375
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0762",
+          "start": 2661.425
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0763",
+          "start": 2665.429
+        }
+      ],
+      "surface_examples": [
+        "彼女"
+      ]
+    },
+    {
+      "lemma": "処分",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0625",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0625",
+          "start": 1986.851
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0788",
+          "start": 2822.886
+        }
+      ],
+      "surface_examples": [
+        "処分"
+      ]
+    },
+    {
+      "lemma": "離婚",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0657",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0657",
+          "start": 2180.378
+        },
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0828",
+          "start": 2961.725
+        }
+      ],
+      "surface_examples": [
+        "離婚"
+      ]
+    },
+    {
+      "lemma": "大事",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0667",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0667",
+          "start": 2227.825
+        }
+      ],
+      "surface_examples": [
+        "大事"
+      ]
+    },
+    {
+      "lemma": "携帯電話",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0684",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0684",
+          "start": 2294.525
+        }
+      ],
+      "surface_examples": [
+        "携帯電話"
+      ]
+    },
+    {
+      "lemma": "失格",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0710",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0710",
+          "start": 2432.496
+        }
+      ],
+      "surface_examples": [
+        "失格"
+      ]
+    },
+    {
+      "lemma": "懲戒解雇",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0790",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0790",
+          "start": 2828.625
+        }
+      ],
+      "surface_examples": [
+        "懲戒解雇"
+      ]
+    },
+    {
+      "lemma": "被害",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0794",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0794",
+          "start": 2839.57
+        }
+      ],
+      "surface_examples": [
+        "被害"
+      ]
+    },
+    {
+      "lemma": "三枝",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0862",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0862",
+          "start": 3057.954
+        }
+      ],
+      "surface_examples": [
+        "三枝"
+      ]
+    },
+    {
+      "lemma": "監視",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0863",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0863",
+          "start": 3058.789
+        }
+      ],
+      "surface_examples": [
+        "監視"
+      ]
+    },
+    {
+      "lemma": "久我",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0865",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0865",
+          "start": 3061.124
+        }
+      ],
+      "surface_examples": [
+        "久我"
+      ]
+    },
+    {
+      "lemma": "会社",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "hanasaki-mai-s02-e09-0866",
+      "occurrences": [
+        {
+          "sentence_id": "hanasaki-mai-s02-e09-0866",
+          "start": 3062.659
+        }
+      ],
+      "surface_examples": [
+        "会社"
+      ]
+    }
+  ]
 }

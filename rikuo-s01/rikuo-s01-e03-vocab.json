@@ -1,22 +1,6377 @@
 {
   "chapter_id": "rikuo-s01-e03",
-  "generated_at": "2026-05-05T16:12:31.063377+00:00",
-  "total_unique_lemmas": 1,
-  "total_tokens_after_filter": 1,
+  "generated_at": "2026-05-18T09:08:50.724726+00:00",
+  "total_unique_lemmas": 278,
+  "total_tokens_after_filter": 827,
   "vocab": [
     {
-      "lemma": "別",
-      "pos": "名詞",
+      "lemma": "代目",
+      "pos": "接尾辞",
       "count": 1,
-      "first_seen_sentence_id": "rikuo-s01-e03-0565",
+      "first_seen_sentence_id": "rikuo-s01-e03-0001",
       "occurrences": [
         {
-          "sentence_id": "rikuo-s01-e03-0565",
-          "start": 2493
+          "sentence_id": "rikuo-s01-e03-0001",
+          "start": 4.0
         }
       ],
       "surface_examples": [
-        "別"
+        "代目"
+      ]
+    },
+    {
+      "lemma": "宮沢",
+      "pos": "名詞",
+      "count": 61,
+      "first_seen_sentence_id": "rikuo-s01-e03-0001",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0001",
+          "start": 4.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0006",
+          "start": 20.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0014",
+          "start": 52.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0015",
+          "start": 57.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0028",
+          "start": 104
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0058",
+          "start": 253
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0069",
+          "start": 289
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0076",
+          "start": 313
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0092",
+          "start": 394
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0093",
+          "start": 404
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0096",
+          "start": 421
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0099",
+          "start": 431
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0111",
+          "start": 521
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0202",
+          "start": 905
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0208",
+          "start": 923
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0233",
+          "start": 1084
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0235",
+          "start": 1090
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0237",
+          "start": 1097
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0294",
+          "start": 1354
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0297",
+          "start": 1360
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0300",
+          "start": 1368
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0305",
+          "start": 1385
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0310",
+          "start": 1405
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0317",
+          "start": 1430
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0320",
+          "start": 1442
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0321",
+          "start": 1444
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0325",
+          "start": 1466
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0327",
+          "start": 1475
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0330",
+          "start": 1488
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0337",
+          "start": 1513
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0342",
+          "start": 1531
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0343",
+          "start": 1534
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0363",
+          "start": 1608
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0372",
+          "start": 1655
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0381",
+          "start": 1688
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0416",
+          "start": 1811
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0426",
+          "start": 1854
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0429",
+          "start": 1862
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0563",
+          "start": 2480
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0571",
+          "start": 2525
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0581",
+          "start": 2573
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0588",
+          "start": 2602
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0594",
+          "start": 2641
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0607",
+          "start": 2697
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0610",
+          "start": 2705
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0628",
+          "start": 2893
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0632",
+          "start": 2915
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0664",
+          "start": 3016
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0666",
+          "start": 3020
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0668",
+          "start": 3024
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0677",
+          "start": 3088
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0678",
+          "start": 3092
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0681",
+          "start": 3105
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0697",
+          "start": 3163
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0716",
+          "start": 3250
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0734",
+          "start": 3327
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0737",
+          "start": 3371
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0751",
+          "start": 3450
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0768",
+          "start": 3540
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0769",
+          "start": 3544
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0772",
+          "start": 3552
+        }
+      ],
+      "surface_examples": [
+        "宮沢"
+      ]
+    },
+    {
+      "lemma": "紘一",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0001",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0001",
+          "start": 4.0
+        }
+      ],
+      "surface_examples": [
+        "紘一"
+      ]
+    },
+    {
+      "lemma": "技術",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0002",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0002",
+          "start": 8.0
+        }
+      ],
+      "surface_examples": [
+        "技術"
+      ]
+    },
+    {
+      "lemma": "陸王",
+      "pos": "名詞",
+      "count": 24,
+      "first_seen_sentence_id": "rikuo-s01-e03-0003",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0003",
+          "start": 11.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0014",
+          "start": 52.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0015",
+          "start": 57.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0107",
+          "start": 472
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0164",
+          "start": 745
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0171",
+          "start": 774
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0181",
+          "start": 807
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0183",
+          "start": 817
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0216",
+          "start": 951
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0353",
+          "start": 1568
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0361",
+          "start": 1599
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0364",
+          "start": 1615
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0374",
+          "start": 1661
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0375",
+          "start": 1666
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0425",
+          "start": 1848
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0587",
+          "start": 2597
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0630",
+          "start": 2903
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0667",
+          "start": 3022
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0680",
+          "start": 3100
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0700",
+          "start": 3172
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0710",
+          "start": 3207
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0725",
+          "start": 3282
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0754",
+          "start": 3459
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0768",
+          "start": 3540
+        }
+      ],
+      "surface_examples": [
+        "陸王"
+      ]
+    },
+    {
+      "lemma": "踏み切る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0003",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0003",
+          "start": 11.0
+        }
+      ],
+      "surface_examples": [
+        "踏み切っ"
+      ]
+    },
+    {
+      "lemma": "最適",
+      "pos": "形状詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0004",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0004",
+          "start": 14.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0159",
+          "start": 725
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0195",
+          "start": 873
+        }
+      ],
+      "surface_examples": [
+        "最適"
+      ]
+    },
+    {
+      "lemma": "素材",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0004",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0004",
+          "start": 14.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0159",
+          "start": 725
+        }
+      ],
+      "surface_examples": [
+        "素材"
+      ]
+    },
+    {
+      "lemma": "新素材",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0005",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0005",
+          "start": 16.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0011",
+          "start": 37.0
+        }
+      ],
+      "surface_examples": [
+        "新素材"
+      ]
+    },
+    {
+      "lemma": "特許",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0006",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0006",
+          "start": 20.0
+        }
+      ],
+      "surface_examples": [
+        "特許"
+      ]
+    },
+    {
+      "lemma": "飯山",
+      "pos": "名詞",
+      "count": 36,
+      "first_seen_sentence_id": "rikuo-s01-e03-0006",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0006",
+          "start": 20.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0008",
+          "start": 27.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0012",
+          "start": 42.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0027",
+          "start": 102
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0030",
+          "start": 114
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0035",
+          "start": 163
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0042",
+          "start": 188
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0055",
+          "start": 232
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0075",
+          "start": 310
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0079",
+          "start": 320
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0080",
+          "start": 323
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0097",
+          "start": 423
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0156",
+          "start": 715
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0158",
+          "start": 721
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0182",
+          "start": 814
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0191",
+          "start": 855
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0196",
+          "start": 877
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0229",
+          "start": 1048
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0338",
+          "start": 1516
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0342",
+          "start": 1531
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0452",
+          "start": 1973
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0474",
+          "start": 2072
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0527",
+          "start": 2313
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0541",
+          "start": 2388
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0571",
+          "start": 2525
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0572",
+          "start": 2529
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0580",
+          "start": 2565
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0614",
+          "start": 2746
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0617",
+          "start": 2820
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0651",
+          "start": 2975
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0652",
+          "start": 2978
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0658",
+          "start": 2992
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0676",
+          "start": 3081
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0740",
+          "start": 3389
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0742",
+          "start": 3400
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0744",
+          "start": 3405
+        }
+      ],
+      "surface_examples": [
+        "飯山"
+      ]
+    },
+    {
+      "lemma": "懸命",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0008",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0008",
+          "start": 27.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0691",
+          "start": 3137
+        }
+      ],
+      "surface_examples": [
+        "懸命"
+      ]
+    },
+    {
+      "lemma": "足袋",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0009",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0009",
+          "start": 32.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0023",
+          "start": 87
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0694",
+          "start": 3153
+        }
+      ],
+      "surface_examples": [
+        "足袋"
+      ]
+    },
+    {
+      "lemma": "職人",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0009",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0009",
+          "start": 32.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0660",
+          "start": 2998
+        }
+      ],
+      "surface_examples": [
+        "職人"
+      ]
+    },
+    {
+      "lemma": "茂木",
+      "pos": "名詞",
+      "count": 39,
+      "first_seen_sentence_id": "rikuo-s01-e03-0013",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0013",
+          "start": 47.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0114",
+          "start": 550
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0118",
+          "start": 560
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0129",
+          "start": 618
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0136",
+          "start": 649
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0140",
+          "start": 660
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0141",
+          "start": 665
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0148",
+          "start": 687
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0153",
+          "start": 702
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0173",
+          "start": 784
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0181",
+          "start": 807
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0216",
+          "start": 951
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0217",
+          "start": 956
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0224",
+          "start": 978
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0225",
+          "start": 981
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0253",
+          "start": 1149
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0261",
+          "start": 1180
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0487",
+          "start": 2136
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0489",
+          "start": 2143
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0492",
+          "start": 2150
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0497",
+          "start": 2169
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0511",
+          "start": 2210
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0514",
+          "start": 2217
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0546",
+          "start": 2408
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0560",
+          "start": 2448
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0587",
+          "start": 2597
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0630",
+          "start": 2903
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0665",
+          "start": 3018
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0667",
+          "start": 3022
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0677",
+          "start": 3088
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0680",
+          "start": 3100
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0681",
+          "start": 3105
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0697",
+          "start": 3163
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0706",
+          "start": 3196
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0725",
+          "start": 3282
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0757",
+          "start": 3484
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0763",
+          "start": 3505
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0769",
+          "start": 3544
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0772",
+          "start": 3552
+        }
+      ],
+      "surface_examples": [
+        "茂木"
+      ]
+    },
+    {
+      "lemma": "送る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0014",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0014",
+          "start": 52.0
+        }
+      ],
+      "surface_examples": [
+        "送っ"
+      ]
+    },
+    {
+      "lemma": "夢",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "rikuo-s01-e03-0015",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0015",
+          "start": 57.0
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0244",
+          "start": 1115
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0245",
+          "start": 1117
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0436",
+          "start": 1892
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0771",
+          "start": 3549
+        }
+      ],
+      "surface_examples": [
+        "夢"
+      ]
+    },
+    {
+      "lemma": "走る",
+      "pos": "動詞",
+      "count": 6,
+      "first_seen_sentence_id": "rikuo-s01-e03-0016",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0016",
+          "start": 62
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0118",
+          "start": 560
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0153",
+          "start": 702
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0159",
+          "start": 725
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0435",
+          "start": 1886
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0705",
+          "start": 3190
+        }
+      ],
+      "surface_examples": [
+        "走り",
+        "走る"
+      ]
+    },
+    {
+      "lemma": "志望",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0017",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0017",
+          "start": 65
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0020",
+          "start": 76
+        }
+      ],
+      "surface_examples": [
+        "志望"
+      ]
+    },
+    {
+      "lemma": "大地",
+      "pos": "名詞",
+      "count": 39,
+      "first_seen_sentence_id": "rikuo-s01-e03-0018",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0018",
+          "start": 67
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0034",
+          "start": 154
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0035",
+          "start": 163
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0058",
+          "start": 253
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0083",
+          "start": 348
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0092",
+          "start": 394
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0096",
+          "start": 421
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0111",
+          "start": 521
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0191",
+          "start": 855
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0197",
+          "start": 881
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0198",
+          "start": 895
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0228",
+          "start": 1027
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0240",
+          "start": 1105
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0246",
+          "start": 1124
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0248",
+          "start": 1128
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0452",
+          "start": 1973
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0470",
+          "start": 2059
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0472",
+          "start": 2064
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0481",
+          "start": 2114
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0524",
+          "start": 2287
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0530",
+          "start": 2329
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0534",
+          "start": 2342
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0539",
+          "start": 2365
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0591",
+          "start": 2614
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0596",
+          "start": 2661
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0601",
+          "start": 2679
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0604",
+          "start": 2690
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0605",
+          "start": 2691
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0606",
+          "start": 2696
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0607",
+          "start": 2697
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0636",
+          "start": 2936
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0640",
+          "start": 2943
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0642",
+          "start": 2954
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0671",
+          "start": 3051
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0673",
+          "start": 3068
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0676",
+          "start": 3081
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0721",
+          "start": 3268
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0737",
+          "start": 3371
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0747",
+          "start": 3425
+        }
+      ],
+      "surface_examples": [
+        "大地"
+      ]
+    },
+    {
+      "lemma": "電気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0018",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0018",
+          "start": 67
+        }
+      ],
+      "surface_examples": [
+        "電気"
+      ]
+    },
+    {
+      "lemma": "工学",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0018",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0018",
+          "start": 67
+        }
+      ],
+      "surface_examples": [
+        "工学"
+      ]
+    },
+    {
+      "lemma": "大規模",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0019",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0019",
+          "start": 72
+        }
+      ],
+      "surface_examples": [
+        "大規模"
+      ]
+    },
+    {
+      "lemma": "電設",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0019",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0019",
+          "start": 72
+        }
+      ],
+      "surface_examples": [
+        "電設"
+      ]
+    },
+    {
+      "lemma": "活躍",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0019",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0019",
+          "start": 72
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0121",
+          "start": 571
+        }
+      ],
+      "surface_examples": [
+        "活躍"
+      ]
+    },
+    {
+      "lemma": "御",
+      "pos": "接頭辞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0019",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0019",
+          "start": 72
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0355",
+          "start": 1572
+        }
+      ],
+      "surface_examples": [
+        "御"
+      ]
+    },
+    {
+      "lemma": "社",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0019",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0019",
+          "start": 72
+        }
+      ],
+      "surface_examples": [
+        "社"
+      ]
+    },
+    {
+      "lemma": "家業",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0021",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0021",
+          "start": 80
+        }
+      ],
+      "surface_examples": [
+        "家業"
+      ]
+    },
+    {
+      "lemma": "製造業",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0023",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0023",
+          "start": 87
+        }
+      ],
+      "surface_examples": [
+        "製造業"
+      ]
+    },
+    {
+      "lemma": "強い",
+      "pos": "形容詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0024",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0024",
+          "start": 90
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0180",
+          "start": 803
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0646",
+          "start": 2964
+        }
+      ],
+      "surface_examples": [
+        "強く",
+        "強かっ"
+      ]
+    },
+    {
+      "lemma": "実家",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0025",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0025",
+          "start": 93
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0650",
+          "start": 2973
+        }
+      ],
+      "surface_examples": [
+        "実家"
+      ]
+    },
+    {
+      "lemma": "若手",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0028",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0028",
+          "start": 104
+        }
+      ],
+      "surface_examples": [
+        "若手"
+      ]
+    },
+    {
+      "lemma": "安田",
+      "pos": "名詞",
+      "count": 15,
+      "first_seen_sentence_id": "rikuo-s01-e03-0029",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0029",
+          "start": 110
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0049",
+          "start": 210
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0080",
+          "start": 323
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0107",
+          "start": 472
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0289",
+          "start": 1334
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0292",
+          "start": 1343
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0631",
+          "start": 2912
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0635",
+          "start": 2934
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0639",
+          "start": 2941
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0645",
+          "start": 2961
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0650",
+          "start": 2973
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0657",
+          "start": 2991
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0658",
+          "start": 2992
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0732",
+          "start": 3319
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0738",
+          "start": 3376
+        }
+      ],
+      "surface_examples": [
+        "安田"
+      ]
+    },
+    {
+      "lemma": "繭",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "rikuo-s01-e03-0029",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0029",
+          "start": 110
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0030",
+          "start": 114
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0193",
+          "start": 862
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0653",
+          "start": 2980
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0655",
+          "start": 2988
+        }
+      ],
+      "surface_examples": [
+        "繭"
+      ]
+    },
+    {
+      "lemma": "従業員",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0033",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0033",
+          "start": 125
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0726",
+          "start": 3287
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0755",
+          "start": 3464
+        }
+      ],
+      "surface_examples": [
+        "従業員"
+      ]
+    },
+    {
+      "lemma": "富島",
+      "pos": "名詞",
+      "count": 13,
+      "first_seen_sentence_id": "rikuo-s01-e03-0041",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0041",
+          "start": 185
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0042",
+          "start": 188
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0046",
+          "start": 201
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0056",
+          "start": 235
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0170",
+          "start": 772
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0324",
+          "start": 1463
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0325",
+          "start": 1466
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0415",
+          "start": 1808
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0419",
+          "start": 1826
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0424",
+          "start": 1845
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0427",
+          "start": 1855
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0442",
+          "start": 1923
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0446",
+          "start": 1938
+        }
+      ],
+      "surface_examples": [
+        "富島"
+      ]
+    },
+    {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 7,
+      "first_seen_sentence_id": "rikuo-s01-e03-0041",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0041",
+          "start": 185
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0123",
+          "start": 580
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0129",
+          "start": 618
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0287",
+          "start": 1274
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0338",
+          "start": 1516
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0483",
+          "start": 2121
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0727",
+          "start": 3290
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
+      ]
+    },
+    {
+      "lemma": "会社",
+      "pos": "名詞",
+      "count": 13,
+      "first_seen_sentence_id": "rikuo-s01-e03-0042",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0042",
+          "start": 188
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0056",
+          "start": 235
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0085",
+          "start": 357
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0106",
+          "start": 458
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0242",
+          "start": 1109
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0245",
+          "start": 1117
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0309",
+          "start": 1400
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0417",
+          "start": 1814
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0420",
+          "start": 1829
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0421",
+          "start": 1833
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0428",
+          "start": 1858
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0506",
+          "start": 2193
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0703",
+          "start": 3181
+        }
+      ],
+      "surface_examples": [
+        "会社"
+      ]
+    },
+    {
+      "lemma": "潰す",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0042",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0042",
+          "start": 188
+        }
+      ],
+      "surface_examples": [
+        "潰し"
+      ]
+    },
+    {
+      "lemma": "倒産",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0043",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0043",
+          "start": 193
+        }
+      ],
+      "surface_examples": [
+        "倒産"
+      ]
+    },
+    {
+      "lemma": "ぎっくり腰",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0043",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0043",
+          "start": 193
+        }
+      ],
+      "surface_examples": [
+        "ぎっくり腰"
+      ]
+    },
+    {
+      "lemma": "信用",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0047",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0047",
+          "start": 203
+        }
+      ],
+      "surface_examples": [
+        "信用"
+      ]
+    },
+    {
+      "lemma": "特許使用料",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0051",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0051",
+          "start": 217
+        }
+      ],
+      "surface_examples": [
+        "特許使用料"
+      ]
+    },
+    {
+      "lemma": "顧問料",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0051",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0051",
+          "start": 217
+        }
+      ],
+      "surface_examples": [
+        "顧問料"
+      ]
+    },
+    {
+      "lemma": "銀行",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "rikuo-s01-e03-0054",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0054",
+          "start": 226
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0316",
+          "start": 1427
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0390",
+          "start": 1723
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0433",
+          "start": 1877
+        }
+      ],
+      "surface_examples": [
+        "銀行"
+      ]
+    },
+    {
+      "lemma": "都合",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0061",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0061",
+          "start": 262
+        }
+      ],
+      "surface_examples": [
+        "都合"
+      ]
+    },
+    {
+      "lemma": "検針",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0063",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0063",
+          "start": 267
+        }
+      ],
+      "surface_examples": [
+        "検針"
+      ]
+    },
+    {
+      "lemma": "余裕",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0070",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0070",
+          "start": 291
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0103",
+          "start": 450
+        }
+      ],
+      "surface_examples": [
+        "余裕"
+      ]
+    },
+    {
+      "lemma": "工学部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0074",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0074",
+          "start": 306
+        }
+      ],
+      "surface_examples": [
+        "工学部"
+      ]
+    },
+    {
+      "lemma": "顧問",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "rikuo-s01-e03-0075",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0075",
+          "start": 310
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0539",
+          "start": 2365
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0570",
+          "start": 2517
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0592",
+          "start": 2618
+        }
+      ],
+      "surface_examples": [
+        "顧問"
+      ]
+    },
+    {
+      "lemma": "務まる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0076",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0076",
+          "start": 313
+        }
+      ],
+      "surface_examples": [
+        "務まる"
+      ]
+    },
+    {
+      "lemma": "親父",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "rikuo-s01-e03-0083",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0083",
+          "start": 348
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0445",
+          "start": 1936
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0580",
+          "start": 2565
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0586",
+          "start": 2595
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0605",
+          "start": 2691
+        }
+      ],
+      "surface_examples": [
+        "親父"
+      ]
+    },
+    {
+      "lemma": "不安材料",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0083",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0083",
+          "start": 348
+        }
+      ],
+      "surface_examples": [
+        "不安材料"
+      ]
+    },
+    {
+      "lemma": "広樹",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0084",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0084",
+          "start": 353
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0085",
+          "start": 357
+        }
+      ],
+      "surface_examples": [
+        "広樹"
+      ]
+    },
+    {
+      "lemma": "腰掛け",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0084",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0084",
+          "start": 353
+        }
+      ],
+      "surface_examples": [
+        "腰掛け"
+      ]
+    },
+    {
+      "lemma": "壊す",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0089",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0089",
+          "start": 368
+        }
+      ],
+      "surface_examples": [
+        "壊し"
+      ]
+    },
+    {
+      "lemma": "入院",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0089",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0089",
+          "start": 368
+        }
+      ],
+      "surface_examples": [
+        "入院"
+      ]
+    },
+    {
+      "lemma": "残業代",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0099",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0099",
+          "start": 431
+        }
+      ],
+      "surface_examples": [
+        "残業代"
+      ]
+    },
+    {
+      "lemma": "小原",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "rikuo-s01-e03-0114",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0114",
+          "start": 550
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0116",
+          "start": 554
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0120",
+          "start": 566
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0123",
+          "start": 580
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0497",
+          "start": 2169
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0501",
+          "start": 2178
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0512",
+          "start": 2213
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0765",
+          "start": 3533
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0767",
+          "start": 3538
+        }
+      ],
+      "surface_examples": [
+        "小原"
+      ]
+    },
+    {
+      "lemma": "靴",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "rikuo-s01-e03-0114",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0114",
+          "start": 550
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0147",
+          "start": 685
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0148",
+          "start": 687
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0149",
+          "start": 689
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0233",
+          "start": 1084
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0504",
+          "start": 2187
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0505",
+          "start": 2190
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0517",
+          "start": 2226
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0769",
+          "start": 3544
+        }
+      ],
+      "surface_examples": [
+        "靴"
+      ]
+    },
+    {
+      "lemma": "履く",
+      "pos": "動詞",
+      "count": 17,
+      "first_seen_sentence_id": "rikuo-s01-e03-0114",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0114",
+          "start": 550
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0119",
+          "start": 563
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0173",
+          "start": 784
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0174",
+          "start": 787
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0216",
+          "start": 951
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0219",
+          "start": 960
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0233",
+          "start": 1084
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0330",
+          "start": 1488
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0366",
+          "start": 1623
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0517",
+          "start": 2226
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0587",
+          "start": 2597
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0667",
+          "start": 3022
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0680",
+          "start": 3100
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0684",
+          "start": 3115
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0712",
+          "start": 3220
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0725",
+          "start": 3282
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0760",
+          "start": 3495
+        }
+      ],
+      "surface_examples": [
+        "履い",
+        "履か",
+        "履く"
+      ]
+    },
+    {
+      "lemma": "佐山",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "rikuo-s01-e03-0115",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0115",
+          "start": 552
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0116",
+          "start": 554
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0117",
+          "start": 556
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0123",
+          "start": 580
+        }
+      ],
+      "surface_examples": [
+        "佐山"
+      ]
+    },
+    {
+      "lemma": "比較",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0117",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0117",
+          "start": 556
+        }
+      ],
+      "surface_examples": [
+        "比較"
+      ]
+    },
+    {
+      "lemma": "次元",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0117",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0117",
+          "start": 556
+        }
+      ],
+      "surface_examples": [
+        "次元"
+      ]
+    },
+    {
+      "lemma": "代物",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0117",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0117",
+          "start": 556
+        }
+      ],
+      "surface_examples": [
+        "代物"
+      ]
+    },
+    {
+      "lemma": "他社",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0121",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0121",
+          "start": 571
+        }
+      ],
+      "surface_examples": [
+        "他社"
+      ]
+    },
+    {
+      "lemma": "選手",
+      "pos": "名詞",
+      "count": 16,
+      "first_seen_sentence_id": "rikuo-s01-e03-0121",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0121",
+          "start": 571
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0127",
+          "start": 596
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0181",
+          "start": 807
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0216",
+          "start": 951
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0219",
+          "start": 960
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0224",
+          "start": 978
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0495",
+          "start": 2159
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0503",
+          "start": 2184
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0507",
+          "start": 2196
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0509",
+          "start": 2203
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0557",
+          "start": 2438
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0630",
+          "start": 2903
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0725",
+          "start": 3282
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0767",
+          "start": 3538
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0769",
+          "start": 3544
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0770",
+          "start": 3545
+        }
+      ],
+      "surface_examples": [
+        "選手"
+      ]
+    },
+    {
+      "lemma": "拾い上げる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0121",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0121",
+          "start": 571
+        }
+      ],
+      "surface_examples": [
+        "拾い上げ"
+      ]
+    },
+    {
+      "lemma": "改善",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0124",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0124",
+          "start": 582
+        }
+      ],
+      "surface_examples": [
+        "改善"
+      ]
+    },
+    {
+      "lemma": "余計",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0124",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0124",
+          "start": 582
+        }
+      ],
+      "surface_examples": [
+        "余計"
+      ]
+    },
+    {
+      "lemma": "平瀬",
+      "pos": "名詞",
+      "count": 13,
+      "first_seen_sentence_id": "rikuo-s01-e03-0129",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0129",
+          "start": 618
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0130",
+          "start": 622
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0134",
+          "start": 646
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0135",
+          "start": 647
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0140",
+          "start": 660
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0141",
+          "start": 665
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0142",
+          "start": 667
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0260",
+          "start": 1178
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0261",
+          "start": 1180
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0273",
+          "start": 1228
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0279",
+          "start": 1246
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0543",
+          "start": 2400
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0547",
+          "start": 2409
+        }
+      ],
+      "surface_examples": [
+        "平瀬"
+      ]
+    },
+    {
+      "lemma": "判断",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0131",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0131",
+          "start": 625
+        }
+      ],
+      "surface_examples": [
+        "判断"
+      ]
+    },
+    {
+      "lemma": "村野",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "rikuo-s01-e03-0135",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0135",
+          "start": 647
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0136",
+          "start": 649
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0140",
+          "start": 660
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0142",
+          "start": 667
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0146",
+          "start": 680
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0152",
+          "start": 700
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0497",
+          "start": 2169
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0506",
+          "start": 2193
+        }
+      ],
+      "surface_examples": [
+        "村野"
+      ]
+    },
+    {
+      "lemma": "羨ましい",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0141",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0141",
+          "start": 665
+        }
+      ],
+      "surface_examples": [
+        "羨ましい"
+      ]
+    },
+    {
+      "lemma": "走らす",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0149",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0149",
+          "start": 689
+        }
+      ],
+      "surface_examples": [
+        "走らさ"
+      ]
+    },
+    {
+      "lemma": "履き心地",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0149",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0149",
+          "start": 689
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0698",
+          "start": 3165
+        }
+      ],
+      "surface_examples": [
+        "履き心地"
+      ]
+    },
+    {
+      "lemma": "軟らかい",
+      "pos": "形容詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0153",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0153",
+          "start": 702
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0673",
+          "start": 3068
+        }
+      ],
+      "surface_examples": [
+        "軟らか"
+      ]
+    },
+    {
+      "lemma": "不安定",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0153",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0153",
+          "start": 702
+        }
+      ],
+      "surface_examples": [
+        "不安定"
+      ]
+    },
+    {
+      "lemma": "課題",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0156",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0156",
+          "start": 715
+        }
+      ],
+      "surface_examples": [
+        "課題"
+      ]
+    },
+    {
+      "lemma": "硬さ",
+      "pos": "名詞",
+      "count": 11,
+      "first_seen_sentence_id": "rikuo-s01-e03-0156",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0156",
+          "start": 715
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0157",
+          "start": 719
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0159",
+          "start": 725
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0164",
+          "start": 745
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0165",
+          "start": 751
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0167",
+          "start": 760
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0186",
+          "start": 832
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0190",
+          "start": 850
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0195",
+          "start": 873
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0652",
+          "start": 2978
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0674",
+          "start": 3074
+        }
+      ],
+      "surface_examples": [
+        "硬さ"
+      ]
+    },
+    {
+      "lemma": "調整",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0156",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0156",
+          "start": 715
+        }
+      ],
+      "surface_examples": [
+        "調整"
+      ]
+    },
+    {
+      "lemma": "形状",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0159",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0159",
+          "start": 725
+        }
+      ],
+      "surface_examples": [
+        "形状"
+      ]
+    },
+    {
+      "lemma": "資料",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0161",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0161",
+          "start": 732
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0185",
+          "start": 830
+        }
+      ],
+      "surface_examples": [
+        "資料"
+      ]
+    },
+    {
+      "lemma": "微妙",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0162",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0162",
+          "start": 736
+        }
+      ],
+      "surface_examples": [
+        "微妙"
+      ]
+    },
+    {
+      "lemma": "商品化",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0171",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0171",
+          "start": 774
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0172",
+          "start": 779
+        }
+      ],
+      "surface_examples": [
+        "商品化"
+      ]
+    },
+    {
+      "lemma": "頑張る",
+      "pos": "動詞",
+      "count": 5,
+      "first_seen_sentence_id": "rikuo-s01-e03-0177",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0177",
+          "start": 794
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0241",
+          "start": 1107
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0253",
+          "start": 1149
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0746",
+          "start": 3417
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0772",
+          "start": 3552
+        }
+      ],
+      "surface_examples": [
+        "頑張る",
+        "頑張っ",
+        "頑張れー"
+      ]
+    },
+    {
+      "lemma": "開発",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0182",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0182",
+          "start": 814
+        }
+      ],
+      "surface_examples": [
+        "開発"
+      ]
+    },
+    {
+      "lemma": "資金",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0182",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0182",
+          "start": 814
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0298",
+          "start": 1363
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0435",
+          "start": 1886
+        }
+      ],
+      "surface_examples": [
+        "資金"
+      ]
+    },
+    {
+      "lemma": "硬度",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "rikuo-s01-e03-0186",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0186",
+          "start": 832
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0187",
+          "start": 839
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0189",
+          "start": 847
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0454",
+          "start": 1978
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0456",
+          "start": 1986
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0536",
+          "start": 2351
+        }
+      ],
+      "surface_examples": [
+        "硬度"
+      ]
+    },
+    {
+      "lemma": "高温",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0193",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0193",
+          "start": 862
+        }
+      ],
+      "surface_examples": [
+        "高温"
+      ]
+    },
+    {
+      "lemma": "液体",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0193",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0193",
+          "start": 862
+        }
+      ],
+      "surface_examples": [
+        "液体"
+      ]
+    },
+    {
+      "lemma": "圧縮",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0194",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0194",
+          "start": 866
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0653",
+          "start": 2980
+        }
+      ],
+      "surface_examples": [
+        "圧縮"
+      ]
+    },
+    {
+      "lemma": "冷却",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0194",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0194",
+          "start": 866
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0197",
+          "start": 881
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0528",
+          "start": 2321
+        }
+      ],
+      "surface_examples": [
+        "冷却"
+      ]
+    },
+    {
+      "lemma": "予想",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0196",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0196",
+          "start": 877
+        }
+      ],
+      "surface_examples": [
+        "予想"
+      ]
+    },
+    {
+      "lemma": "難航",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0196",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0196",
+          "start": 877
+        }
+      ],
+      "surface_examples": [
+        "難航"
+      ]
+    },
+    {
+      "lemma": "温度",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "rikuo-s01-e03-0197",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0197",
+          "start": 881
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0528",
+          "start": 2321
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0645",
+          "start": 2961
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0655",
+          "start": 2988
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0671",
+          "start": 3051
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0674",
+          "start": 3074
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0719",
+          "start": 3257
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0721",
+          "start": 3268
+        }
+      ],
+      "surface_examples": [
+        "温度"
+      ]
+    },
+    {
+      "lemma": "大橋",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "rikuo-s01-e03-0201",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0201",
+          "start": 903
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0204",
+          "start": 910
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0208",
+          "start": 923
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0210",
+          "start": 928
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0211",
+          "start": 932
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0213",
+          "start": 938
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0377",
+          "start": 1675
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0408",
+          "start": 1787
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0412",
+          "start": 1798
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0413",
+          "start": 1799
+        }
+      ],
+      "surface_examples": [
+        "大橋"
+      ]
+    },
+    {
+      "lemma": "追加",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0201",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0201",
+          "start": 903
+        }
+      ],
+      "surface_examples": [
+        "追加"
+      ]
+    },
+    {
+      "lemma": "融資",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "rikuo-s01-e03-0201",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0201",
+          "start": 903
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0221",
+          "start": 967
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0371",
+          "start": 1650
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0382",
+          "start": 1692
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0401",
+          "start": 1762
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0403",
+          "start": 1767
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0418",
+          "start": 1819
+        }
+      ],
+      "surface_examples": [
+        "融資"
+      ]
+    },
+    {
+      "lemma": "保証",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0208",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0208",
+          "start": 923
+        }
+      ],
+      "surface_examples": [
+        "保証"
+      ]
+    },
+    {
+      "lemma": "失敗",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "rikuo-s01-e03-0210",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0210",
+          "start": 928
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0211",
+          "start": 932
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0425",
+          "start": 1848
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0567",
+          "start": 2503
+        }
+      ],
+      "surface_examples": [
+        "失敗"
+      ]
+    },
+    {
+      "lemma": "返済",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0210",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0210",
+          "start": 928
+        }
+      ],
+      "surface_examples": [
+        "返済"
+      ]
+    },
+    {
+      "lemma": "御社",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0213",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0213",
+          "start": 938
+        }
+      ],
+      "surface_examples": [
+        "御社"
+      ]
+    },
+    {
+      "lemma": "実績",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "rikuo-s01-e03-0213",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0213",
+          "start": 938
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0214",
+          "start": 943
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0222",
+          "start": 970
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0309",
+          "start": 1400
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0363",
+          "start": 1608
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0370",
+          "start": 1649
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0374",
+          "start": 1661
+        }
+      ],
+      "surface_examples": [
+        "実績"
+      ]
+    },
+    {
+      "lemma": "食品",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0216",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0216",
+          "start": 951
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0629",
+          "start": 2896
+        }
+      ],
+      "surface_examples": [
+        "食品"
+      ]
+    },
+    {
+      "lemma": "陸上部",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0216",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0216",
+          "start": 951
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0764",
+          "start": 3531
+        }
+      ],
+      "surface_examples": [
+        "陸上部"
+      ]
+    },
+    {
+      "lemma": "城戸",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "rikuo-s01-e03-0223",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0223",
+          "start": 977
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0225",
+          "start": 981
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0250",
+          "start": 1143
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0252",
+          "start": 1147
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0260",
+          "start": 1178
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0756",
+          "start": 3481
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0758",
+          "start": 3489
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0762",
+          "start": 3503
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0770",
+          "start": 3545
+        }
+      ],
+      "surface_examples": [
+        "城戸"
+      ]
+    },
+    {
+      "lemma": "茜",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "rikuo-s01-e03-0230",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0230",
+          "start": 1068
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0236",
+          "start": 1091
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0238",
+          "start": 1098
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0242",
+          "start": 1109
+        }
+      ],
+      "surface_examples": [
+        "茜"
+      ]
+    },
+    {
+      "lemma": "人気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0235",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0235",
+          "start": 1090
+        }
+      ],
+      "surface_examples": [
+        "人気"
+      ]
+    },
+    {
+      "lemma": "履ける",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0236",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0236",
+          "start": 1091
+        }
+      ],
+      "surface_examples": [
+        "履ける"
+      ]
+    },
+    {
+      "lemma": "美枝子",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "rikuo-s01-e03-0240",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0240",
+          "start": 1105
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0246",
+          "start": 1124
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0247",
+          "start": 1127
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0457",
+          "start": 2006
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0467",
+          "start": 2051
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0470",
+          "start": 2059
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0471",
+          "start": 2062
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0594",
+          "start": 2641
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0595",
+          "start": 2657
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0600",
+          "start": 2671
+        }
+      ],
+      "surface_examples": [
+        "美枝子"
+      ]
+    },
+    {
+      "lemma": "焦る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0252",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0252",
+          "start": 1147
+        }
+      ],
+      "surface_examples": [
+        "焦ん"
+      ]
+    },
+    {
+      "lemma": "立原",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "rikuo-s01-e03-0252",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0252",
+          "start": 1147
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0253",
+          "start": 1149
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0266",
+          "start": 1197
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0269",
+          "start": 1213
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0270",
+          "start": 1216
+        }
+      ],
+      "surface_examples": [
+        "立原"
+      ]
+    },
+    {
+      "lemma": "実況",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "rikuo-s01-e03-0255",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0255",
+          "start": 1162
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0262",
+          "start": 1184
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0267",
+          "start": 1200
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0269",
+          "start": 1213
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0272",
+          "start": 1224
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0274",
+          "start": 1230
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0281",
+          "start": 1253
+        }
+      ],
+      "surface_examples": [
+        "実況"
+      ]
+    },
+    {
+      "lemma": "号砲",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0255",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0255",
+          "start": 1162
+        }
+      ],
+      "surface_examples": [
+        "号砲"
+      ]
+    },
+    {
+      "lemma": "熊谷",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0255",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0255",
+          "start": 1162
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0258",
+          "start": 1173
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0262",
+          "start": 1184
+        }
+      ],
+      "surface_examples": [
+        "熊谷"
+      ]
+    },
+    {
+      "lemma": "文化",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0255",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0255",
+          "start": 1162
+        }
+      ],
+      "surface_examples": [
+        "文化"
+      ]
+    },
+    {
+      "lemma": "公園",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0255",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0255",
+          "start": 1162
+        }
+      ],
+      "surface_examples": [
+        "公園"
+      ]
+    },
+    {
+      "lemma": "陸上",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0255",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0255",
+          "start": 1162
+        }
+      ],
+      "surface_examples": [
+        "陸上"
+      ]
+    },
+    {
+      "lemma": "競技場",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0255",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0255",
+          "start": 1162
+        }
+      ],
+      "surface_examples": [
+        "競技場"
+      ]
+    },
+    {
+      "lemma": "北埼玉",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0257",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0257",
+          "start": 1169
+        }
+      ],
+      "surface_examples": [
+        "北埼玉"
+      ]
+    },
+    {
+      "lemma": "再生",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0264",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0264",
+          "start": 1191
+        }
+      ],
+      "surface_examples": [
+        "再生"
+      ]
+    },
+    {
+      "lemma": "製作所",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0264",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0264",
+          "start": 1191
+        }
+      ],
+      "surface_examples": [
+        "製作所"
+      ]
+    },
+    {
+      "lemma": "神林",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0264",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0264",
+          "start": 1191
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0275",
+          "start": 1235
+        }
+      ],
+      "surface_examples": [
+        "神林"
+      ]
+    },
+    {
+      "lemma": "工業",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "rikuo-s01-e03-0264",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0264",
+          "start": 1191
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0267",
+          "start": 1200
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0274",
+          "start": 1230
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0478",
+          "start": 2102
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0490",
+          "start": 2144
+        }
+      ],
+      "surface_examples": [
+        "工業"
+      ]
+    },
+    {
+      "lemma": "毛塚",
+      "pos": "名詞",
+      "count": 15,
+      "first_seen_sentence_id": "rikuo-s01-e03-0264",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0264",
+          "start": 1191
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0267",
+          "start": 1200
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0273",
+          "start": 1228
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0274",
+          "start": 1230
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0276",
+          "start": 1238
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0278",
+          "start": 1243
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0281",
+          "start": 1253
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0285",
+          "start": 1266
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0286",
+          "start": 1270
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0490",
+          "start": 2144
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0491",
+          "start": 2149
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0495",
+          "start": 2159
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0543",
+          "start": 2400
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0545",
+          "start": 2406
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0557",
+          "start": 2438
+        }
+      ],
+      "surface_examples": [
+        "毛塚"
+      ]
+    },
+    {
+      "lemma": "英才",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0268",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0268",
+          "start": 1203
+        }
+      ],
+      "surface_examples": [
+        "英才"
+      ]
+    },
+    {
+      "lemma": "教育",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0268",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0268",
+          "start": 1203
+        }
+      ],
+      "surface_examples": [
+        "教育"
+      ]
+    },
+    {
+      "lemma": "箱根",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0268",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0268",
+          "start": 1203
+        }
+      ],
+      "surface_examples": [
+        "箱根"
+      ]
+    },
+    {
+      "lemma": "先頭",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0271",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0271",
+          "start": 1222
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0272",
+          "start": 1224
+        }
+      ],
+      "surface_examples": [
+        "先頭"
+      ]
+    },
+    {
+      "lemma": "最",
+      "pos": "接頭辞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0275",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0275",
+          "start": 1235
+        }
+      ],
+      "surface_examples": [
+        "最"
+      ]
+    },
+    {
+      "lemma": "有力",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0275",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0275",
+          "start": 1235
+        }
+      ],
+      "surface_examples": [
+        "有力"
+      ]
+    },
+    {
+      "lemma": "候補",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0275",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0275",
+          "start": 1235
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0495",
+          "start": 2159
+        }
+      ],
+      "surface_examples": [
+        "候補"
+      ]
+    },
+    {
+      "lemma": "実業団",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0276",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0276",
+          "start": 1238
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0488",
+          "start": 2138
+        }
+      ],
+      "surface_examples": [
+        "実業団"
+      ]
+    },
+    {
+      "lemma": "銅",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0277",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0277",
+          "start": 1240
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0281",
+          "start": 1253
+        }
+      ],
+      "surface_examples": [
+        "銅"
+      ]
+    },
+    {
+      "lemma": "猛追",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0277",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0277",
+          "start": 1240
+        }
+      ],
+      "surface_examples": [
+        "猛追"
+      ]
+    },
+    {
+      "lemma": "詰める",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0280",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0280",
+          "start": 1248
+        }
+      ],
+      "surface_examples": [
+        "詰め"
+      ]
+    },
+    {
+      "lemma": "優勝",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0284",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0284",
+          "start": 1262
+        }
+      ],
+      "surface_examples": [
+        "優勝"
+      ]
+    },
+    {
+      "lemma": "両手",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0284",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0284",
+          "start": 1262
+        }
+      ],
+      "surface_examples": [
+        "両手"
+      ]
+    },
+    {
+      "lemma": "有村",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "rikuo-s01-e03-0293",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0293",
+          "start": 1353
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0298",
+          "start": 1363
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0303",
+          "start": 1378
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0319",
+          "start": 1440
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0320",
+          "start": 1442
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0628",
+          "start": 2893
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0663",
+          "start": 3013
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0665",
+          "start": 3018
+        }
+      ],
+      "surface_examples": [
+        "有村"
+      ]
+    },
+    {
+      "lemma": "坂本",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "rikuo-s01-e03-0296",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0296",
+          "start": 1359
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0297",
+          "start": 1360
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0298",
+          "start": 1363
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0315",
+          "start": 1426
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0320",
+          "start": 1442
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0321",
+          "start": 1444
+        }
+      ],
+      "surface_examples": [
+        "坂本"
+      ]
+    },
+    {
+      "lemma": "知恵",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0303",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0303",
+          "start": 1378
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0411",
+          "start": 1796
+        }
+      ],
+      "surface_examples": [
+        "知恵"
+      ]
+    },
+    {
+      "lemma": "命",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0306",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0306",
+          "start": 1388
+        }
+      ],
+      "surface_examples": [
+        "命"
+      ]
+    },
+    {
+      "lemma": "抱え",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0310",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0310",
+          "start": 1405
+        }
+      ],
+      "surface_examples": [
+        "抱え"
+      ]
+    },
+    {
+      "lemma": "地位",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0311",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0311",
+          "start": 1410
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0313",
+          "start": 1418
+        }
+      ],
+      "surface_examples": [
+        "地位"
+      ]
+    },
+    {
+      "lemma": "業",
+      "pos": "接尾辞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0312",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0312",
+          "start": 1414
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0694",
+          "start": 3153
+        }
+      ],
+      "surface_examples": [
+        "業"
+      ]
+    },
+    {
+      "lemma": "界",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0312",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0312",
+          "start": 1414
+        }
+      ],
+      "surface_examples": [
+        "界"
+      ]
+    },
+    {
+      "lemma": "殴り込み",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0312",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0312",
+          "start": 1414
+        }
+      ],
+      "surface_examples": [
+        "殴り込み"
+      ]
+    },
+    {
+      "lemma": "確立",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0313",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0313",
+          "start": 1418
+        }
+      ],
+      "surface_examples": [
+        "確立"
+      ]
+    },
+    {
+      "lemma": "覚悟",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0314",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0314",
+          "start": 1423
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0396",
+          "start": 1744
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0523",
+          "start": 2249
+        }
+      ],
+      "surface_examples": [
+        "覚悟"
+      ]
+    },
+    {
+      "lemma": "銀行員",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0321",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0321",
+          "start": 1444
+        }
+      ],
+      "surface_examples": [
+        "銀行員"
+      ]
+    },
+    {
+      "lemma": "提案",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0321",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0321",
+          "start": 1444
+        }
+      ],
+      "surface_examples": [
+        "提案"
+      ]
+    },
+    {
+      "lemma": "学園",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "rikuo-s01-e03-0326",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0326",
+          "start": 1468
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0328",
+          "start": 1479
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0329",
+          "start": 1482
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0341",
+          "start": 1527
+        }
+      ],
+      "surface_examples": [
+        "学園"
+      ]
+    },
+    {
+      "lemma": "栗山",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "rikuo-s01-e03-0328",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0328",
+          "start": 1479
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0332",
+          "start": 1496
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0333",
+          "start": 1499
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0344",
+          "start": 1538
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0347",
+          "start": 1547
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0350",
+          "start": 1561
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0355",
+          "start": 1572
+        }
+      ],
+      "surface_examples": [
+        "栗山"
+      ]
+    },
+    {
+      "lemma": "紹介",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0329",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0329",
+          "start": 1482
+        }
+      ],
+      "surface_examples": [
+        "紹介"
+      ]
+    },
+    {
+      "lemma": "体育",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0330",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0330",
+          "start": 1488
+        }
+      ],
+      "surface_examples": [
+        "体育"
+      ]
+    },
+    {
+      "lemma": "老舗",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0332",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0332",
+          "start": 1496
+        }
+      ],
+      "surface_examples": [
+        "老舗"
+      ]
+    },
+    {
+      "lemma": "丈夫",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0333",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0333",
+          "start": 1499
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0692",
+          "start": 3143
+        }
+      ],
+      "surface_examples": [
+        "丈夫"
+      ]
+    },
+    {
+      "lemma": "商品",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0335",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0335",
+          "start": 1504
+        }
+      ],
+      "surface_examples": [
+        "商品"
+      ]
+    },
+    {
+      "lemma": "検討",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0336",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0336",
+          "start": 1510
+        }
+      ],
+      "surface_examples": [
+        "検討"
+      ]
+    },
+    {
+      "lemma": "最終的",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0337",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0337",
+          "start": 1513
+        }
+      ],
+      "surface_examples": [
+        "最終的"
+      ]
+    },
+    {
+      "lemma": "決定",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0337",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0337",
+          "start": 1513
+        }
+      ],
+      "surface_examples": [
+        "決定"
+      ]
+    },
+    {
+      "lemma": "会議",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0337",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0337",
+          "start": 1513
+        }
+      ],
+      "surface_examples": [
+        "会議"
+      ]
+    },
+    {
+      "lemma": "親",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0355",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0355",
+          "start": 1572
+        }
+      ],
+      "surface_examples": [
+        "親"
+      ]
+    },
+    {
+      "lemma": "校庭",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0356",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0356",
+          "start": 1574
+        }
+      ],
+      "surface_examples": [
+        "校庭"
+      ]
+    },
+    {
+      "lemma": "走り回る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0356",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0356",
+          "start": 1574
+        }
+      ],
+      "surface_examples": [
+        "走り回る"
+      ]
+    },
+    {
+      "lemma": "満場一致",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0359",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0359",
+          "start": 1584
+        }
+      ],
+      "surface_examples": [
+        "満場一致"
+      ]
+    },
+    {
+      "lemma": "採用",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0359",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0359",
+          "start": 1584
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0361",
+          "start": 1599
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0373",
+          "start": 1657
+        }
+      ],
+      "surface_examples": [
+        "採用"
+      ]
+    },
+    {
+      "lemma": "発注",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0362",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0362",
+          "start": 1602
+        }
+      ],
+      "surface_examples": [
+        "発注"
+      ]
+    },
+    {
+      "lemma": "米子",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0365",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0365",
+          "start": 1620
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0718",
+          "start": 3254
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0739",
+          "start": 3378
+        }
+      ],
+      "surface_examples": [
+        "米子"
+      ]
+    },
+    {
+      "lemma": "開発費",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0371",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0371",
+          "start": 1650
+        }
+      ],
+      "surface_examples": [
+        "開発費"
+      ]
+    },
+    {
+      "lemma": "認知",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0375",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0375",
+          "start": 1666
+        }
+      ],
+      "surface_examples": [
+        "認知"
+      ]
+    },
+    {
+      "lemma": "可能性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0375",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0375",
+          "start": 1666
+        }
+      ],
+      "surface_examples": [
+        "可能性"
+      ]
+    },
+    {
+      "lemma": "支店長",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0377",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0377",
+          "start": 1675
+        }
+      ],
+      "surface_examples": [
+        "支店長"
+      ]
+    },
+    {
+      "lemma": "家長",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "rikuo-s01-e03-0379",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0379",
+          "start": 1681
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0407",
+          "start": 1782
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0409",
+          "start": 1792
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0413",
+          "start": 1799
+        }
+      ],
+      "surface_examples": [
+        "家長"
+      ]
+    },
+    {
+      "lemma": "案件",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0379",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0379",
+          "start": 1681
+        }
+      ],
+      "surface_examples": [
+        "案件"
+      ]
+    },
+    {
+      "lemma": "外出",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0379",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0379",
+          "start": 1681
+        }
+      ],
+      "surface_examples": [
+        "外出"
+      ]
+    },
+    {
+      "lemma": "一任",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0380",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0380",
+          "start": 1686
+        }
+      ],
+      "surface_examples": [
+        "一任"
+      ]
+    },
+    {
+      "lemma": "定期預金",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "rikuo-s01-e03-0385",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0385",
+          "start": 1706
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0386",
+          "start": 1713
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0389",
+          "start": 1719
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0392",
+          "start": 1729
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0397",
+          "start": 1748
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0405",
+          "start": 1774
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0434",
+          "start": 1882
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0459",
+          "start": 2012
+        }
+      ],
+      "surface_examples": [
+        "定期預金"
+      ]
+    },
+    {
+      "lemma": "社長",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0389",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0389",
+          "start": 1719
+        }
+      ],
+      "surface_examples": [
+        "社長"
+      ]
+    },
+    {
+      "lemma": "個人",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "rikuo-s01-e03-0389",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0389",
+          "start": 1719
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0399",
+          "start": 1755
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0402",
+          "start": 1765
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0418",
+          "start": 1819
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0434",
+          "start": 1882
+        }
+      ],
+      "surface_examples": [
+        "個人"
+      ]
+    },
+    {
+      "lemma": "名義",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0389",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0389",
+          "start": 1719
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0434",
+          "start": 1882
+        }
+      ],
+      "surface_examples": [
+        "名義"
+      ]
+    },
+    {
+      "lemma": "解約",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "rikuo-s01-e03-0389",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0389",
+          "start": 1719
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0397",
+          "start": 1748
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0405",
+          "start": 1774
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0409",
+          "start": 1792
+        }
+      ],
+      "surface_examples": [
+        "解約"
+      ]
+    },
+    {
+      "lemma": "担保",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0391",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0391",
+          "start": 1726
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0399",
+          "start": 1755
+        }
+      ],
+      "surface_examples": [
+        "担保"
+      ]
+    },
+    {
+      "lemma": "暗黙",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0392",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0392",
+          "start": 1729
+        }
+      ],
+      "surface_examples": [
+        "暗黙"
+      ]
+    },
+    {
+      "lemma": "了解",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0392",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0392",
+          "start": 1729
+        }
+      ],
+      "surface_examples": [
+        "了解"
+      ]
+    },
+    {
+      "lemma": "金融庁",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0393",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0393",
+          "start": 1733
+        }
+      ],
+      "surface_examples": [
+        "金融庁"
+      ]
+    },
+    {
+      "lemma": "指導",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0393",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0393",
+          "start": 1733
+        }
+      ],
+      "surface_examples": [
+        "指導"
+      ]
+    },
+    {
+      "lemma": "預金",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0394",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0394",
+          "start": 1736
+        }
+      ],
+      "surface_examples": [
+        "預金"
+      ]
+    },
+    {
+      "lemma": "家族",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0395",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0395",
+          "start": 1739
+        }
+      ],
+      "surface_examples": [
+        "家族"
+      ]
+    },
+    {
+      "lemma": "負う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0396",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0396",
+          "start": 1744
+        }
+      ],
+      "surface_examples": [
+        "負う"
+      ]
+    },
+    {
+      "lemma": "得策",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0398",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0398",
+          "start": 1752
+        }
+      ],
+      "surface_examples": [
+        "得策"
+      ]
+    },
+    {
+      "lemma": "資産",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0399",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0399",
+          "start": 1755
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0402",
+          "start": 1765
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0418",
+          "start": 1819
+        }
+      ],
+      "surface_examples": [
+        "資産"
+      ]
+    },
+    {
+      "lemma": "勝手",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0400",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0400",
+          "start": 1760
+        }
+      ],
+      "surface_examples": [
+        "勝手"
+      ]
+    },
+    {
+      "lemma": "定期",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0409",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0409",
+          "start": 1792
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0469",
+          "start": 2057
+        }
+      ],
+      "surface_examples": [
+        "定期"
+      ]
+    },
+    {
+      "lemma": "姑息",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0410",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0410",
+          "start": 1794
+        }
+      ],
+      "surface_examples": [
+        "姑息"
+      ]
+    },
+    {
+      "lemma": "丸裸",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0414",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0414",
+          "start": 1801
+        }
+      ],
+      "surface_examples": [
+        "丸裸"
+      ]
+    },
+    {
+      "lemma": "路頭",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0414",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0414",
+          "start": 1801
+        }
+      ],
+      "surface_examples": [
+        "路頭"
+      ]
+    },
+    {
+      "lemma": "自分自身",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0414",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0414",
+          "start": 1801
+        }
+      ],
+      "surface_examples": [
+        "自分自身"
+      ]
+    },
+    {
+      "lemma": "先代",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "rikuo-s01-e03-0425",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0425",
+          "start": 1848
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0431",
+          "start": 1868
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0436",
+          "start": 1892
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0442",
+          "start": 1923
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0448",
+          "start": 1946
+        }
+      ],
+      "surface_examples": [
+        "先代"
+      ]
+    },
+    {
+      "lemma": "縮小",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0428",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0428",
+          "start": 1858
+        }
+      ],
+      "surface_examples": [
+        "縮小"
+      ]
+    },
+    {
+      "lemma": "意気込み",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0432",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0432",
+          "start": 1872
+        }
+      ],
+      "surface_examples": [
+        "意気込み"
+      ]
+    },
+    {
+      "lemma": "借金",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0433",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0433",
+          "start": 1877
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0438",
+          "start": 1904
+        }
+      ],
+      "surface_examples": [
+        "借金"
+      ]
+    },
+    {
+      "lemma": "手段",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0435",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0435",
+          "start": 1886
+        }
+      ],
+      "surface_examples": [
+        "手段"
+      ]
+    },
+    {
+      "lemma": "倉庫",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0438",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0438",
+          "start": 1904
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0610",
+          "start": 2705
+        }
+      ],
+      "surface_examples": [
+        "倉庫"
+      ]
+    },
+    {
+      "lemma": "在庫",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0438",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0438",
+          "start": 1904
+        }
+      ],
+      "surface_examples": [
+        "在庫"
+      ]
+    },
+    {
+      "lemma": "悔し涙",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0448",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0448",
+          "start": 1946
+        }
+      ],
+      "surface_examples": [
+        "悔し涙"
+      ]
+    },
+    {
+      "lemma": "生涯",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0448",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0448",
+          "start": 1946
+        }
+      ],
+      "surface_examples": [
+        "生涯"
+      ]
+    },
+    {
+      "lemma": "海外留学",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0461",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0461",
+          "start": 2024
+        }
+      ],
+      "surface_examples": [
+        "海外留学"
+      ]
+    },
+    {
+      "lemma": "お兄ちゃん",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0463",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0463",
+          "start": 2031
+        }
+      ],
+      "surface_examples": [
+        "お兄ちゃん"
+      ]
+    },
+    {
+      "lemma": "海外",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0464",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0464",
+          "start": 2035
+        }
+      ],
+      "surface_examples": [
+        "海外"
+      ]
+    },
+    {
+      "lemma": "協力",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0465",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0465",
+          "start": 2040
+        }
+      ],
+      "surface_examples": [
+        "協力"
+      ]
+    },
+    {
+      "lemma": "本気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0467",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0467",
+          "start": 2051
+        }
+      ],
+      "surface_examples": [
+        "本気"
+      ]
+    },
+    {
+      "lemma": "東和",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0478",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0478",
+          "start": 2102
+        }
+      ],
+      "surface_examples": [
+        "東和"
+      ]
+    },
+    {
+      "lemma": "人事部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0478",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0478",
+          "start": 2102
+        }
+      ],
+      "surface_examples": [
+        "人事部"
+      ]
+    },
+    {
+      "lemma": "弊社",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0479",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0479",
+          "start": 2106
+        }
+      ],
+      "surface_examples": [
+        "弊社"
+      ]
+    },
+    {
+      "lemma": "二",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0479",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0479",
+          "start": 2106
+        }
+      ],
+      "surface_examples": [
+        "二"
+      ]
+    },
+    {
+      "lemma": "次",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0479",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0479",
+          "start": 2106
+        }
+      ],
+      "surface_examples": [
+        "次"
+      ]
+    },
+    {
+      "lemma": "面接",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0479",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0479",
+          "start": 2106
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0579",
+          "start": 2556
+        }
+      ],
+      "surface_examples": [
+        "面接"
+      ]
+    },
+    {
+      "lemma": "試験",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0479",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0479",
+          "start": 2106
+        }
+      ],
+      "surface_examples": [
+        "試験"
+      ]
+    },
+    {
+      "lemma": "審査",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0480",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0480",
+          "start": 2110
+        }
+      ],
+      "surface_examples": [
+        "審査"
+      ]
+    },
+    {
+      "lemma": "段階",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0480",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0480",
+          "start": 2110
+        }
+      ],
+      "surface_examples": [
+        "段階"
+      ]
+    },
+    {
+      "lemma": "始業",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0481",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0481",
+          "start": 2114
+        }
+      ],
+      "surface_examples": [
+        "始業"
+      ]
+    },
+    {
+      "lemma": "前",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0481",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0481",
+          "start": 2114
+        }
+      ],
+      "surface_examples": [
+        "前"
+      ]
+    },
+    {
+      "lemma": "本社",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0481",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0481",
+          "start": 2114
+        }
+      ],
+      "surface_examples": [
+        "本社"
+      ]
+    },
+    {
+      "lemma": "ご都合",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0482",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0482",
+          "start": 2119
+        }
+      ],
+      "surface_examples": [
+        "ご都合"
+      ]
+    },
+    {
+      "lemma": "島",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "rikuo-s01-e03-0488",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0488",
+          "start": 2138
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0490",
+          "start": 2144
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0492",
+          "start": 2150
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0496",
+          "start": 2164
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0551",
+          "start": 2422
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0554",
+          "start": 2430
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0559",
+          "start": 2443
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0561",
+          "start": 2450
+        }
+      ],
+      "surface_examples": [
+        "島"
+      ]
+    },
+    {
+      "lemma": "新星",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0488",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0488",
+          "start": 2138
+        }
+      ],
+      "surface_examples": [
+        "新星"
+      ]
+    },
+    {
+      "lemma": "対談",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "rikuo-s01-e03-0488",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0488",
+          "start": 2138
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0490",
+          "start": 2144
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0495",
+          "start": 2159
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0545",
+          "start": 2406
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0553",
+          "start": 2428
+        }
+      ],
+      "surface_examples": [
+        "対談"
+      ]
+    },
+    {
+      "lemma": "特集",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0488",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0488",
+          "start": 2138
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0543",
+          "start": 2400
+        }
+      ],
+      "surface_examples": [
+        "特集"
+      ]
+    },
+    {
+      "lemma": "監督",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0492",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0492",
+          "start": 2150
+        }
+      ],
+      "surface_examples": [
+        "監督"
+      ]
+    },
+    {
+      "lemma": "極力",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0499",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0499",
+          "start": 2173
+        }
+      ],
+      "surface_examples": [
+        "極力"
+      ]
+    },
+    {
+      "lemma": "薄い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0499",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0499",
+          "start": 2173
+        }
+      ],
+      "surface_examples": [
+        "薄く"
+      ]
+    },
+    {
+      "lemma": "裸足",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0499",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0499",
+          "start": 2173
+        }
+      ],
+      "surface_examples": [
+        "裸足"
+      ]
+    },
+    {
+      "lemma": "感覚",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0499",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0499",
+          "start": 2173
+        }
+      ],
+      "surface_examples": [
+        "感覚"
+      ]
+    },
+    {
+      "lemma": "走れる",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0499",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0499",
+          "start": 2173
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0505",
+          "start": 2190
+        }
+      ],
+      "surface_examples": [
+        "走れる",
+        "走れ"
+      ]
+    },
+    {
+      "lemma": "着地",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0500",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0500",
+          "start": 2177
+        }
+      ],
+      "surface_examples": [
+        "着地"
+      ]
+    },
+    {
+      "lemma": "矯正",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0501",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0501",
+          "start": 2178
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0684",
+          "start": 3115
+        }
+      ],
+      "surface_examples": [
+        "矯正"
+      ]
+    },
+    {
+      "lemma": "用",
+      "pos": "接尾辞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0501",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0501",
+          "start": 2178
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0684",
+          "start": 3115
+        }
+      ],
+      "surface_examples": [
+        "用"
+      ]
+    },
+    {
+      "lemma": "提供",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0503",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0503",
+          "start": 2184
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0688",
+          "start": 3128
+        }
+      ],
+      "surface_examples": [
+        "提供"
+      ]
+    },
+    {
+      "lemma": "企業",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0508",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0508",
+          "start": 2199
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0695",
+          "start": 3156
+        }
+      ],
+      "surface_examples": [
+        "企業"
+      ]
+    },
+    {
+      "lemma": "復活",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "rikuo-s01-e03-0511",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0511",
+          "start": 2210
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0513",
+          "start": 2215
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0758",
+          "start": 3489
+        }
+      ],
+      "surface_examples": [
+        "復活"
+      ]
+    },
+    {
+      "lemma": "半腱",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0512",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0512",
+          "start": 2213
+        }
+      ],
+      "surface_examples": [
+        "半腱"
+      ]
+    },
+    {
+      "lemma": "様",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0512",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0512",
+          "start": 2213
+        }
+      ],
+      "surface_examples": [
+        "様"
+      ]
+    },
+    {
+      "lemma": "筋",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0512",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0512",
+          "start": 2213
+        }
+      ],
+      "surface_examples": [
+        "筋"
+      ]
+    },
+    {
+      "lemma": "妙",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0517",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0517",
+          "start": 2226
+        }
+      ],
+      "surface_examples": [
+        "妙"
+      ]
+    },
+    {
+      "lemma": "看板",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0521",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0521",
+          "start": 2242
+        }
+      ],
+      "surface_examples": [
+        "看板"
+      ]
+    },
+    {
+      "lemma": "捨てる",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0523",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0523",
+          "start": 2249
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0756",
+          "start": 3481
+        }
+      ],
+      "surface_examples": [
+        "捨てる",
+        "捨て"
+      ]
+    },
+    {
+      "lemma": "挟む",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0523",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0523",
+          "start": 2249
+        }
+      ],
+      "surface_examples": [
+        "挟む"
+      ]
+    },
+    {
+      "lemma": "損失",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0525",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0525",
+          "start": 2291
+        }
+      ],
+      "surface_examples": [
+        "損失"
+      ]
+    },
+    {
+      "lemma": "徹夜",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0531",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0531",
+          "start": 2333
+        }
+      ],
+      "surface_examples": [
+        "徹夜"
+      ]
+    },
+    {
+      "lemma": "出来",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0540",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0540",
+          "start": 2369
+        }
+      ],
+      "surface_examples": [
+        "出来"
+      ]
+    },
+    {
+      "lemma": "損ない",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0540",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0540",
+          "start": 2369
+        }
+      ],
+      "surface_examples": [
+        "損ない"
+      ]
+    },
+    {
+      "lemma": "機械",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0540",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0540",
+          "start": 2369
+        }
+      ],
+      "surface_examples": [
+        "機械"
+      ]
+    },
+    {
+      "lemma": "日程",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0553",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0553",
+          "start": 2428
+        }
+      ],
+      "surface_examples": [
+        "日程"
+      ]
+    },
+    {
+      "lemma": "煮詰まる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0593",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0593",
+          "start": 2621
+        }
+      ],
+      "surface_examples": [
+        "煮詰まっ"
+      ]
+    },
+    {
+      "lemma": "務め",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0598",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0598",
+          "start": 2665
+        }
+      ],
+      "surface_examples": [
+        "務め"
+      ]
+    },
+    {
+      "lemma": "趣味",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0605",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0605",
+          "start": 2691
+        }
+      ],
+      "surface_examples": [
+        "趣味"
+      ]
+    },
+    {
+      "lemma": "営業",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0633",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0633",
+          "start": 2917
+        }
+      ],
+      "surface_examples": [
+        "営業"
+      ]
+    },
+    {
+      "lemma": "酸味",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0646",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0646",
+          "start": 2964
+        }
+      ],
+      "surface_examples": [
+        "酸味"
+      ]
+    },
+    {
+      "lemma": "詳しい",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0649",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0649",
+          "start": 2972
+        }
+      ],
+      "surface_examples": [
+        "詳しい"
+      ]
+    },
+    {
+      "lemma": "工程",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0653",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0653",
+          "start": 2980
+        }
+      ],
+      "surface_examples": [
+        "工程"
+      ]
+    },
+    {
+      "lemma": "勘",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0658",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0658",
+          "start": 2992
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0660",
+          "start": 2998
+        }
+      ],
+      "surface_examples": [
+        "勘"
+      ]
+    },
+    {
+      "lemma": "煮繭",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "rikuo-s01-e03-0671",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0671",
+          "start": 3051
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0674",
+          "start": 3074
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0719",
+          "start": 3257
+        },
+        {
+          "sentence_id": "rikuo-s01-e03-0721",
+          "start": 3268
+        }
+      ],
+      "surface_examples": [
+        "煮繭"
+      ]
+    },
+    {
+      "lemma": "耐久性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0686",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0686",
+          "start": 3122
+        }
+      ],
+      "surface_examples": [
+        "耐久性"
+      ]
+    },
+    {
+      "lemma": "数週間",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0687",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0687",
+          "start": 3124
+        }
+      ],
+      "surface_examples": [
+        "数週間"
+      ]
+    },
+    {
+      "lemma": "者",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0694",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0694",
+          "start": 3153
+        }
+      ],
+      "surface_examples": [
+        "者"
+      ]
+    },
+    {
+      "lemma": "規模",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0695",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0695",
+          "start": 3156
+        }
+      ],
+      "surface_examples": [
+        "規模"
+      ]
+    },
+    {
+      "lemma": "到底",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0695",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0695",
+          "start": 3156
+        }
+      ],
+      "surface_examples": [
+        "到底"
+      ]
+    },
+    {
+      "lemma": "勝てる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0695",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0695",
+          "start": 3156
+        }
+      ],
+      "surface_examples": [
+        "勝て"
+      ]
+    },
+    {
+      "lemma": "従来",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0698",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0698",
+          "start": 3165
+        }
+      ],
+      "surface_examples": [
+        "従来"
+      ]
+    },
+    {
+      "lemma": "故障",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0703",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0703",
+          "start": 3181
+        }
+      ],
+      "surface_examples": [
+        "故障"
+      ]
+    },
+    {
+      "lemma": "医者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0704",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0704",
+          "start": 3186
+        }
+      ],
+      "surface_examples": [
+        "医者"
+      ]
+    },
+    {
+      "lemma": "治療",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0704",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0704",
+          "start": 3186
+        }
+      ],
+      "surface_examples": [
+        "治療"
+      ]
+    },
+    {
+      "lemma": "全滅",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0720",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0720",
+          "start": 3261
+        }
+      ],
+      "surface_examples": [
+        "全滅"
+      ]
+    },
+    {
+      "lemma": "縁起",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0727",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0727",
+          "start": 3290
+        }
+      ],
+      "surface_examples": [
+        "縁起"
+      ]
+    },
+    {
+      "lemma": "負け組",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "rikuo-s01-e03-0767",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0767",
+          "start": 3538
+        }
+      ],
+      "surface_examples": [
+        "負け組"
+      ]
+    },
+    {
+      "lemma": "業者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "rikuo-s01-e03-0767",
+      "occurrences": [
+        {
+          "sentence_id": "rikuo-s01-e03-0767",
+          "start": 3538
+        }
+      ],
+      "surface_examples": [
+        "業者"
       ]
     }
   ]

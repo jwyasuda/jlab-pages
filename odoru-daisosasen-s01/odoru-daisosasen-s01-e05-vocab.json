@@ -1,52 +1,2568 @@
 {
   "chapter_id": "odoru-daisosasen-s01-e05",
-  "generated_at": "2026-05-07T11:38:07.951513+00:00",
-  "total_unique_lemmas": 3,
-  "total_tokens_after_filter": 3,
+  "generated_at": "2026-05-18T09:08:39.535505+00:00",
+  "total_unique_lemmas": 63,
+  "total_tokens_after_filter": 472,
   "vocab": [
     {
-      "lemma": "何",
-      "pos": "代名詞",
-      "count": 1,
-      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0575",
+      "lemma": "青島",
+      "pos": "名詞",
+      "count": 112,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0001",
       "occurrences": [
         {
-          "sentence_id": "odoru-daisosasen-s01-e05-0575",
-          "start": 1766.831
+          "sentence_id": "odoru-daisosasen-s01-e05-0001",
+          "start": 15.382
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0012",
+          "start": 49.115
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0015",
+          "start": 57.29
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0022",
+          "start": 77.277
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0026",
+          "start": 84.084
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0029",
+          "start": 89.856
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0031",
+          "start": 94.727
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0038",
+          "start": 108.608
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0050",
+          "start": 137.637
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0053",
+          "start": 146.713
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0063",
+          "start": 179.612
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0065",
+          "start": 183.716
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0094",
+          "start": 265.331
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0095",
+          "start": 266.132
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0096",
+          "start": 266.199
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0114",
+          "start": 339.806
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0115",
+          "start": 345.545
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0117",
+          "start": 348.414
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0120",
+          "start": 358.591
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0124",
+          "start": 368.868
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0129",
+          "start": 380.713
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0141",
+          "start": 409.075
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0144",
+          "start": 420.286
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0163",
+          "start": 470.837
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0166",
+          "start": 475.308
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0168",
+          "start": 479.779
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0169",
+          "start": 481.914
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0174",
+          "start": 500.233
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0183",
+          "start": 556.923
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0186",
+          "start": 564.864
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0188",
+          "start": 571.637
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0192",
+          "start": 587.286
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0254",
+          "start": 779.578
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0265",
+          "start": 817.349
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0266",
+          "start": 818.751
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0274",
+          "start": 836.068
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0276",
+          "start": 842.441
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0278",
+          "start": 848.314
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0279",
+          "start": 852.451
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0281",
+          "start": 857.856
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0288",
+          "start": 880.212
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0300",
+          "start": 937.736
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0309",
+          "start": 957.69
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0311",
+          "start": 960.96
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0317",
+          "start": 976.041
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0324",
+          "start": 989.355
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0325",
+          "start": 994.96
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0327",
+          "start": 1001.333
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0337",
+          "start": 1026.191
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0351",
+          "start": 1055.988
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0377",
+          "start": 1120.953
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0378",
+          "start": 1122.888
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0381",
+          "start": 1129.928
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0399",
+          "start": 1184.55
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0400",
+          "start": 1187.953
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0406",
+          "start": 1204.903
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0408",
+          "start": 1210.876
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0441",
+          "start": 1341.339
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0442",
+          "start": 1344.91
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0457",
+          "start": 1400.832
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0469",
+          "start": 1432.764
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0472",
+          "start": 1443.742
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0473",
+          "start": 1457.856
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0474",
+          "start": 1462.727
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0475",
+          "start": 1466.965
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0478",
+          "start": 1480.212
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0480",
+          "start": 1498.763
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0483",
+          "start": 1509.14
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0485",
+          "start": 1517.382
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0488",
+          "start": 1527.158
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0490",
+          "start": 1535.934
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0493",
+          "start": 1542.607
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0507",
+          "start": 1579.844
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0558",
+          "start": 1740.138
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0559",
+          "start": 1741.973
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0560",
+          "start": 1744.008
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0566",
+          "start": 1755.787
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0579",
+          "start": 1773.304
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0583",
+          "start": 1781.112
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0591",
+          "start": 1800.698
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0600",
+          "start": 1823.721
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0601",
+          "start": 1824.923
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0603",
+          "start": 1829.194
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0618",
+          "start": 1871.369
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0619",
+          "start": 1873.238
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0636",
+          "start": 1918.516
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0638",
+          "start": 1927.725
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0639",
+          "start": 1930.295
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0640",
+          "start": 1932.53
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0641",
+          "start": 1933.598
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0655",
+          "start": 1996.561
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0658",
+          "start": 2001.899
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0660",
+          "start": 2006.371
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0661",
+          "start": 2008.573
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0674",
+          "start": 2049.18
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0677",
+          "start": 2054.085
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0678",
+          "start": 2055.853
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0683",
+          "start": 2077.642
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0700",
+          "start": 2149.881
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0710",
+          "start": 2196.227
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0711",
+          "start": 2209.941
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0712",
+          "start": 2221.852
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0714",
+          "start": 2234.599
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0720",
+          "start": 2330.661
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0721",
+          "start": 2334.565
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0730",
+          "start": 2426.39
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0738",
+          "start": 2463.928
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0768",
+          "start": 2620.384
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0772",
+          "start": 2635.432
         }
       ],
       "surface_examples": [
-        "何"
+        "青島"
       ]
     },
     {
-      "lemma": "通知",
+      "lemma": "和久",
       "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0629",
+      "count": 56,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0009",
       "occurrences": [
         {
-          "sentence_id": "odoru-daisosasen-s01-e05-0629",
-          "start": 1897.128
+          "sentence_id": "odoru-daisosasen-s01-e05-0009",
+          "start": 40.473
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0010",
+          "start": 42.642
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0012",
+          "start": 49.115
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0047",
+          "start": 131.164
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0049",
+          "start": 135.368
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0050",
+          "start": 137.637
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0052",
+          "start": 143.076
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0064",
+          "start": 181.281
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0076",
+          "start": 250.617
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0080",
+          "start": 259.359
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0107",
+          "start": 278.411
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0110",
+          "start": 284.05
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0120",
+          "start": 358.591
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0122",
+          "start": 363.463
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0127",
+          "start": 377.51
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0132",
+          "start": 389.789
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0136",
+          "start": 402.401
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0137",
+          "start": 403.97
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0184",
+          "start": 558.024
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0187",
+          "start": 567.733
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0190",
+          "start": 578.577
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0193",
+          "start": 590.59
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0199",
+          "start": 613.779
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0267",
+          "start": 820.486
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0278",
+          "start": 848.314
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0280",
+          "start": 856.188
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0304",
+          "start": 946.445
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0308",
+          "start": 954.42
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0316",
+          "start": 973.739
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0455",
+          "start": 1394.259
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0465",
+          "start": 1417.182
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0467",
+          "start": 1428.894
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0468",
+          "start": 1431.63
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0469",
+          "start": 1432.764
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0470",
+          "start": 1437.469
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0471",
+          "start": 1441.873
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0476",
+          "start": 1473.605
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0483",
+          "start": 1509.14
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0487",
+          "start": 1524.522
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0489",
+          "start": 1531.596
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0492",
+          "start": 1540.872
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0494",
+          "start": 1546.344
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0496",
+          "start": 1553.952
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0500",
+          "start": 1562.227
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0503",
+          "start": 1569.968
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0509",
+          "start": 1588.787
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0558",
+          "start": 1740.138
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0559",
+          "start": 1741.973
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0601",
+          "start": 1824.923
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0634",
+          "start": 1910.141
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0638",
+          "start": 1927.725
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0640",
+          "start": 1932.53
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0642",
+          "start": 1935.233
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0780",
+          "start": 2766.096
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0784",
+          "start": 2773.37
         }
       ],
       "surface_examples": [
-        "通知"
+        "和久"
+      ]
+    },
+    {
+      "lemma": "真下",
+      "pos": "名詞",
+      "count": 39,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0019",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0019",
+          "start": 70.27
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0021",
+          "start": 75.108
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0025",
+          "start": 81.714
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0027",
+          "start": 85.351
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0110",
+          "start": 284.05
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0131",
+          "start": 387.653
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0138",
+          "start": 405.037
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0313",
+          "start": 967.399
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0321",
+          "start": 985.15
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0342",
+          "start": 1038.103
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0347",
+          "start": 1049.548
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0376",
+          "start": 1119.051
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0377",
+          "start": 1120.953
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0379",
+          "start": 1124.957
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0381",
+          "start": 1129.928
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0382",
+          "start": 1131.363
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0398",
+          "start": 1182.014
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0407",
+          "start": 1207.072
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0569",
+          "start": 1758.857
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0570",
+          "start": 1760.959
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0571",
+          "start": 1761.025
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0580",
+          "start": 1774.506
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0589",
+          "start": 1794.826
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0598",
+          "start": 1818.416
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0602",
+          "start": 1826.758
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0630",
+          "start": 1899.264
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0631",
+          "start": 1901.366
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0633",
+          "start": 1905.77
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0655",
+          "start": 1996.561
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0657",
+          "start": 1999.797
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0660",
+          "start": 2006.371
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0662",
+          "start": 2011.676
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0672",
+          "start": 2043.541
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0675",
+          "start": 2050.548
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0676",
+          "start": 2052.85
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0678",
+          "start": 2055.853
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0694",
+          "start": 2131.229
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0695",
+          "start": 2137.068
+        }
+      ],
+      "surface_examples": [
+        "真下"
+      ]
+    },
+    {
+      "lemma": "警察官",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0060",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0060",
+          "start": 170.503
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0106",
+          "start": 272.739
+        }
+      ],
+      "surface_examples": [
+        "警察官"
+      ]
+    },
+    {
+      "lemma": "刑事",
+      "pos": "名詞",
+      "count": 22,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0064",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0064",
+          "start": 181.281
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0196",
+          "start": 601.968
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0208",
+          "start": 650.516
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0222",
+          "start": 687.319
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0243",
+          "start": 750.082
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0247",
+          "start": 757.156
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0526",
+          "start": 1648.58
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0543",
+          "start": 1696.194
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0562",
+          "start": 1747.612
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0564",
+          "start": 1752.016
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0605",
+          "start": 1835.8
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0607",
+          "start": 1842.574
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0625",
+          "start": 1889.554
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0628",
+          "start": 1895.026
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0630",
+          "start": 1899.264
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0632",
+          "start": 1904.135
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0635",
+          "start": 1916.014
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0637",
+          "start": 1919.584
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0687",
+          "start": 2097.595
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0701",
+          "start": 2151.616
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0737",
+          "start": 2458.756
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0747",
+          "start": 2498.229
+        }
+      ],
+      "surface_examples": [
+        "刑事"
+      ]
+    },
+    {
+      "lemma": "野口",
+      "pos": "名詞",
+      "count": 18,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0073",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0073",
+          "start": 240.039
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0133",
+          "start": 392.225
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0183",
+          "start": 556.923
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0303",
+          "start": 943.676
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0312",
+          "start": 963.162
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0317",
+          "start": 976.041
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0421",
+          "start": 1267.833
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0422",
+          "start": 1270.769
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0423",
+          "start": 1271.403
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0424",
+          "start": 1271.403
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0662",
+          "start": 2011.676
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0723",
+          "start": 2360.758
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0727",
+          "start": 2410.941
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0728",
+          "start": 2422.553
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0734",
+          "start": 2448.846
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0735",
+          "start": 2453.384
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0746",
+          "start": 2494.158
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0748",
+          "start": 2499.33
+        }
+      ],
+      "surface_examples": [
+        "野口"
+      ]
+    },
+    {
+      "lemma": "江東区",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0091",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0091",
+          "start": 263.529
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0092",
+          "start": 264.264
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0093",
+          "start": 265.331
+        }
+      ],
+      "surface_examples": [
+        "江東区"
+      ]
+    },
+    {
+      "lemma": "江葉",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0091",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0091",
+          "start": 263.529
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0092",
+          "start": 264.264
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0093",
+          "start": 265.331
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0108",
+          "start": 279.612
+        }
+      ],
+      "surface_examples": [
+        "江葉"
+      ]
+    },
+    {
+      "lemma": "町",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0091",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0091",
+          "start": 263.529
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0092",
+          "start": 264.264
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0093",
+          "start": 265.331
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0108",
+          "start": 279.612
+        }
+      ],
+      "surface_examples": [
+        "町"
+      ]
+    },
+    {
+      "lemma": "第",
+      "pos": "接頭辞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0105",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0105",
+          "start": 270.67
+        }
+      ],
+      "surface_examples": [
+        "第"
+      ]
+    },
+    {
+      "lemma": "一",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0105",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0105",
+          "start": 270.67
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0390",
+          "start": 1156.388
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0535",
+          "start": 1674.506
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0562",
+          "start": 1747.612
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0697",
+          "start": 2141.739
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0705",
+          "start": 2164.595
+        }
+      ],
+      "surface_examples": [
+        "一"
+      ]
+    },
+    {
+      "lemma": "発見者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0105",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0105",
+          "start": 270.67
+        }
+      ],
+      "surface_examples": [
+        "発見者"
+      ]
+    },
+    {
+      "lemma": "被害者",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0106",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0106",
+          "start": 272.739
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0536",
+          "start": 1675.84
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0564",
+          "start": 1752.016
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0634",
+          "start": 1910.141
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0647",
+          "start": 1958.389
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0740",
+          "start": 2468.766
+        }
+      ],
+      "surface_examples": [
+        "被害者"
+      ]
+    },
+    {
+      "lemma": "袴田",
+      "pos": "名詞",
+      "count": 27,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0114",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0114",
+          "start": 339.806
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0119",
+          "start": 356.656
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0124",
+          "start": 368.868
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0126",
+          "start": 374.507
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0128",
+          "start": 379.245
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0135",
+          "start": 398.898
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0137",
+          "start": 403.97
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0140",
+          "start": 408.04
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0143",
+          "start": 414.547
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0145",
+          "start": 422.188
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0226",
+          "start": 698.13
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0228",
+          "start": 702.568
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0233",
+          "start": 717.249
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0245",
+          "start": 753.052
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0302",
+          "start": 941.907
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0303",
+          "start": 943.676
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0307",
+          "start": 953.118
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0344",
+          "start": 1045.077
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0363",
+          "start": 1078.377
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0413",
+          "start": 1235.534
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0442",
+          "start": 1344.91
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0513",
+          "start": 1622.721
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0515",
+          "start": 1625.056
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0517",
+          "start": 1628.259
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0523",
+          "start": 1642.54
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0525",
+          "start": 1646.478
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0528",
+          "start": 1654.786
+        }
+      ],
+      "surface_examples": [
+        "袴田"
+      ]
+    },
+    {
+      "lemma": "魚住",
+      "pos": "名詞",
+      "count": 12,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0116",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0116",
+          "start": 347.513
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0125",
+          "start": 371.17
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0139",
+          "start": 406.839
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0306",
+          "start": 950.783
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0514",
+          "start": 1623.722
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0516",
+          "start": 1626.224
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0518",
+          "start": 1629.427
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0519",
+          "start": 1634.766
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0521",
+          "start": 1639.337
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0533",
+          "start": 1669.3
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0602",
+          "start": 1826.758
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0627",
+          "start": 1893.057
+        }
+      ],
+      "surface_examples": [
+        "魚住"
+      ]
+    },
+    {
+      "lemma": "機捜",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0118",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0118",
+          "start": 353.82
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0135",
+          "start": 398.898
+        }
+      ],
+      "surface_examples": [
+        "機捜"
+      ]
+    },
+    {
+      "lemma": "逮捕",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0123",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0123",
+          "start": 365.665
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0308",
+          "start": 954.42
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0372",
+          "start": 1099.031
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0374",
+          "start": 1103.135
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0537",
+          "start": 1681.012
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0681",
+          "start": 2065.83
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0738",
+          "start": 2463.928
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0741",
+          "start": 2472.336
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0786",
+          "start": 2777.007
+        }
+      ],
+      "surface_examples": [
+        "逮捕"
+      ]
+    },
+    {
+      "lemma": "本店",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0138",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0138",
+          "start": 405.037
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0155",
+          "start": 443.643
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0387",
+          "start": 1147.913
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0547",
+          "start": 1714.012
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0550",
+          "start": 1721.82
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0576",
+          "start": 1768.166
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0742",
+          "start": 2476.073
+        }
+      ],
+      "surface_examples": [
+        "本店"
+      ]
+    },
+    {
+      "lemma": "署長",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0143",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0143",
+          "start": 414.547
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0245",
+          "start": 753.052
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0345",
+          "start": 1046.445
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0360",
+          "start": 1072.571
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0363",
+          "start": 1078.377
+        }
+      ],
+      "surface_examples": [
+        "署長"
+      ]
+    },
+    {
+      "lemma": "緒方",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0148",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0148",
+          "start": 433.332
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0213",
+          "start": 667.233
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0242",
+          "start": 748.447
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0251",
+          "start": 765.531
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0253",
+          "start": 769.335
+        }
+      ],
+      "surface_examples": [
+        "緒方"
+      ]
+    },
+    {
+      "lemma": "中西",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0149",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0149",
+          "start": 434.801
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0153",
+          "start": 440.773
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0155",
+          "start": 443.643
+        }
+      ],
+      "surface_examples": [
+        "中西"
+      ]
+    },
+    {
+      "lemma": "千草",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0150",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0150",
+          "start": 436.002
+        }
+      ],
+      "surface_examples": [
+        "千草"
+      ]
+    },
+    {
+      "lemma": "森下",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0151",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0151",
+          "start": 437.403
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0221",
+          "start": 685.051
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0408",
+          "start": 1210.876
+        }
+      ],
+      "surface_examples": [
+        "森下"
+      ]
+    },
+    {
+      "lemma": "圭子",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0154",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0154",
+          "start": 441.974
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0299",
+          "start": 936.302
+        }
+      ],
+      "surface_examples": [
+        "圭子"
+      ]
+    },
+    {
+      "lemma": "捜査",
+      "pos": "名詞",
+      "count": 12,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0162",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0162",
+          "start": 469.202
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0174",
+          "start": 500.233
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0211",
+          "start": 662.762
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0220",
+          "start": 682.682
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0390",
+          "start": 1156.388
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0395",
+          "start": 1172.738
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0531",
+          "start": 1661.893
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0535",
+          "start": 1674.506
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0562",
+          "start": 1747.612
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0565",
+          "start": 1754.219
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0697",
+          "start": 2141.739
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0705",
+          "start": 2164.595
+        }
+      ],
+      "surface_examples": [
+        "捜査"
+      ]
+    },
+    {
+      "lemma": "神田",
+      "pos": "名詞",
+      "count": 18,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0207",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0207",
+          "start": 648.381
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0210",
+          "start": 658.491
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0224",
+          "start": 693.225
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0227",
+          "start": 700.166
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0231",
+          "start": 710.276
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0235",
+          "start": 722.888
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0240",
+          "start": 736.135
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0244",
+          "start": 751.984
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0324",
+          "start": 989.355
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0326",
+          "start": 996.195
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0328",
+          "start": 1005.17
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0337",
+          "start": 1026.191
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0346",
+          "start": 1047.613
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0348",
+          "start": 1050.716
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0350",
+          "start": 1054.853
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0367",
+          "start": 1084.083
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0420",
+          "start": 1257.122
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0440",
+          "start": 1338.003
+        }
+      ],
+      "surface_examples": [
+        "神田"
+      ]
+    },
+    {
+      "lemma": "恩田",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0208",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0208",
+          "start": 650.516
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0230",
+          "start": 706.038
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0234",
+          "start": 718.15
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0526",
+          "start": 1648.58
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0543",
+          "start": 1696.194
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0701",
+          "start": 2151.616
+        }
+      ],
+      "surface_examples": [
+        "恩田"
+      ]
+    },
+    {
+      "lemma": "署員",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0212",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0212",
+          "start": 666.165
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0214",
+          "start": 669.835
+        }
+      ],
+      "surface_examples": [
+        "署員"
+      ]
+    },
+    {
+      "lemma": "秋山",
+      "pos": "名詞",
+      "count": 11,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0219",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0219",
+          "start": 679.378
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0225",
+          "start": 695.528
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0301",
+          "start": 939.104
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0310",
+          "start": 959.858
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0320",
+          "start": 982.614
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0345",
+          "start": 1046.445
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0349",
+          "start": 1053.252
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0359",
+          "start": 1070.936
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0363",
+          "start": 1078.377
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0367",
+          "start": 1084.083
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0440",
+          "start": 1338.003
+        }
+      ],
+      "surface_examples": [
+        "秋山"
+      ]
+    },
+    {
+      "lemma": "雪乃",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0242",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0242",
+          "start": 748.447
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0253",
+          "start": 769.335
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0256",
+          "start": 786.118
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0274",
+          "start": 836.068
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0276",
+          "start": 842.441
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0296",
+          "start": 918.484
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0643",
+          "start": 1939.37
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0785",
+          "start": 2774.972
+        }
+      ],
+      "surface_examples": [
+        "雪乃"
+      ]
+    },
+    {
+      "lemma": "課",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0243",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0243",
+          "start": 750.082
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0390",
+          "start": 1156.388
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0535",
+          "start": 1674.506
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0562",
+          "start": 1747.612
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0697",
+          "start": 2141.739
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0705",
+          "start": 2164.595
+        }
+      ],
+      "surface_examples": [
+        "課"
+      ]
+    },
+    {
+      "lemma": "柏木",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0256",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0256",
+          "start": 786.118
+        }
+      ],
+      "surface_examples": [
+        "柏木"
+      ]
+    },
+    {
+      "lemma": "被疑者",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0303",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0303",
+          "start": 943.676
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0374",
+          "start": 1103.135
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0413",
+          "start": 1235.534
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0527",
+          "start": 1652.684
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0532",
+          "start": 1666.464
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0661",
+          "start": 2008.573
+        }
+      ],
+      "surface_examples": [
+        "被疑者"
+      ]
+    },
+    {
+      "lemma": "家宅",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0463",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0463",
+          "start": 1414.179
+        }
+      ],
+      "surface_examples": [
+        "家宅"
+      ]
+    },
+    {
+      "lemma": "捜索",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0463",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0463",
+          "start": 1414.179
+        }
+      ],
+      "surface_examples": [
+        "捜索"
+      ]
+    },
+    {
+      "lemma": "令状",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0463",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0463",
+          "start": 1414.179
+        }
+      ],
+      "surface_examples": [
+        "令状"
+      ]
+    },
+    {
+      "lemma": "信号",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0512",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0512",
+          "start": 1617.449
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0615",
+          "start": 1868.233
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0616",
+          "start": 1871.302
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0617",
+          "start": 1871.369
+        }
+      ],
+      "surface_examples": [
+        "信号"
       ]
     },
     {
       "lemma": "音",
       "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0629",
+      "count": 4,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0512",
       "occurrences": [
         {
-          "sentence_id": "odoru-daisosasen-s01-e05-0629",
-          "start": 1897.128
+          "sentence_id": "odoru-daisosasen-s01-e05-0512",
+          "start": 1617.449
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0615",
+          "start": 1868.233
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0616",
+          "start": 1871.302
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0617",
+          "start": 1871.369
         }
       ],
       "surface_examples": [
         "音"
+      ]
+    },
+    {
+      "lemma": "室井",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0520",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0520",
+          "start": 1638.303
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0522",
+          "start": 1641.106
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0524",
+          "start": 1644.576
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0695",
+          "start": 2137.068
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0696",
+          "start": 2138.669
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0736",
+          "start": 2456.854
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0739",
+          "start": 2466.13
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0754",
+          "start": 2543.207
+        }
+      ],
+      "surface_examples": [
+        "室井"
+      ]
+    },
+    {
+      "lemma": "管理官",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0523",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0523",
+          "start": 1642.54
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0696",
+          "start": 2138.669
+        }
+      ],
+      "surface_examples": [
+        "管理官"
+      ]
+    },
+    {
+      "lemma": "島津",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0529",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0529",
+          "start": 1655.754
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0534",
+          "start": 1670.568
+        }
+      ],
+      "surface_examples": [
+        "島津"
+      ]
+    },
+    {
+      "lemma": "警視",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0529",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0529",
+          "start": 1655.754
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0562",
+          "start": 1747.612
+        }
+      ],
+      "surface_examples": [
+        "警視"
+      ]
+    },
+    {
+      "lemma": "庁",
+      "pos": "接尾辞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0529",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0529",
+          "start": 1655.754
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0562",
+          "start": 1747.612
+        }
+      ],
+      "surface_examples": [
+        "庁"
+      ]
+    },
+    {
+      "lemma": "管内",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0529",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0529",
+          "start": 1655.754
+        }
+      ],
+      "surface_examples": [
+        "管内"
+      ]
+    },
+    {
+      "lemma": "合同",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0531",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0531",
+          "start": 1661.893
+        }
+      ],
+      "surface_examples": [
+        "合同"
+      ]
+    },
+    {
+      "lemma": "会議",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0531",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0531",
+          "start": 1661.893
+        }
+      ],
+      "surface_examples": [
+        "会議"
+      ]
+    },
+    {
+      "lemma": "広域",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0542",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0542",
+          "start": 1692.323
+        }
+      ],
+      "surface_examples": [
+        "広域"
+      ]
+    },
+    {
+      "lemma": "連続",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0542",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0542",
+          "start": 1692.323
+        }
+      ],
+      "surface_examples": [
+        "連続"
+      ]
+    },
+    {
+      "lemma": "傷害",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0542",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0542",
+          "start": 1692.323
+        }
+      ],
+      "surface_examples": [
+        "傷害"
+      ]
+    },
+    {
+      "lemma": "事件",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0542",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0542",
+          "start": 1692.323
+        }
+      ],
+      "surface_examples": [
+        "事件"
+      ]
+    },
+    {
+      "lemma": "湾岸",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0545",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0545",
+          "start": 1701.066
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0561",
+          "start": 1745.143
+        }
+      ],
+      "surface_examples": [
+        "湾岸"
+      ]
+    },
+    {
+      "lemma": "署",
+      "pos": "接尾辞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0545",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0545",
+          "start": 1701.066
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0561",
+          "start": 1745.143
+        }
+      ],
+      "surface_examples": [
+        "署"
+      ]
+    },
+    {
+      "lemma": "所轄",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0552",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0552",
+          "start": 1726.458
+        }
+      ],
+      "surface_examples": [
+        "所轄"
+      ]
+    },
+    {
+      "lemma": "運転手",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0555",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0555",
+          "start": 1734.299
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0601",
+          "start": 1824.923
+        }
+      ],
+      "surface_examples": [
+        "運転手"
+      ]
+    },
+    {
+      "lemma": "着信音",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0653",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0653",
+          "start": 1980.812
+        }
+      ],
+      "surface_examples": [
+        "着信音"
+      ]
+    },
+    {
+      "lemma": "台場",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0671",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0671",
+          "start": 2039.57
+        }
+      ],
+      "surface_examples": [
+        "台場"
+      ]
+    },
+    {
+      "lemma": "海浜公園",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0671",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0671",
+          "start": 2039.57
+        }
+      ],
+      "surface_examples": [
+        "海浜公園"
+      ]
+    },
+    {
+      "lemma": "地下",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0671",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0671",
+          "start": 2039.57
+        }
+      ],
+      "surface_examples": [
+        "地下"
+      ]
+    },
+    {
+      "lemma": "駐車場",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0671",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0671",
+          "start": 2039.57
+        }
+      ],
+      "surface_examples": [
+        "駐車場"
+      ]
+    },
+    {
+      "lemma": "解決",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0685",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0685",
+          "start": 2086.35
+        }
+      ],
+      "surface_examples": [
+        "解決"
+      ]
+    },
+    {
+      "lemma": "無線",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0689",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0689",
+          "start": 2112.043
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0710",
+          "start": 2196.227
+        },
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0719",
+          "start": 2308.939
+        }
+      ],
+      "surface_examples": [
+        "無線"
+      ]
+    },
+    {
+      "lemma": "出世",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0707",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0707",
+          "start": 2168.432
+        }
+      ],
+      "surface_examples": [
+        "出世"
+      ]
+    },
+    {
+      "lemma": "篠原",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "odoru-daisosasen-s01-e05-0782",
+      "occurrences": [
+        {
+          "sentence_id": "odoru-daisosasen-s01-e05-0782",
+          "start": 2770.367
+        }
+      ],
+      "surface_examples": [
+        "篠原"
       ]
     }
   ]

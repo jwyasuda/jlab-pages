@@ -1,56 +1,2600 @@
 {
   "chapter_id": "watashi-no-kaseifu-nagisa-san-s01-e02",
-  "generated_at": "2026-05-07T11:37:35.701926+00:00",
-  "total_unique_lemmas": 5,
-  "total_tokens_after_filter": 7,
+  "generated_at": "2026-05-18T09:09:05.175642+00:00",
+  "total_unique_lemmas": 130,
+  "total_tokens_after_filter": 484,
   "vocab": [
     {
-      "lemma": "お母さん",
+      "lemma": "一生",
       "pos": "名詞",
       "count": 1,
-      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0028",
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0001",
       "occurrences": [
         {
-          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0028",
-          "start": 65.498
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0001",
+          "start": 4.7379999999999995
         }
       ],
       "surface_examples": [
-        "お母さん"
+        "一生"
       ]
     },
     {
-      "lemma": "座る",
-      "pos": "動詞",
-      "count": 1,
-      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0381",
+      "lemma": "誕生日",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0001",
       "occurrences": [
         {
-          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0381",
-          "start": 1072.104
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0001",
+          "start": 4.7379999999999995
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0002",
+          "start": 9.342
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0003",
+          "start": 11.778
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0005",
+          "start": 13.913
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0052",
+          "start": 112.679
         }
       ],
       "surface_examples": [
-        "座っ"
+        "誕生日"
+      ]
+    },
+    {
+      "lemma": "家政",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0002",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0002",
+          "start": 9.342
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0003",
+          "start": 11.778
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0005",
+          "start": 13.913
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0016",
+          "start": 42.242
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0111",
+          "start": 271.604
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0250",
+          "start": 694.126
+        }
+      ],
+      "surface_examples": [
+        "家政"
+      ]
+    },
+    {
+      "lemma": "夫",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0002",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0002",
+          "start": 9.342
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0003",
+          "start": 11.778
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0005",
+          "start": 13.913
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0016",
+          "start": 42.242
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0111",
+          "start": 271.604
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0250",
+          "start": 694.126
+        }
+      ],
+      "surface_examples": [
+        "夫"
+      ]
+    },
+    {
+      "lemma": "部屋",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0007",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0007",
+          "start": 19.219
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0065",
+          "start": 142.041
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0785",
+          "start": 2527.291
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0788",
+          "start": 2537.234
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0833",
+          "start": 2671.101
+        }
+      ],
+      "surface_examples": [
+        "部屋"
+      ]
+    },
+    {
+      "lemma": "会社",
+      "pos": "名詞",
+      "count": 11,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0009",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0009",
+          "start": 26.459
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0037",
+          "start": 79.078
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0057",
+          "start": 120.32
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0103",
+          "start": 239.038
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0121",
+          "start": 306.572
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0126",
+          "start": 316.049
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0221",
+          "start": 598.798
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0223",
+          "start": 604.07
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0349",
+          "start": 979.078
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0606",
+          "start": 2007.739
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0810",
+          "start": 2596.927
+        }
+      ],
+      "surface_examples": [
+        "会社"
+      ]
+    },
+    {
+      "lemma": "製薬",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0009",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0009",
+          "start": 26.459
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0171",
+          "start": 454.954
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0296",
+          "start": 833.799
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0608",
+          "start": 2015.413
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0621",
+          "start": 2055.553
+        }
+      ],
+      "surface_examples": [
+        "製薬"
+      ]
+    },
+    {
+      "lemma": "田所",
+      "pos": "名詞",
+      "count": 54,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0010",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0010",
+          "start": 29.329
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0167",
+          "start": 444.844
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0168",
+          "start": 449.348
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0170",
+          "start": 452.051
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0171",
+          "start": 454.954
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0175",
+          "start": 461.06
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0176",
+          "start": 461.627
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0177",
+          "start": 461.694
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0180",
+          "start": 463.563
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0181",
+          "start": 465.898
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0189",
+          "start": 478.177
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0193",
+          "start": 493.326
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0198",
+          "start": 503.703
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0323",
+          "start": 917.883
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0328",
+          "start": 928.627
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0346",
+          "start": 970.903
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0347",
+          "start": 974.84
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0352",
+          "start": 987.252
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0370",
+          "start": 1039.638
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0488",
+          "start": 1539.638
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0489",
+          "start": 1540.872
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0490",
+          "start": 1543.441
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0495",
+          "start": 1560.358
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0504",
+          "start": 1586.952
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0638",
+          "start": 2105.169
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0640",
+          "start": 2112.91
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0643",
+          "start": 2120.151
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0649",
+          "start": 2137.101
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0655",
+          "start": 2149.18
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0659",
+          "start": 2154.585
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0665",
+          "start": 2166.43
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0666",
+          "start": 2167.331
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0675",
+          "start": 2182.713
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0676",
+          "start": 2183.814
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0677",
+          "start": 2185.483
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0684",
+          "start": 2194.759
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0686",
+          "start": 2199.83
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0690",
+          "start": 2216.414
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0694",
+          "start": 2227.391
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0703",
+          "start": 2252.583
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0707",
+          "start": 2264.962
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0711",
+          "start": 2278.643
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0713",
+          "start": 2285.249
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0730",
+          "start": 2347.445
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0731",
+          "start": 2350.281
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0739",
+          "start": 2367.565
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0745",
+          "start": 2404.101
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0750",
+          "start": 2414.411
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0757",
+          "start": 2437.902
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0760",
+          "start": 2442.139
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0765",
+          "start": 2449.18
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0807",
+          "start": 2588.018
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0809",
+          "start": 2592.356
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0880",
+          "start": 2829.626
+        }
+      ],
+      "surface_examples": [
+        "田所"
+      ]
+    },
+    {
+      "lemma": "優太",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0010",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0010",
+          "start": 29.329
+        }
+      ],
+      "surface_examples": [
+        "優太"
+      ]
+    },
+    {
+      "lemma": "新薬",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0011",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0011",
+          "start": 30.73
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0615",
+          "start": 2037.969
+        }
+      ],
+      "surface_examples": [
+        "新薬"
+      ]
+    },
+    {
+      "lemma": "契約",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0011",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0011",
+          "start": 30.73
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0237",
+          "start": 657.456
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0249",
+          "start": 688.054
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0296",
+          "start": 833.799
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0308",
+          "start": 871.637
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0379",
+          "start": 1064.897
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0824",
+          "start": 2643.107
+        }
+      ],
+      "surface_examples": [
+        "契約"
+      ]
+    },
+    {
+      "lemma": "美登里",
+      "pos": "名詞",
+      "count": 43,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0027",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0027",
+          "start": 64.33
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0035",
+          "start": 76.509
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0043",
+          "start": 88.188
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0046",
+          "start": 98.231
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0047",
+          "start": 102.302
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0051",
+          "start": 110.443
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0059",
+          "start": 127.827
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0063",
+          "start": 138.805
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0067",
+          "start": 144.978
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0069",
+          "start": 149.182
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0077",
+          "start": 172.105
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0080",
+          "start": 180.48
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0084",
+          "start": 191.691
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0091",
+          "start": 210.109
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0093",
+          "start": 212.478
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0099",
+          "start": 216.616
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0104",
+          "start": 242.275
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0106",
+          "start": 246.512
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0117",
+          "start": 291.958
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0125",
+          "start": 314.013
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0127",
+          "start": 318.718
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0128",
+          "start": 321.12
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0130",
+          "start": 323.056
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0132",
+          "start": 326.659
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0143",
+          "start": 359.425
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0150",
+          "start": 387.687
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0157",
+          "start": 423.489
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0161",
+          "start": 433.9
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0163",
+          "start": 439.505
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0166",
+          "start": 442.875
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0172",
+          "start": 457.857
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0183",
+          "start": 468.267
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0184",
+          "start": 469.635
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0185",
+          "start": 470.803
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0187",
+          "start": 471.838
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0188",
+          "start": 474.907
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0198",
+          "start": 503.703
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0199",
+          "start": 507.24
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0202",
+          "start": 515.114
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0211",
+          "start": 537.069
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0213",
+          "start": 542.542
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0223",
+          "start": 604.07
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0875",
+          "start": 2822.085
+        }
+      ],
+      "surface_examples": [
+        "美登里"
+      ]
+    },
+    {
+      "lemma": "電話",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0035",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0035",
+          "start": 76.509
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0809",
+          "start": 2592.356
+        }
+      ],
+      "surface_examples": [
+        "電話"
+      ]
+    },
+    {
+      "lemma": "大変",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0044",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0044",
+          "start": 89.322
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0537",
+          "start": 1696.127
+        }
+      ],
+      "surface_examples": [
+        "大変"
+      ]
+    },
+    {
+      "lemma": "先生",
+      "pos": "名詞",
+      "count": 14,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0060",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0060",
+          "start": 130.53
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0335",
+          "start": 944.076
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0337",
+          "start": 949.682
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0340",
+          "start": 957.256
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0348",
+          "start": 976.475
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0357",
+          "start": 1001.667
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0461",
+          "start": 1470.735
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0469",
+          "start": 1493.191
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0478",
+          "start": 1515.38
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0560",
+          "start": 1785.717
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0563",
+          "start": 1794.159
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0604",
+          "start": 1999.497
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0634",
+          "start": 2095.193
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0724",
+          "start": 2324.255
+        }
+      ],
+      "surface_examples": [
+        "先生"
+      ]
+    },
+    {
+      "lemma": "昨日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0075",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0075",
+          "start": 167.567
+        }
+      ],
+      "surface_examples": [
+        "昨日"
+      ]
+    },
+    {
+      "lemma": "作業",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0075",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0075",
+          "start": 167.567
+        }
+      ],
+      "surface_examples": [
+        "作業"
+      ]
+    },
+    {
+      "lemma": "無理",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0083",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0083",
+          "start": 188.721
+        }
+      ],
+      "surface_examples": [
+        "無理"
+      ]
+    },
+    {
+      "lemma": "問題",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0118",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0118",
+          "start": 296.429
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0809",
+          "start": 2592.356
+        }
+      ],
+      "surface_examples": [
+        "問題"
+      ]
+    },
+    {
+      "lemma": "一度",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0127",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0127",
+          "start": 318.718
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0128",
+          "start": 321.12
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0270",
+          "start": 755.654
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0604",
+          "start": 1999.497
+        }
+      ],
+      "surface_examples": [
+        "一度"
+      ]
+    },
+    {
+      "lemma": "玄関",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0131",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0131",
+          "start": 324.023
+        }
+      ],
+      "surface_examples": [
+        "玄関"
+      ]
+    },
+    {
+      "lemma": "承知",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0134",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0134",
+          "start": 336.269
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0146",
+          "start": 371.504
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0847",
+          "start": 2712.176
+        }
+      ],
+      "surface_examples": [
+        "承知"
+      ]
+    },
+    {
+      "lemma": "今朝",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0140",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0140",
+          "start": 351.05
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0238",
+          "start": 660.292
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0239",
+          "start": 664.997
+        }
+      ],
+      "surface_examples": [
+        "今朝"
+      ]
+    },
+    {
+      "lemma": "頑張る",
+      "pos": "動詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0148",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0148",
+          "start": 377.009
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0230",
+          "start": 625.758
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0449",
+          "start": 1386.318
+        }
+      ],
+      "surface_examples": [
+        "頑張っ"
+      ]
+    },
+    {
+      "lemma": "最後",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0153",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0153",
+          "start": 391.491
+        }
+      ],
+      "surface_examples": [
+        "最後"
+      ]
+    },
+    {
+      "lemma": "お世話",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0154",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0154",
+          "start": 396.129
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0178",
+          "start": 461.694
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0179",
+          "start": 462.128
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0180",
+          "start": 463.563
+        }
+      ],
+      "surface_examples": [
+        "お世話"
+      ]
+    },
+    {
+      "lemma": "間違い",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0158",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0158",
+          "start": 426.559
+        }
+      ],
+      "surface_examples": [
+        "間違い"
+      ]
+    },
+    {
+      "lemma": "相原",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0167",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0167",
+          "start": 444.844
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0189",
+          "start": 478.177
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0308",
+          "start": 871.637
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0327",
+          "start": 926.959
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0382",
+          "start": 1076.108
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0502",
+          "start": 1582.58
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0509",
+          "start": 1599.097
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0613",
+          "start": 2032.23
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0690",
+          "start": 2216.414
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0735",
+          "start": 2359.623
+        }
+      ],
+      "surface_examples": [
+        "相原"
+      ]
+    },
+    {
+      "lemma": "生活習慣病",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0194",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0194",
+          "start": 494.727
+        }
+      ],
+      "surface_examples": [
+        "生活習慣病"
+      ]
+    },
+    {
+      "lemma": "検討",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0196",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0196",
+          "start": 499.432
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0604",
+          "start": 1999.497
+        }
+      ],
+      "surface_examples": [
+        "検討"
+      ]
+    },
+    {
+      "lemma": "結婚",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0204",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0204",
+          "start": 520.052
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0205",
+          "start": 522.688
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0267",
+          "start": 743.442
+        }
+      ],
+      "surface_examples": [
+        "結婚"
+      ]
+    },
+    {
+      "lemma": "女性",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0208",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0208",
+          "start": 530.796
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0455",
+          "start": 1419.017
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0456",
+          "start": 1420.352
+        }
+      ],
+      "surface_examples": [
+        "女性"
+      ]
+    },
+    {
+      "lemma": "人生",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0217",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0217",
+          "start": 575.107
+        }
+      ],
+      "surface_examples": [
+        "人生"
+      ]
+    },
+    {
+      "lemma": "一",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0217",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0217",
+          "start": 575.107
+        }
+      ],
+      "surface_examples": [
+        "一"
+      ]
+    },
+    {
+      "lemma": "片",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0217",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0217",
+          "start": 575.107
+        }
+      ],
+      "surface_examples": [
+        "片"
+      ]
+    },
+    {
+      "lemma": "勘違い",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0226",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0226",
+          "start": 611.21
+        }
+      ],
+      "surface_examples": [
+        "勘違い"
+      ]
+    },
+    {
+      "lemma": "会議",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0229",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0229",
+          "start": 618.684
+        }
+      ],
+      "surface_examples": [
+        "会議"
+      ]
+    },
+    {
+      "lemma": "唯",
+      "pos": "名詞",
+      "count": 18,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0235",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0235",
+          "start": 652.451
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0237",
+          "start": 657.456
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0239",
+          "start": 664.997
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0245",
+          "start": 679.345
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0248",
+          "start": 685.518
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0254",
+          "start": 704.77
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0259",
+          "start": 724.09
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0267",
+          "start": 743.442
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0273",
+          "start": 763.963
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0277",
+          "start": 775.374
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0279",
+          "start": 782.014
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0283",
+          "start": 795.694
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0782",
+          "start": 2519.884
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0783",
+          "start": 2523.654
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0820",
+          "start": 2635.666
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0821",
+          "start": 2637.334
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0823",
+          "start": 2641.538
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0829",
+          "start": 2662.192
+        }
+      ],
+      "surface_examples": [
+        "唯"
+      ]
+    },
+    {
+      "lemma": "日間",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0235",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0235",
+          "start": 652.451
+        }
+      ],
+      "surface_examples": [
+        "日間"
+      ]
+    },
+    {
+      "lemma": "社員",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0243",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0243",
+          "start": 677.143
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0253",
+          "start": 703.602
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0451",
+          "start": 1390.021
+        }
+      ],
+      "surface_examples": [
+        "社員"
+      ]
+    },
+    {
+      "lemma": "報告",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0246",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0246",
+          "start": 680.613
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0377",
+          "start": 1058.59
+        }
+      ],
+      "surface_examples": [
+        "報告"
+      ]
+    },
+    {
+      "lemma": "北",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0252",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0252",
+          "start": 701.133
+        }
+      ],
+      "surface_examples": [
+        "北"
+      ]
+    },
+    {
+      "lemma": "横浜",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0252",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0252",
+          "start": 701.133
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0661",
+          "start": 2157.054
+        }
+      ],
+      "surface_examples": [
+        "横浜"
+      ]
+    },
+    {
+      "lemma": "家政婦",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0254",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0254",
+          "start": 704.77
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0278",
+          "start": 777.743
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0570",
+          "start": 1826.558
+        }
+      ],
+      "surface_examples": [
+        "家政婦"
+      ]
+    },
+    {
+      "lemma": "場合",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0256",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0256",
+          "start": 709.875
+        }
+      ],
+      "surface_examples": [
+        "場合"
+      ]
+    },
+    {
+      "lemma": "家事",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0263",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0263",
+          "start": 733.199
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0552",
+          "start": 1749.714
+        }
+      ],
+      "surface_examples": [
+        "家事"
+      ]
+    },
+    {
+      "lemma": "全然",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0263",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0263",
+          "start": 733.199
+        }
+      ],
+      "surface_examples": [
+        "全然"
+      ]
+    },
+    {
+      "lemma": "家族",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0268",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0268",
+          "start": 747.046
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0611",
+          "start": 2027.325
+        }
+      ],
+      "surface_examples": [
+        "家族"
+      ]
+    },
+    {
+      "lemma": "幸せ",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0269",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0269",
+          "start": 751.484
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0272",
+          "start": 760.693
+        }
+      ],
+      "surface_examples": [
+        "幸せ"
+      ]
+    },
+    {
+      "lemma": "結局",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0274",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0274",
+          "start": 768.167
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0688",
+          "start": 2208.339
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0724",
+          "start": 2324.255
+        }
+      ],
+      "surface_examples": [
+        "結局"
+      ]
+    },
+    {
+      "lemma": "新人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0278",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0278",
+          "start": 777.743
+        }
+      ],
+      "surface_examples": [
+        "新人"
+      ]
+    },
+    {
+      "lemma": "間違える",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0286",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0286",
+          "start": 801.867
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0517",
+          "start": 1638.536
+        }
+      ],
+      "surface_examples": [
+        "間違え"
+      ]
+    },
+    {
+      "lemma": "最初",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0291",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0291",
+          "start": 818.117
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0723",
+          "start": 2321.052
+        }
+      ],
+      "surface_examples": [
+        "最初"
+      ]
+    },
+    {
+      "lemma": "堀江",
+      "pos": "名詞",
+      "count": 13,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0293",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0293",
+          "start": 826.325
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0300",
+          "start": 851.383
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0301",
+          "start": 852.284
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0303",
+          "start": 858.224
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0306",
+          "start": 865.331
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0318",
+          "start": 905.371
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0333",
+          "start": 940.973
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0339",
+          "start": 954.453
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0343",
+          "start": 965.698
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0352",
+          "start": 987.252
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0355",
+          "start": 998.364
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0366",
+          "start": 1031.163
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0372",
+          "start": 1044.076
+        }
+      ],
+      "surface_examples": [
+        "堀江"
+      ]
+    },
+    {
+      "lemma": "先日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0294",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0294",
+          "start": 829.094
+        }
+      ],
+      "surface_examples": [
+        "先日"
+      ]
+    },
+    {
+      "lemma": "肥後",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0295",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0295",
+          "start": 830.963
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0478",
+          "start": 1515.38
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0600",
+          "start": 1988.653
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0604",
+          "start": 1999.497
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0625",
+          "start": 2071.569
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0634",
+          "start": 2095.193
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0797",
+          "start": 2559.256
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0798",
+          "start": 2564.328
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0805",
+          "start": 2583.38
+        }
+      ],
+      "surface_examples": [
+        "肥後"
+      ]
+    },
+    {
+      "lemma": "業績",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0298",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0298",
+          "start": 842.041
+        }
+      ],
+      "surface_examples": [
+        "業績"
+      ]
+    },
+    {
+      "lemma": "挽回",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0298",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0298",
+          "start": 842.041
+        }
+      ],
+      "surface_examples": [
+        "挽回"
+      ]
+    },
+    {
+      "lemma": "天馬",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0300",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0300",
+          "start": 851.383
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0303",
+          "start": 858.224
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0344",
+          "start": 967.099
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0353",
+          "start": 989.922
+        }
+      ],
+      "surface_examples": [
+        "天馬"
+      ]
+    },
+    {
+      "lemma": "瀬川",
+      "pos": "名詞",
+      "count": 27,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0302",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0302",
+          "start": 855.688
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0314",
+          "start": 893.525
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0315",
+          "start": 896.662
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0319",
+          "start": 907.506
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0326",
+          "start": 925.758
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0334",
+          "start": 942.408
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0341",
+          "start": 960.993
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0367",
+          "start": 1032.464
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0371",
+          "start": 1042.174
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0468",
+          "start": 1491.289
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0473",
+          "start": 1503.635
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0479",
+          "start": 1517.315
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0483",
+          "start": 1525.39
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0486",
+          "start": 1534.9
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0488",
+          "start": 1539.638
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0491",
+          "start": 1545.043
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0493",
+          "start": 1555.687
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0507",
+          "start": 1593.792
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0623",
+          "start": 2065.43
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0630",
+          "start": 2087.919
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0635",
+          "start": 2097.595
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0651",
+          "start": 2140.271
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0694",
+          "start": 2227.391
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0796",
+          "start": 2558.055
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0802",
+          "start": 2574.104
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0806",
+          "start": 2584.481
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0813",
+          "start": 2605.169
+        }
+      ],
+      "surface_examples": [
+        "瀬川"
+      ]
+    },
+    {
+      "lemma": "薫",
+      "pos": "名詞",
+      "count": 28,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0304",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0304",
+          "start": 859.325
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0329",
+          "start": 931.13
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0340",
+          "start": 957.256
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0370",
+          "start": 1039.638
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0371",
+          "start": 1042.174
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0372",
+          "start": 1044.076
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0412",
+          "start": 1288.12
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0414",
+          "start": 1294.259
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0416",
+          "start": 1299.898
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0427",
+          "start": 1331.43
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0431",
+          "start": 1339.337
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0432",
+          "start": 1343.375
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0435",
+          "start": 1350.248
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0442",
+          "start": 1365.497
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0446",
+          "start": 1375.874
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0449",
+          "start": 1386.318
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0502",
+          "start": 1582.58
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0632",
+          "start": 2091.789
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0633",
+          "start": 2092.79
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0635",
+          "start": 2097.595
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0637",
+          "start": 2101.399
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0657",
+          "start": 2152.016
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0658",
+          "start": 2153.618
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0660",
+          "start": 2155.653
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0666",
+          "start": 2167.331
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0667",
+          "start": 2169.5
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0676",
+          "start": 2183.814
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0685",
+          "start": 2195.66
+        }
+      ],
+      "surface_examples": [
+        "薫"
+      ]
+    },
+    {
+      "lemma": "馬場",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0305",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0305",
+          "start": 863.462
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0307",
+          "start": 866.865
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0354",
+          "start": 997.262
+        }
+      ],
+      "surface_examples": [
+        "馬場"
+      ]
+    },
+    {
+      "lemma": "失敗",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0305",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0305",
+          "start": 863.462
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0320",
+          "start": 909.408
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0751",
+          "start": 2416.981
+        }
+      ],
+      "surface_examples": [
+        "失敗"
+      ]
+    },
+    {
+      "lemma": "大事",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0307",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0307",
+          "start": 866.865
+        }
+      ],
+      "surface_examples": [
+        "大事"
+      ]
+    },
+    {
+      "lemma": "松平",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0308",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0308",
+          "start": 871.637
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0314",
+          "start": 893.525
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0330",
+          "start": 933.565
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0364",
+          "start": 1026.625
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0367",
+          "start": 1032.464
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0378",
+          "start": 1061.226
+        }
+      ],
+      "surface_examples": [
+        "松平"
+      ]
+    },
+    {
+      "lemma": "原因",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0308",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0308",
+          "start": 871.637
+        }
+      ],
+      "surface_examples": [
+        "原因"
+      ]
+    },
+    {
+      "lemma": "患者",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0310",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0310",
+          "start": 877.209
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0605",
+          "start": 2005.803
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0609",
+          "start": 2019.15
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0811",
+          "start": 2599.43
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0815",
+          "start": 2610.541
+        }
+      ],
+      "surface_examples": [
+        "患者"
+      ]
+    },
+    {
+      "lemma": "気持ち",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0310",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0310",
+          "start": 877.209
+        }
+      ],
+      "surface_examples": [
+        "気持ち"
+      ]
+    },
+    {
+      "lemma": "大切",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0321",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0321",
+          "start": 912.011
+        }
+      ],
+      "surface_examples": [
+        "大切"
+      ]
+    },
+    {
+      "lemma": "情報",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0331",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0331",
+          "start": 935.234
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0337",
+          "start": 949.682
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0492",
+          "start": 1546.611
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0493",
+          "start": 1555.687
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0507",
+          "start": 1593.792
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0636",
+          "start": 2098.93
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0641",
+          "start": 2115.246
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0688",
+          "start": 2208.339
+        }
+      ],
+      "surface_examples": [
+        "情報"
+      ]
+    },
+    {
+      "lemma": "講演会",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0332",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0332",
+          "start": 937.97
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0344",
+          "start": 967.099
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0347",
+          "start": 974.84
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0448",
+          "start": 1383.248
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0482",
+          "start": 1523.255
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0559",
+          "start": 1781.179
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0600",
+          "start": 1988.653
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0864",
+          "start": 2769.299
+        }
+      ],
+      "surface_examples": [
+        "講演会"
+      ]
+    },
+    {
+      "lemma": "会場",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0335",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0335",
+          "start": 944.076
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0340",
+          "start": 957.256
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0363",
+          "start": 1024.089
+        }
+      ],
+      "surface_examples": [
+        "会場"
+      ]
+    },
+    {
+      "lemma": "方",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0337",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0337",
+          "start": 949.682
+        }
+      ],
+      "surface_examples": [
+        "方"
+      ]
+    },
+    {
+      "lemma": "準備",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0339",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0339",
+          "start": 954.453
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0559",
+          "start": 1781.179
+        }
+      ],
+      "surface_examples": [
+        "準備"
+      ]
+    },
+    {
+      "lemma": "講師",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0340",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0340",
+          "start": 957.256
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0348",
+          "start": 976.475
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0357",
+          "start": 1001.667
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0481",
+          "start": 1520.752
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0560",
+          "start": 1785.717
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0603",
+          "start": 1995.426
+        }
+      ],
+      "surface_examples": [
+        "講師"
+      ]
+    },
+    {
+      "lemma": "薬剤",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0349",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0349",
+          "start": 979.078
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0719",
+          "start": 2307.872
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0724",
+          "start": 2324.255
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0811",
+          "start": 2599.43
+        }
+      ],
+      "surface_examples": [
+        "薬剤"
+      ]
+    },
+    {
+      "lemma": "一体",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0352",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0352",
+          "start": 987.252
+        }
+      ],
+      "surface_examples": [
+        "一体"
+      ]
+    },
+    {
+      "lemma": "一同",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0365",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0365",
+          "start": 1029.628
+        }
+      ],
+      "surface_examples": [
+        "一同"
+      ]
+    },
+    {
+      "lemma": "陶山",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0372",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0372",
+          "start": 1044.076
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0694",
+          "start": 2227.391
+        }
+      ],
+      "surface_examples": [
+        "陶山"
+      ]
+    },
+    {
+      "lemma": "支店長",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0376",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0376",
+          "start": 1056.755
+        }
+      ],
+      "surface_examples": [
+        "支店長"
+      ]
+    },
+    {
+      "lemma": "古藤",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0378",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0378",
+          "start": 1061.226
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0387",
+          "start": 1089.054
+        }
+      ],
+      "surface_examples": [
+        "古藤"
+      ]
+    },
+    {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0380",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0380",
+          "start": 1067.866
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
+      ]
+    },
+    {
+      "lemma": "昇進",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0384",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0384",
+          "start": 1080.612
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0388",
+          "start": 1091.824
+        }
+      ],
+      "surface_examples": [
+        "昇進"
+      ]
+    },
+    {
+      "lemma": "営業",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0385",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0385",
+          "start": 1083.816
+        }
+      ],
+      "surface_examples": [
+        "営業"
+      ]
+    },
+    {
+      "lemma": "成績",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0385",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0385",
+          "start": 1083.816
+        }
+      ],
+      "surface_examples": [
+        "成績"
+      ]
+    },
+    {
+      "lemma": "施錠",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0395",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0395",
+          "start": 1144.51
+        }
+      ],
+      "surface_examples": [
+        "施錠"
       ]
     },
     {
       "lemma": "音",
       "pos": "名詞",
-      "count": 3,
-      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0430",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0395",
       "occurrences": [
         {
-          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0430",
-          "start": 1338.437
-        },
-        {
-          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0763",
-          "start": 2444.408
-        },
-        {
-          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0780",
-          "start": 2513.377
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0395",
+          "start": 1144.51
         }
       ],
       "surface_examples": [
@@ -58,33 +2602,772 @@
       ]
     },
     {
-      "lemma": "携帯電話",
+      "lemma": "勉強",
       "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0780",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0406",
       "occurrences": [
         {
-          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0780",
-          "start": 2513.377
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0406",
+          "start": 1212.144
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0511",
+          "start": 1604.436
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0689",
+          "start": 2212.176
         }
       ],
       "surface_examples": [
-        "携帯電話"
+        "勉強"
       ]
     },
     {
-      "lemma": "振動",
+      "lemma": "音楽",
       "pos": "名詞",
       "count": 1,
-      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0780",
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0409",
       "occurrences": [
         {
-          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0780",
-          "start": 2513.377
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0409",
+          "start": 1260.058
         }
       ],
       "surface_examples": [
-        "振動"
+        "音楽"
+      ]
+    },
+    {
+      "lemma": "質問",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0425",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0425",
+          "start": 1324.823
+        }
+      ],
+      "surface_examples": [
+        "質問"
+      ]
+    },
+    {
+      "lemma": "真剣",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0438",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0438",
+          "start": 1357.956
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0882",
+          "start": 2833.73
+        }
+      ],
+      "surface_examples": [
+        "真剣"
+      ]
+    },
+    {
+      "lemma": "出会う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0438",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0438",
+          "start": 1357.956
+        }
+      ],
+      "surface_examples": [
+        "出会おう"
+      ]
+    },
+    {
+      "lemma": "趣味",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0441",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0441",
+          "start": 1364.262
+        }
+      ],
+      "surface_examples": [
+        "趣味"
+      ]
+    },
+    {
+      "lemma": "駒木",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0461",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0461",
+          "start": 1470.735
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0462",
+          "start": 1474.039
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0465",
+          "start": 1479.978
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0468",
+          "start": 1491.289
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0470",
+          "start": 1494.559
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0474",
+          "start": 1505.537
+        }
+      ],
+      "surface_examples": [
+        "駒木"
+      ]
+    },
+    {
+      "lemma": "坂",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0461",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0461",
+          "start": 1470.735
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0462",
+          "start": 1474.039
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0465",
+          "start": 1479.978
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0468",
+          "start": 1491.289
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0470",
+          "start": 1494.559
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0474",
+          "start": 1505.537
+        }
+      ],
+      "surface_examples": [
+        "坂"
+      ]
+    },
+    {
+      "lemma": "志田",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0461",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0461",
+          "start": 1470.735
+        }
+      ],
+      "surface_examples": [
+        "志田"
+      ]
+    },
+    {
+      "lemma": "名前",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0465",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0465",
+          "start": 1479.978
+        }
+      ],
+      "surface_examples": [
+        "名前"
+      ]
+    },
+    {
+      "lemma": "長谷川",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0469",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0469",
+          "start": 1493.191
+        }
+      ],
+      "surface_examples": [
+        "長谷川"
+      ]
+    },
+    {
+      "lemma": "交換",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0493",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0493",
+          "start": 1555.687
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0507",
+          "start": 1593.792
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0641",
+          "start": 2115.246
+        }
+      ],
+      "surface_examples": [
+        "交換"
+      ]
+    },
+    {
+      "lemma": "無理やり",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0546",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0546",
+          "start": 1718.583
+        }
+      ],
+      "surface_examples": [
+        "無理やり"
+      ]
+    },
+    {
+      "lemma": "採用",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0563",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0563",
+          "start": 1794.159
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0564",
+          "start": 1799.664
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0724",
+          "start": 2324.255
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0800",
+          "start": 2568.933
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0863",
+          "start": 2765.696
+        }
+      ],
+      "surface_examples": [
+        "採用"
+      ]
+    },
+    {
+      "lemma": "料理",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0572",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0572",
+          "start": 1834.499
+        }
+      ],
+      "surface_examples": [
+        "料理"
+      ]
+    },
+    {
+      "lemma": "掃除",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0572",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0572",
+          "start": 1834.499
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0833",
+          "start": 2671.101
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0835",
+          "start": 2676.04
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0838",
+          "start": 2685.883
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0848",
+          "start": 2717.381
+        }
+      ],
+      "surface_examples": [
+        "掃除"
+      ]
+    },
+    {
+      "lemma": "夕食",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0588",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0588",
+          "start": 1895.493
+        }
+      ],
+      "surface_examples": [
+        "夕食"
+      ]
+    },
+    {
+      "lemma": "商談",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0607",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0607",
+          "start": 2011.275
+        }
+      ],
+      "surface_examples": [
+        "商談"
+      ]
+    },
+    {
+      "lemma": "病院",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0612",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0612",
+          "start": 2029.027
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0661",
+          "start": 2157.054
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0672",
+          "start": 2176.607
+        }
+      ],
+      "surface_examples": [
+        "病院"
+      ]
+    },
+    {
+      "lemma": "最近",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0614",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0614",
+          "start": 2034.799
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0680",
+          "start": 2188.486
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0681",
+          "start": 2190.021
+        }
+      ],
+      "surface_examples": [
+        "最近"
+      ]
+    },
+    {
+      "lemma": "苦手",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0616",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0616",
+          "start": 2042.006
+        }
+      ],
+      "surface_examples": [
+        "苦手"
+      ]
+    },
+    {
+      "lemma": "資料",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0627",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0627",
+          "start": 2077.408
+        }
+      ],
+      "surface_examples": [
+        "資料"
+      ]
+    },
+    {
+      "lemma": "仲町台",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0655",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0655",
+          "start": 2149.18
+        }
+      ],
+      "surface_examples": [
+        "仲町台"
+      ]
+    },
+    {
+      "lemma": "早速",
+      "pos": "副詞",
+      "count": 3,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0660",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0660",
+          "start": 2155.653
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0804",
+          "start": 2579.476
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0848",
+          "start": 2717.381
+        }
+      ],
+      "surface_examples": [
+        "早速"
+      ]
+    },
+    {
+      "lemma": "鶴見",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0661",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0661",
+          "start": 2157.054
+        }
+      ],
+      "surface_examples": [
+        "鶴見"
+      ]
+    },
+    {
+      "lemma": "部長",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0674",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0674",
+          "start": 2180.144
+        }
+      ],
+      "surface_examples": [
+        "部長"
+      ]
+    },
+    {
+      "lemma": "彼女",
+      "pos": "代名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0678",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0678",
+          "start": 2186.751
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0679",
+          "start": 2188.486
+        }
+      ],
+      "surface_examples": [
+        "彼女"
+      ]
+    },
+    {
+      "lemma": "方向",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0692",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0692",
+          "start": 2222.219
+        }
+      ],
+      "surface_examples": [
+        "方向"
+      ]
+    },
+    {
+      "lemma": "以前",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0700",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0700",
+          "start": 2244.208
+        }
+      ],
+      "surface_examples": [
+        "以前"
+      ]
+    },
+    {
+      "lemma": "同僚",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0720",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0720",
+          "start": 2311.442
+        }
+      ],
+      "surface_examples": [
+        "同僚"
+      ]
+    },
+    {
+      "lemma": "余裕",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0727",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0727",
+          "start": 2336.3
+        }
+      ],
+      "surface_examples": [
+        "余裕"
+      ]
+    },
+    {
+      "lemma": "元気",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0735",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0735",
+          "start": 2359.623
+        },
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0829",
+          "start": 2662.192
+        }
+      ],
+      "surface_examples": [
+        "元気"
+      ]
+    },
+    {
+      "lemma": "連絡先",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0754",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0754",
+          "start": 2428.726
+        }
+      ],
+      "surface_examples": [
+        "連絡先"
+      ]
+    },
+    {
+      "lemma": "着信音",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0772",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0772",
+          "start": 2487.852
+        }
+      ],
+      "surface_examples": [
+        "着信音"
+      ]
+    },
+    {
+      "lemma": "相談",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0807",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0807",
+          "start": 2588.018
+        }
+      ],
+      "surface_examples": [
+        "相談"
+      ]
+    },
+    {
+      "lemma": "勝手に",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0828",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0828",
+          "start": 2657.655
+        }
+      ],
+      "surface_examples": [
+        "勝手に"
+      ]
+    },
+    {
+      "lemma": "本日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0833",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0833",
+          "start": 2671.101
+        }
+      ],
+      "surface_examples": [
+        "本日"
+      ]
+    },
+    {
+      "lemma": "希望",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0833",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0833",
+          "start": 2671.101
+        }
+      ],
+      "surface_examples": [
+        "希望"
+      ]
+    },
+    {
+      "lemma": "料金",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0836",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0836",
+          "start": 2679.476
+        }
+      ],
+      "surface_examples": [
+        "料金"
+      ]
+    },
+    {
+      "lemma": "全部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0854",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0854",
+          "start": 2738.402
+        }
+      ],
+      "surface_examples": [
+        "全部"
+      ]
+    },
+    {
+      "lemma": "洗濯",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0855",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0855",
+          "start": 2739.937
+        }
+      ],
+      "surface_examples": [
+        "洗濯"
+      ]
+    },
+    {
+      "lemma": "お母様",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0879",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0879",
+          "start": 2827.09
+        }
+      ],
+      "surface_examples": [
+        "お母様"
+      ]
+    },
+    {
+      "lemma": "期待",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0879",
+      "occurrences": [
+        {
+          "sentence_id": "watashi-no-kaseifu-nagisa-san-s01-e02-0879",
+          "start": 2827.09
+        }
+      ],
+      "surface_examples": [
+        "期待"
       ]
     }
   ]

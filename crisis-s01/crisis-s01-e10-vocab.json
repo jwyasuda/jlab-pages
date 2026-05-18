@@ -1,53 +1,3454 @@
 {
   "chapter_id": "crisis-s01-e10",
-  "generated_at": "2026-05-07T14:22:41.771390+00:00",
-  "total_unique_lemmas": 2,
-  "total_tokens_after_filter": 6,
+  "generated_at": "2026-05-18T09:08:16.054719+00:00",
+  "total_unique_lemmas": 157,
+  "total_tokens_after_filter": 431,
   "vocab": [
     {
-      "lemma": "開く",
-      "pos": "動詞",
-      "count": 3,
-      "first_seen_sentence_id": "crisis-s01-e10-0218",
+      "lemma": "鍛治",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "crisis-s01-e10-0001",
       "occurrences": [
         {
-          "sentence_id": "crisis-s01-e10-0218",
-          "start": 1275.524
+          "sentence_id": "crisis-s01-e10-0001",
+          "start": 3.795
         },
         {
-          "sentence_id": "crisis-s01-e10-0262",
-          "start": 1467.799
+          "sentence_id": "crisis-s01-e10-0003",
+          "start": 8.049
         },
         {
-          "sentence_id": "crisis-s01-e10-0300",
-          "start": 1634.382
+          "sentence_id": "crisis-s01-e10-0010",
+          "start": 24.232
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0111",
+          "start": 581.622
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0169",
+          "start": 1022.187
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0174",
+          "start": 1037.995
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0261",
+          "start": 1466.84
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0327",
+          "start": 1763.178
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0506",
+          "start": 3101.598
         }
       ],
       "surface_examples": [
-        "開く"
+        "鍛治"
+      ]
+    },
+    {
+      "lemma": "大輝",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0001",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0001",
+          "start": 3.795
+        }
+      ],
+      "surface_examples": [
+        "大輝"
+      ]
+    },
+    {
+      "lemma": "結城",
+      "pos": "名詞",
+      "count": 44,
+      "first_seen_sentence_id": "crisis-s01-e10-0001",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0001",
+          "start": 3.795
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0004",
+          "start": 10.802
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0014",
+          "start": 31.573
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0017",
+          "start": 36.411
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0027",
+          "start": 103.478
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0032",
+          "start": 129.337
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0034",
+          "start": 133.466
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0074",
+          "start": 422.547
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0101",
+          "start": 531.864
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0112",
+          "start": 591.841
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0118",
+          "start": 609.984
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0122",
+          "start": 625.416
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0125",
+          "start": 635.259
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0131",
+          "start": 650.9
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0140",
+          "start": 672.046
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0145",
+          "start": 685.476
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0164",
+          "start": 898.856
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0172",
+          "start": 1032.239
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0176",
+          "start": 1043.584
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0181",
+          "start": 1063.02
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0182",
+          "start": 1065.814
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0183",
+          "start": 1068.942
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0219",
+          "start": 1280.779
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0225",
+          "start": 1302.718
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0228",
+          "start": 1310.475
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0241",
+          "start": 1369.659
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0309",
+          "start": 1689.354
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0313",
+          "start": 1702.784
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0316",
+          "start": 1721.219
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0319",
+          "start": 1732.021
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0321",
+          "start": 1738.653
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0355",
+          "start": 1917.582
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0358",
+          "start": 1971.135
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0360",
+          "start": 1995.076
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0385",
+          "start": 2225.389
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0397",
+          "start": 2372.787
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0398",
+          "start": 2381.003
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0401",
+          "start": 2436.308
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0410",
+          "start": 2461.125
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0417",
+          "start": 2491.989
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0420",
+          "start": 2499.705
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0423",
+          "start": 2504.418
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0436",
+          "start": 2581.203
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0460",
+          "start": 2756.879
+        }
+      ],
+      "surface_examples": [
+        "結城"
+      ]
+    },
+    {
+      "lemma": "稲見",
+      "pos": "名詞",
+      "count": 24,
+      "first_seen_sentence_id": "crisis-s01-e10-0002",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0002",
+          "start": 5.839
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0012",
+          "start": 28.236
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0014",
+          "start": 31.573
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0044",
+          "start": 254.42
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0045",
+          "start": 268.768
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0098",
+          "start": 521.729
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0107",
+          "start": 567.275
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0151",
+          "start": 745.995
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0169",
+          "start": 1022.187
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0181",
+          "start": 1063.02
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0208",
+          "start": 1216.84
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0211",
+          "start": 1226.85
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0288",
+          "start": 1589.754
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0397",
+          "start": 2372.787
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0399",
+          "start": 2415.621
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0400",
+          "start": 2416.58
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0404",
+          "start": 2448.487
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0405",
+          "start": 2451.031
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0416",
+          "start": 2488.777
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0419",
+          "start": 2496.869
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0422",
+          "start": 2503.542
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0424",
+          "start": 2508.964
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0433",
+          "start": 2564.812
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0437",
+          "start": 2582.705
+        }
+      ],
+      "surface_examples": [
+        "稲見"
+      ]
+    },
+    {
+      "lemma": "優秀",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0002",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0002",
+          "start": 5.839
+        }
+      ],
+      "surface_examples": [
+        "優秀"
+      ]
+    },
+    {
+      "lemma": "特殊",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0002",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0002",
+          "start": 5.839
+        }
+      ],
+      "surface_examples": [
+        "特殊"
+      ]
+    },
+    {
+      "lemma": "部隊",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0002",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0002",
+          "start": 5.839
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0441",
+          "start": 2610.19
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0454",
+          "start": 2696.819
+        }
+      ],
+      "surface_examples": [
+        "部隊"
+      ]
+    },
+    {
+      "lemma": "員",
+      "pos": "接尾辞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0002",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0002",
+          "start": 5.839
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0486",
+          "start": 2951.573
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0487",
+          "start": 2955.285
+        }
+      ],
+      "surface_examples": [
+        "員"
+      ]
+    },
+    {
+      "lemma": "週間",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0003",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0003",
+          "start": 8.049
+        }
+      ],
+      "surface_examples": [
+        "週間"
+      ]
+    },
+    {
+      "lemma": "前",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "crisis-s01-e10-0003",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0003",
+          "start": 8.049
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0232",
+          "start": 1329.077
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0273",
+          "start": 1514.262
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0311",
+          "start": 1697.487
+        }
+      ],
+      "surface_examples": [
+        "前"
+      ]
+    },
+    {
+      "lemma": "突然",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0003",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0003",
+          "start": 8.049
+        }
+      ],
+      "surface_examples": [
+        "突然"
+      ]
+    },
+    {
+      "lemma": "場所",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0005",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0005",
+          "start": 12.846
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0135",
+          "start": 659.283
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0137",
+          "start": 665.122
+        }
+      ],
+      "surface_examples": [
+        "場所"
+      ]
+    },
+    {
+      "lemma": "脱柵",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0007",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0007",
+          "start": 17.142
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0279",
+          "start": 1536.993
+        }
+      ],
+      "surface_examples": [
+        "脱柵"
+      ]
+    },
+    {
+      "lemma": "理由",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0007",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0007",
+          "start": 17.142
+        }
+      ],
+      "surface_examples": [
+        "理由"
+      ]
+    },
+    {
+      "lemma": "銃撃",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "crisis-s01-e10-0009",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0009",
+          "start": 22.48
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0392",
+          "start": 2280.194
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0466",
+          "start": 2784.948
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0475",
+          "start": 2853.141
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0485",
+          "start": 2929.509
+        }
+      ],
+      "surface_examples": [
+        "銃撃"
       ]
     },
     {
       "lemma": "音",
       "pos": "名詞",
-      "count": 3,
-      "first_seen_sentence_id": "crisis-s01-e10-0218",
+      "count": 15,
+      "first_seen_sentence_id": "crisis-s01-e10-0009",
       "occurrences": [
         {
-          "sentence_id": "crisis-s01-e10-0218",
-          "start": 1275.524
+          "sentence_id": "crisis-s01-e10-0009",
+          "start": 22.48
         },
         {
-          "sentence_id": "crisis-s01-e10-0262",
-          "start": 1467.799
+          "sentence_id": "crisis-s01-e10-0153",
+          "start": 803.26
         },
         {
-          "sentence_id": "crisis-s01-e10-0300",
-          "start": 1634.382
+          "sentence_id": "crisis-s01-e10-0154",
+          "start": 809.141
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0157",
+          "start": 857.439
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0162",
+          "start": 891.765
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0223",
+          "start": 1294.96
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0224",
+          "start": 1300.34
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0234",
+          "start": 1333.749
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0236",
+          "start": 1344.676
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0363",
+          "start": 2075.49
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0364",
+          "start": 2079.827
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0392",
+          "start": 2280.194
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0466",
+          "start": 2784.948
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0475",
+          "start": 2853.141
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0485",
+          "start": 2929.509
         }
       ],
       "surface_examples": [
         "音"
+      ]
+    },
+    {
+      "lemma": "警察官",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0009",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0009",
+          "start": 22.48
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0010",
+          "start": 24.232
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0206",
+          "start": 1200.908
+        }
+      ],
+      "surface_examples": [
+        "警察官"
+      ]
+    },
+    {
+      "lemma": "危険",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0011",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0011",
+          "start": 25.984
+        }
+      ],
+      "surface_examples": [
+        "危険"
+      ]
+    },
+    {
+      "lemma": "人物",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0011",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0011",
+          "start": 25.984
+        }
+      ],
+      "surface_examples": [
+        "人物"
+      ]
+    },
+    {
+      "lemma": "結",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0012",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0012",
+          "start": 28.236
+        }
+      ],
+      "surface_examples": [
+        "結"
+      ]
+    },
+    {
+      "lemma": "城",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0012",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0012",
+          "start": 28.236
+        }
+      ],
+      "surface_examples": [
+        "城"
+      ]
+    },
+    {
+      "lemma": "標的",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "crisis-s01-e10-0014",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0014",
+          "start": 31.573
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0140",
+          "start": 672.046
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0172",
+          "start": 1032.239
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0295",
+          "start": 1611.901
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0309",
+          "start": 1689.354
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0316",
+          "start": 1721.219
+        }
+      ],
+      "surface_examples": [
+        "標的"
+      ]
+    },
+    {
+      "lemma": "罪",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0016",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0016",
+          "start": 34.784
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0347",
+          "start": 1862.36
+        }
+      ],
+      "surface_examples": [
+        "罪"
+      ]
+    },
+    {
+      "lemma": "銃口",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0017",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0017",
+          "start": 36.411
+        }
+      ],
+      "surface_examples": [
+        "銃口"
+      ]
+    },
+    {
+      "lemma": "閣僚",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0020",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0020",
+          "start": 43.96
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0123",
+          "start": 627.376
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0245",
+          "start": 1383.757
+        }
+      ],
+      "surface_examples": [
+        "閣僚"
+      ]
+    },
+    {
+      "lemma": "全員",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0020",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0020",
+          "start": 43.96
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0123",
+          "start": 627.376
+        }
+      ],
+      "surface_examples": [
+        "全員"
+      ]
+    },
+    {
+      "lemma": "個人情報",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0020",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0020",
+          "start": 43.96
+        }
+      ],
+      "surface_examples": [
+        "個人情報"
+      ]
+    },
+    {
+      "lemma": "田丸",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "crisis-s01-e10-0021",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0021",
+          "start": 65.398
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0040",
+          "start": 233.274
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0055",
+          "start": 296.629
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0235",
+          "start": 1341.882
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0350",
+          "start": 1878.626
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0386",
+          "start": 2233.94
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0388",
+          "start": 2237.777
+        }
+      ],
+      "surface_examples": [
+        "田丸"
+      ]
+    },
+    {
+      "lemma": "三郎",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0021",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0021",
+          "start": 65.398
+        }
+      ],
+      "surface_examples": [
+        "三郎"
+      ]
+    },
+    {
+      "lemma": "樫井",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "crisis-s01-e10-0022",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0022",
+          "start": 67.442
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0023",
+          "start": 77.911
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0043",
+          "start": 247.789
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0053",
+          "start": 291.332
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0063",
+          "start": 376.751
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0127",
+          "start": 641.265
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0129",
+          "start": 647.605
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0427",
+          "start": 2527.107
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0428",
+          "start": 2532.488
+        }
+      ],
+      "surface_examples": [
+        "樫井"
+      ]
+    },
+    {
+      "lemma": "勇輔",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0023",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0023",
+          "start": 77.911
+        }
+      ],
+      "surface_examples": [
+        "勇輔"
+      ]
+    },
+    {
+      "lemma": "爆弾",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0023",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0023",
+          "start": 77.911
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0063",
+          "start": 376.751
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0337",
+          "start": 1800.715
+        }
+      ],
+      "surface_examples": [
+        "爆弾"
+      ]
+    },
+    {
+      "lemma": "着信音",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0024",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0024",
+          "start": 79.996
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0247",
+          "start": 1390.097
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0379",
+          "start": 2177.175
+        }
+      ],
+      "surface_examples": [
+        "着信音"
+      ]
+    },
+    {
+      "lemma": "吉永",
+      "pos": "名詞",
+      "count": 15,
+      "first_seen_sentence_id": "crisis-s01-e10-0029",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0029",
+          "start": 114.322
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0036",
+          "start": 220.053
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0048",
+          "start": 278.069
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0053",
+          "start": 291.332
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0068",
+          "start": 388.262
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0120",
+          "start": 620.453
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0130",
+          "start": 648.939
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0156",
+          "start": 835.584
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0166",
+          "start": 906.196
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0168",
+          "start": 1009.758
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0225",
+          "start": 1302.718
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0248",
+          "start": 1396.103
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0393",
+          "start": 2281.028
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0426",
+          "start": 2522.853
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0431",
+          "start": 2558.347
+        }
+      ],
+      "surface_examples": [
+        "吉永"
+      ]
+    },
+    {
+      "lemma": "三成",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0029",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0029",
+          "start": 114.322
+        }
+      ],
+      "surface_examples": [
+        "三成"
+      ]
+    },
+    {
+      "lemma": "繊細",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0030",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0030",
+          "start": 115.281
+        }
+      ],
+      "surface_examples": [
+        "繊細"
+      ]
+    },
+    {
+      "lemma": "解除",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0031",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0031",
+          "start": 117.492
+        }
+      ],
+      "surface_examples": [
+        "解除"
+      ]
+    },
+    {
+      "lemma": "大山",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "crisis-s01-e10-0042",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0042",
+          "start": 245.745
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0054",
+          "start": 293.459
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0062",
+          "start": 374.207
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0131",
+          "start": 650.9
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0222",
+          "start": 1290.998
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0345",
+          "start": 1854.561
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0365",
+          "start": 2081.913
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0390",
+          "start": 2243.115
+        }
+      ],
+      "surface_examples": [
+        "大山"
+      ]
+    },
+    {
+      "lemma": "玲",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0042",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0042",
+          "start": 245.745
+        }
+      ],
+      "surface_examples": [
+        "玲"
+      ]
+    },
+    {
+      "lemma": "使用",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0063",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0063",
+          "start": 376.751
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0135",
+          "start": 659.283
+        }
+      ],
+      "surface_examples": [
+        "使用"
+      ]
+    },
+    {
+      "lemma": "規模",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0064",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0064",
+          "start": 379.504
+        }
+      ],
+      "surface_examples": [
+        "規模"
+      ]
+    },
+    {
+      "lemma": "意図",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0065",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0065",
+          "start": 380.797
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0293",
+          "start": 1605.02
+        }
+      ],
+      "surface_examples": [
+        "意図"
+      ]
+    },
+    {
+      "lemma": "正式",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0068",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0068",
+          "start": 388.262
+        }
+      ],
+      "surface_examples": [
+        "正式"
+      ]
+    },
+    {
+      "lemma": "挨拶",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0069",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0069",
+          "start": 390.431
+        }
+      ],
+      "surface_examples": [
+        "挨拶"
+      ]
+    },
+    {
+      "lemma": "国民",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0078",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0078",
+          "start": 437.395
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0083",
+          "start": 462.462
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0087",
+          "start": 477.852
+        }
+      ],
+      "surface_examples": [
+        "国民"
+      ]
+    },
+    {
+      "lemma": "国家",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "crisis-s01-e10-0084",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0084",
+          "start": 467.008
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0093",
+          "start": 503.753
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0099",
+          "start": 524.023
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0444",
+          "start": 2629.084
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0452",
+          "start": 2686.85
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0463",
+          "start": 2775.939
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0490",
+          "start": 3025.522
+        }
+      ],
+      "surface_examples": [
+        "国家"
+      ]
+    },
+    {
+      "lemma": "権力者",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0085",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0085",
+          "start": 472.388
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0347",
+          "start": 1862.36
+        }
+      ],
+      "surface_examples": [
+        "権力者"
+      ]
+    },
+    {
+      "lemma": "利用",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0085",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0085",
+          "start": 472.388
+        }
+      ],
+      "surface_examples": [
+        "利用"
+      ]
+    },
+    {
+      "lemma": "兵士",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0088",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0088",
+          "start": 485.276
+        }
+      ],
+      "surface_examples": [
+        "兵士"
+      ]
+    },
+    {
+      "lemma": "必死",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0091",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0091",
+          "start": 494.327
+        }
+      ],
+      "surface_examples": [
+        "必死"
+      ]
+    },
+    {
+      "lemma": "極秘",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0099",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0099",
+          "start": 524.023
+        }
+      ],
+      "surface_examples": [
+        "極秘"
+      ]
+    },
+    {
+      "lemma": "事故",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "crisis-s01-e10-0100",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0100",
+          "start": 528.778
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0233",
+          "start": 1331.747
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0241",
+          "start": 1369.659
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0245",
+          "start": 1383.757
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0274",
+          "start": 1517.224
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0311",
+          "start": 1697.487
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0313",
+          "start": 1702.784
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0314",
+          "start": 1711.543
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0326",
+          "start": 1756.671
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0327",
+          "start": 1763.178
+        }
+      ],
+      "surface_examples": [
+        "事故"
+      ]
+    },
+    {
+      "lemma": "命令",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0101",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0101",
+          "start": 531.864
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0463",
+          "start": 2775.939
+        }
+      ],
+      "surface_examples": [
+        "命令"
+      ]
+    },
+    {
+      "lemma": "一番",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0103",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0103",
+          "start": 538.913
+        }
+      ],
+      "surface_examples": [
+        "一番"
+      ]
+    },
+    {
+      "lemma": "声",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0106",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0106",
+          "start": 553.594
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0372",
+          "start": 2113.653
+        }
+      ],
+      "surface_examples": [
+        "声"
+      ]
+    },
+    {
+      "lemma": "除隊",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0108",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0108",
+          "start": 569.735
+        }
+      ],
+      "surface_examples": [
+        "除隊"
+      ]
+    },
+    {
+      "lemma": "過去",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0118",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0118",
+          "start": 609.984
+        }
+      ],
+      "surface_examples": [
+        "過去"
+      ]
+    },
+    {
+      "lemma": "間違い",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "crisis-s01-e10-0123",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0123",
+          "start": 627.376
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0141",
+          "start": 673.631
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0243",
+          "start": 1377.918
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0290",
+          "start": 1596.678
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0319",
+          "start": 1732.021
+        }
+      ],
+      "surface_examples": [
+        "間違い"
+      ]
+    },
+    {
+      "lemma": "接続",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0131",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0131",
+          "start": 650.9
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0139",
+          "start": 669.251
+        }
+      ],
+      "surface_examples": [
+        "接続"
+      ]
+    },
+    {
+      "lemma": "位置",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0135",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0135",
+          "start": 659.283
+        }
+      ],
+      "surface_examples": [
+        "位置"
+      ]
+    },
+    {
+      "lemma": "情報",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0135",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0135",
+          "start": 659.283
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0374",
+          "start": 2120.743
+        }
+      ],
+      "surface_examples": [
+        "情報"
+      ]
+    },
+    {
+      "lemma": "環境",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0137",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0137",
+          "start": 665.122
+        }
+      ],
+      "surface_examples": [
+        "環境"
+      ]
+    },
+    {
+      "lemma": "電波",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0138",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0138",
+          "start": 667.541
+        }
+      ],
+      "surface_examples": [
+        "電波"
+      ]
+    },
+    {
+      "lemma": "警護",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0142",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0142",
+          "start": 676.175
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0267",
+          "start": 1487.819
+        }
+      ],
+      "surface_examples": [
+        "警護"
+      ]
+    },
+    {
+      "lemma": "体制",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0142",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0142",
+          "start": 676.175
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0267",
+          "start": 1487.819
+        }
+      ],
+      "surface_examples": [
+        "体制"
+      ]
+    },
+    {
+      "lemma": "事態",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0142",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0142",
+          "start": 676.175
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0266",
+          "start": 1483.19
+        }
+      ],
+      "surface_examples": [
+        "事態"
+      ]
+    },
+    {
+      "lemma": "目的",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0145",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0145",
+          "start": 685.476
+        }
+      ],
+      "surface_examples": [
+        "目的"
+      ]
+    },
+    {
+      "lemma": "青沼",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0146",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0146",
+          "start": 698.239
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0171",
+          "start": 1028.485
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0502",
+          "start": 3089.419
+        }
+      ],
+      "surface_examples": [
+        "青沼"
+      ]
+    },
+    {
+      "lemma": "祐光",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0146",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0146",
+          "start": 698.239
+        }
+      ],
+      "surface_examples": [
+        "祐光"
+      ]
+    },
+    {
+      "lemma": "操作",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "crisis-s01-e10-0153",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0153",
+          "start": 803.26
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0154",
+          "start": 809.141
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0157",
+          "start": 857.439
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0162",
+          "start": 891.765
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0223",
+          "start": 1294.96
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0224",
+          "start": 1300.34
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0234",
+          "start": 1333.749
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0236",
+          "start": 1344.676
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0363",
+          "start": 2075.49
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0364",
+          "start": 2079.827
+        }
+      ],
+      "surface_examples": [
+        "操作"
+      ]
+    },
+    {
+      "lemma": "心当たり",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0172",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0172",
+          "start": 1032.239
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0174",
+          "start": 1037.995
+        }
+      ],
+      "surface_examples": [
+        "心当たり"
+      ]
+    },
+    {
+      "lemma": "余計",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0177",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0177",
+          "start": 1048.505
+        }
+      ],
+      "surface_examples": [
+        "余計"
+      ]
+    },
+    {
+      "lemma": "爆発",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "crisis-s01-e10-0180",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0180",
+          "start": 1061.56
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0233",
+          "start": 1331.747
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0237",
+          "start": 1356.73
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0239",
+          "start": 1364.863
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0311",
+          "start": 1697.487
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0314",
+          "start": 1711.543
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0326",
+          "start": 1756.671
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0341",
+          "start": 1838.795
+        }
+      ],
+      "surface_examples": [
+        "爆発"
+      ]
+    },
+    {
+      "lemma": "逮捕",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0182",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0182",
+          "start": 1065.814
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0284",
+          "start": 1559.683
+        }
+      ],
+      "surface_examples": [
+        "逮捕"
+      ]
+    },
+    {
+      "lemma": "場合",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0183",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0183",
+          "start": 1068.942
+        }
+      ],
+      "surface_examples": [
+        "場合"
+      ]
+    },
+    {
+      "lemma": "特捜",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0184",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0184",
+          "start": 1070.277
+        }
+      ],
+      "surface_examples": [
+        "特捜"
+      ]
+    },
+    {
+      "lemma": "班",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0184",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0184",
+          "start": 1070.277
+        }
+      ],
+      "surface_examples": [
+        "班"
+      ]
+    },
+    {
+      "lemma": "予想",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0186",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0186",
+          "start": 1075.032
+        }
+      ],
+      "surface_examples": [
+        "予想"
+      ]
+    },
+    {
+      "lemma": "震える",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0195",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0195",
+          "start": 1111.652
+        }
+      ],
+      "surface_examples": [
+        "震える"
+      ]
+    },
+    {
+      "lemma": "岸部",
+      "pos": "名詞",
+      "count": 16,
+      "first_seen_sentence_id": "crisis-s01-e10-0197",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0197",
+          "start": 1151.108
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0198",
+          "start": 1152.401
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0199",
+          "start": 1189.104
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0203",
+          "start": 1195.235
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0254",
+          "start": 1422.963
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0260",
+          "start": 1463.712
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0263",
+          "start": 1471.386
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0268",
+          "start": 1491.531
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0304",
+          "start": 1664.788
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0305",
+          "start": 1668.083
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0314",
+          "start": 1711.543
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0315",
+          "start": 1714.337
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0321",
+          "start": 1738.653
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0435",
+          "start": 2574.029
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0489",
+          "start": 3020.517
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0498",
+          "start": 3060.849
+        }
+      ],
+      "surface_examples": [
+        "岸部"
+      ]
+    },
+    {
+      "lemma": "妻",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0198",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0198",
+          "start": 1152.401
+        }
+      ],
+      "surface_examples": [
+        "妻"
+      ]
+    },
+    {
+      "lemma": "総理",
+      "pos": "名詞",
+      "count": 13,
+      "first_seen_sentence_id": "crisis-s01-e10-0200",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0200",
+          "start": 1191.273
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0206",
+          "start": 1200.908
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0207",
+          "start": 1203.035
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0279",
+          "start": 1536.993
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0295",
+          "start": 1611.901
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0304",
+          "start": 1664.788
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0314",
+          "start": 1711.543
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0315",
+          "start": 1714.337
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0321",
+          "start": 1738.653
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0324",
+          "start": 1748.246
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0341",
+          "start": 1838.795
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0343",
+          "start": 1848.471
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0376",
+          "start": 2125.456
+        }
+      ],
+      "surface_examples": [
+        "総理"
+      ]
+    },
+    {
+      "lemma": "退避",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0201",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0201",
+          "start": 1192.316
+        }
+      ],
+      "surface_examples": [
+        "退避"
+      ]
+    },
+    {
+      "lemma": "襲撃",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0206",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0206",
+          "start": 1200.908
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0207",
+          "start": 1203.035
+        }
+      ],
+      "surface_examples": [
+        "襲撃"
+      ]
+    },
+    {
+      "lemma": "気持ち",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0214",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0214",
+          "start": 1238.862
+        }
+      ],
+      "surface_examples": [
+        "気持ち"
+      ]
+    },
+    {
+      "lemma": "恋人",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0225",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0225",
+          "start": 1302.718
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0242",
+          "start": 1373.038
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0313",
+          "start": 1702.784
+        }
+      ],
+      "surface_examples": [
+        "恋人"
+      ]
+    },
+    {
+      "lemma": "身元",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0227",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0227",
+          "start": 1307.472
+        }
+      ],
+      "surface_examples": [
+        "身元"
+      ]
+    },
+    {
+      "lemma": "気付く",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0230",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0230",
+          "start": 1320.068
+        }
+      ],
+      "surface_examples": [
+        "気付い"
+      ]
+    },
+    {
+      "lemma": "最近",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0231",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0231",
+          "start": 1322.487
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0238",
+          "start": 1361.109
+        }
+      ],
+      "surface_examples": [
+        "最近"
+      ]
+    },
+    {
+      "lemma": "年",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0232",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0232",
+          "start": 1329.077
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0273",
+          "start": 1514.262
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0311",
+          "start": 1697.487
+        }
+      ],
+      "surface_examples": [
+        "年"
+      ]
+    },
+    {
+      "lemma": "東京駅",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "crisis-s01-e10-0232",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0232",
+          "start": 1329.077
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0311",
+          "start": 1697.487
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0335",
+          "start": 1791.539
+        }
+      ],
+      "surface_examples": [
+        "東京駅"
+      ]
+    },
+    {
+      "lemma": "死亡",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0235",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0235",
+          "start": 1341.882
+        }
+      ],
+      "surface_examples": [
+        "死亡"
+      ]
+    },
+    {
+      "lemma": "被害者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0235",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0235",
+          "start": 1341.882
+        }
+      ],
+      "surface_examples": [
+        "被害者"
+      ]
+    },
+    {
+      "lemma": "復讐",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0242",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0242",
+          "start": 1373.038
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0456",
+          "start": 2709.665
+        }
+      ],
+      "surface_examples": [
+        "復讐"
+      ]
+    },
+    {
+      "lemma": "現在",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0245",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0245",
+          "start": 1383.757
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0283",
+          "start": 1554.97
+        }
+      ],
+      "surface_examples": [
+        "現在"
+      ]
+    },
+    {
+      "lemma": "可能性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0246",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0246",
+          "start": 1387.677
+        }
+      ],
+      "surface_examples": [
+        "可能性"
+      ]
+    },
+    {
+      "lemma": "経済",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0250",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0250",
+          "start": 1409.574
+        }
+      ],
+      "surface_examples": [
+        "経済"
+      ]
+    },
+    {
+      "lemma": "一旦",
+      "pos": "副詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0251",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0251",
+          "start": 1411.66
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0383",
+          "start": 2191.689
+        }
+      ],
+      "surface_examples": [
+        "一旦"
+      ]
+    },
+    {
+      "lemma": "安心感",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0252",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0252",
+          "start": 1413.87
+        }
+      ],
+      "surface_examples": [
+        "安心感"
+      ]
+    },
+    {
+      "lemma": "総理大臣",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0254",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0254",
+          "start": 1422.963
+        }
+      ],
+      "surface_examples": [
+        "総理大臣"
+      ]
+    },
+    {
+      "lemma": "今朝",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0254",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0254",
+          "start": 1422.963
+        }
+      ],
+      "surface_examples": [
+        "今朝"
+      ]
+    },
+    {
+      "lemma": "自宅",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0254",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0254",
+          "start": 1422.963
+        }
+      ],
+      "surface_examples": [
+        "自宅"
+      ]
+    },
+    {
+      "lemma": "左",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0255",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0255",
+          "start": 1426.675
+        }
+      ],
+      "surface_examples": [
+        "左"
+      ]
+    },
+    {
+      "lemma": "鎖骨",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0255",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0255",
+          "start": 1426.675
+        }
+      ],
+      "surface_examples": [
+        "鎖骨"
+      ]
+    },
+    {
+      "lemma": "骨折",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0255",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0255",
+          "start": 1426.675
+        }
+      ],
+      "surface_examples": [
+        "骨折"
+      ]
+    },
+    {
+      "lemma": "重傷",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0255",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0255",
+          "start": 1426.675
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0322",
+          "start": 1741.156
+        }
+      ],
+      "surface_examples": [
+        "重傷"
+      ]
+    },
+    {
+      "lemma": "見込み",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0256",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0256",
+          "start": 1430.387
+        }
+      ],
+      "surface_examples": [
+        "見込み"
+      ]
+    },
+    {
+      "lemma": "影響",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0258",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0258",
+          "start": 1434.975
+        }
+      ],
+      "surface_examples": [
+        "影響"
+      ]
+    },
+    {
+      "lemma": "今後",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0267",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0267",
+          "start": 1487.819
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0516",
+          "start": 3214.669
+        }
+      ],
+      "surface_examples": [
+        "今後"
+      ]
+    },
+    {
+      "lemma": "自衛官",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "crisis-s01-e10-0277",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0277",
+          "start": 1531.196
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0283",
+          "start": 1554.97
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0490",
+          "start": 3025.522
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0494",
+          "start": 3041.621
+        }
+      ],
+      "surface_examples": [
+        "自衛官"
+      ]
+    },
+    {
+      "lemma": "手段",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0278",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0278",
+          "start": 1533.573
+        }
+      ],
+      "surface_examples": [
+        "手段"
+      ]
+    },
+    {
+      "lemma": "連中",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "crisis-s01-e10-0285",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0285",
+          "start": 1567.148
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0330",
+          "start": 1771.853
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0502",
+          "start": 3089.419
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0513",
+          "start": 3202.949
+        }
+      ],
+      "surface_examples": [
+        "連中"
+      ]
+    },
+    {
+      "lemma": "携帯電話",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0296",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0296",
+          "start": 1617.449
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0378",
+          "start": 2175.798
+        }
+      ],
+      "surface_examples": [
+        "携帯電話"
+      ]
+    },
+    {
+      "lemma": "長男",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0304",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0304",
+          "start": 1664.788
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0323",
+          "start": 1744.617
+        }
+      ],
+      "surface_examples": [
+        "長男"
+      ]
+    },
+    {
+      "lemma": "大介",
+      "pos": "名詞",
+      "count": 13,
+      "first_seen_sentence_id": "crisis-s01-e10-0305",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0305",
+          "start": 1668.083
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0306",
+          "start": 1672.087
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0316",
+          "start": 1721.219
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0320",
+          "start": 1735.775
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0326",
+          "start": 1756.671
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0328",
+          "start": 1765.263
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0336",
+          "start": 1797.253
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0351",
+          "start": 1887.468
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0373",
+          "start": 2119.784
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0375",
+          "start": 2123.204
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0376",
+          "start": 2125.456
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0435",
+          "start": 2574.029
+        }
+      ],
+      "surface_examples": [
+        "大介"
+      ]
+    },
+    {
+      "lemma": "期間",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0306",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0306",
+          "start": 1672.087
+        }
+      ],
+      "surface_examples": [
+        "期間"
+      ]
+    },
+    {
+      "lemma": "大",
+      "pos": "接頭辞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0319",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0319",
+          "start": 1732.021
+        }
+      ],
+      "surface_examples": [
+        "大"
+      ]
+    },
+    {
+      "lemma": "介",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0319",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0319",
+          "start": 1732.021
+        }
+      ],
+      "surface_examples": [
+        "介"
+      ]
+    },
+    {
+      "lemma": "父親",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0322",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0322",
+          "start": 1741.156
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0330",
+          "start": 1771.853
+        }
+      ],
+      "surface_examples": [
+        "父親"
+      ]
+    },
+    {
+      "lemma": "過激派",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0329",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0329",
+          "start": 1768.141
+        }
+      ],
+      "surface_examples": [
+        "過激派"
+      ]
+    },
+    {
+      "lemma": "組織",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0329",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0329",
+          "start": 1768.141
+        }
+      ],
+      "surface_examples": [
+        "組織"
+      ]
+    },
+    {
+      "lemma": "不自由",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0331",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0331",
+          "start": 1776.566
+        }
+      ],
+      "surface_examples": [
+        "不自由"
+      ]
+    },
+    {
+      "lemma": "加担",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0332",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0332",
+          "start": 1780.236
+        }
+      ],
+      "surface_examples": [
+        "加担"
+      ]
+    },
+    {
+      "lemma": "息子",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "crisis-s01-e10-0332",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0332",
+          "start": 1780.236
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0342",
+          "start": 1842.924
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0366",
+          "start": 2083.915
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0495",
+          "start": 3047.335
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0497",
+          "start": 3056.762
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0499",
+          "start": 3064.352
+        }
+      ],
+      "surface_examples": [
+        "息子"
+      ]
+    },
+    {
+      "lemma": "爆破",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0335",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0335",
+          "start": 1791.539
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0440",
+          "start": 2604.518
+        }
+      ],
+      "surface_examples": [
+        "爆破"
+      ]
+    },
+    {
+      "lemma": "体裁",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0344",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0344",
+          "start": 1852.016
+        }
+      ],
+      "surface_examples": [
+        "体裁"
+      ]
+    },
+    {
+      "lemma": "自由",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0346",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0346",
+          "start": 1857.397
+        }
+      ],
+      "surface_examples": [
+        "自由"
+      ]
+    },
+    {
+      "lemma": "隠蔽",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0347",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0347",
+          "start": 1862.36
+        }
+      ],
+      "surface_examples": [
+        "隠蔽"
+      ]
+    },
+    {
+      "lemma": "倫理",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0349",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0349",
+          "start": 1873.997
+        }
+      ],
+      "surface_examples": [
+        "倫理"
+      ]
+    },
+    {
+      "lemma": "道徳",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0349",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0349",
+          "start": 1873.997
+        }
+      ],
+      "surface_examples": [
+        "道徳"
+      ]
+    },
+    {
+      "lemma": "教師",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0349",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0349",
+          "start": 1873.997
+        }
+      ],
+      "surface_examples": [
+        "教師"
+      ]
+    },
+    {
+      "lemma": "一瞬",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0354",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0354",
+          "start": 1911.075
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0470",
+          "start": 2806.011
+        }
+      ],
+      "surface_examples": [
+        "一瞬"
+      ]
+    },
+    {
+      "lemma": "集中",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0368",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0368",
+          "start": 2092.298
+        }
+      ],
+      "surface_examples": [
+        "集中"
+      ]
+    },
+    {
+      "lemma": "普通乗用車",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0370",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0370",
+          "start": 2097.845
+        }
+      ],
+      "surface_examples": [
+        "普通乗用車"
+      ]
+    },
+    {
+      "lemma": "報道陣",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0371",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0371",
+          "start": 2112.401
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0372",
+          "start": 2113.653
+        }
+      ],
+      "surface_examples": [
+        "報道陣"
+      ]
+    },
+    {
+      "lemma": "病院",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0381",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0381",
+          "start": 2184.724
+        }
+      ],
+      "surface_examples": [
+        "病院"
+      ]
+    },
+    {
+      "lemma": "拳銃",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0434",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0434",
+          "start": 2567.773
+        }
+      ],
+      "surface_examples": [
+        "拳銃"
+      ]
+    },
+    {
+      "lemma": "価値",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0439",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0439",
+          "start": 2590.212
+        }
+      ],
+      "surface_examples": [
+        "価値"
+      ]
+    },
+    {
+      "lemma": "勤める",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0443",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0443",
+          "start": 2618.949
+        }
+      ],
+      "surface_examples": [
+        "勤め"
+      ]
+    },
+    {
+      "lemma": "店",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0443",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0443",
+          "start": 2618.949
+        }
+      ],
+      "surface_examples": [
+        "店"
+      ]
+    },
+    {
+      "lemma": "事情",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0444",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0444",
+          "start": 2629.084
+        }
+      ],
+      "surface_examples": [
+        "事情"
+      ]
+    },
+    {
+      "lemma": "最初",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0449",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0449",
+          "start": 2656.236
+        }
+      ],
+      "surface_examples": [
+        "最初"
+      ]
+    },
+    {
+      "lemma": "真相",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0457",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0457",
+          "start": 2715.421
+        }
+      ],
+      "surface_examples": [
+        "真相"
+      ]
+    },
+    {
+      "lemma": "解放",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0474",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0474",
+          "start": 2832.371
+        }
+      ],
+      "surface_examples": [
+        "解放"
+      ]
+    },
+    {
+      "lemma": "機動隊",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0486",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0486",
+          "start": 2951.573
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0487",
+          "start": 2955.285
+        }
+      ],
+      "surface_examples": [
+        "機動隊"
+      ]
+    },
+    {
+      "lemma": "脅威",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0490",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0490",
+          "start": 3025.522
+        }
+      ],
+      "surface_examples": [
+        "脅威"
+      ]
+    },
+    {
+      "lemma": "提供",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0495",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0495",
+          "start": 3047.335
+        }
+      ],
+      "surface_examples": [
+        "提供"
+      ]
+    },
+    {
+      "lemma": "処理",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0496",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0496",
+          "start": 3050.756
+        }
+      ],
+      "surface_examples": [
+        "処理"
+      ]
+    },
+    {
+      "lemma": "さん",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0497",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0497",
+          "start": 3056.762
+        }
+      ],
+      "surface_examples": [
+        "さん"
+      ]
+    },
+    {
+      "lemma": "幸い",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0499",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0499",
+          "start": 3064.352
+        }
+      ],
+      "surface_examples": [
+        "幸い"
+      ]
+    },
+    {
+      "lemma": "一度",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0508",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0508",
+          "start": 3108.438
+        }
+      ],
+      "surface_examples": [
+        "一度"
+      ]
+    },
+    {
+      "lemma": "見込み違い",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0511",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0511",
+          "start": 3130.126
+        }
+      ],
+      "surface_examples": [
+        "見込み違い"
+      ]
+    },
+    {
+      "lemma": "土岐田",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "crisis-s01-e10-0512",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0512",
+          "start": 3197.819
+        },
+        {
+          "sentence_id": "crisis-s01-e10-0515",
+          "start": 3212.0
+        }
+      ],
+      "surface_examples": [
+        "土岐田"
+      ]
+    },
+    {
+      "lemma": "宗利",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0512",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0512",
+          "start": 3197.819
+        }
+      ],
+      "surface_examples": [
+        "宗利"
+      ]
+    },
+    {
+      "lemma": "評価",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0513",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0513",
+          "start": 3202.949
+        }
+      ],
+      "surface_examples": [
+        "評価"
+      ]
+    },
+    {
+      "lemma": "佐藤",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0517",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0517",
+          "start": 3245.909
+        }
+      ],
+      "surface_examples": [
+        "佐藤"
+      ]
+    },
+    {
+      "lemma": "緊急",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "crisis-s01-e10-0518",
+      "occurrences": [
+        {
+          "sentence_id": "crisis-s01-e10-0518",
+          "start": 3345.925
+        }
+      ],
+      "surface_examples": [
+        "緊急"
       ]
     }
   ]

@@ -1,84 +1,8375 @@
 {
   "chapter_id": "unnatural-s01-e03",
-  "generated_at": "2026-05-07T11:37:43.102256+00:00",
-  "total_unique_lemmas": 3,
-  "total_tokens_after_filter": 11,
+  "generated_at": "2026-05-18T09:09:01.676278+00:00",
+  "total_unique_lemmas": 330,
+  "total_tokens_after_filter": 1194,
   "vocab": [
     {
-      "lemma": "携帯電話",
+      "lemma": "久部",
       "pos": "名詞",
-      "count": 3,
-      "first_seen_sentence_id": "unnatural-s01-e03-0002",
+      "count": 37,
+      "first_seen_sentence_id": "unnatural-s01-e03-0003",
       "occurrences": [
         {
-          "sentence_id": "unnatural-s01-e03-0002",
-          "start": 10.977
+          "sentence_id": "unnatural-s01-e03-0003",
+          "start": 11.878
         },
         {
-          "sentence_id": "unnatural-s01-e03-0219",
-          "start": 621.62
+          "sentence_id": "unnatural-s01-e03-0009",
+          "start": 21.221
         },
         {
-          "sentence_id": "unnatural-s01-e03-0697",
-          "start": 2012.61
+          "sentence_id": "unnatural-s01-e03-0119",
+          "start": 320.853
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0127",
+          "start": 339.939
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0128",
+          "start": 342.575
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0192",
+          "start": 525.458
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0220",
+          "start": 626.225
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0315",
+          "start": 901.967
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0423",
+          "start": 1248.48
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0434",
+          "start": 1281.513
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0448",
+          "start": 1309.574
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0450",
+          "start": 1316.882
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0453",
+          "start": 1326.958
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0461",
+          "start": 1342.574
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0463",
+          "start": 1351.216
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0465",
+          "start": 1354.419
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0467",
+          "start": 1359.191
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0469",
+          "start": 1363.995
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0471",
+          "start": 1369.468
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0605",
+          "start": 1770.769
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0606",
+          "start": 1775.039
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0635",
+          "start": 1851.115
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0639",
+          "start": 1862.46
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0646",
+          "start": 1881.212
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0678",
+          "start": 1960.325
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0681",
+          "start": 1966.764
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0684",
+          "start": 1974.238
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0703",
+          "start": 2026.057
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0764",
+          "start": 2220.651
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0765",
+          "start": 2221.786
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0768",
+          "start": 2229.927
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0856",
+          "start": 2516.514
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0871",
+          "start": 2553.817
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0875",
+          "start": 2563.761
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0887",
+          "start": 2599.029
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0888",
+          "start": 2599.93
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0908",
+          "start": 2646.643
         }
       ],
       "surface_examples": [
-        "携帯電話"
+        "久部"
       ]
     },
     {
-      "lemma": "振動",
+      "lemma": "便利",
       "pos": "名詞",
-      "count": 3,
-      "first_seen_sentence_id": "unnatural-s01-e03-0002",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0005",
       "occurrences": [
         {
-          "sentence_id": "unnatural-s01-e03-0002",
-          "start": 10.977
+          "sentence_id": "unnatural-s01-e03-0005",
+          "start": 14.314
         },
         {
-          "sentence_id": "unnatural-s01-e03-0219",
-          "start": 621.62
-        },
-        {
-          "sentence_id": "unnatural-s01-e03-0697",
-          "start": 2012.61
+          "sentence_id": "unnatural-s01-e03-0240",
+          "start": 672.638
         }
       ],
       "surface_examples": [
-        "振動"
+        "便利"
+      ]
+    },
+    {
+      "lemma": "時代",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0005",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0005",
+          "start": 14.314
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0240",
+          "start": 672.638
+        }
+      ],
+      "surface_examples": [
+        "時代"
+      ]
+    },
+    {
+      "lemma": "東海林",
+      "pos": "名詞",
+      "count": 61,
+      "first_seen_sentence_id": "unnatural-s01-e03-0006",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0006",
+          "start": 15.949
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0007",
+          "start": 17.384
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0019",
+          "start": 54.287
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0026",
+          "start": 66.733
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0034",
+          "start": 93.96
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0037",
+          "start": 103.203
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0040",
+          "start": 111.744
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0057",
+          "start": 149.816
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0066",
+          "start": 173.706
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0116",
+          "start": 311.878
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0129",
+          "start": 345.244
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0192",
+          "start": 525.458
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0206",
+          "start": 557.69
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0209",
+          "start": 561.727
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0291",
+          "start": 845.344
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0314",
+          "start": 900.199
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0417",
+          "start": 1232.764
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0427",
+          "start": 1262.26
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0429",
+          "start": 1270.068
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0430",
+          "start": 1273.038
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0431",
+          "start": 1275.907
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0433",
+          "start": 1279.745
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0438",
+          "start": 1292.324
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0443",
+          "start": 1299.564
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0447",
+          "start": 1307.806
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0474",
+          "start": 1380.045
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0497",
+          "start": 1447.612
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0581",
+          "start": 1699.431
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0583",
+          "start": 1702.967
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0589",
+          "start": 1718.349
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0591",
+          "start": 1725.523
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0593",
+          "start": 1731.529
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0602",
+          "start": 1760.558
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0604",
+          "start": 1764.529
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0611",
+          "start": 1789.454
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0613",
+          "start": 1792.991
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0621",
+          "start": 1808.573
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0629",
+          "start": 1831.162
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0634",
+          "start": 1848.079
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0656",
+          "start": 1910.708
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0657",
+          "start": 1913.778
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0660",
+          "start": 1917.949
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0663",
+          "start": 1924.355
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0664",
+          "start": 1925.757
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0666",
+          "start": 1929.761
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0670",
+          "start": 1939.537
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0672",
+          "start": 1943.274
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0675",
+          "start": 1947.512
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0701",
+          "start": 2022.954
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0703",
+          "start": 2026.057
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0711",
+          "start": 2044.876
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0870",
+          "start": 2551.515
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0875",
+          "start": 2563.761
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0876",
+          "start": 2567.932
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0879",
+          "start": 2579.176
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0893",
+          "start": 2605.769
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0904",
+          "start": 2629.593
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0907",
+          "start": 2643.307
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0908",
+          "start": 2646.643
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0910",
+          "start": 2650.18
+        }
+      ],
+      "surface_examples": [
+        "東海林"
+      ]
+    },
+    {
+      "lemma": "神倉",
+      "pos": "名詞",
+      "count": 31,
+      "first_seen_sentence_id": "unnatural-s01-e03-0008",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0008",
+          "start": 19.252
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0011",
+          "start": 24.858
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0020",
+          "start": 55.789
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0022",
+          "start": 59.826
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0041",
+          "start": 113.413
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0043",
+          "start": 118.017
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0052",
+          "start": 138.705
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0054",
+          "start": 143.877
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0057",
+          "start": 149.816
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0060",
+          "start": 157.09
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0067",
+          "start": 176.609
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0071",
+          "start": 183.85
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0074",
+          "start": 193.326
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0255",
+          "start": 718.084
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0292",
+          "start": 847.746
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0295",
+          "start": 853.819
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0435",
+          "start": 1285.717
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0436",
+          "start": 1289.121
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0441",
+          "start": 1295.193
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0449",
+          "start": 1314.613
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0451",
+          "start": 1319.284
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0479",
+          "start": 1393.392
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0511",
+          "start": 1491.089
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0702",
+          "start": 2024.989
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0712",
+          "start": 2046.11
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0854",
+          "start": 2511.342
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0857",
+          "start": 2518.415
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0873",
+          "start": 2559.556
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0894",
+          "start": 2607.671
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0901",
+          "start": 2624.621
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0909",
+          "start": 2648.879
+        }
+      ],
+      "surface_examples": [
+        "神倉"
+      ]
+    },
+    {
+      "lemma": "連絡先",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0009",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0009",
+          "start": 21.221
+        }
+      ],
+      "surface_examples": [
+        "連絡先"
+      ]
+    },
+    {
+      "lemma": "三澄",
+      "pos": "名詞",
+      "count": 13,
+      "first_seen_sentence_id": "unnatural-s01-e03-0010",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0010",
+          "start": 22.789
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0021",
+          "start": 57.59
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0022",
+          "start": 59.826
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0076",
+          "start": 196.462
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0077",
+          "start": 198.498
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0210",
+          "start": 564.13
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0292",
+          "start": 847.746
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0413",
+          "start": 1211.977
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0547",
+          "start": 1590.755
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0678",
+          "start": 1960.325
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0699",
+          "start": 2018.249
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0730",
+          "start": 2100.832
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0745",
+          "start": 2153.651
+        }
+      ],
+      "surface_examples": [
+        "三澄"
+      ]
+    },
+    {
+      "lemma": "無事",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0012",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0012",
+          "start": 26.926
+        }
+      ],
+      "surface_examples": [
+        "無事"
+      ]
+    },
+    {
+      "lemma": "明日",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0015",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0015",
+          "start": 44.677
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0584",
+          "start": 1704.335
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0705",
+          "start": 2029.861
+        }
+      ],
+      "surface_examples": [
+        "明日"
+      ]
+    },
+    {
+      "lemma": "絶望",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0017",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0017",
+          "start": 50.884
+        }
+      ],
+      "surface_examples": [
+        "絶望"
+      ]
+    },
+    {
+      "lemma": "笑い声",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0019",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0019",
+          "start": 54.287
+        }
+      ],
+      "surface_examples": [
+        "笑い声"
+      ]
+    },
+    {
+      "lemma": "解剖",
+      "pos": "名詞",
+      "count": 20,
+      "first_seen_sentence_id": "unnatural-s01-e03-0025",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0025",
+          "start": 64.097
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0043",
+          "start": 118.017
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0062",
+          "start": 161.261
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0076",
+          "start": 196.462
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0083",
+          "start": 214.447
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0345",
+          "start": 990.923
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0352",
+          "start": 1017.082
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0359",
+          "start": 1044.076
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0373",
+          "start": 1095.994
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0637",
+          "start": 1855.086
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0770",
+          "start": 2237.568
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0774",
+          "start": 2253.017
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0784",
+          "start": 2281.078
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0785",
+          "start": 2284.815
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0788",
+          "start": 2292.623
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0790",
+          "start": 2300.464
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0796",
+          "start": 2315.68
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0798",
+          "start": 2319.65
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0801",
+          "start": 2325.589
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0825",
+          "start": 2380.945
+        }
+      ],
+      "surface_examples": [
+        "解剖"
+      ]
+    },
+    {
+      "lemma": "遺体",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "unnatural-s01-e03-0025",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0025",
+          "start": 64.097
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0096",
+          "start": 254.654
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0140",
+          "start": 372.205
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0152",
+          "start": 407.673
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0194",
+          "start": 528.594
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0345",
+          "start": 990.923
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0362",
+          "start": 1060.993
+        }
+      ],
+      "surface_examples": [
+        "遺体"
+      ]
+    },
+    {
+      "lemma": "主婦",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0026",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0026",
+          "start": 66.733
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0027",
+          "start": 72.272
+        }
+      ],
+      "surface_examples": [
+        "主婦"
+      ]
+    },
+    {
+      "lemma": "桜小路",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "unnatural-s01-e03-0027",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0027",
+          "start": 72.272
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0031",
+          "start": 83.917
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0127",
+          "start": 339.939
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0135",
+          "start": 364.163
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0334",
+          "start": 956.221
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0584",
+          "start": 1704.335
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0588",
+          "start": 1716.514
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0674",
+          "start": 1945.877
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0714",
+          "start": 2049.914
+        }
+      ],
+      "surface_examples": [
+        "桜小路"
+      ]
+    },
+    {
+      "lemma": "結構",
+      "pos": "副詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0028",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0028",
+          "start": 75.608
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0112",
+          "start": 295.261
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0393",
+          "start": 1153.652
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0405",
+          "start": 1188.12
+        }
+      ],
+      "surface_examples": [
+        "結構"
+      ]
+    },
+    {
+      "lemma": "人気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0028",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0028",
+          "start": 75.608
+        }
+      ],
+      "surface_examples": [
+        "人気"
+      ]
+    },
+    {
+      "lemma": "自宅",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0029",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0029",
+          "start": 79.579
+        }
+      ],
+      "surface_examples": [
+        "自宅"
+      ]
+    },
+    {
+      "lemma": "発見",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "unnatural-s01-e03-0030",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0030",
+          "start": 81.781
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0086",
+          "start": 222.088
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0140",
+          "start": 372.205
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0147",
+          "start": 389.922
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0152",
+          "start": 407.673
+        }
+      ],
+      "surface_examples": [
+        "発見"
+      ]
+    },
+    {
+      "lemma": "逮捕",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0031",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0031",
+          "start": 83.917
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0151",
+          "start": 402.969
+        }
+      ],
+      "surface_examples": [
+        "逮捕"
+      ]
+    },
+    {
+      "lemma": "夫",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0031",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0031",
+          "start": 83.917
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0032",
+          "start": 88.121
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0119",
+          "start": 320.853
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0575",
+          "start": 1677.242
+        }
+      ],
+      "surface_examples": [
+        "夫"
+      ]
+    },
+    {
+      "lemma": "要一",
+      "pos": "名詞",
+      "count": 19,
+      "first_seen_sentence_id": "unnatural-s01-e03-0031",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0031",
+          "start": 83.917
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0127",
+          "start": 339.939
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0135",
+          "start": 364.163
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0137",
+          "start": 367.7
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0139",
+          "start": 370.336
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0149",
+          "start": 396.763
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0153",
+          "start": 411.711
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0157",
+          "start": 422.355
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0161",
+          "start": 434.133
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0165",
+          "start": 442.308
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0266",
+          "start": 762.928
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0272",
+          "start": 775.541
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0275",
+          "start": 783.616
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0276",
+          "start": 786.585
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0277",
+          "start": 788.988
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0283",
+          "start": 812.011
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0534",
+          "start": 1553.285
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0541",
+          "start": 1573.471
+        }
+      ],
+      "surface_examples": [
+        "要一"
+      ]
+    },
+    {
+      "lemma": "日常的",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0032",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0032",
+          "start": 88.121
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0332",
+          "start": 950.749
+        }
+      ],
+      "surface_examples": [
+        "日常的"
+      ]
+    },
+    {
+      "lemma": "無職",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0032",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0032",
+          "start": 88.121
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0137",
+          "start": 367.7
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0158",
+          "start": 426.726
+        }
+      ],
+      "surface_examples": [
+        "無職"
+      ]
+    },
+    {
+      "lemma": "役",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0032",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0032",
+          "start": 88.121
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0033",
+          "start": 92.759
+        }
+      ],
+      "surface_examples": [
+        "役"
+      ]
+    },
+    {
+      "lemma": "立つ",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0032",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0032",
+          "start": 88.121
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0033",
+          "start": 92.759
+        }
+      ],
+      "surface_examples": [
+        "立た"
+      ]
+    },
+    {
+      "lemma": "趣味",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0034",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0034",
+          "start": 93.96
+        }
+      ],
+      "surface_examples": [
+        "趣味"
+      ]
+    },
+    {
+      "lemma": "勝手に",
+      "pos": "副詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0034",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0034",
+          "start": 93.96
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0489",
+          "start": 1418.784
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0829",
+          "start": 2395.326
+        }
+      ],
+      "surface_examples": [
+        "勝手に"
+      ]
+    },
+    {
+      "lemma": "不満",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0035",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0035",
+          "start": 97.03
+        }
+      ],
+      "surface_examples": [
+        "不満"
+      ]
+    },
+    {
+      "lemma": "殺害",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0035",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0035",
+          "start": 97.03
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0151",
+          "start": 402.969
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0282",
+          "start": 807.873
+        }
+      ],
+      "surface_examples": [
+        "殺害"
+      ]
+    },
+    {
+      "lemma": "動機",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0035",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0035",
+          "start": 97.03
+        }
+      ],
+      "surface_examples": [
+        "動機"
+      ]
+    },
+    {
+      "lemma": "親子",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0039",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0039",
+          "start": 106.439
+        }
+      ],
+      "surface_examples": [
+        "親子"
+      ]
+    },
+    {
+      "lemma": "兄弟",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0039",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0039",
+          "start": 106.439
+        }
+      ],
+      "surface_examples": [
+        "兄弟"
+      ]
+    },
+    {
+      "lemma": "夫婦",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0039",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0039",
+          "start": 106.439
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0154",
+          "start": 415.815
+        }
+      ],
+      "surface_examples": [
+        "夫婦"
+      ]
+    },
+    {
+      "lemma": "親族",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0039",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0039",
+          "start": 106.439
+        }
+      ],
+      "surface_examples": [
+        "親族"
+      ]
+    },
+    {
+      "lemma": "間",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0039",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0039",
+          "start": 106.439
+        }
+      ],
+      "surface_examples": [
+        "間"
+      ]
+    },
+    {
+      "lemma": "殺人",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0039",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0039",
+          "start": 106.439
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0871",
+          "start": 2553.817
+        }
+      ],
+      "surface_examples": [
+        "殺人"
+      ]
+    },
+    {
+      "lemma": "結婚",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0040",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0040",
+          "start": 111.744
+        }
+      ],
+      "surface_examples": [
+        "結婚"
+      ]
+    },
+    {
+      "lemma": "裁判",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "unnatural-s01-e03-0041",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0041",
+          "start": 113.413
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0047",
+          "start": 127.961
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0104",
+          "start": 276.676
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0118",
+          "start": 317.884
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0217",
+          "start": 615.481
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0253",
+          "start": 714.88
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0310",
+          "start": 885.818
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0483",
+          "start": 1404.536
+        }
+      ],
+      "surface_examples": [
+        "裁判"
+      ]
+    },
+    {
+      "lemma": "検察",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "unnatural-s01-e03-0042",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0042",
+          "start": 115.582
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0255",
+          "start": 718.084
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0299",
+          "start": 861.093
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0325",
+          "start": 930.696
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0377",
+          "start": 1105.671
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0587",
+          "start": 1713.945
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0618",
+          "start": 1801.533
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0627",
+          "start": 1822.954
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0766",
+          "start": 2223.287
+        }
+      ],
+      "surface_examples": [
+        "検察"
+      ]
+    },
+    {
+      "lemma": "側",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "unnatural-s01-e03-0042",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0042",
+          "start": 115.582
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0200",
+          "start": 550.783
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0252",
+          "start": 712.445
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0255",
+          "start": 718.084
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0256",
+          "start": 720.219
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0296",
+          "start": 854.92
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0377",
+          "start": 1105.671
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0426",
+          "start": 1254.419
+        }
+      ],
+      "surface_examples": [
+        "側"
+      ]
+    },
+    {
+      "lemma": "証人",
+      "pos": "名詞",
+      "count": 17,
+      "first_seen_sentence_id": "unnatural-s01-e03-0042",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0042",
+          "start": 115.582
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0045",
+          "start": 122.856
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0050",
+          "start": 134.234
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0073",
+          "start": 189.789
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0108",
+          "start": 286.986
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0247",
+          "start": 688.654
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0252",
+          "start": 712.445
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0255",
+          "start": 718.084
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0256",
+          "start": 720.219
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0303",
+          "start": 868.267
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0377",
+          "start": 1105.671
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0394",
+          "start": 1156.989
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0730",
+          "start": 2100.832
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0739",
+          "start": 2123.02
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0743",
+          "start": 2141.305
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0803",
+          "start": 2331.228
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0804",
+          "start": 2334.699
+        }
+      ],
+      "surface_examples": [
+        "証人"
+      ]
+    },
+    {
+      "lemma": "出廷",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0042",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0042",
+          "start": 115.582
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0052",
+          "start": 138.705
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0377",
+          "start": 1105.671
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0731",
+          "start": 2104.402
+        }
+      ],
+      "surface_examples": [
+        "出廷"
+      ]
+    },
+    {
+      "lemma": "先生",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0043",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0043",
+          "start": 118.017
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0547",
+          "start": 1590.755
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0730",
+          "start": 2100.832
+        }
+      ],
+      "surface_examples": [
+        "先生"
+      ]
+    },
+    {
+      "lemma": "老人ホーム",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0044",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0044",
+          "start": 119.586
+        }
+      ],
+      "surface_examples": [
+        "老人ホーム"
+      ]
+    },
+    {
+      "lemma": "代理",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "unnatural-s01-e03-0045",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0045",
+          "start": 122.856
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0050",
+          "start": 134.234
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0073",
+          "start": 189.789
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0303",
+          "start": 868.267
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0739",
+          "start": 2123.02
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0740",
+          "start": 2126.691
+        }
+      ],
+      "surface_examples": [
+        "代理"
+      ]
+    },
+    {
+      "lemma": "中堂",
+      "pos": "名詞",
+      "count": 45,
+      "first_seen_sentence_id": "unnatural-s01-e03-0046",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0046",
+          "start": 125.258
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0049",
+          "start": 132.866
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0050",
+          "start": 134.234
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0052",
+          "start": 138.705
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0053",
+          "start": 142.208
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0054",
+          "start": 143.877
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0062",
+          "start": 161.261
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0065",
+          "start": 169.836
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0066",
+          "start": 173.706
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0070",
+          "start": 182.148
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0254",
+          "start": 716.649
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0294",
+          "start": 851.75
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0304",
+          "start": 870.569
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0305",
+          "start": 873.939
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0464",
+          "start": 1352.617
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0472",
+          "start": 1370.368
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0477",
+          "start": 1386.384
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0478",
+          "start": 1389.654
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0479",
+          "start": 1393.392
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0480",
+          "start": 1396.528
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0485",
+          "start": 1408.306
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0491",
+          "start": 1428.46
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0495",
+          "start": 1441.273
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0512",
+          "start": 1495.493
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0516",
+          "start": 1505.303
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0519",
+          "start": 1511.009
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0522",
+          "start": 1517.616
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0524",
+          "start": 1520.552
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0527",
+          "start": 1525.257
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0635",
+          "start": 1851.115
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0683",
+          "start": 1972.537
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0684",
+          "start": 1974.238
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0686",
+          "start": 1979.61
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0695",
+          "start": 2002.667
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0712",
+          "start": 2046.11
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0741",
+          "start": 2136.1
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0747",
+          "start": 2160.258
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0769",
+          "start": 2235.499
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0771",
+          "start": 2241.672
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0795",
+          "start": 2312.209
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0820",
+          "start": 2372.403
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0850",
+          "start": 2490.855
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0851",
+          "start": 2493.457
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0925",
+          "start": 2713.977
+        }
+      ],
+      "surface_examples": [
+        "中堂"
+      ]
+    },
+    {
+      "lemma": "大学",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0048",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0048",
+          "start": 130.763
+        }
+      ],
+      "surface_examples": [
+        "大学"
+      ]
+    },
+    {
+      "lemma": "教授",
+      "pos": "名詞",
+      "count": 11,
+      "first_seen_sentence_id": "unnatural-s01-e03-0048",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0048",
+          "start": 130.763
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0341",
+          "start": 979.311
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0353",
+          "start": 1021.82
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0368",
+          "start": 1081.98
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0372",
+          "start": 1092.157
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0376",
+          "start": 1102.701
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0753",
+          "start": 2187.885
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0755",
+          "start": 2194.192
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0757",
+          "start": 2203.467
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0773",
+          "start": 2251.215
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0900",
+          "start": 2621.885
+        }
+      ],
+      "surface_examples": [
+        "教授"
+      ]
+    },
+    {
+      "lemma": "鑑定",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0051",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0051",
+          "start": 135.935
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0184",
+          "start": 498.03
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0298",
+          "start": 858.49
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0403",
+          "start": 1181.914
+        }
+      ],
+      "surface_examples": [
+        "鑑定"
+      ]
+    },
+    {
+      "lemma": "信用",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0051",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0051",
+          "start": 135.935
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0312",
+          "start": 888.888
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0357",
+          "start": 1040.472
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0839",
+          "start": 2454.585
+        }
+      ],
+      "surface_examples": [
+        "信用"
+      ]
+    },
+    {
+      "lemma": "態度",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0053",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0053",
+          "start": 142.208
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0768",
+          "start": 2229.927
+        }
+      ],
+      "surface_examples": [
+        "態度"
+      ]
+    },
+    {
+      "lemma": "悪い",
+      "pos": "形容詞",
+      "count": 7,
+      "first_seen_sentence_id": "unnatural-s01-e03-0053",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0053",
+          "start": 142.208
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0164",
+          "start": 439.338
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0324",
+          "start": 928.394
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0496",
+          "start": 1445.443
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0549",
+          "start": 1599.564
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0642",
+          "start": 1867.832
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0768",
+          "start": 2229.927
+        }
+      ],
+      "surface_examples": [
+        "悪い",
+        "悪く"
+      ]
+    },
+    {
+      "lemma": "訴訟",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0054",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0054",
+          "start": 143.877
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0055",
+          "start": 147.58
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0475",
+          "start": 1381.913
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0897",
+          "start": 2615.145
+        }
+      ],
+      "surface_examples": [
+        "訴訟"
+      ]
+    },
+    {
+      "lemma": "坂本",
+      "pos": "名詞",
+      "count": 25,
+      "first_seen_sentence_id": "unnatural-s01-e03-0057",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0057",
+          "start": 149.816
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0058",
+          "start": 152.385
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0059",
+          "start": 154.053
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0068",
+          "start": 179.145
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0476",
+          "start": 1384.049
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0478",
+          "start": 1389.654
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0505",
+          "start": 1477.943
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0510",
+          "start": 1488.72
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0515",
+          "start": 1502.3
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0605",
+          "start": 1770.769
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0606",
+          "start": 1775.039
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0607",
+          "start": 1777.776
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0610",
+          "start": 1785.049
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0636",
+          "start": 1853.384
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0640",
+          "start": 1864.896
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0648",
+          "start": 1886.417
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0679",
+          "start": 1962.66
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0680",
+          "start": 1965.296
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0684",
+          "start": 1974.238
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0685",
+          "start": 1976.708
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0748",
+          "start": 2167.231
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0756",
+          "start": 2197.662
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0897",
+          "start": 2615.145
+        }
+      ],
+      "surface_examples": [
+        "坂本"
+      ]
+    },
+    {
+      "lemma": "臨床",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0059",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0059",
+          "start": 154.053
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0061",
+          "start": 158.391
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0754",
+          "start": 2189.687
+        }
+      ],
+      "surface_examples": [
+        "臨床"
+      ]
+    },
+    {
+      "lemma": "検査技師",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0059",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0059",
+          "start": 154.053
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0061",
+          "start": 158.391
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0754",
+          "start": 2189.687
+        }
+      ],
+      "surface_examples": [
+        "検査技師"
+      ]
+    },
+    {
+      "lemma": "法医",
+      "pos": "名詞",
+      "count": 11,
+      "first_seen_sentence_id": "unnatural-s01-e03-0062",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0062",
+          "start": 161.261
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0076",
+          "start": 196.462
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0293",
+          "start": 849.982
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0296",
+          "start": 854.92
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0351",
+          "start": 1012.478
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0403",
+          "start": 1181.914
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0572",
+          "start": 1670.835
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0637",
+          "start": 1855.086
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0741",
+          "start": 2136.1
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0794",
+          "start": 2309.874
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0916",
+          "start": 2668.098
+        }
+      ],
+      "surface_examples": [
+        "法医"
+      ]
+    },
+    {
+      "lemma": "医",
+      "pos": "接尾辞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0062",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0062",
+          "start": 161.261
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0076",
+          "start": 196.462
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0637",
+          "start": 1855.086
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0801",
+          "start": 2325.589
+        }
+      ],
+      "surface_examples": [
+        "医"
+      ]
+    },
+    {
+      "lemma": "以上",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0064",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0064",
+          "start": 166.799
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0339",
+          "start": 971.503
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0407",
+          "start": 1195.06
+        }
+      ],
+      "surface_examples": [
+        "以上"
+      ]
+    },
+    {
+      "lemma": "苦痛",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0064",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0064",
+          "start": 166.799
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0482",
+          "start": 1400.932
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0748",
+          "start": 2167.231
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0749",
+          "start": 2172.17
+        }
+      ],
+      "surface_examples": [
+        "苦痛"
+      ]
+    },
+    {
+      "lemma": "辞職",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0065",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0065",
+          "start": 169.836
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0478",
+          "start": 1389.654
+        }
+      ],
+      "surface_examples": [
+        "辞職"
+      ]
+    },
+    {
+      "lemma": "事情",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0073",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0073",
+          "start": 189.789
+        }
+      ],
+      "surface_examples": [
+        "事情"
+      ]
+    },
+    {
+      "lemma": "烏田",
+      "pos": "名詞",
+      "count": 47,
+      "first_seen_sentence_id": "unnatural-s01-e03-0075",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0075",
+          "start": 194.827
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0077",
+          "start": 198.498
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0078",
+          "start": 200.3
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0079",
+          "start": 202.135
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0092",
+          "start": 240.607
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0104",
+          "start": 276.676
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0111",
+          "start": 293.359
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0142",
+          "start": 376.809
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0145",
+          "start": 385.985
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0152",
+          "start": 407.673
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0154",
+          "start": 415.815
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0158",
+          "start": 426.726
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0169",
+          "start": 455.655
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0178",
+          "start": 479.912
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0180",
+          "start": 484.15
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0244",
+          "start": 682.014
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0245",
+          "start": 685.418
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0247",
+          "start": 688.654
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0341",
+          "start": 979.311
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0347",
+          "start": 998.397
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0353",
+          "start": 1021.82
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0357",
+          "start": 1040.472
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0368",
+          "start": 1081.98
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0377",
+          "start": 1105.671
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0380",
+          "start": 1119.151
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0382",
+          "start": 1124.723
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0387",
+          "start": 1136.768
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0388",
+          "start": 1140.105
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0391",
+          "start": 1147.112
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0396",
+          "start": 1161.693
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0404",
+          "start": 1185.751
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0407",
+          "start": 1195.06
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0422",
+          "start": 1245.177
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0425",
+          "start": 1252.417
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0454",
+          "start": 1328.493
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0580",
+          "start": 1691.823
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0727",
+          "start": 2092.99
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0728",
+          "start": 2095.126
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0736",
+          "start": 2113.778
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0769",
+          "start": 2235.499
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0772",
+          "start": 2247.411
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0780",
+          "start": 2271.068
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0829",
+          "start": 2395.326
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0848",
+          "start": 2484.582
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0911",
+          "start": 2655.519
+        }
+      ],
+      "surface_examples": [
+        "烏田"
+      ]
+    },
+    {
+      "lemma": "検事",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "unnatural-s01-e03-0075",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0075",
+          "start": 194.827
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0106",
+          "start": 282.782
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0244",
+          "start": 682.014
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0422",
+          "start": 1245.177
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0454",
+          "start": 1328.493
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0580",
+          "start": 1691.823
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0718",
+          "start": 2072.937
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0727",
+          "start": 2092.99
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0736",
+          "start": 2113.778
+        }
+      ],
+      "surface_examples": [
+        "検事"
+      ]
+    },
+    {
+      "lemma": "女性",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "unnatural-s01-e03-0080",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0080",
+          "start": 205.772
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0081",
+          "start": 208.141
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0321",
+          "start": 920.719
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0351",
+          "start": 1012.478
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0354",
+          "start": 1026.425
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0356",
+          "start": 1036.535
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0389",
+          "start": 1142.708
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0399",
+          "start": 1169.234
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0401",
+          "start": 1175.674
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0426",
+          "start": 1254.419
+        }
+      ],
+      "surface_examples": [
+        "女性"
+      ]
+    },
+    {
+      "lemma": "問題",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0081",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0081",
+          "start": 208.141
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0521",
+          "start": 1515.48
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0897",
+          "start": 2615.145
+        }
+      ],
+      "surface_examples": [
+        "問題"
+      ]
+    },
+    {
+      "lemma": "司法",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0083",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0083",
+          "start": 214.447
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0400",
+          "start": 1174.072
+        }
+      ],
+      "surface_examples": [
+        "司法"
+      ]
+    },
+    {
+      "lemma": "結果",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0083",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0083",
+          "start": 214.447
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0184",
+          "start": 498.03
+        }
+      ],
+      "surface_examples": [
+        "結果"
+      ]
+    },
+    {
+      "lemma": "死因",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0084",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0084",
+          "start": 216.115
+        }
+      ],
+      "surface_examples": [
+        "死因"
+      ]
+    },
+    {
+      "lemma": "心臓",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0085",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0085",
+          "start": 217.75
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0197",
+          "start": 542.308
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0598",
+          "start": 1747.679
+        }
+      ],
+      "surface_examples": [
+        "心臓"
+      ]
+    },
+    {
+      "lemma": "凶器",
+      "pos": "名詞",
+      "count": 32,
+      "first_seen_sentence_id": "unnatural-s01-e03-0086",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0086",
+          "start": 222.088
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0088",
+          "start": 227.36
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0100",
+          "start": 266.966
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0175",
+          "start": 471.27
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0187",
+          "start": 506.606
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0189",
+          "start": 514.046
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0212",
+          "start": 571.871
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0214",
+          "start": 584.016
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0221",
+          "start": 627.593
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0234",
+          "start": 655.488
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0277",
+          "start": 788.988
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0284",
+          "start": 816.682
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0349",
+          "start": 1004.069
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0350",
+          "start": 1008.941
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0360",
+          "start": 1049.782
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0363",
+          "start": 1065.197
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0365",
+          "start": 1072.037
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0378",
+          "start": 1109.808
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0585",
+          "start": 1709.307
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0603",
+          "start": 1762.927
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0615",
+          "start": 1795.827
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0618",
+          "start": 1801.533
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0627",
+          "start": 1822.954
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0631",
+          "start": 1837.502
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0632",
+          "start": 1841.339
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0762",
+          "start": 2216.08
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0766",
+          "start": 2223.287
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0772",
+          "start": 2247.411
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0780",
+          "start": 2271.068
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0783",
+          "start": 2277.141
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0791",
+          "start": 2304.001
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0827",
+          "start": 2385.716
+        }
+      ],
+      "surface_examples": [
+        "凶器"
+      ]
+    },
+    {
+      "lemma": "包丁",
+      "pos": "名詞",
+      "count": 30,
+      "first_seen_sentence_id": "unnatural-s01-e03-0086",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0086",
+          "start": 222.088
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0179",
+          "start": 481.247
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0182",
+          "start": 490.59
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0186",
+          "start": 504.237
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0196",
+          "start": 536.402
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0214",
+          "start": 584.016
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0229",
+          "start": 644.01
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0233",
+          "start": 652.652
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0234",
+          "start": 655.488
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0277",
+          "start": 788.988
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0286",
+          "start": 823.355
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0327",
+          "start": 938.604
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0334",
+          "start": 956.221
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0347",
+          "start": 998.397
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0362",
+          "start": 1060.993
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0363",
+          "start": 1065.197
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0369",
+          "start": 1084.516
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0378",
+          "start": 1109.808
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0601",
+          "start": 1757.655
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0616",
+          "start": 1798.329
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0617",
+          "start": 1800.064
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0619",
+          "start": 1804.536
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0662",
+          "start": 1921.653
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0763",
+          "start": 2218.249
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0766",
+          "start": 2223.287
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0772",
+          "start": 2247.411
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0816",
+          "start": 2361.692
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0821",
+          "start": 2373.838
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0823",
+          "start": 2378.109
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0827",
+          "start": 2385.716
+        }
+      ],
+      "surface_examples": [
+        "包丁"
+      ]
+    },
+    {
+      "lemma": "証言",
+      "pos": "名詞",
+      "count": 14,
+      "first_seen_sentence_id": "unnatural-s01-e03-0087",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0087",
+          "start": 225.992
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0124",
+          "start": 334.434
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0125",
+          "start": 337.203
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0210",
+          "start": 564.13
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0213",
+          "start": 580.179
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0324",
+          "start": 928.394
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0378",
+          "start": 1109.808
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0383",
+          "start": 1126.658
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0397",
+          "start": 1162.961
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0436",
+          "start": 1289.121
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0729",
+          "start": 2097.428
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0853",
+          "start": 2503.601
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0876",
+          "start": 2567.932
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0913",
+          "start": 2659.423
+        }
+      ],
+      "surface_examples": [
+        "証言"
+      ]
+    },
+    {
+      "lemma": "傷",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "unnatural-s01-e03-0088",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0088",
+          "start": 227.36
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0100",
+          "start": 266.966
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0212",
+          "start": 571.871
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0226",
+          "start": 637.203
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0336",
+          "start": 962.261
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0363",
+          "start": 1065.197
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0367",
+          "start": 1076.642
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0370",
+          "start": 1086.385
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0576",
+          "start": 1679.477
+        }
+      ],
+      "surface_examples": [
+        "傷"
+      ]
+    },
+    {
+      "lemma": "一致",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0088",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0088",
+          "start": 227.36
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0100",
+          "start": 266.966
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0189",
+          "start": 514.046
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0336",
+          "start": 962.261
+        }
+      ],
+      "surface_examples": [
+        "一致"
+      ]
+    },
+    {
+      "lemma": "刺創",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0088",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0088",
+          "start": 227.36
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0190",
+          "start": 518.885
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0191",
+          "start": 520.152
+        }
+      ],
+      "surface_examples": [
+        "刺創"
+      ]
+    },
+    {
+      "lemma": "管",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0088",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0088",
+          "start": 227.36
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0190",
+          "start": 518.885
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0191",
+          "start": 520.152
+        }
+      ],
+      "surface_examples": [
+        "管"
+      ]
+    },
+    {
+      "lemma": "参考",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0089",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0089",
+          "start": 231.497
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0113",
+          "start": 297.563
+        }
+      ],
+      "surface_examples": [
+        "参考"
+      ]
+    },
+    {
+      "lemma": "保存",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0092",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0092",
+          "start": 240.607
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0759",
+          "start": 2208.506
+        }
+      ],
+      "surface_examples": [
+        "保存"
+      ]
+    },
+    {
+      "lemma": "法医学",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "unnatural-s01-e03-0093",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0093",
+          "start": 244.711
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0343",
+          "start": 984.049
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0344",
+          "start": 988.32
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0368",
+          "start": 1081.98
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0571",
+          "start": 1668.633
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0777",
+          "start": 2262.927
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0882",
+          "start": 2585.549
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0884",
+          "start": 2590.421
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0885",
+          "start": 2594.158
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0892",
+          "start": 2601.665
+        }
+      ],
+      "surface_examples": [
+        "法医学"
+      ]
+    },
+    {
+      "lemma": "教室",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0093",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0093",
+          "start": 244.711
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0343",
+          "start": 984.049
+        }
+      ],
+      "surface_examples": [
+        "教室"
+      ]
+    },
+    {
+      "lemma": "通常",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0093",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0093",
+          "start": 244.711
+        }
+      ],
+      "surface_examples": [
+        "通常"
+      ]
+    },
+    {
+      "lemma": "血液",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "unnatural-s01-e03-0093",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0093",
+          "start": 244.711
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0185",
+          "start": 501.167
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0327",
+          "start": 938.604
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0597",
+          "start": 1745.21
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0598",
+          "start": 1747.679
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0599",
+          "start": 1752.45
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0622",
+          "start": 1809.841
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0633",
+          "start": 1844.008
+        }
+      ],
+      "surface_examples": [
+        "血液"
+      ]
+    },
+    {
+      "lemma": "試料",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0093",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0093",
+          "start": 244.711
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0097",
+          "start": 257.957
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0581",
+          "start": 1699.431
+        }
+      ],
+      "surface_examples": [
+        "試料"
+      ]
+    },
+    {
+      "lemma": "鑑定書",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0094",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0094",
+          "start": 248.748
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0371",
+          "start": 1089.588
+        }
+      ],
+      "surface_examples": [
+        "鑑定書"
+      ]
+    },
+    {
+      "lemma": "処分",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0094",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0094",
+          "start": 248.748
+        }
+      ],
+      "surface_examples": [
+        "処分"
+      ]
+    },
+    {
+      "lemma": "場所",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0095",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0095",
+          "start": 251.317
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0748",
+          "start": 2167.231
+        }
+      ],
+      "surface_examples": [
+        "場所"
+      ]
+    },
+    {
+      "lemma": "明確",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0095",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0095",
+          "start": 251.317
+        }
+      ],
+      "surface_examples": [
+        "明確"
+      ]
+    },
+    {
+      "lemma": "規則",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0095",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0095",
+          "start": 251.317
+        }
+      ],
+      "surface_examples": [
+        "規則"
+      ]
+    },
+    {
+      "lemma": "場合",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0098",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0098",
+          "start": 260.827
+        }
+      ],
+      "surface_examples": [
+        "場合"
+      ]
+    },
+    {
+      "lemma": "傷口",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0098",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0098",
+          "start": 260.827
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0189",
+          "start": 514.046
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0631",
+          "start": 1837.502
+        }
+      ],
+      "surface_examples": [
+        "傷口"
+      ]
+    },
+    {
+      "lemma": "証拠",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "unnatural-s01-e03-0100",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0100",
+          "start": 266.966
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0101",
+          "start": 270.003
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0108",
+          "start": 286.986
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0181",
+          "start": 486.752
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0409",
+          "start": 1200.432
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0503",
+          "start": 1466.865
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0547",
+          "start": 1590.755
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0587",
+          "start": 1713.945
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0596",
+          "start": 1741.172
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0665",
+          "start": 1927.425
+        }
+      ],
+      "surface_examples": [
+        "証拠"
+      ]
+    },
+    {
+      "lemma": "不要",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0101",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0101",
+          "start": 270.003
+        }
+      ],
+      "surface_examples": [
+        "不要"
+      ]
+    },
+    {
+      "lemma": "公判",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "unnatural-s01-e03-0102",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0102",
+          "start": 272.372
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0103",
+          "start": 274.941
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0256",
+          "start": 720.219
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0319",
+          "start": 913.913
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0538",
+          "start": 1561.893
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0705",
+          "start": 2029.861
+        }
+      ],
+      "surface_examples": [
+        "公判"
+      ]
+    },
+    {
+      "lemma": "前",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0102",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0102",
+          "start": 272.372
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0103",
+          "start": 274.941
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0328",
+          "start": 941.006
+        }
+      ],
+      "surface_examples": [
+        "前"
+      ]
+    },
+    {
+      "lemma": "整理",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0102",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0102",
+          "start": 272.372
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0103",
+          "start": 274.941
+        }
+      ],
+      "surface_examples": [
+        "整理"
+      ]
+    },
+    {
+      "lemma": "手続き",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0102",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0102",
+          "start": 272.372
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0103",
+          "start": 274.941
+        }
+      ],
+      "surface_examples": [
+        "手続き"
+      ]
+    },
+    {
+      "lemma": "裁判員",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0104",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0104",
+          "start": 276.676
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0105",
+          "start": 279.812
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0319",
+          "start": 913.913
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0398",
+          "start": 1165.931
+        }
+      ],
+      "surface_examples": [
+        "裁判員"
+      ]
+    },
+    {
+      "lemma": "優先",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0104",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0104",
+          "start": 276.676
+        }
+      ],
+      "surface_examples": [
+        "優先"
+      ]
+    },
+    {
+      "lemma": "皆",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0105",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0105",
+          "start": 279.812
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0398",
+          "start": 1165.931
+        }
+      ],
+      "surface_examples": [
+        "皆"
+      ]
+    },
+    {
+      "lemma": "さん",
+      "pos": "接尾辞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0105",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0105",
+          "start": 279.812
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0398",
+          "start": 1165.931
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0651",
+          "start": 1896.661
+        }
+      ],
+      "surface_examples": [
+        "さん"
+      ]
+    },
+    {
+      "lemma": "拘束",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0105",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0105",
+          "start": 279.812
+        }
+      ],
+      "surface_examples": [
+        "拘束"
+      ]
+    },
+    {
+      "lemma": "弁護士",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0106",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0106",
+          "start": 282.782
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0568",
+          "start": 1657.455
+        }
+      ],
+      "surface_examples": [
+        "弁護士"
+      ]
+    },
+    {
+      "lemma": "裁判官",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0106",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0106",
+          "start": 282.782
+        }
+      ],
+      "surface_examples": [
+        "裁判官"
+      ]
+    },
+    {
+      "lemma": "以外",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0108",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0108",
+          "start": 286.986
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0596",
+          "start": 1741.172
+        }
+      ],
+      "surface_examples": [
+        "以外"
+      ]
+    },
+    {
+      "lemma": "余計",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0112",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0112",
+          "start": 295.261
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0388",
+          "start": 1140.105
+        }
+      ],
+      "surface_examples": [
+        "余計"
+      ]
+    },
+    {
+      "lemma": "答える",
+      "pos": "動詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0113",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0113",
+          "start": 297.563
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0804",
+          "start": 2334.699
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0805",
+          "start": 2336.967
+        }
+      ],
+      "surface_examples": [
+        "答え",
+        "答える"
+      ]
+    },
+    {
+      "lemma": "世間",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0117",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0117",
+          "start": 314.847
+        }
+      ],
+      "surface_examples": [
+        "世間"
+      ]
+    },
+    {
+      "lemma": "妻",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "unnatural-s01-e03-0119",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0119",
+          "start": 320.853
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0259",
+          "start": 729.528
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0266",
+          "start": 762.928
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0273",
+          "start": 780.012
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0278",
+          "start": 791.824
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0283",
+          "start": 812.011
+        }
+      ],
+      "surface_examples": [
+        "妻"
+      ]
+    },
+    {
+      "lemma": "心神",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0120",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0120",
+          "start": 323.389
+        }
+      ],
+      "surface_examples": [
+        "心神"
+      ]
+    },
+    {
+      "lemma": "耗弱",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0120",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0120",
+          "start": 323.389
+        }
+      ],
+      "surface_examples": [
+        "耗弱"
+      ]
+    },
+    {
+      "lemma": "状態",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0120",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0120",
+          "start": 323.389
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0201",
+          "start": 553.953
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0202",
+          "start": 556.489
+        }
+      ],
+      "surface_examples": [
+        "状態"
+      ]
+    },
+    {
+      "lemma": "主張",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "unnatural-s01-e03-0120",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0120",
+          "start": 323.389
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0200",
+          "start": 550.783
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0315",
+          "start": 901.967
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0338",
+          "start": 967.766
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0350",
+          "start": 1008.941
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0541",
+          "start": 1573.471
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0618",
+          "start": 1801.533
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0766",
+          "start": 2223.287
+        }
+      ],
+      "surface_examples": [
+        "主張"
+      ]
+    },
+    {
+      "lemma": "異議",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0123",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0123",
+          "start": 331.13
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0394",
+          "start": 1156.989
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0402",
+          "start": 1179.978
+        }
+      ],
+      "surface_examples": [
+        "異議"
+      ]
+    },
+    {
+      "lemma": "亀岡",
+      "pos": "名詞",
+      "count": 21,
+      "first_seen_sentence_id": "unnatural-s01-e03-0128",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0128",
+          "start": 342.575
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0248",
+          "start": 694.493
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0250",
+          "start": 699.999
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0260",
+          "start": 731.597
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0282",
+          "start": 807.873
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0327",
+          "start": 938.604
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0394",
+          "start": 1156.989
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0402",
+          "start": 1179.978
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0407",
+          "start": 1195.06
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0419",
+          "start": 1239.471
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0421",
+          "start": 1243.508
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0534",
+          "start": 1553.285
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0536",
+          "start": 1556.388
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0553",
+          "start": 1615.847
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0698",
+          "start": 2017.315
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0715",
+          "start": 2052.05
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0726",
+          "start": 2089.887
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0727",
+          "start": 2092.99
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0728",
+          "start": 2095.126
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0741",
+          "start": 2136.1
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0762",
+          "start": 2216.08
+        }
+      ],
+      "surface_examples": [
+        "亀岡"
+      ]
+    },
+    {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0128",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0128",
+          "start": 342.575
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
+      ]
+    },
+    {
+      "lemma": "職員",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0131",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0131",
+          "start": 349.882
+        }
+      ],
+      "surface_examples": [
+        "職員"
+      ]
+    },
+    {
+      "lemma": "名前",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0134",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0134",
+          "start": 362.662
+        }
+      ],
+      "surface_examples": [
+        "名前"
+      ]
+    },
+    {
+      "lemma": "昭和",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0139",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0139",
+          "start": 370.336
+        }
+      ],
+      "surface_examples": [
+        "昭和"
+      ]
+    },
+    {
+      "lemma": "被害者",
+      "pos": "名詞",
+      "count": 8,
+      "first_seen_sentence_id": "unnatural-s01-e03-0140",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0140",
+          "start": 372.205
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0143",
+          "start": 379.879
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0185",
+          "start": 501.167
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0231",
+          "start": 648.681
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0329",
+          "start": 942.241
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0336",
+          "start": 962.261
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0597",
+          "start": 1745.21
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0859",
+          "start": 2523.554
+        }
+      ],
+      "surface_examples": [
+        "被害者"
+      ]
+    },
+    {
+      "lemma": "正木",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0141",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0141",
+          "start": 375.675
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0144",
+          "start": 384.15
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0153",
+          "start": 411.711
+        }
+      ],
+      "surface_examples": [
+        "正木"
+      ]
+    },
+    {
+      "lemma": "取材",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0142",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0142",
+          "start": 376.809
+        }
+      ],
+      "surface_examples": [
+        "取材"
+      ]
+    },
+    {
+      "lemma": "通報",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0145",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0145",
+          "start": 385.985
+        }
+      ],
+      "surface_examples": [
+        "通報"
+      ]
+    },
+    {
+      "lemma": "警察官",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0145",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0145",
+          "start": 385.985
+        }
+      ],
+      "surface_examples": [
+        "警察官"
+      ]
+    },
+    {
+      "lemma": "捜索",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0146",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0146",
+          "start": 388.187
+        }
+      ],
+      "surface_examples": [
+        "捜索"
+      ]
+    },
+    {
+      "lemma": "部屋",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0147",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0147",
+          "start": 389.922
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0261",
+          "start": 734.233
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0268",
+          "start": 768.801
+        }
+      ],
+      "surface_examples": [
+        "部屋"
+      ]
+    },
+    {
+      "lemma": "被告人",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "unnatural-s01-e03-0147",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0147",
+          "start": 389.922
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0159",
+          "start": 428.661
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0169",
+          "start": 455.655
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0331",
+          "start": 949.248
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0338",
+          "start": 967.766
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0399",
+          "start": 1169.234
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0563",
+          "start": 1641.673
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0584",
+          "start": 1704.335
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0738",
+          "start": 2118.95
+        }
+      ],
+      "surface_examples": [
+        "被告人"
+      ]
+    },
+    {
+      "lemma": "奥さん",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0148",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0148",
+          "start": 393.826
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0555",
+          "start": 1623.822
+        }
+      ],
+      "surface_examples": [
+        "奥さん"
+      ]
+    },
+    {
+      "lemma": "犯行",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0150",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0150",
+          "start": 398.931
+        }
+      ],
+      "surface_examples": [
+        "犯行"
+      ]
+    },
+    {
+      "lemma": "収入",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0155",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0155",
+          "start": 418.651
+        }
+      ],
+      "surface_examples": [
+        "収入"
+      ]
+    },
+    {
+      "lemma": "両親",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0157",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0157",
+          "start": 422.355
+        }
+      ],
+      "surface_examples": [
+        "両親"
+      ]
+    },
+    {
+      "lemma": "資産",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0157",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0157",
+          "start": 422.355
+        }
+      ],
+      "surface_examples": [
+        "資産"
+      ]
+    },
+    {
+      "lemma": "財産",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0159",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0159",
+          "start": 428.661
+        }
+      ],
+      "surface_examples": [
+        "財産"
+      ]
+    },
+    {
+      "lemma": "感謝",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0161",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0161",
+          "start": 434.133
+        }
+      ],
+      "surface_examples": [
+        "感謝"
+      ]
+    },
+    {
+      "lemma": "気持ち",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0164",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0164",
+          "start": 439.338
+        }
+      ],
+      "surface_examples": [
+        "気持ち"
+      ]
+    },
+    {
+      "lemma": "刈谷",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0165",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0165",
+          "start": 442.308
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0170",
+          "start": 457.59
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0862",
+          "start": 2532.663
+        }
+      ],
+      "surface_examples": [
+        "刈谷"
+      ]
+    },
+    {
+      "lemma": "弟",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0165",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0165",
+          "start": 442.308
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0859",
+          "start": 2523.554
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0860",
+          "start": 2526.357
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0864",
+          "start": 2537.701
+        }
+      ],
+      "surface_examples": [
+        "弟"
+      ]
+    },
+    {
+      "lemma": "神田",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0166",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0166",
+          "start": 445.678
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0832",
+          "start": 2414.945
+        }
+      ],
+      "surface_examples": [
+        "神田"
+      ]
+    },
+    {
+      "lemma": "京料理",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0166",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0166",
+          "start": 445.678
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0832",
+          "start": 2414.945
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0864",
+          "start": 2537.701
+        }
+      ],
+      "surface_examples": [
+        "京料理"
+      ]
+    },
+    {
+      "lemma": "店",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0166",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0166",
+          "start": 445.678
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0832",
+          "start": 2414.945
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0864",
+          "start": 2537.701
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0868",
+          "start": 2546.076
+        }
+      ],
+      "surface_examples": [
+        "店"
+      ]
+    },
+    {
+      "lemma": "姉",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0168",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0168",
+          "start": 450.483
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0867",
+          "start": 2544.909
+        }
+      ],
+      "surface_examples": [
+        "姉"
+      ]
+    },
+    {
+      "lemma": "相談",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0168",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0168",
+          "start": 450.483
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0700",
+          "start": 2020.752
+        }
+      ],
+      "surface_examples": [
+        "相談"
+      ]
+    },
+    {
+      "lemma": "性格",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0169",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0169",
+          "start": 455.655
+        }
+      ],
+      "surface_examples": [
+        "性格"
+      ]
+    },
+    {
+      "lemma": "普段",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0170",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0170",
+          "start": 457.59
+        }
+      ],
+      "surface_examples": [
+        "普段"
+      ]
+    },
+    {
+      "lemma": "刺し傷",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "unnatural-s01-e03-0175",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0175",
+          "start": 471.27
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0191",
+          "start": 520.152
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0195",
+          "start": 531.597
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0350",
+          "start": 1008.941
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0362",
+          "start": 1060.993
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0599",
+          "start": 1752.45
+        }
+      ],
+      "surface_examples": [
+        "刺し傷"
+      ]
+    },
+    {
+      "lemma": "推測",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0175",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0175",
+          "start": 471.27
+        }
+      ],
+      "surface_examples": [
+        "推測"
+      ]
+    },
+    {
+      "lemma": "有",
+      "pos": "接頭辞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0177",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0177",
+          "start": 477.343
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0178",
+          "start": 479.912
+        }
+      ],
+      "surface_examples": [
+        "有"
+      ]
+    },
+    {
+      "lemma": "尖片",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0177",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0177",
+          "start": 477.343
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0178",
+          "start": 479.912
+        }
+      ],
+      "surface_examples": [
+        "尖片"
+      ]
+    },
+    {
+      "lemma": "刃器",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0177",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0177",
+          "start": 477.343
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0178",
+          "start": 479.912
+        }
+      ],
+      "surface_examples": [
+        "刃器"
+      ]
+    },
+    {
+      "lemma": "形状",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0177",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0177",
+          "start": 477.343
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0187",
+          "start": 506.606
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0348",
+          "start": 1000.666
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0360",
+          "start": 1049.782
+        }
+      ],
+      "surface_examples": [
+        "形状"
+      ]
+    },
+    {
+      "lemma": "簡単",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0179",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0179",
+          "start": 481.247
+        }
+      ],
+      "surface_examples": [
+        "簡単"
+      ]
+    },
+    {
+      "lemma": "供述",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0180",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0180",
+          "start": 484.15
+        }
+      ],
+      "surface_examples": [
+        "供述"
+      ]
+    },
+    {
+      "lemma": "明確化",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0180",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0180",
+          "start": 484.15
+        }
+      ],
+      "surface_examples": [
+        "明確化"
+      ]
+    },
+    {
+      "lemma": "検察官",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0181",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0181",
+          "start": 486.752
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0340",
+          "start": 973.939
+        }
+      ],
+      "surface_examples": [
+        "検察官"
+      ]
+    },
+    {
+      "lemma": "請求",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0181",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0181",
+          "start": 486.752
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0744",
+          "start": 2145.977
+        }
+      ],
+      "surface_examples": [
+        "請求"
+      ]
+    },
+    {
+      "lemma": "科捜研",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0184",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0184",
+          "start": 498.03
+        }
+      ],
+      "surface_examples": [
+        "科捜研"
+      ]
+    },
+    {
+      "lemma": "検出",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "unnatural-s01-e03-0185",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0185",
+          "start": 501.167
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0327",
+          "start": 938.604
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0603",
+          "start": 1762.927
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0622",
+          "start": 1809.841
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0760",
+          "start": 2210.675
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0787",
+          "start": 2289.787
+        }
+      ],
+      "surface_examples": [
+        "検出"
+      ]
+    },
+    {
+      "lemma": "矛盾",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "unnatural-s01-e03-0188",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0188",
+          "start": 511.477
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0189",
+          "start": 514.046
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0212",
+          "start": 571.871
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0363",
+          "start": 1065.197
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0364",
+          "start": 1069.868
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0379",
+          "start": 1114.012
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0381",
+          "start": 1122.154
+        }
+      ],
+      "surface_examples": [
+        "矛盾"
+      ]
+    },
+    {
+      "lemma": "緊張",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0193",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0193",
+          "start": 526.659
+        }
+      ],
+      "surface_examples": [
+        "緊張"
+      ]
+    },
+    {
+      "lemma": "画像",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0194",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0194",
+          "start": 528.594
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0238",
+          "start": 667.5
+        }
+      ],
+      "surface_examples": [
+        "画像"
+      ]
+    },
+    {
+      "lemma": "正確",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0195",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0195",
+          "start": 531.597
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0197",
+          "start": 542.308
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0201",
+          "start": 553.953
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0202",
+          "start": 556.489
+        }
+      ],
+      "surface_examples": [
+        "正確"
+      ]
+    },
+    {
+      "lemma": "皮膚",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0196",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0196",
+          "start": 536.402
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0630",
+          "start": 1832.597
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0759",
+          "start": 2208.506
+        }
+      ],
+      "surface_examples": [
+        "皮膚"
+      ]
+    },
+    {
+      "lemma": "肋骨",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0197",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0197",
+          "start": 542.308
+        }
+      ],
+      "surface_examples": [
+        "肋骨"
+      ]
+    },
+    {
+      "lemma": "背骨",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "unnatural-s01-e03-0198",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0198",
+          "start": 546.379
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0226",
+          "start": 637.203
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0576",
+          "start": 1679.477
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0600",
+          "start": 1755.987
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0601",
+          "start": 1757.655
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0791",
+          "start": 2304.001
+        }
+      ],
+      "surface_examples": [
+        "背骨"
+      ]
+    },
+    {
+      "lemma": "弁護",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "unnatural-s01-e03-0200",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0200",
+          "start": 550.783
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0252",
+          "start": 712.445
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0256",
+          "start": 720.219
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0296",
+          "start": 854.92
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0426",
+          "start": 1254.419
+        }
+      ],
+      "surface_examples": [
+        "弁護"
+      ]
+    },
+    {
+      "lemma": "朦朧",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0201",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0201",
+          "start": 553.953
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0202",
+          "start": 556.489
+        }
+      ],
+      "surface_examples": [
+        "朦朧"
+      ]
+    },
+    {
+      "lemma": "撤回",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0213",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0213",
+          "start": 580.179
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0324",
+          "start": 928.394
+        }
+      ],
+      "surface_examples": [
+        "撤回"
+      ]
+    },
+    {
+      "lemma": "末次",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "unnatural-s01-e03-0217",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0217",
+          "start": 615.481
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0220",
+          "start": 626.225
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0223",
+          "start": 631.163
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0452",
+          "start": 1325.324
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0459",
+          "start": 1338.704
+        }
+      ],
+      "surface_examples": [
+        "末次"
+      ]
+    },
+    {
+      "lemma": "間違い",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0221",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0221",
+          "start": 627.593
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0378",
+          "start": 1109.808
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0772",
+          "start": 2247.411
+        }
+      ],
+      "surface_examples": [
+        "間違い"
+      ]
+    },
+    {
+      "lemma": "門松",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "unnatural-s01-e03-0224",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0224",
+          "start": 632.765
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0717",
+          "start": 2071.002
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0721",
+          "start": 2080.278
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0722",
+          "start": 2081.512
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0724",
+          "start": 2085.75
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0845",
+          "start": 2476.874
+        }
+      ],
+      "surface_examples": [
+        "門松"
+      ]
+    },
+    {
+      "lemma": "一般的",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0229",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0229",
+          "start": 644.01
+        }
+      ],
+      "surface_examples": [
+        "一般的"
+      ]
+    },
+    {
+      "lemma": "右利き",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "unnatural-s01-e03-0229",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0229",
+          "start": 644.01
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0230",
+          "start": 647.58
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0362",
+          "start": 1060.993
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0367",
+          "start": 1076.642
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0593",
+          "start": 1731.529
+        }
+      ],
+      "surface_examples": [
+        "右利き"
+      ]
+    },
+    {
+      "lemma": "左利き",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "unnatural-s01-e03-0231",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0231",
+          "start": 648.681
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0234",
+          "start": 655.488
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0335",
+          "start": 959.391
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0363",
+          "start": 1065.197
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0367",
+          "start": 1076.642
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0369",
+          "start": 1084.516
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0593",
+          "start": 1731.529
+        }
+      ],
+      "surface_examples": [
+        "左利き"
+      ]
+    },
+    {
+      "lemma": "今後",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0244",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0244",
+          "start": 682.014
+        }
+      ],
+      "surface_examples": [
+        "今後"
+      ]
+    },
+    {
+      "lemma": "仕方ない",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0257",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0257",
+          "start": 723.522
+        }
+      ],
+      "surface_examples": [
+        "仕方なかっ"
+      ]
+    },
+    {
+      "lemma": "精神安定剤",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0263",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0263",
+          "start": 744.41
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0279",
+          "start": 795.461
+        }
+      ],
+      "surface_examples": [
+        "精神安定剤"
+      ]
+    },
+    {
+      "lemma": "刑事",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0269",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0269",
+          "start": 771.704
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0270",
+          "start": 772.872
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0271",
+          "start": 774.306
+        }
+      ],
+      "surface_examples": [
+        "刑事"
+      ]
+    },
+    {
+      "lemma": "旦那",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0269",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0269",
+          "start": 771.704
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0270",
+          "start": 772.872
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0271",
+          "start": 774.306
+        }
+      ],
+      "surface_examples": [
+        "旦那"
+      ]
+    },
+    {
+      "lemma": "指紋",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0278",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0278",
+          "start": 791.824
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0331",
+          "start": 949.248
+        }
+      ],
+      "surface_examples": [
+        "指紋"
+      ]
+    },
+    {
+      "lemma": "記憶",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0279",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0279",
+          "start": 795.461
+        }
+      ],
+      "surface_examples": [
+        "記憶"
+      ]
+    },
+    {
+      "lemma": "学",
+      "pos": "接尾辞",
+      "count": 8,
+      "first_seen_sentence_id": "unnatural-s01-e03-0293",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0293",
+          "start": 849.982
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0296",
+          "start": 854.92
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0351",
+          "start": 1012.478
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0403",
+          "start": 1181.914
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0572",
+          "start": 1670.835
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0741",
+          "start": 2136.1
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0794",
+          "start": 2309.874
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0916",
+          "start": 2668.098
+        }
+      ],
+      "surface_examples": [
+        "学"
+      ]
+    },
+    {
+      "lemma": "者",
+      "pos": "接尾辞",
+      "count": 13,
+      "first_seen_sentence_id": "unnatural-s01-e03-0293",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0293",
+          "start": 849.982
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0296",
+          "start": 854.92
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0351",
+          "start": 1012.478
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0403",
+          "start": 1181.914
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0473",
+          "start": 1375.34
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0572",
+          "start": 1670.835
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0718",
+          "start": 2072.937
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0741",
+          "start": 2136.1
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0794",
+          "start": 2309.874
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0846",
+          "start": 2479.71
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0847",
+          "start": 2482.713
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0880",
+          "start": 2581.645
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0916",
+          "start": 2668.098
+        }
+      ],
+      "surface_examples": [
+        "者"
+      ]
+    },
+    {
+      "lemma": "状況",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0294",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0294",
+          "start": 851.75
+        }
+      ],
+      "surface_examples": [
+        "状況"
+      ]
+    },
+    {
+      "lemma": "仲間",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0298",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0298",
+          "start": 858.49
+        }
+      ],
+      "surface_examples": [
+        "仲間"
+      ]
+    },
+    {
+      "lemma": "機関",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0301",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0301",
+          "start": 864.163
+        }
+      ],
+      "surface_examples": [
+        "機関"
+      ]
+    },
+    {
+      "lemma": "無罪",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0315",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0315",
+          "start": 901.967
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0338",
+          "start": 967.766
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0445",
+          "start": 1302.768
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0541",
+          "start": 1573.471
+        }
+      ],
+      "surface_examples": [
+        "無罪"
+      ]
+    },
+    {
+      "lemma": "裁判長",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0323",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0323",
+          "start": 926.125
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0407",
+          "start": 1195.06
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0726",
+          "start": 2089.887
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0803",
+          "start": 2331.228
+        }
+      ],
+      "surface_examples": [
+        "裁判長"
+      ]
+    },
+    {
+      "lemma": "全力",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0326",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0326",
+          "start": 935.467
+        }
+      ],
+      "surface_examples": [
+        "全力"
+      ]
+    },
+    {
+      "lemma": "日",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0328",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0328",
+          "start": 941.006
+        }
+      ],
+      "surface_examples": [
+        "日"
+      ]
+    },
+    {
+      "lemma": "出血",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0329",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0329",
+          "start": 942.241
+        }
+      ],
+      "surface_examples": [
+        "出血"
+      ]
+    },
+    {
+      "lemma": "無関係",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0330",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0330",
+          "start": 947.146
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0922",
+          "start": 2707.838
+        }
+      ],
+      "surface_examples": [
+        "無関係"
+      ]
+    },
+    {
+      "lemma": "草野",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "unnatural-s01-e03-0341",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0341",
+          "start": 979.311
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0343",
+          "start": 984.049
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0348",
+          "start": 1000.666
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0352",
+          "start": 1017.082
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0353",
+          "start": 1021.82
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0368",
+          "start": 1081.98
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0372",
+          "start": 1092.157
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0376",
+          "start": 1102.701
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0773",
+          "start": 2251.215
+        }
+      ],
+      "surface_examples": [
+        "草野"
+      ]
+    },
+    {
+      "lemma": "経歴",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0342",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0342",
+          "start": 980.546
+        }
+      ],
+      "surface_examples": [
+        "経歴"
+      ]
+    },
+    {
+      "lemma": "東都大学",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0343",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0343",
+          "start": 984.049
+        }
+      ],
+      "surface_examples": [
+        "東都大学"
+      ]
+    },
+    {
+      "lemma": "実績",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "unnatural-s01-e03-0352",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0352",
+          "start": 1017.082
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0359",
+          "start": 1044.076
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0373",
+          "start": 1095.994
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0770",
+          "start": 2237.568
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0774",
+          "start": 2253.017
+        }
+      ],
+      "surface_examples": [
+        "実績"
+      ]
+    },
+    {
+      "lemma": "数",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0352",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0352",
+          "start": 1017.082
+        }
+      ],
+      "surface_examples": [
+        "数"
+      ]
+    },
+    {
+      "lemma": "最近",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0355",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0355",
+          "start": 1031.563
+        }
+      ],
+      "surface_examples": [
+        "最近"
+      ]
+    },
+    {
+      "lemma": "研究者",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0356",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0356",
+          "start": 1036.535
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0399",
+          "start": 1169.234
+        }
+      ],
+      "surface_examples": [
+        "研究者"
+      ]
+    },
+    {
+      "lemma": "事例",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0371",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0371",
+          "start": 1089.588
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0375",
+          "start": 1101.166
+        }
+      ],
+      "surface_examples": [
+        "事例"
+      ]
+    },
+    {
+      "lemma": "否定",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0373",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0373",
+          "start": 1095.994
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0627",
+          "start": 1822.954
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0780",
+          "start": 2271.068
+        }
+      ],
+      "surface_examples": [
+        "否定"
+      ]
+    },
+    {
+      "lemma": "優秀",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0374",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0374",
+          "start": 1098.53
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0754",
+          "start": 2189.687
+        }
+      ],
+      "surface_examples": [
+        "優秀"
+      ]
+    },
+    {
+      "lemma": "間違う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0376",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0376",
+          "start": 1102.701
+        }
+      ],
+      "surface_examples": [
+        "間違っ"
+      ]
+    },
+    {
+      "lemma": "前回",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0377",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0377",
+          "start": 1105.671
+        }
+      ],
+      "surface_examples": [
+        "前回"
+      ]
+    },
+    {
+      "lemma": "法廷",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "unnatural-s01-e03-0377",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0377",
+          "start": 1105.671
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0393",
+          "start": 1153.652
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0406",
+          "start": 1191.29
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0808",
+          "start": 2342.807
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0852",
+          "start": 2499.43
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0911",
+          "start": 2655.519
+        }
+      ],
+      "surface_examples": [
+        "法廷"
+      ]
+    },
+    {
+      "lemma": "意見",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0380",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0380",
+          "start": 1119.151
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0397",
+          "start": 1162.961
+        }
+      ],
+      "surface_examples": [
+        "意見"
+      ]
+    },
+    {
+      "lemma": "特徴",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0389",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0389",
+          "start": 1142.708
+        }
+      ],
+      "surface_examples": [
+        "特徴"
+      ]
+    },
+    {
+      "lemma": "感情的",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "unnatural-s01-e03-0392",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0392",
+          "start": 1150.716
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0404",
+          "start": 1185.751
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0417",
+          "start": 1232.764
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0428",
+          "start": 1266.064
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0430",
+          "start": 1273.038
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0444",
+          "start": 1301.299
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0809",
+          "start": 2344.875
+        }
+      ],
+      "surface_examples": [
+        "感情的"
+      ]
+    },
+    {
+      "lemma": "彼氏",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0393",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0393",
+          "start": 1153.652
+        }
+      ],
+      "surface_examples": [
+        "彼氏"
+      ]
+    },
+    {
+      "lemma": "混乱",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0398",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0398",
+          "start": 1165.931
+        }
+      ],
+      "surface_examples": [
+        "混乱"
+      ]
+    },
+    {
+      "lemma": "事態",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0401",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0401",
+          "start": 1175.674
+        }
+      ],
+      "surface_examples": [
+        "事態"
+      ]
+    },
+    {
+      "lemma": "事実",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0403",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0403",
+          "start": 1181.914
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0472",
+          "start": 1370.368
+        }
+      ],
+      "surface_examples": [
+        "事実"
+      ]
+    },
+    {
+      "lemma": "自己",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0405",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0405",
+          "start": 1188.12
+        }
+      ],
+      "surface_examples": [
+        "自己"
+      ]
+    },
+    {
+      "lemma": "顕示",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0405",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0405",
+          "start": 1188.12
+        }
+      ],
+      "surface_examples": [
+        "顕示"
+      ]
+    },
+    {
+      "lemma": "欲",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0405",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0405",
+          "start": 1188.12
+        }
+      ],
+      "surface_examples": [
+        "欲"
+      ]
+    },
+    {
+      "lemma": "宍戸",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "unnatural-s01-e03-0415",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0415",
+          "start": 1227.726
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0717",
+          "start": 2071.002
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0722",
+          "start": 2081.512
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0845",
+          "start": 2476.874
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0846",
+          "start": 2479.71
+        }
+      ],
+      "surface_examples": [
+        "宍戸"
+      ]
+    },
+    {
+      "lemma": "記事",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0415",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0415",
+          "start": 1227.726
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0453",
+          "start": 1326.958
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0879",
+          "start": 2579.176
+        }
+      ],
+      "surface_examples": [
+        "記事"
+      ]
+    },
+    {
+      "lemma": "仕方",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0421",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0421",
+          "start": 1243.508
+        }
+      ],
+      "surface_examples": [
+        "仕方"
+      ]
+    },
+    {
+      "lemma": "距離",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0434",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0434",
+          "start": 1281.513
+        }
+      ],
+      "surface_examples": [
+        "距離"
+      ]
+    },
+    {
+      "lemma": "速度",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0434",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0434",
+          "start": 1281.513
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0448",
+          "start": 1309.574
+        }
+      ],
+      "surface_examples": [
+        "速度"
+      ]
+    },
+    {
+      "lemma": "全自動",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0442",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0442",
+          "start": 1296.695
+        }
+      ],
+      "surface_examples": [
+        "全自動"
+      ]
+    },
+    {
+      "lemma": "洗濯機",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0442",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0442",
+          "start": 1296.695
+        }
+      ],
+      "surface_examples": [
+        "洗濯機"
+      ]
+    },
+    {
+      "lemma": "以来",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0442",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0442",
+          "start": 1296.695
+        }
+      ],
+      "surface_examples": [
+        "以来"
+      ]
+    },
+    {
+      "lemma": "内容",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0453",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0453",
+          "start": 1326.958
+        }
+      ],
+      "surface_examples": [
+        "内容"
+      ]
+    },
+    {
+      "lemma": "真実",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0460",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0460",
+          "start": 1339.871
+        }
+      ],
+      "surface_examples": [
+        "真実"
+      ]
+    },
+    {
+      "lemma": "通話",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0462",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0462",
+          "start": 1346.311
+        }
+      ],
+      "surface_examples": [
+        "通話"
+      ]
+    },
+    {
+      "lemma": "不",
+      "pos": "接頭辞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0462",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0462",
+          "start": 1346.311
+        }
+      ],
+      "surface_examples": [
+        "不"
+      ]
+    },
+    {
+      "lemma": "通音",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0462",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0462",
+          "start": 1346.311
+        }
+      ],
+      "surface_examples": [
+        "通音"
+      ]
+    },
+    {
+      "lemma": "電話",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0466",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0466",
+          "start": 1357.222
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0676",
+          "start": 1951.049
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0706",
+          "start": 2034.065
+        }
+      ],
+      "surface_examples": [
+        "電話"
+      ]
+    },
+    {
+      "lemma": "女法",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "unnatural-s01-e03-0473",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0473",
+          "start": 1375.34
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0718",
+          "start": 2072.937
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0846",
+          "start": 2479.71
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0847",
+          "start": 2482.713
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0880",
+          "start": 2581.645
+        }
+      ],
+      "surface_examples": [
+        "女法"
+      ]
+    },
+    {
+      "lemma": "医学",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "unnatural-s01-e03-0473",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0473",
+          "start": 1375.34
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0718",
+          "start": 2072.937
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0846",
+          "start": 2479.71
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0847",
+          "start": 2482.713
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0880",
+          "start": 2581.645
+        }
+      ],
+      "surface_examples": [
+        "医学"
+      ]
+    },
+    {
+      "lemma": "格好",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0473",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0473",
+          "start": 1375.34
+        }
+      ],
+      "surface_examples": [
+        "格好"
+      ]
+    },
+    {
+      "lemma": "筒井",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "unnatural-s01-e03-0478",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0478",
+          "start": 1389.654
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0481",
+          "start": 1398.764
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0485",
+          "start": 1408.306
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0503",
+          "start": 1466.865
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0509",
+          "start": 1487.819
+        }
+      ],
+      "surface_examples": [
+        "筒井"
+      ]
+    },
+    {
+      "lemma": "無理",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0479",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0479",
+          "start": 1393.392
+        }
+      ],
+      "surface_examples": [
+        "無理"
+      ]
+    },
+    {
+      "lemma": "精神的",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0482",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0482",
+          "start": 1400.932
+        }
+      ],
+      "surface_examples": [
+        "精神的"
+      ]
+    },
+    {
+      "lemma": "謝罪",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0482",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0482",
+          "start": 1400.932
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0484",
+          "start": 1407.239
+        }
+      ],
+      "surface_examples": [
+        "謝罪"
+      ]
+    },
+    {
+      "lemma": "心当たり",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0485",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0485",
+          "start": 1408.306
+        }
+      ],
+      "surface_examples": [
+        "心当たり"
+      ]
+    },
+    {
+      "lemma": "相当",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0496",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0496",
+          "start": 1445.443
+        }
+      ],
+      "surface_examples": [
+        "相当"
+      ]
+    },
+    {
+      "lemma": "裁判所",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0503",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0503",
+          "start": 1466.865
+        }
+      ],
+      "surface_examples": [
+        "裁判所"
+      ]
+    },
+    {
+      "lemma": "記録",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0516",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0516",
+          "start": 1505.303
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0528",
+          "start": 1526.858
+        }
+      ],
+      "surface_examples": [
+        "記録"
+      ]
+    },
+    {
+      "lemma": "仕事中",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0520",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0520",
+          "start": 1513.445
+        }
+      ],
+      "surface_examples": [
+        "仕事中"
+      ]
+    },
+    {
+      "lemma": "勝手",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0520",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0520",
+          "start": 1513.445
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0881",
+          "start": 2583.981
+        }
+      ],
+      "surface_examples": [
+        "勝手"
+      ]
+    },
+    {
+      "lemma": "罪",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0533",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0533",
+          "start": 1551.683
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0540",
+          "start": 1569.634
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0544",
+          "start": 1581.713
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0584",
+          "start": 1704.335
+        }
+      ],
+      "surface_examples": [
+        "罪"
+      ]
+    },
+    {
+      "lemma": "希望",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0534",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0534",
+          "start": 1553.285
+        }
+      ],
+      "surface_examples": [
+        "希望"
+      ]
+    },
+    {
+      "lemma": "不安",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0538",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0538",
+          "start": 1561.893
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0682",
+          "start": 1969.867
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0683",
+          "start": 1972.537
+        }
+      ],
+      "surface_examples": [
+        "不安"
+      ]
+    },
+    {
+      "lemma": "反省",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0542",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0542",
+          "start": 1575.907
+        }
+      ],
+      "surface_examples": [
+        "反省"
+      ]
+    },
+    {
+      "lemma": "刑務所",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0545",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0545",
+          "start": 1585.183
+        }
+      ],
+      "surface_examples": [
+        "刑務所"
+      ]
+    },
+    {
+      "lemma": "都合",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0549",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0549",
+          "start": 1599.564
+        }
+      ],
+      "surface_examples": [
+        "都合"
+      ]
+    },
+    {
+      "lemma": "人生",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0552",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0552",
+          "start": 1610.408
+        }
+      ],
+      "surface_examples": [
+        "人生"
+      ]
+    },
+    {
+      "lemma": "説得",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0553",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0553",
+          "start": 1615.847
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0588",
+          "start": 1716.514
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0674",
+          "start": 1945.877
+        }
+      ],
+      "surface_examples": [
+        "説得"
+      ]
+    },
+    {
+      "lemma": "意志",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0553",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0553",
+          "start": 1615.847
+        }
+      ],
+      "surface_examples": [
+        "意志"
+      ]
+    },
+    {
+      "lemma": "秋彦",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0557",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0557",
+          "start": 1628.493
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0563",
+          "start": 1641.673
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0573",
+          "start": 1673.071
+        }
+      ],
+      "surface_examples": [
+        "秋彦"
+      ]
+    },
+    {
+      "lemma": "夏代",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0558",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0558",
+          "start": 1630.095
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0579",
+          "start": 1687.252
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0921",
+          "start": 2705.035
+        }
+      ],
+      "surface_examples": [
+        "夏代"
+      ]
+    },
+    {
+      "lemma": "有罪",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0565",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0565",
+          "start": 1647.145
+        }
+      ],
+      "surface_examples": [
+        "有罪"
+      ]
+    },
+    {
+      "lemma": "声",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0566",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0566",
+          "start": 1649.447
+        }
+      ],
+      "surface_examples": [
+        "声"
+      ]
+    },
+    {
+      "lemma": "味方",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0568",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0568",
+          "start": 1657.455
+        }
+      ],
+      "surface_examples": [
+        "味方"
+      ]
+    },
+    {
+      "lemma": "程度",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0580",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0580",
+          "start": 1691.823
+        }
+      ],
+      "surface_examples": [
+        "程度"
+      ]
+    },
+    {
+      "lemma": "質問",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0584",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0584",
+          "start": 1704.335
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0738",
+          "start": 2118.95
+        }
+      ],
+      "surface_examples": [
+        "質問"
+      ]
+    },
+    {
+      "lemma": "大体",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0593",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0593",
+          "start": 1731.529
+        }
+      ],
+      "surface_examples": [
+        "大体"
+      ]
+    },
+    {
+      "lemma": "証明",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0595",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0595",
+          "start": 1738.47
+        }
+      ],
+      "surface_examples": [
+        "証明"
+      ]
+    },
+    {
+      "lemma": "採取",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0598",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0598",
+          "start": 1747.679
+        }
+      ],
+      "surface_examples": [
+        "採取"
+      ]
+    },
+    {
+      "lemma": "成分",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "unnatural-s01-e03-0603",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0603",
+          "start": 1762.927
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0631",
+          "start": 1837.502
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0658",
+          "start": 1915.213
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0662",
+          "start": 1921.653
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0761",
+          "start": 2213.711
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0767",
+          "start": 2226.958
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0782",
+          "start": 2275.072
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0791",
+          "start": 2304.001
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0814",
+          "start": 2357.488
+        }
+      ],
+      "surface_examples": [
+        "成分"
+      ]
+    },
+    {
+      "lemma": "疑問",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0613",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0613",
+          "start": 1792.991
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0614",
+          "start": 1794.092
+        }
+      ],
+      "surface_examples": [
+        "疑問"
+      ]
+    },
+    {
+      "lemma": "判別",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0625",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0625",
+          "start": 1816.781
+        }
+      ],
+      "surface_examples": [
+        "判別"
+      ]
+    },
+    {
+      "lemma": "拡散",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0631",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0631",
+          "start": 1837.502
+        }
+      ],
+      "surface_examples": [
+        "拡散"
+      ]
+    },
+    {
+      "lemma": "採用",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0644",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0644",
+          "start": 1875.707
+        }
+      ],
+      "surface_examples": [
+        "採用"
+      ]
+    },
+    {
+      "lemma": "医学部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0649",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0649",
+          "start": 1888.82
+        }
+      ],
+      "surface_examples": [
+        "医学部"
+      ]
+    },
+    {
+      "lemma": "息子",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0651",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0651",
+          "start": 1896.661
+        }
+      ],
+      "surface_examples": [
+        "息子"
+      ]
+    },
+    {
+      "lemma": "医者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0652",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0652",
+          "start": 1899.998
+        }
+      ],
+      "surface_examples": [
+        "医者"
+      ]
+    },
+    {
+      "lemma": "通知",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0655",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0655",
+          "start": 1909.407
+        }
+      ],
+      "surface_examples": [
+        "通知"
       ]
     },
     {
       "lemma": "音",
       "pos": "名詞",
-      "count": 5,
-      "first_seen_sentence_id": "unnatural-s01-e03-0002",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0655",
       "occurrences": [
         {
-          "sentence_id": "unnatural-s01-e03-0002",
-          "start": 10.977
-        },
-        {
-          "sentence_id": "unnatural-s01-e03-0219",
-          "start": 621.62
-        },
-        {
-          "sentence_id": "unnatural-s01-e03-0439",
-          "start": 1294.559
-        },
-        {
-          "sentence_id": "unnatural-s01-e03-0440",
-          "start": 1295.193
-        },
-        {
-          "sentence_id": "unnatural-s01-e03-0697",
-          "start": 2012.61
+          "sentence_id": "unnatural-s01-e03-0655",
+          "start": 1909.407
         }
       ],
       "surface_examples": [
         "音"
+      ]
+    },
+    {
+      "lemma": "数値",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0662",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0662",
+          "start": 1921.653
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0815",
+          "start": 2359.457
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0816",
+          "start": 2361.692
+        }
+      ],
+      "surface_examples": [
+        "数値"
+      ]
+    },
+    {
+      "lemma": "異常",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0662",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0662",
+          "start": 1921.653
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0815",
+          "start": 2359.457
+        }
+      ],
+      "surface_examples": [
+        "異常"
+      ]
+    },
+    {
+      "lemma": "理由",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0667",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0667",
+          "start": 1931.329
+        }
+      ],
+      "surface_examples": [
+        "理由"
+      ]
+    },
+    {
+      "lemma": "元素",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0668",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0668",
+          "start": 1932.297
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0675",
+          "start": 1947.512
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0705",
+          "start": 2029.861
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0817",
+          "start": 2364.762
+        }
+      ],
+      "surface_examples": [
+        "元素"
+      ]
+    },
+    {
+      "lemma": "分析",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0668",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0668",
+          "start": 1932.297
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0675",
+          "start": 1947.512
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0705",
+          "start": 2029.861
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0817",
+          "start": 2364.762
+        }
+      ],
+      "surface_examples": [
+        "分析"
+      ]
+    },
+    {
+      "lemma": "企業",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0668",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0668",
+          "start": 1932.297
+        }
+      ],
+      "surface_examples": [
+        "企業"
+      ]
+    },
+    {
+      "lemma": "拘置所",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0672",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0672",
+          "start": 1943.274
+        }
+      ],
+      "surface_examples": [
+        "拘置所"
+      ]
+    },
+    {
+      "lemma": "本社",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0676",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0676",
+          "start": 1951.049
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0703",
+          "start": 2026.057
+        }
+      ],
+      "surface_examples": [
+        "本社"
+      ]
+    },
+    {
+      "lemma": "解決",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0692",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0692",
+          "start": 1990.822
+        }
+      ],
+      "surface_examples": [
+        "解決"
+      ]
+    },
+    {
+      "lemma": "本人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0693",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0693",
+          "start": 1992.724
+        }
+      ],
+      "surface_examples": [
+        "本人"
+      ]
+    },
+    {
+      "lemma": "協力",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0695",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0695",
+          "start": 2002.667
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0696",
+          "start": 2007.205
+        }
+      ],
+      "surface_examples": [
+        "協力"
+      ]
+    },
+    {
+      "lemma": "提案",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0700",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0700",
+          "start": 2020.752
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0713",
+          "start": 2048.479
+        }
+      ],
+      "surface_examples": [
+        "提案"
+      ]
+    },
+    {
+      "lemma": "所長",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0701",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0701",
+          "start": 2022.954
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0745",
+          "start": 2153.651
+        }
+      ],
+      "surface_examples": [
+        "所長"
+      ]
+    },
+    {
+      "lemma": "意向",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0714",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0714",
+          "start": 2049.914
+        }
+      ],
+      "surface_examples": [
+        "意向"
+      ]
+    },
+    {
+      "lemma": "決着",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0716",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0716",
+          "start": 2054.852
+        }
+      ],
+      "surface_examples": [
+        "決着"
+      ]
+    },
+    {
+      "lemma": "単純",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0719",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0719",
+          "start": 2077.141
+        }
+      ],
+      "surface_examples": [
+        "単純"
+      ]
+    },
+    {
+      "lemma": "本日",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0729",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0729",
+          "start": 2097.428
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0738",
+          "start": 2118.95
+        }
+      ],
+      "surface_examples": [
+        "本日"
+      ]
+    },
+    {
+      "lemma": "判断",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0737",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0737",
+          "start": 2117.315
+        }
+      ],
+      "surface_examples": [
+        "判断"
+      ]
+    },
+    {
+      "lemma": "禁止",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0747",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0747",
+          "start": 2160.258
+        }
+      ],
+      "surface_examples": [
+        "禁止"
+      ]
+    },
+    {
+      "lemma": "紹介状",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0752",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0752",
+          "start": 2185.85
+        }
+      ],
+      "surface_examples": [
+        "紹介状"
+      ]
+    },
+    {
+      "lemma": "表",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0767",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0767",
+          "start": 2226.958
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0814",
+          "start": 2357.488
+        }
+      ],
+      "surface_examples": [
+        "表"
+      ]
+    },
+    {
+      "lemma": "先日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0772",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0772",
+          "start": 2247.411
+        }
+      ],
+      "surface_examples": [
+        "先日"
+      ]
+    },
+    {
+      "lemma": "経験",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0776",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0776",
+          "start": 2259.957
+        }
+      ],
+      "surface_examples": [
+        "経験"
+      ]
+    },
+    {
+      "lemma": "根拠",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "unnatural-s01-e03-0780",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0780",
+          "start": 2271.068
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0793",
+          "start": 2308.005
+        }
+      ],
+      "surface_examples": [
+        "根拠"
+      ]
+    },
+    {
+      "lemma": "器具",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0785",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0785",
+          "start": 2284.815
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0788",
+          "start": 2292.623
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0790",
+          "start": 2300.464
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0825",
+          "start": 2380.945
+        }
+      ],
+      "surface_examples": [
+        "器具"
+      ]
+    },
+    {
+      "lemma": "大事",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0810",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0810",
+          "start": 2347.878
+        }
+      ],
+      "surface_examples": [
+        "大事"
+      ]
+    },
+    {
+      "lemma": "一度",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0810",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0810",
+          "start": 2347.878
+        }
+      ],
+      "surface_examples": [
+        "一度"
+      ]
+    },
+    {
+      "lemma": "原因",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0817",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0817",
+          "start": 2364.762
+        }
+      ],
+      "surface_examples": [
+        "原因"
+      ]
+    },
+    {
+      "lemma": "特定",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0817",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0817",
+          "start": 2364.762
+        }
+      ],
+      "surface_examples": [
+        "特定"
+      ]
+    },
+    {
+      "lemma": "合",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0818",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0818",
+          "start": 2366.897
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0824",
+          "start": 2379.31
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0827",
+          "start": 2385.716
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0830",
+          "start": 2406.036
+        }
+      ],
+      "surface_examples": [
+        "合"
+      ]
+    },
+    {
+      "lemma": "砥",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "unnatural-s01-e03-0818",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0818",
+          "start": 2366.897
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0824",
+          "start": 2379.31
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0827",
+          "start": 2385.716
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0830",
+          "start": 2406.036
+        }
+      ],
+      "surface_examples": [
+        "砥"
+      ]
+    },
+    {
+      "lemma": "希少",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0820",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0820",
+          "start": 2372.403
+        }
+      ],
+      "surface_examples": [
+        "希少"
+      ]
+    },
+    {
+      "lemma": "砥石",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0822",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0822",
+          "start": 2375.606
+        }
+      ],
+      "surface_examples": [
+        "砥石"
+      ]
+    },
+    {
+      "lemma": "可能性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0826",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0826",
+          "start": 2383.38
+        }
+      ],
+      "surface_examples": [
+        "可能性"
+      ]
+    },
+    {
+      "lemma": "1万",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0845",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0845",
+          "start": 2476.874
+        }
+      ],
+      "surface_examples": [
+        "１万"
+      ]
+    },
+    {
+      "lemma": "円",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0845",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0845",
+          "start": 2476.874
+        }
+      ],
+      "surface_examples": [
+        "円"
+      ]
+    },
+    {
+      "lemma": "日彰",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0850",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0850",
+          "start": 2490.855
+        }
+      ],
+      "surface_examples": [
+        "日彰"
+      ]
+    },
+    {
+      "lemma": "医大",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0850",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0850",
+          "start": 2490.855
+        }
+      ],
+      "surface_examples": [
+        "医大"
+      ]
+    },
+    {
+      "lemma": "台",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0853",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0853",
+          "start": 2503.601
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0876",
+          "start": 2567.932
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0913",
+          "start": 2659.423
+        }
+      ],
+      "surface_examples": [
+        "台"
+      ]
+    },
+    {
+      "lemma": "全部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0860",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0860",
+          "start": 2526.357
+        }
+      ],
+      "surface_examples": [
+        "全部"
+      ]
+    },
+    {
+      "lemma": "提供",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0866",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0866",
+          "start": 2542.106
+        }
+      ],
+      "surface_examples": [
+        "提供"
+      ]
+    },
+    {
+      "lemma": "面倒くさい",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0872",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0872",
+          "start": 2556.854
+        }
+      ],
+      "surface_examples": [
+        "面倒くさい"
+      ]
+    },
+    {
+      "lemma": "冤罪",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0873",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0873",
+          "start": 2559.556
+        }
+      ],
+      "surface_examples": [
+        "冤罪"
+      ]
+    },
+    {
+      "lemma": "無法",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0886",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0886",
+          "start": 2596.193
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0887",
+          "start": 2599.029
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0888",
+          "start": 2599.93
+        }
+      ],
+      "surface_examples": [
+        "無法"
+      ]
+    },
+    {
+      "lemma": "理想",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0893",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0893",
+          "start": 2605.769
+        }
+      ],
+      "surface_examples": [
+        "理想"
+      ]
+    },
+    {
+      "lemma": "世界",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0894",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0894",
+          "start": 2607.671
+        }
+      ],
+      "surface_examples": [
+        "世界"
+      ]
+    },
+    {
+      "lemma": "肝心",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0895",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0895",
+          "start": 2612.309
+        }
+      ],
+      "surface_examples": [
+        "肝心"
+      ]
+    },
+    {
+      "lemma": "先方",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0900",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0900",
+          "start": 2621.885
+        }
+      ],
+      "surface_examples": [
+        "先方"
+      ]
+    },
+    {
+      "lemma": "木林",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "unnatural-s01-e03-0903",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0903",
+          "start": 2628.292
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0904",
+          "start": 2629.593
+        },
+        {
+          "sentence_id": "unnatural-s01-e03-0905",
+          "start": 2631.428
+        }
+      ],
+      "surface_examples": [
+        "木林"
+      ]
+    },
+    {
+      "lemma": "人殺し",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0916",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0916",
+          "start": 2668.098
+        }
+      ],
+      "surface_examples": [
+        "人殺し"
+      ]
+    },
+    {
+      "lemma": "方法",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0916",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0916",
+          "start": 2668.098
+        }
+      ],
+      "surface_examples": [
+        "方法"
+      ]
+    },
+    {
+      "lemma": "交通事故",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0919",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0919",
+          "start": 2702.699
+        }
+      ],
+      "surface_examples": [
+        "交通事故"
+      ]
+    },
+    {
+      "lemma": "所在",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0920",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0920",
+          "start": 2703.701
+        }
+      ],
+      "surface_examples": [
+        "所在"
+      ]
+    },
+    {
+      "lemma": "過労",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0921",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0921",
+          "start": 2705.035
+        }
+      ],
+      "surface_examples": [
+        "過労"
+      ]
+    },
+    {
+      "lemma": "事故死",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0921",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0921",
+          "start": 2705.035
+        }
+      ],
+      "surface_examples": [
+        "事故死"
+      ]
+    },
+    {
+      "lemma": "病死",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0921",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0921",
+          "start": 2705.035
+        }
+      ],
+      "surface_examples": [
+        "病死"
+      ]
+    },
+    {
+      "lemma": "松永",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0922",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0922",
+          "start": 2707.838
+        }
+      ],
+      "surface_examples": [
+        "松永"
+      ]
+    },
+    {
+      "lemma": "工場",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0922",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0922",
+          "start": 2707.838
+        }
+      ],
+      "surface_examples": [
+        "工場"
+      ]
+    },
+    {
+      "lemma": "大人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "unnatural-s01-e03-0923",
+      "occurrences": [
+        {
+          "sentence_id": "unnatural-s01-e03-0923",
+          "start": 2709.406
+        }
+      ],
+      "surface_examples": [
+        "大人"
       ]
     }
   ]

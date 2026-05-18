@@ -1,30 +1,539 @@
 {
   "chapter_id": "bg-shinpen-keigonin-s02-e01",
-  "generated_at": "2026-05-07T14:29:51.121604+00:00",
-  "total_unique_lemmas": 6,
-  "total_tokens_after_filter": 10,
+  "generated_at": "2026-05-18T09:08:12.608776+00:00",
+  "total_unique_lemmas": 253,
+  "total_tokens_after_filter": 779,
   "vocab": [
+    {
+      "lemma": "桑田",
+      "pos": "名詞",
+      "count": 21,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0003",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0003",
+          "start": 41.0
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0004",
+          "start": 43.0
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0013",
+          "start": 75
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0020",
+          "start": 92
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0023",
+          "start": 98
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0035",
+          "start": 169
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0054",
+          "start": 274
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0057",
+          "start": 284
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0088",
+          "start": 375
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0215",
+          "start": 846
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0248",
+          "start": 1037
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0251",
+          "start": 1067
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0257",
+          "start": 1090
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0264",
+          "start": 1137
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0270",
+          "start": 1157
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0273",
+          "start": 1176
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0274",
+          "start": 1183
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0277",
+          "start": 1207
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0279",
+          "start": 1217
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0282",
+          "start": 1228
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0311",
+          "start": 1363
+        }
+      ],
+      "surface_examples": [
+        "桑田"
+      ]
+    },
+    {
+      "lemma": "先生",
+      "pos": "名詞",
+      "count": 29,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0003",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0003",
+          "start": 41.0
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0004",
+          "start": 43.0
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0013",
+          "start": 75
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0019",
+          "start": 90
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0057",
+          "start": 284
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0088",
+          "start": 375
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0248",
+          "start": 1037
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0251",
+          "start": 1067
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0257",
+          "start": 1090
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0273",
+          "start": 1176
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0274",
+          "start": 1183
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0275",
+          "start": 1199
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0277",
+          "start": 1207
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0279",
+          "start": 1217
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0282",
+          "start": 1228
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0311",
+          "start": 1363
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0390",
+          "start": 1637
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0451",
+          "start": 1852
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0458",
+          "start": 1874
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0731",
+          "start": 3032
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0735",
+          "start": 3046
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0738",
+          "start": 3065
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0741",
+          "start": 3077
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0744",
+          "start": 3088
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0748",
+          "start": 3097
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0749",
+          "start": 3102
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0758",
+          "start": 3130
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0761",
+          "start": 3141
+        }
+      ],
+      "surface_examples": [
+        "先生"
+      ]
+    },
+    {
+      "lemma": "来賓",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0004",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0004",
+          "start": 43.0
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0009",
+          "start": 62
+        }
+      ],
+      "surface_examples": [
+        "来賓"
+      ]
+    },
+    {
+      "lemma": "劉",
+      "pos": "名詞",
+      "count": 13,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0005",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0005",
+          "start": 46.0
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0020",
+          "start": 92
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0057",
+          "start": 284
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0128",
+          "start": 487
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0213",
+          "start": 838
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0217",
+          "start": 854
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0223",
+          "start": 881
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0270",
+          "start": 1157
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0271",
+          "start": 1170
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0373",
+          "start": 1559
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0829",
+          "start": 3604
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0833",
+          "start": 3616
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0877",
+          "start": 3778
+        }
+      ],
+      "surface_examples": [
+        "劉"
+      ]
+    },
+    {
+      "lemma": "最高",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0005",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0005",
+          "start": 46.0
+        }
+      ],
+      "surface_examples": [
+        "最高"
+      ]
+    },
+    {
+      "lemma": "結果",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0005",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0005",
+          "start": 46.0
+        }
+      ],
+      "surface_examples": [
+        "結果"
+      ]
+    },
+    {
+      "lemma": "沢口",
+      "pos": "名詞",
+      "count": 16,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0007",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0007",
+          "start": 57.0
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0016",
+          "start": 82
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0034",
+          "start": 166
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0046",
+          "start": 226
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0051",
+          "start": 268
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0052",
+          "start": 269
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+          "start": 303
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0067",
+          "start": 315
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0077",
+          "start": 345
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0105",
+          "start": 425
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0116",
+          "start": 450
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0118",
+          "start": 456
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0283",
+          "start": 1229
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0352",
+          "start": 1504
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0874",
+          "start": 3771
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0879",
+          "start": 3784
+        }
+      ],
+      "surface_examples": [
+        "沢口"
+      ]
+    },
     {
       "lemma": "島崎",
       "pos": "名詞",
-      "count": 4,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0287",
+      "count": 31,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0011",
       "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0011",
+          "start": 71
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0046",
+          "start": 226
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0055",
+          "start": 277
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0067",
+          "start": 315
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0072",
+          "start": 330
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0094",
+          "start": 398
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0095",
+          "start": 399
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0112",
+          "start": 443
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0121",
+          "start": 469
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0130",
+          "start": 510
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0158",
+          "start": 631
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0223",
+          "start": 881
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0233",
+          "start": 915
+        },
         {
           "sentence_id": "bg-shinpen-keigonin-s02-e01-0287",
           "start": 1243
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0352",
+          "start": 1504
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0369",
+          "start": 1547
         },
         {
           "sentence_id": "bg-shinpen-keigonin-s02-e01-0378",
           "start": 1601
         },
         {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0380",
+          "start": 1608
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0415",
+          "start": 1722
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0493",
+          "start": 2035
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0494",
+          "start": 2040
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0526",
+          "start": 2185
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0729",
+          "start": 3028
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0790",
+          "start": 3270
+        },
+        {
           "sentence_id": "bg-shinpen-keigonin-s02-e01-0791",
           "start": 3272
         },
         {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0792",
+          "start": 3276
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0800",
+          "start": 3338
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0801",
+          "start": 3344
+        },
+        {
           "sentence_id": "bg-shinpen-keigonin-s02-e01-0821",
           "start": 3539
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0831",
+          "start": 3609
         }
       ],
       "surface_examples": [
@@ -34,16 +543,260 @@
     {
       "lemma": "章",
       "pos": "名詞",
-      "count": 2,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0454",
+      "count": 63,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0011",
       "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0011",
+          "start": 71
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0039",
+          "start": 182
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0043",
+          "start": 220
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0044",
+          "start": 222
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0047",
+          "start": 227
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0049",
+          "start": 233
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0070",
+          "start": 326
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0078",
+          "start": 348
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0080",
+          "start": 352
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0081",
+          "start": 353
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0095",
+          "start": 399
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0108",
+          "start": 433
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0112",
+          "start": 443
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0116",
+          "start": 450
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0122",
+          "start": 471
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0130",
+          "start": 510
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0133",
+          "start": 517
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0153",
+          "start": 608
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0184",
+          "start": 730
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0185",
+          "start": 731
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0191",
+          "start": 747
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0192",
+          "start": 749
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0193",
+          "start": 751
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0208",
+          "start": 800
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0211",
+          "start": 810
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0224",
+          "start": 885
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0232",
+          "start": 910
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0247",
+          "start": 1007
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0253",
+          "start": 1076
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0259",
+          "start": 1100
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0317",
+          "start": 1408
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0401",
+          "start": 1663
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0411",
+          "start": 1706
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0412",
+          "start": 1712
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0417",
+          "start": 1727
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0427",
+          "start": 1763
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0446",
+          "start": 1837
+        },
         {
           "sentence_id": "bg-shinpen-keigonin-s02-e01-0454",
           "start": 1865
         },
         {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0511",
+          "start": 2109
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0533",
+          "start": 2215
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0543",
+          "start": 2259
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0576",
+          "start": 2347
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0589",
+          "start": 2391
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0595",
+          "start": 2408
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0598",
+          "start": 2413
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0599",
+          "start": 2415
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0601",
+          "start": 2426
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0642",
+          "start": 2607
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0644",
+          "start": 2613
+        },
+        {
           "sentence_id": "bg-shinpen-keigonin-s02-e01-0688",
           "start": 2772
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0689",
+          "start": 2789
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0696",
+          "start": 2854
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0698",
+          "start": 2863
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0727",
+          "start": 3002
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0756",
+          "start": 3126
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0792",
+          "start": 3276
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0805",
+          "start": 3405
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0840",
+          "start": 3642
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0842",
+          "start": 3649
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0845",
+          "start": 3656
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0848",
+          "start": 3668
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0850",
+          "start": 3673
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0869",
+          "start": 3744
         }
       ],
       "surface_examples": [
@@ -51,14 +804,212 @@
       ]
     },
     {
+      "lemma": "結構",
+      "pos": "形状詞",
+      "count": 4,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0011",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0011",
+          "start": 71
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0295",
+          "start": 1286
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0578",
+          "start": 2350
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0818",
+          "start": 3528
+        }
+      ],
+      "surface_examples": [
+        "結構"
+      ]
+    },
+    {
+      "lemma": "了解",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0012",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0012",
+          "start": 74
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0015",
+          "start": 80
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0036",
+          "start": 172
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0385",
+          "start": 1621
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0470",
+          "start": 1953
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0472",
+          "start": 1957
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0695",
+          "start": 2806
+        }
+      ],
+      "surface_examples": [
+        "了解"
+      ]
+    },
+    {
       "lemma": "高梨",
       "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0688",
+      "count": 35,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0015",
       "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0015",
+          "start": 80
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0030",
+          "start": 138
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0043",
+          "start": 220
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0052",
+          "start": 269
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0076",
+          "start": 342
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0121",
+          "start": 469
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0163",
+          "start": 655
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0171",
+          "start": 685
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0182",
+          "start": 718
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0356",
+          "start": 1514
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0366",
+          "start": 1538
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0473",
+          "start": 1960
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0478",
+          "start": 1973
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0490",
+          "start": 2025
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0528",
+          "start": 2189
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0558",
+          "start": 2303
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0570",
+          "start": 2331
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0572",
+          "start": 2334
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0573",
+          "start": 2337
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0687",
+          "start": 2771
+        },
         {
           "sentence_id": "bg-shinpen-keigonin-s02-e01-0688",
           "start": 2772
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0694",
+          "start": 2803
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0697",
+          "start": 2855
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0727",
+          "start": 3002
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0779",
+          "start": 3214
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0783",
+          "start": 3229
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0790",
+          "start": 3270
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0831",
+          "start": 3609
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0840",
+          "start": 3642
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0841",
+          "start": 3646
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0843",
+          "start": 3651
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0863",
+          "start": 3719
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0867",
+          "start": 3734
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0876",
+          "start": 3776
         }
       ],
       "surface_examples": [
@@ -66,48 +1017,4846 @@
       ]
     },
     {
-      "lemma": "騒ぎ",
+      "lemma": "菅沼",
       "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0814",
+      "count": 14,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0015",
       "occurrences": [
         {
-          "sentence_id": "bg-shinpen-keigonin-s02-e01-0814",
-          "start": 3505
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0015",
+          "start": 80
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0052",
+          "start": 269
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0070",
+          "start": 326
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0108",
+          "start": 433
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0119",
+          "start": 463
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0172",
+          "start": 687
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0174",
+          "start": 690
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0355",
+          "start": 1512
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0357",
+          "start": 1515
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0371",
+          "start": 1553
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0377",
+          "start": 1578
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0857",
+          "start": 3698
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0860",
+          "start": 3708
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0863",
+          "start": 3719
         }
       ],
       "surface_examples": [
-        "騒ぎ"
+        "菅沼"
       ]
     },
     {
-      "lemma": "声",
+      "lemma": "指示",
       "pos": "名詞",
       "count": 1,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0814",
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0017",
       "occurrences": [
         {
-          "sentence_id": "bg-shinpen-keigonin-s02-e01-0814",
-          "start": 3505
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0017",
+          "start": 83
         }
       ],
       "surface_examples": [
-        "声"
+        "指示"
       ]
     },
     {
-      "lemma": "今",
+      "lemma": "司会者",
       "pos": "名詞",
       "count": 1,
-      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0816",
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0018",
       "occurrences": [
         {
-          "sentence_id": "bg-shinpen-keigonin-s02-e01-0816",
-          "start": 3520
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0018",
+          "start": 88
         }
       ],
       "surface_examples": [
-        "今"
+        "司会者"
+      ]
+    },
+    {
+      "lemma": "国民",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0024",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0024",
+          "start": 101
+        }
+      ],
+      "surface_examples": [
+        "国民"
+      ]
+    },
+    {
+      "lemma": "全部",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0029",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0029",
+          "start": 134
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0334",
+          "start": 1447
+        }
+      ],
+      "surface_examples": [
+        "全部"
+      ]
+    },
+    {
+      "lemma": "従業員",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0030",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0030",
+          "start": 138
+        }
+      ],
+      "surface_examples": [
+        "従業員"
+      ]
+    },
+    {
+      "lemma": "対応",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0031",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0031",
+          "start": 144
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0727",
+          "start": 3002
+        }
+      ],
+      "surface_examples": [
+        "対応"
+      ]
+    },
+    {
+      "lemma": "変更",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0034",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0034",
+          "start": 166
+        }
+      ],
+      "surface_examples": [
+        "変更"
+      ]
+    },
+    {
+      "lemma": "議員",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0035",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0035",
+          "start": 169
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0215",
+          "start": 846
+        }
+      ],
+      "surface_examples": [
+        "議員"
+      ]
+    },
+    {
+      "lemma": "白井",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0036",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0036",
+          "start": 172
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0053",
+          "start": 271
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0064",
+          "start": 308
+        }
+      ],
+      "surface_examples": [
+        "白井"
+      ]
+    },
+    {
+      "lemma": "河津",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0036",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0036",
+          "start": 172
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0053",
+          "start": 271
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0061",
+          "start": 300
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0472",
+          "start": 1957
+        }
+      ],
+      "surface_examples": [
+        "河津"
+      ]
+    },
+    {
+      "lemma": "発見",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0038",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0038",
+          "start": 178
+        }
+      ],
+      "surface_examples": [
+        "発見"
+      ]
+    },
+    {
+      "lemma": "排除",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0038",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0038",
+          "start": 178
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0486",
+          "start": 2006
+        }
+      ],
+      "surface_examples": [
+        "排除"
+      ]
+    },
+    {
+      "lemma": "警備員",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0042",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0042",
+          "start": 215
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0246",
+          "start": 990
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0480",
+          "start": 1978
+        }
+      ],
+      "surface_examples": [
+        "警備員"
+      ]
+    },
+    {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 12,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0048",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0048",
+          "start": 230
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0072",
+          "start": 330
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0080",
+          "start": 352
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0329",
+          "start": 1435
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0384",
+          "start": 1618
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0434",
+          "start": 1788
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0587",
+          "start": 2380
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0589",
+          "start": 2391
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0601",
+          "start": 2426
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0655",
+          "start": 2641
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
+      ]
+    },
+    {
+      "lemma": "身辺",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0051",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0051",
+          "start": 268
+        }
+      ],
+      "surface_examples": [
+        "身辺"
+      ]
+    },
+    {
+      "lemma": "警護",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0051",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0051",
+          "start": 268
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0416",
+          "start": 1724
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0425",
+          "start": 1759
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0433",
+          "start": 1787
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0799",
+          "start": 3302
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0815",
+          "start": 3516
+        }
+      ],
+      "surface_examples": [
+        "警護"
+      ]
+    },
+    {
+      "lemma": "課",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0051",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0051",
+          "start": 268
+        }
+      ],
+      "surface_examples": [
+        "課"
+      ]
+    },
+    {
+      "lemma": "終了",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0054",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0054",
+          "start": 274
+        }
+      ],
+      "surface_examples": [
+        "終了"
+      ]
+    },
+    {
+      "lemma": "現在",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0055",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0055",
+          "start": 277
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0110",
+          "start": 436
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0687",
+          "start": 2771
+        }
+      ],
+      "surface_examples": [
+        "現在"
+      ]
+    },
+    {
+      "lemma": "以上",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0055",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0055",
+          "start": 277
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0305",
+          "start": 1341
+        }
+      ],
+      "surface_examples": [
+        "以上"
+      ]
+    },
+    {
+      "lemma": "小俣",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0056",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0056",
+          "start": 282
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0059",
+          "start": 293
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0079",
+          "start": 350
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0123",
+          "start": 473
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0126",
+          "start": 480
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0364",
+          "start": 1534
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0367",
+          "start": 1542
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0376",
+          "start": 1571
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0479",
+          "start": 1976
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0830",
+          "start": 3608
+        }
+      ],
+      "surface_examples": [
+        "小俣"
+      ]
+    },
+    {
+      "lemma": "ご苦労",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0056",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0056",
+          "start": 282
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0599",
+          "start": 2415
+        }
+      ],
+      "surface_examples": [
+        "ご苦労"
+      ]
+    },
+    {
+      "lemma": "宣伝",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0058",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0058",
+          "start": 288
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0196",
+          "start": 759
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0197",
+          "start": 763
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0280",
+          "start": 1220
+        }
+      ],
+      "surface_examples": [
+        "宣伝"
+      ]
+    },
+    {
+      "lemma": "社員",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0059",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0059",
+          "start": 293
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0060",
+          "start": 296
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0094",
+          "start": 398
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0095",
+          "start": 399
+        }
+      ],
+      "surface_examples": [
+        "社員"
+      ]
+    },
+    {
+      "lemma": "記事",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0060",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0060",
+          "start": 296
+        }
+      ],
+      "surface_examples": [
+        "記事"
+      ]
+    },
+    {
+      "lemma": "政治",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+          "start": 303
+        }
+      ],
+      "surface_examples": [
+        "政治"
+      ]
+    },
+    {
+      "lemma": "資金",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+          "start": 303
+        }
+      ],
+      "surface_examples": [
+        "資金"
+      ]
+    },
+    {
+      "lemma": "規正",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+          "start": 303
+        }
+      ],
+      "surface_examples": [
+        "規正"
+      ]
+    },
+    {
+      "lemma": "法改正",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+          "start": 303
+        }
+      ],
+      "surface_examples": [
+        "法改正"
+      ]
+    },
+    {
+      "lemma": "法",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+          "start": 303
+        }
+      ],
+      "surface_examples": [
+        "法"
+      ]
+    },
+    {
+      "lemma": "案",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0062",
+          "start": 303
+        }
+      ],
+      "surface_examples": [
+        "案"
+      ]
+    },
+    {
+      "lemma": "裏方",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0065",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0065",
+          "start": 310
+        }
+      ],
+      "surface_examples": [
+        "裏方"
+      ]
+    },
+    {
+      "lemma": "注目",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0066",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0066",
+          "start": 312
+        }
+      ],
+      "surface_examples": [
+        "注目"
+      ]
+    },
+    {
+      "lemma": "自意識",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0068",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0068",
+          "start": 318
+        }
+      ],
+      "surface_examples": [
+        "自意識"
+      ]
+    },
+    {
+      "lemma": "過剰",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0068",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0068",
+          "start": 318
+        }
+      ],
+      "surface_examples": [
+        "過剰"
+      ]
+    },
+    {
+      "lemma": "彼女",
+      "pos": "代名詞",
+      "count": 7,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0074",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0074",
+          "start": 336
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0075",
+          "start": 340
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0628",
+          "start": 2530
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0632",
+          "start": 2552
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0738",
+          "start": 3065
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0748",
+          "start": 3097
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0752",
+          "start": 3111
+        }
+      ],
+      "surface_examples": [
+        "彼女"
+      ]
+    },
+    {
+      "lemma": "一番",
+      "pos": "副詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0077",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0077",
+          "start": 345
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0283",
+          "start": 1229
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0350",
+          "start": 1494
+        }
+      ],
+      "surface_examples": [
+        "一番"
+      ]
+    },
+    {
+      "lemma": "大変",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0079",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0079",
+          "start": 350
+        }
+      ],
+      "surface_examples": [
+        "大変"
+      ]
+    },
+    {
+      "lemma": "被害届",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0084",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0084",
+          "start": 365
+        }
+      ],
+      "surface_examples": [
+        "被害届"
+      ]
+    },
+    {
+      "lemma": "警備",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0092",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0092",
+          "start": 390
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0174",
+          "start": 690
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0213",
+          "start": 838
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0216",
+          "start": 849
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0219",
+          "start": 860
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0239",
+          "start": 932
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0298",
+          "start": 1296
+        }
+      ],
+      "surface_examples": [
+        "警備"
+      ]
+    },
+    {
+      "lemma": "業",
+      "pos": "接尾辞",
+      "count": 6,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0092",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0092",
+          "start": 390
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0174",
+          "start": 690
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0216",
+          "start": 849
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0219",
+          "start": 860
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0239",
+          "start": 932
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0298",
+          "start": 1296
+        }
+      ],
+      "surface_examples": [
+        "業"
+      ]
+    },
+    {
+      "lemma": "界",
+      "pos": "接尾辞",
+      "count": 6,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0092",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0092",
+          "start": 390
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0174",
+          "start": 690
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0216",
+          "start": 849
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0219",
+          "start": 860
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0239",
+          "start": 932
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0298",
+          "start": 1296
+        }
+      ],
+      "surface_examples": [
+        "界"
+      ]
+    },
+    {
+      "lemma": "住所",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0102",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0102",
+          "start": 419
+        }
+      ],
+      "surface_examples": [
+        "住所"
+      ]
+    },
+    {
+      "lemma": "千葉中央",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0104",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0104",
+          "start": 423
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0110",
+          "start": 436
+        }
+      ],
+      "surface_examples": [
+        "千葉中央"
+      ]
+    },
+    {
+      "lemma": "刑務所",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0104",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0104",
+          "start": 423
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0110",
+          "start": 436
+        }
+      ],
+      "surface_examples": [
+        "刑務所"
+      ]
+    },
+    {
+      "lemma": "友達",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0105",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0105",
+          "start": 425
+        }
+      ],
+      "surface_examples": [
+        "友達"
+      ]
+    },
+    {
+      "lemma": "突然",
+      "pos": "副詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0108",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0108",
+          "start": 433
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0132",
+          "start": 515
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0353",
+          "start": 1507
+        }
+      ],
+      "surface_examples": [
+        "突然"
+      ]
+    },
+    {
+      "lemma": "松野",
+      "pos": "名詞",
+      "count": 65,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0110",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0110",
+          "start": 436
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0114",
+          "start": 446
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0121",
+          "start": 469
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0131",
+          "start": 513
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0148",
+          "start": 572
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0154",
+          "start": 611
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0163",
+          "start": 655
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0380",
+          "start": 1608
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0389",
+          "start": 1635
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0394",
+          "start": 1647
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0403",
+          "start": 1668
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0407",
+          "start": 1689
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0410",
+          "start": 1703
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0411",
+          "start": 1706
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0414",
+          "start": 1720
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0417",
+          "start": 1727
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0431",
+          "start": 1781
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0435",
+          "start": 1791
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0442",
+          "start": 1816
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0453",
+          "start": 1861
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0458",
+          "start": 1874
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0460",
+          "start": 1890
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0500",
+          "start": 2082
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0505",
+          "start": 2094
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0506",
+          "start": 2097
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0507",
+          "start": 2100
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0508",
+          "start": 2103
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0510",
+          "start": 2107
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0514",
+          "start": 2114
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0536",
+          "start": 2224
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0576",
+          "start": 2347
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0600",
+          "start": 2421
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0603",
+          "start": 2436
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0616",
+          "start": 2492
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0622",
+          "start": 2516
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0624",
+          "start": 2523
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0627",
+          "start": 2528
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0630",
+          "start": 2543
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0637",
+          "start": 2571
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0644",
+          "start": 2613
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0647",
+          "start": 2619
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0648",
+          "start": 2622
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0650",
+          "start": 2627
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0689",
+          "start": 2789
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0693",
+          "start": 2798
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0695",
+          "start": 2806
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0703",
+          "start": 2893
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0727",
+          "start": 3002
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0728",
+          "start": 3022
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0738",
+          "start": 3065
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0773",
+          "start": 3180
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0780",
+          "start": 3216
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0787",
+          "start": 3259
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0793",
+          "start": 3278
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0795",
+          "start": 3284
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0802",
+          "start": 3380
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0803",
+          "start": 3383
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0805",
+          "start": 3405
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0808",
+          "start": 3465
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0815",
+          "start": 3516
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0825",
+          "start": 3556
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0840",
+          "start": 3642
+        }
+      ],
+      "surface_examples": [
+        "松野"
+      ]
+    },
+    {
+      "lemma": "関東",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0115",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0115",
+          "start": 447
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0386",
+          "start": 1625
+        }
+      ],
+      "surface_examples": [
+        "関東"
+      ]
+    },
+    {
+      "lemma": "工科",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0115",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0115",
+          "start": 447
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0386",
+          "start": 1625
+        }
+      ],
+      "surface_examples": [
+        "工科"
+      ]
+    },
+    {
+      "lemma": "大学",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0115",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0115",
+          "start": 447
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0141",
+          "start": 546
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0347",
+          "start": 1487
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0498",
+          "start": 2067
+        }
+      ],
+      "surface_examples": [
+        "大学"
+      ]
+    },
+    {
+      "lemma": "疑惑",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0116",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0116",
+          "start": 450
+        }
+      ],
+      "surface_examples": [
+        "疑惑"
+      ]
+    },
+    {
+      "lemma": "当時",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0118",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0118",
+          "start": 456
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0616",
+          "start": 2492
+        }
+      ],
+      "surface_examples": [
+        "当時"
+      ]
+    },
+    {
+      "lemma": "毎日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0118",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0118",
+          "start": 456
+        }
+      ],
+      "surface_examples": [
+        "毎日"
+      ]
+    },
+    {
+      "lemma": "判決",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0119",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0119",
+          "start": 463
+        }
+      ],
+      "surface_examples": [
+        "判決"
+      ]
+    },
+    {
+      "lemma": "判断",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0119",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0119",
+          "start": 463
+        }
+      ],
+      "surface_examples": [
+        "判断"
+      ]
+    },
+    {
+      "lemma": "殺人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0120",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0120",
+          "start": 465
+        }
+      ],
+      "surface_examples": [
+        "殺人"
+      ]
+    },
+    {
+      "lemma": "返事",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0122",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0122",
+          "start": 471
+        }
+      ],
+      "surface_examples": [
+        "返事"
+      ]
+    },
+    {
+      "lemma": "犯罪者",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0124",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0124",
+          "start": 475
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0155",
+          "start": 617
+        }
+      ],
+      "surface_examples": [
+        "犯罪者"
+      ]
+    },
+    {
+      "lemma": "面会",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0125",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0125",
+          "start": 477
+        }
+      ],
+      "surface_examples": [
+        "面会"
+      ]
+    },
+    {
+      "lemma": "名前",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0134",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0134",
+          "start": 519
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0136",
+          "start": 531
+        }
+      ],
+      "surface_examples": [
+        "名前"
+      ]
+    },
+    {
+      "lemma": "選手",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0135",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0135",
+          "start": 526
+        }
+      ],
+      "surface_examples": [
+        "選手"
+      ]
+    },
+    {
+      "lemma": "河野",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0135",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0135",
+          "start": 526
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0138",
+          "start": 536
+        }
+      ],
+      "surface_examples": [
+        "河野"
+      ]
+    },
+    {
+      "lemma": "純也",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0135",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0135",
+          "start": 526
+        }
+      ],
+      "surface_examples": [
+        "純也"
+      ]
+    },
+    {
+      "lemma": "必死",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0137",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0137",
+          "start": 533
+        }
+      ],
+      "surface_examples": [
+        "必死"
+      ]
+    },
+    {
+      "lemma": "護る",
+      "pos": "動詞",
+      "count": 12,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0137",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0137",
+          "start": 533
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0201",
+          "start": 775
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0215",
+          "start": 846
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0291",
+          "start": 1263
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0674",
+          "start": 2708
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0675",
+          "start": 2711
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0685",
+          "start": 2758
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0726",
+          "start": 2990
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0760",
+          "start": 3135
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0794",
+          "start": 3281
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0826",
+          "start": 3562
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0875",
+          "start": 3773
+        }
+      ],
+      "surface_examples": [
+        "護っ",
+        "護る",
+        "護ん"
+      ]
+    },
+    {
+      "lemma": "出所",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0141",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0141",
+          "start": 546
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0149",
+          "start": 575
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0387",
+          "start": 1629
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0456",
+          "start": 1870
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0503",
+          "start": 2091
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0516",
+          "start": 2122
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0693",
+          "start": 2798
+        }
+      ],
+      "surface_examples": [
+        "出所"
+      ]
+    },
+    {
+      "lemma": "事件",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0142",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0142",
+          "start": 554
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0384",
+          "start": 1618
+        }
+      ],
+      "surface_examples": [
+        "事件"
+      ]
+    },
+    {
+      "lemma": "現場",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0142",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0142",
+          "start": 554
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0384",
+          "start": 1618
+        }
+      ],
+      "surface_examples": [
+        "現場"
+      ]
+    },
+    {
+      "lemma": "伊丹",
+      "pos": "名詞",
+      "count": 12,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0144",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0144",
+          "start": 558
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0446",
+          "start": 1837
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0624",
+          "start": 2523
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0645",
+          "start": 2615
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0649",
+          "start": 2624
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0652",
+          "start": 2633
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0654",
+          "start": 2639
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0655",
+          "start": 2641
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0674",
+          "start": 2708
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0735",
+          "start": 3046
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0744",
+          "start": 3088
+        }
+      ],
+      "surface_examples": [
+        "伊丹"
+      ]
+    },
+    {
+      "lemma": "坂上",
+      "pos": "名詞",
+      "count": 12,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0145",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0145",
+          "start": 562
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0385",
+          "start": 1621
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0447",
+          "start": 1839
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0453",
+          "start": 1861
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0457",
+          "start": 1872
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0616",
+          "start": 2492
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0629",
+          "start": 2534
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0631",
+          "start": 2548
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0635",
+          "start": 2560
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0699",
+          "start": 2882
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0728",
+          "start": 3022
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0789",
+          "start": 3268
+        }
+      ],
+      "surface_examples": [
+        "坂上"
+      ]
+    },
+    {
+      "lemma": "教授",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0145",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0145",
+          "start": 562
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0385",
+          "start": 1621
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0447",
+          "start": 1839
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0616",
+          "start": 2492
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0629",
+          "start": 2534
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0631",
+          "start": 2548
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0635",
+          "start": 2560
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0699",
+          "start": 2882
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0728",
+          "start": 3022
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0806",
+          "start": 3455
+        }
+      ],
+      "surface_examples": [
+        "教授"
+      ]
+    },
+    {
+      "lemma": "事故",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0147",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0147",
+          "start": 570
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0450",
+          "start": 1849
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0606",
+          "start": 2444
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0614",
+          "start": 2486
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0633",
+          "start": 2554
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0660",
+          "start": 2654
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0746",
+          "start": 3093
+        }
+      ],
+      "surface_examples": [
+        "事故"
+      ]
+    },
+    {
+      "lemma": "ご遺族",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0148",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0148",
+          "start": 572
+        }
+      ],
+      "surface_examples": [
+        "ご遺族"
+      ]
+    },
+    {
+      "lemma": "関係者",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0148",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0148",
+          "start": 572
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0473",
+          "start": 1960
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0478",
+          "start": 1973
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0700",
+          "start": 2885
+        }
+      ],
+      "surface_examples": [
+        "関係者"
+      ]
+    },
+    {
+      "lemma": "無事",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0152",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0152",
+          "start": 593
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0436",
+          "start": 1792
+        }
+      ],
+      "surface_examples": [
+        "無事"
+      ]
+    },
+    {
+      "lemma": "日ノ出",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0164",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0164",
+          "start": 658
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0178",
+          "start": 701
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0213",
+          "start": 838
+        }
+      ],
+      "surface_examples": [
+        "日ノ出"
+      ]
+    },
+    {
+      "lemma": "会社",
+      "pos": "名詞",
+      "count": 11,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0166",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0166",
+          "start": 664
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0196",
+          "start": 759
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0202",
+          "start": 778
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0280",
+          "start": 1220
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0332",
+          "start": 1442
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0338",
+          "start": 1463
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0438",
+          "start": 1802
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0528",
+          "start": 2189
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0530",
+          "start": 2197
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0682",
+          "start": 2751
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0717",
+          "start": 2954
+        }
+      ],
+      "surface_examples": [
+        "会社"
+      ]
+    },
+    {
+      "lemma": "気持ち",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0168",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0168",
+          "start": 675
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0180",
+          "start": 707
+        }
+      ],
+      "surface_examples": [
+        "気持ち"
+      ]
+    },
+    {
+      "lemma": "文句",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0170",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0170",
+          "start": 682
+        }
+      ],
+      "surface_examples": [
+        "文句"
+      ]
+    },
+    {
+      "lemma": "随分",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0171",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0171",
+          "start": 685
+        }
+      ],
+      "surface_examples": [
+        "随分"
+      ]
+    },
+    {
+      "lemma": "簡単",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0171",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0171",
+          "start": 685
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0179",
+          "start": 704
+        }
+      ],
+      "surface_examples": [
+        "簡単"
+      ]
+    },
+    {
+      "lemma": "成長",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0176",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0176",
+          "start": 696
+        }
+      ],
+      "surface_examples": [
+        "成長"
+      ]
+    },
+    {
+      "lemma": "頑張る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0180",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0180",
+          "start": 707
+        }
+      ],
+      "surface_examples": [
+        "頑張っ"
+      ]
+    },
+    {
+      "lemma": "笠松",
+      "pos": "名詞",
+      "count": 9,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0185",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0185",
+          "start": 731
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0186",
+          "start": 733
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0189",
+          "start": 741
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0191",
+          "start": 747
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0192",
+          "start": 749
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0208",
+          "start": 800
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0209",
+          "start": 802
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0211",
+          "start": 810
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0249",
+          "start": 1056
+        }
+      ],
+      "surface_examples": [
+        "笠松"
+      ]
+    },
+    {
+      "lemma": "失格",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0188",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0188",
+          "start": 739
+        }
+      ],
+      "surface_examples": [
+        "失格"
+      ]
+    },
+    {
+      "lemma": "物騒",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0194",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0194",
+          "start": 753
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0249",
+          "start": 1056
+        }
+      ],
+      "surface_examples": [
+        "物騒"
+      ]
+    },
+    {
+      "lemma": "襲撃",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0195",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0195",
+          "start": 755
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0250",
+          "start": 1058
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0281",
+          "start": 1224
+        }
+      ],
+      "surface_examples": [
+        "襲撃"
+      ]
+    },
+    {
+      "lemma": "上司",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0196",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0196",
+          "start": 759
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0849",
+          "start": 3671
+        }
+      ],
+      "surface_examples": [
+        "上司"
+      ]
+    },
+    {
+      "lemma": "一応",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0199",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0199",
+          "start": 769
+        }
+      ],
+      "surface_examples": [
+        "一応"
+      ]
+    },
+    {
+      "lemma": "無理",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0203",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0203",
+          "start": 782
+        }
+      ],
+      "surface_examples": [
+        "無理"
+      ]
+    },
+    {
+      "lemma": "医者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0205",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0205",
+          "start": 790
+        }
+      ],
+      "surface_examples": [
+        "医者"
+      ]
+    },
+    {
+      "lemma": "後悔",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0207",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0207",
+          "start": 796
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0212",
+          "start": 831
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0722",
+          "start": 2977
+        }
+      ],
+      "surface_examples": [
+        "後悔"
+      ]
+    },
+    {
+      "lemma": "理解",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0210",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0210",
+          "start": 806
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0430",
+          "start": 1779
+        }
+      ],
+      "surface_examples": [
+        "理解"
+      ]
+    },
+    {
+      "lemma": "禁止",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0210",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0210",
+          "start": 806
+        }
+      ],
+      "surface_examples": [
+        "禁止"
+      ]
+    },
+    {
+      "lemma": "保障",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0213",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0213",
+          "start": 838
+        }
+      ],
+      "surface_examples": [
+        "保障"
+      ]
+    },
+    {
+      "lemma": "寵児",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0216",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0216",
+          "start": 849
+        }
+      ],
+      "surface_examples": [
+        "寵児"
+      ]
+    },
+    {
+      "lemma": "興味",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0216",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0216",
+          "start": 849
+        }
+      ],
+      "surface_examples": [
+        "興味"
+      ]
+    },
+    {
+      "lemma": "世界",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0217",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0217",
+          "start": 854
+        }
+      ],
+      "surface_examples": [
+        "世界"
+      ]
+    },
+    {
+      "lemma": "国家",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0218",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0218",
+          "start": 856
+        }
+      ],
+      "surface_examples": [
+        "国家"
+      ]
+    },
+    {
+      "lemma": "開発",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0220",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0220",
+          "start": 863
+        }
+      ],
+      "surface_examples": [
+        "開発"
+      ]
+    },
+    {
+      "lemma": "人材",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0227",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0227",
+          "start": 892
+        }
+      ],
+      "surface_examples": [
+        "人材"
+      ]
+    },
+    {
+      "lemma": "被害者",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0232",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0232",
+          "start": 910
+        }
+      ],
+      "surface_examples": [
+        "被害者"
+      ]
+    },
+    {
+      "lemma": "同行",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0232",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0232",
+          "start": 910
+        }
+      ],
+      "surface_examples": [
+        "同行"
+      ]
+    },
+    {
+      "lemma": "本人",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0236",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0236",
+          "start": 925
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0282",
+          "start": 1228
+        }
+      ],
+      "surface_examples": [
+        "本人"
+      ]
+    },
+    {
+      "lemma": "同情",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0238",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0238",
+          "start": 931
+        }
+      ],
+      "surface_examples": [
+        "同情"
+      ]
+    },
+    {
+      "lemma": "地位",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0241",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0241",
+          "start": 940
+        }
+      ],
+      "surface_examples": [
+        "地位"
+      ]
+    },
+    {
+      "lemma": "野郎",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0260",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0260",
+          "start": 1108
+        }
+      ],
+      "surface_examples": [
+        "野郎"
+      ]
+    },
+    {
+      "lemma": "邪魔",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0262",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0262",
+          "start": 1115
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0506",
+          "start": 2097
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0760",
+          "start": 3135
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0762",
+          "start": 3143
+        }
+      ],
+      "surface_examples": [
+        "邪魔"
+      ]
+    },
+    {
+      "lemma": "店員",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0267",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0267",
+          "start": 1147
+        }
+      ],
+      "surface_examples": [
+        "店員"
+      ]
+    },
+    {
+      "lemma": "食事",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0273",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0273",
+          "start": 1176
+        }
+      ],
+      "surface_examples": [
+        "食事"
+      ]
+    },
+    {
+      "lemma": "一部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0276",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0276",
+          "start": 1204
+        }
+      ],
+      "surface_examples": [
+        "一部"
+      ]
+    },
+    {
+      "lemma": "経験",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0283",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0283",
+          "start": 1229
+        }
+      ],
+      "surface_examples": [
+        "経験"
+      ]
+    },
+    {
+      "lemma": "護れる",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0291",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0291",
+          "start": 1263
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0579",
+          "start": 2352
+        }
+      ],
+      "surface_examples": [
+        "護れ"
+      ]
+    },
+    {
+      "lemma": "残念",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0293",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0293",
+          "start": 1274
+        }
+      ],
+      "surface_examples": [
+        "残念"
+      ]
+    },
+    {
+      "lemma": "支払う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0296",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0296",
+          "start": 1288
+        }
+      ],
+      "surface_examples": [
+        "支払い"
+      ]
+    },
+    {
+      "lemma": "手放す",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0299",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0299",
+          "start": 1301
+        }
+      ],
+      "surface_examples": [
+        "手放す"
+      ]
+    },
+    {
+      "lemma": "結局",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0302",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0302",
+          "start": 1314
+        }
+      ],
+      "surface_examples": [
+        "結局"
+      ]
+    },
+    {
+      "lemma": "用心棒",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0303",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0303",
+          "start": 1325
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0846",
+          "start": 3658
+        }
+      ],
+      "surface_examples": [
+        "用心棒"
+      ]
+    },
+    {
+      "lemma": "行為",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0309",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0309",
+          "start": 1355
+        }
+      ],
+      "surface_examples": [
+        "行為"
+      ]
+    },
+    {
+      "lemma": "瞬",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0315",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0315",
+          "start": 1399
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0316",
+          "start": 1406
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0325",
+          "start": 1426
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0348",
+          "start": 1489
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0526",
+          "start": 2185
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0543",
+          "start": 2259
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0553",
+          "start": 2288
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0555",
+          "start": 2296
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0558",
+          "start": 2303
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0572",
+          "start": 2334
+        }
+      ],
+      "surface_examples": [
+        "瞬"
+      ]
+    },
+    {
+      "lemma": "正確",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0323",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0323",
+          "start": 1423
+        }
+      ],
+      "surface_examples": [
+        "正確"
+      ]
+    },
+    {
+      "lemma": "覚悟",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0326",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0326",
+          "start": 1429
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0793",
+          "start": 3278
+        }
+      ],
+      "surface_examples": [
+        "覚悟"
+      ]
+    },
+    {
+      "lemma": "最後",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0328",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0328",
+          "start": 1432
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0824",
+          "start": 3552
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0834",
+          "start": 3619
+        }
+      ],
+      "surface_examples": [
+        "最後"
+      ]
+    },
+    {
+      "lemma": "死亡",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0333",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0333",
+          "start": 1445
+        }
+      ],
+      "surface_examples": [
+        "死亡"
+      ]
+    },
+    {
+      "lemma": "見舞金",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0333",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0333",
+          "start": 1445
+        }
+      ],
+      "surface_examples": [
+        "見舞金"
+      ]
+    },
+    {
+      "lemma": "最初",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0350",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0350",
+          "start": 1494
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0841",
+          "start": 3646
+        }
+      ],
+      "surface_examples": [
+        "最初"
+      ]
+    },
+    {
+      "lemma": "事情",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0355",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0355",
+          "start": 1512
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0356",
+          "start": 1514
+        }
+      ],
+      "surface_examples": [
+        "事情"
+      ]
+    },
+    {
+      "lemma": "引退",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0357",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0357",
+          "start": 1515
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0358",
+          "start": 1518
+        }
+      ],
+      "surface_examples": [
+        "引退"
+      ]
+    },
+    {
+      "lemma": "息子",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0361",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0361",
+          "start": 1527
+        }
+      ],
+      "surface_examples": [
+        "息子"
+      ]
+    },
+    {
+      "lemma": "以外",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0363",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0363",
+          "start": 1532
+        }
+      ],
+      "surface_examples": [
+        "以外"
+      ]
+    },
+    {
+      "lemma": "到着",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0364",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0364",
+          "start": 1534
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0686",
+          "start": 2768
+        }
+      ],
+      "surface_examples": [
+        "到着"
+      ]
+    },
+    {
+      "lemma": "準備",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0365",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0365",
+          "start": 1537
+        }
+      ],
+      "surface_examples": [
+        "準備"
+      ]
+    },
+    {
+      "lemma": "発表",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0368",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0368",
+          "start": 1543
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0616",
+          "start": 2492
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0751",
+          "start": 3108
+        }
+      ],
+      "surface_examples": [
+        "発表"
+      ]
+    },
+    {
+      "lemma": "女性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0373",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0373",
+          "start": 1559
+        }
+      ],
+      "surface_examples": [
+        "女性"
+      ]
+    },
+    {
+      "lemma": "期待",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0374",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0374",
+          "start": 1563
+        }
+      ],
+      "surface_examples": [
+        "期待"
+      ]
+    },
+    {
+      "lemma": "花山",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0381",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0381",
+          "start": 1612
+        }
+      ],
+      "surface_examples": [
+        "花山"
+      ]
+    },
+    {
+      "lemma": "弁護士",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0381",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0381",
+          "start": 1612
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0406",
+          "start": 1686
+        }
+      ],
+      "surface_examples": [
+        "弁護士"
+      ]
+    },
+    {
+      "lemma": "鎌倉",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0386",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0386",
+          "start": 1625
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0497",
+          "start": 2063
+        }
+      ],
+      "surface_examples": [
+        "鎌倉"
+      ]
+    },
+    {
+      "lemma": "大",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0386",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0386",
+          "start": 1625
+        }
+      ],
+      "surface_examples": [
+        "大"
+      ]
+    },
+    {
+      "lemma": "世間",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0387",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0387",
+          "start": 1629
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0407",
+          "start": 1689
+        }
+      ],
+      "surface_examples": [
+        "世間"
+      ]
+    },
+    {
+      "lemma": "一生",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0391",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0391",
+          "start": 1640
+        }
+      ],
+      "surface_examples": [
+        "一生"
+      ]
+    },
+    {
+      "lemma": "十分",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0393",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0393",
+          "start": 1644
+        }
+      ],
+      "surface_examples": [
+        "十分"
+      ]
+    },
+    {
+      "lemma": "目立つ",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0401",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0401",
+          "start": 1663
+        }
+      ],
+      "surface_examples": [
+        "目立た"
+      ]
+    },
+    {
+      "lemma": "事務所",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0404",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0404",
+          "start": 1674
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0669",
+          "start": 2694
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0708",
+          "start": 2913
+        }
+      ],
+      "surface_examples": [
+        "事務所"
+      ]
+    },
+    {
+      "lemma": "電話",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0404",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0404",
+          "start": 1674
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0550",
+          "start": 2278
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0580",
+          "start": 2356
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0651",
+          "start": 2631
+        }
+      ],
+      "surface_examples": [
+        "電話"
+      ]
+    },
+    {
+      "lemma": "中",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0416",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0416",
+          "start": 1724
+        }
+      ],
+      "surface_examples": [
+        "中"
+      ]
+    },
+    {
+      "lemma": "通常",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0422",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0422",
+          "start": 1748
+        }
+      ],
+      "surface_examples": [
+        "通常"
+      ]
+    },
+    {
+      "lemma": "万全",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0422",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0422",
+          "start": 1748
+        }
+      ],
+      "surface_examples": [
+        "万全"
+      ]
+    },
+    {
+      "lemma": "単独",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0425",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0425",
+          "start": 1759
+        }
+      ],
+      "surface_examples": [
+        "単独"
+      ]
+    },
+    {
+      "lemma": "警察官",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0427",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0427",
+          "start": 1763
+        }
+      ],
+      "surface_examples": [
+        "警察官"
+      ]
+    },
+    {
+      "lemma": "拳銃",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0427",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0427",
+          "start": 1763
+        }
+      ],
+      "surface_examples": [
+        "拳銃"
+      ]
+    },
+    {
+      "lemma": "丸腰",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0429",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0429",
+          "start": 1772
+        }
+      ],
+      "surface_examples": [
+        "丸腰"
+      ]
+    },
+    {
+      "lemma": "料",
+      "pos": "接尾辞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0433",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0433",
+          "start": 1787
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0799",
+          "start": 3302
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0815",
+          "start": 3516
+        }
+      ],
+      "surface_examples": [
+        "料"
+      ]
+    },
+    {
+      "lemma": "遠慮",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0436",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0436",
+          "start": 1792
+        }
+      ],
+      "surface_examples": [
+        "遠慮"
+      ]
+    },
+    {
+      "lemma": "組織",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0440",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0440",
+          "start": 1811
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0443",
+          "start": 1819
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0724",
+          "start": 2985
+        }
+      ],
+      "surface_examples": [
+        "組織"
+      ]
+    },
+    {
+      "lemma": "窮屈",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0440",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0440",
+          "start": 1811
+        }
+      ],
+      "surface_examples": [
+        "窮屈"
+      ]
+    },
+    {
+      "lemma": "研究",
+      "pos": "名詞",
+      "count": 7,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0444",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0444",
+          "start": 1824
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0448",
+          "start": 1841
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0449",
+          "start": 1845
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0616",
+          "start": 2492
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0619",
+          "start": 2503
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0634",
+          "start": 2556
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0739",
+          "start": 3068
+        }
+      ],
+      "surface_examples": [
+        "研究"
+      ]
+    },
+    {
+      "lemma": "人生",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0449",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0449",
+          "start": 1845
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0844",
+          "start": 3653
+        }
+      ],
+      "surface_examples": [
+        "人生"
+      ]
+    },
+    {
+      "lemma": "立派",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0449",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0449",
+          "start": 1845
+        }
+      ],
+      "surface_examples": [
+        "立派"
+      ]
+    },
+    {
+      "lemma": "尊敬",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0451",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0451",
+          "start": 1852
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0809",
+          "start": 3470
+        }
+      ],
+      "surface_examples": [
+        "尊敬"
+      ]
+    },
+    {
+      "lemma": "内密",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0456",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0456",
+          "start": 1870
+        }
+      ],
+      "surface_examples": [
+        "内密"
+      ]
+    },
+    {
+      "lemma": "厨房",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0462",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0462",
+          "start": 1897
+        }
+      ],
+      "surface_examples": [
+        "厨房"
+      ]
+    },
+    {
+      "lemma": "お世話",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0463",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0463",
+          "start": 1900
+        }
+      ],
+      "surface_examples": [
+        "お世話"
+      ]
+    },
+    {
+      "lemma": "男性",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0468",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0468",
+          "start": 1948
+        }
+      ],
+      "surface_examples": [
+        "男性"
+      ]
+    },
+    {
+      "lemma": "拝見",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0473",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0473",
+          "start": 1960
+        }
+      ],
+      "surface_examples": [
+        "拝見"
+      ]
+    },
+    {
+      "lemma": "勝手に",
+      "pos": "副詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0477",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0477",
+          "start": 1968
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0709",
+          "start": 2915
+        }
+      ],
+      "surface_examples": [
+        "勝手に"
+      ]
+    },
+    {
+      "lemma": "絶対",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0482",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0482",
+          "start": 1993
+        }
+      ],
+      "surface_examples": [
+        "絶対"
+      ]
+    },
+    {
+      "lemma": "服従",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0482",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0482",
+          "start": 1993
+        }
+      ],
+      "surface_examples": [
+        "服従"
+      ]
+    },
+    {
+      "lemma": "脅威",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0486",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0486",
+          "start": 2006
+        }
+      ],
+      "surface_examples": [
+        "脅威"
+      ]
+    },
+    {
+      "lemma": "生意気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0487",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0487",
+          "start": 2010
+        }
+      ],
+      "surface_examples": [
+        "生意気"
+      ]
+    },
+    {
+      "lemma": "特別",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0488",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0488",
+          "start": 2012
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0878",
+          "start": 3780
+        }
+      ],
+      "surface_examples": [
+        "特別"
+      ]
+    },
+    {
+      "lemma": "冗談",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0491",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0491",
+          "start": 2028
+        }
+      ],
+      "surface_examples": [
+        "冗談"
+      ]
+    },
+    {
+      "lemma": "出発",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0497",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0497",
+          "start": 2063
+        }
+      ],
+      "surface_examples": [
+        "出発"
+      ]
+    },
+    {
+      "lemma": "予約",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0498",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0498",
+          "start": 2067
+        }
+      ],
+      "surface_examples": [
+        "予約"
+      ]
+    },
+    {
+      "lemma": "写真",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0509",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0509",
+          "start": 2105
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0518",
+          "start": 2129
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0659",
+          "start": 2650
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0740",
+          "start": 3073
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0741",
+          "start": 3077
+        }
+      ],
+      "surface_examples": [
+        "写真"
+      ]
+    },
+    {
+      "lemma": "何",
+      "pos": "代名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0510",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0510",
+          "start": 2107
+        }
+      ],
+      "surface_examples": [
+        "何"
+      ]
+    },
+    {
+      "lemma": "言う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0510",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0510",
+          "start": 2107
+        }
+      ],
+      "surface_examples": [
+        "言っ"
+      ]
+    },
+    {
+      "lemma": "取材",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0511",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0511",
+          "start": 2109
+        }
+      ],
+      "surface_examples": [
+        "取材"
+      ]
+    },
+    {
+      "lemma": "許可証",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0511",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0511",
+          "start": 2109
+        }
+      ],
+      "surface_examples": [
+        "許可証"
+      ]
+    },
+    {
+      "lemma": "腕章",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0512",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0512",
+          "start": 2111
+        }
+      ],
+      "surface_examples": [
+        "腕章"
+      ]
+    },
+    {
+      "lemma": "存在",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0517",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0517",
+          "start": 2125
+        }
+      ],
+      "surface_examples": [
+        "存在"
+      ]
+    },
+    {
+      "lemma": "納得",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0523",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0523",
+          "start": 2146
+        }
+      ],
+      "surface_examples": [
+        "納得"
+      ]
+    },
+    {
+      "lemma": "着替え",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0541",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0541",
+          "start": 2242
+        }
+      ],
+      "surface_examples": [
+        "着替え"
+      ]
+    },
+    {
+      "lemma": "仕事中",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0544",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0544",
+          "start": 2261
+        }
+      ],
+      "surface_examples": [
+        "仕事中"
+      ]
+    },
+    {
+      "lemma": "冷蔵庫",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0546",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0546",
+          "start": 2266
+        }
+      ],
+      "surface_examples": [
+        "冷蔵庫"
+      ]
+    },
+    {
+      "lemma": "戸締まり",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0547",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0547",
+          "start": 2268
+        }
+      ],
+      "surface_examples": [
+        "戸締まり"
+      ]
+    },
+    {
+      "lemma": "遅刻",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0549",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0549",
+          "start": 2275
+        }
+      ],
+      "surface_examples": [
+        "遅刻"
+      ]
+    },
+    {
+      "lemma": "歳",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0556",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0556",
+          "start": 2298
+        }
+      ],
+      "surface_examples": [
+        "歳"
+      ]
+    },
+    {
+      "lemma": "歓迎",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0561",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0561",
+          "start": 2311
+        }
+      ],
+      "surface_examples": [
+        "歓迎"
+      ]
+    },
+    {
+      "lemma": "大人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0570",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0570",
+          "start": 2331
+        }
+      ],
+      "surface_examples": [
+        "大人"
+      ]
+    },
+    {
+      "lemma": "中島",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0586",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0586",
+          "start": 2376
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0589",
+          "start": 2391
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0598",
+          "start": 2413
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0599",
+          "start": 2415
+        }
+      ],
+      "surface_examples": [
+        "中島"
+      ]
+    },
+    {
+      "lemma": "追加",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0594",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0594",
+          "start": 2404
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0595",
+          "start": 2408
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0597",
+          "start": 2412
+        }
+      ],
+      "surface_examples": [
+        "追加"
+      ]
+    },
+    {
+      "lemma": "気付く",
+      "pos": "動詞",
+      "count": 6,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0600",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0600",
+          "start": 2421
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0632",
+          "start": 2552
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0700",
+          "start": 2885
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0740",
+          "start": 3073
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0823",
+          "start": 3546
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0840",
+          "start": 3642
+        }
+      ],
+      "surface_examples": [
+        "気付か",
+        "気付き",
+        "気付い"
+      ]
+    },
+    {
+      "lemma": "方法",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0609",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0609",
+          "start": 2455
+        }
+      ],
+      "surface_examples": [
+        "方法"
+      ]
+    },
+    {
+      "lemma": "故障",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0622",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0622",
+          "start": 2516
+        }
+      ],
+      "surface_examples": [
+        "故障"
+      ]
+    },
+    {
+      "lemma": "報告",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0631",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0631",
+          "start": 2548
+        }
+      ],
+      "surface_examples": [
+        "報告"
+      ]
+    },
+    {
+      "lemma": "信用",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0637",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0637",
+          "start": 2571
+        }
+      ],
+      "surface_examples": [
+        "信用"
+      ]
+    },
+    {
+      "lemma": "尾行",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0640",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0640",
+          "start": 2588
+        }
+      ],
+      "surface_examples": [
+        "尾行"
+      ]
+    },
+    {
+      "lemma": "裁判",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0657",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0657",
+          "start": 2646
+        }
+      ],
+      "surface_examples": [
+        "裁判"
+      ]
+    },
+    {
+      "lemma": "採用",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0657",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0657",
+          "start": 2646
+        }
+      ],
+      "surface_examples": [
+        "採用"
+      ]
+    },
+    {
+      "lemma": "証拠",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0659",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0659",
+          "start": 2650
+        }
+      ],
+      "surface_examples": [
+        "証拠"
+      ]
+    },
+    {
+      "lemma": "本気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0665",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0665",
+          "start": 2673
+        }
+      ],
+      "surface_examples": [
+        "本気"
+      ]
+    },
+    {
+      "lemma": "通報",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0671",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0671",
+          "start": 2701
+        }
+      ],
+      "surface_examples": [
+        "通報"
+      ]
+    },
+    {
+      "lemma": "金",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0675",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0675",
+          "start": 2711
+        }
+      ],
+      "surface_examples": [
+        "金"
+      ]
+    },
+    {
+      "lemma": "貰う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0675",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0675",
+          "start": 2711
+        }
+      ],
+      "surface_examples": [
+        "貰っ"
+      ]
+    },
+    {
+      "lemma": "協力",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0682",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0682",
+          "start": 2751
+        }
+      ],
+      "surface_examples": [
+        "協力"
+      ]
+    },
+    {
+      "lemma": "安全",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0685",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0685",
+          "start": 2758
+        }
+      ],
+      "surface_examples": [
+        "安全"
+      ]
+    },
+    {
+      "lemma": "鎌倉市",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0686",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0686",
+          "start": 2768
+        }
+      ],
+      "surface_examples": [
+        "鎌倉市"
+      ]
+    },
+    {
+      "lemma": "時",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0686",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0686",
+          "start": 2768
+        }
+      ],
+      "surface_examples": [
+        "時"
+      ]
+    },
+    {
+      "lemma": "予定",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0686",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0686",
+          "start": 2768
+        }
+      ],
+      "surface_examples": [
+        "予定"
+      ]
+    },
+    {
+      "lemma": "受付",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0692",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0692",
+          "start": 2796
+        }
+      ],
+      "surface_examples": [
+        "受付"
+      ]
+    },
+    {
+      "lemma": "学生",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0700",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0700",
+          "start": 2885
+        }
+      ],
+      "surface_examples": [
+        "学生"
+      ]
+    },
+    {
+      "lemma": "学校",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0700",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0700",
+          "start": 2885
+        }
+      ],
+      "surface_examples": [
+        "学校"
+      ]
+    },
+    {
+      "lemma": "仕方ない",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0701",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0701",
+          "start": 2890
+        }
+      ],
+      "surface_examples": [
+        "仕方ない"
+      ]
+    },
+    {
+      "lemma": "情報",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0705",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0705",
+          "start": 2898
+        }
+      ],
+      "surface_examples": [
+        "情報"
+      ]
+    },
+    {
+      "lemma": "行動",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0711",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0711",
+          "start": 2922
+        }
+      ],
+      "surface_examples": [
+        "行動"
+      ]
+    },
+    {
+      "lemma": "一体",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0713",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0713",
+          "start": 2928
+        }
+      ],
+      "surface_examples": [
+        "一体"
+      ]
+    },
+    {
+      "lemma": "ご無沙汰",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0728",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0728",
+          "start": 3022
+        }
+      ],
+      "surface_examples": [
+        "ご無沙汰"
+      ]
+    },
+    {
+      "lemma": "大事",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0731",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0731",
+          "start": 3032
+        }
+      ],
+      "surface_examples": [
+        "大事"
+      ]
+    },
+    {
+      "lemma": "背負う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0739",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0739",
+          "start": 3068
+        }
+      ],
+      "surface_examples": [
+        "背負っ"
+      ]
+    },
+    {
+      "lemma": "事実",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0751",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0751",
+          "start": 3108
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0754",
+          "start": 3117
+        }
+      ],
+      "surface_examples": [
+        "事実"
+      ]
+    },
+    {
+      "lemma": "復讐",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0753",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0753",
+          "start": 3116
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0808",
+          "start": 3465
+        }
+      ],
+      "surface_examples": [
+        "復讐"
+      ]
+    },
+    {
+      "lemma": "汚名",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0769",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0769",
+          "start": 3167
+        }
+      ],
+      "surface_examples": [
+        "汚名"
+      ]
+    },
+    {
+      "lemma": "口封じ",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0773",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0773",
+          "start": 3180
+        }
+      ],
+      "surface_examples": [
+        "口封じ"
+      ]
+    },
+    {
+      "lemma": "貴重",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0782",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0782",
+          "start": 3220
+        }
+      ],
+      "surface_examples": [
+        "貴重"
+      ]
+    },
+    {
+      "lemma": "名誉",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0786",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0786",
+          "start": 3254
+        }
+      ],
+      "surface_examples": [
+        "名誉"
+      ]
+    },
+    {
+      "lemma": "犠牲",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0786",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0786",
+          "start": 3254
+        }
+      ],
+      "surface_examples": [
+        "犠牲"
+      ]
+    },
+    {
+      "lemma": "一度",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0810",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0810",
+          "start": 3472
+        }
+      ],
+      "surface_examples": [
+        "一度"
+      ]
+    },
+    {
+      "lemma": "手錠",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0811",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0811",
+          "start": 3496
+        }
+      ],
+      "surface_examples": [
+        "手錠"
+      ]
+    },
+    {
+      "lemma": "刑事",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0828",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0828",
+          "start": 3578
+        }
+      ],
+      "surface_examples": [
+        "刑事"
+      ]
+    },
+    {
+      "lemma": "大目",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0835",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0835",
+          "start": 3625
+        }
+      ],
+      "surface_examples": [
+        "大目"
+      ]
+    },
+    {
+      "lemma": "当然",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0838",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0838",
+          "start": 3637
+        }
+      ],
+      "surface_examples": [
+        "当然"
+      ]
+    },
+    {
+      "lemma": "いい加減",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0839",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0839",
+          "start": 3640
+        }
+      ],
+      "surface_examples": [
+        "いい加減"
+      ]
+    },
+    {
+      "lemma": "計画",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0840",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0840",
+          "start": 3642
+        }
+      ],
+      "surface_examples": [
+        "計画"
+      ]
+    },
+    {
+      "lemma": "依頼人",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0844",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0844",
+          "start": 3653
+        }
+      ],
+      "surface_examples": [
+        "依頼人"
+      ]
+    },
+    {
+      "lemma": "服務規程",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0857",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0857",
+          "start": 3698
+        }
+      ],
+      "surface_examples": [
+        "服務規程"
+      ]
+    },
+    {
+      "lemma": "違反",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0857",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0857",
+          "start": 3698
+        }
+      ],
+      "surface_examples": [
+        "違反"
+      ]
+    },
+    {
+      "lemma": "恵麻",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0875",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0875",
+          "start": 3773
+        },
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0878",
+          "start": 3780
+        }
+      ],
+      "surface_examples": [
+        "恵麻"
+      ]
+    },
+    {
+      "lemma": "武器",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "bg-shinpen-keigonin-s02-e01-0878",
+      "occurrences": [
+        {
+          "sentence_id": "bg-shinpen-keigonin-s02-e01-0878",
+          "start": 3780
+        }
+      ],
+      "surface_examples": [
+        "武器"
       ]
     }
   ]
