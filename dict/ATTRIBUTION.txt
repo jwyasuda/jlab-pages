@@ -1,0 +1,30 @@
+JMdict Dictionary Attribution
+==============================
+
+The dictionary data used by JLab Reader is derived from the JMdict/EDICT dictionary
+files. These files are the property of the Electronic Dictionary Research and
+Development Group (EDRDG), and are used in conformance with the Group's licence.
+
+  Copyright (C) 1991-2025 Electronic Dictionary Research and Development Group
+  https://www.edrdg.org/
+
+JMdict is distributed under the Creative Commons Attribution-ShareAlike 4.0
+International (CC BY-SA 4.0) license:
+  https://creativecommons.org/licenses/by-sa/4.0/
+
+The original JMdict project was started by Jim Breen. For information about JMdict:
+  https://www.edrdg.org/jmdict/j_jmdict.html
+
+JMdict Simplified
+-----------------
+The JSON representation of JMdict used in this project is produced by the
+jmdict-simplified project, maintained by Dmitry Shpika. This project parses the
+original JMdict XML and converts it to a machine-readable JSON format.
+
+  https://github.com/scriptin/jmdict-simplified
+  MIT License — Copyright (c) Dmitry Shpika
+
+In-app attribution
+------------------
+The JLab Reader displays the following notice in the dictionary lookup sheet:
+  "Dictionary data: JMdict (EDRDG, CC-BY-SA 4.0)"

@@ -1,11 +1,13 @@
 // JLab Service Worker — generated at build time; do not edit dist/sw.js directly.
 // Template lives at apps/reader/src/sw-template.js; vite.config.ts generates dist/sw.js.
 
-const SW_VERSION = "2026-05-22-17-14-06";
+const SW_VERSION = "2026-05-23-22-46-34";
+const DICT_VERSION = "3.6.2+20260518145612";
 const BASE_PATH = "/jlab-pages/";
 const AUDIO_BASE_URL = "https://bkk-nas.taile226fd.ts.net";
 const SHELL_CACHE = `jlab-shell-${SW_VERSION}`;
 const CONTENT_CACHE = `jlab-content-${SW_VERSION}`;
+const DICT_CACHE = `jlab-dict-${DICT_VERSION}`;
 
 const SHELL_ASSETS = [
   "/jlab-pages/index.html",
@@ -14,8 +16,8 @@ const SHELL_ASSETS = [
   "/jlab-pages/icons/icon-192.png",
   "/jlab-pages/icons/icon-512.png",
   "/jlab-pages/icons/icon-maskable-512.png",
-  "/jlab-pages/assets/index-Bkpg0LJ2.css",
-  "/jlab-pages/assets/index-Dj0o7BfK.js"
+  "/jlab-pages/assets/index-CRLC7Ubn.js",
+  "/jlab-pages/assets/index-CbZizdAO.css"
 ];
 
 self.addEventListener("install", (event) => {
@@ -36,13 +38,15 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     (async () => {
       const keys = await caches.keys();
+      const KEEP = new Set([SHELL_CACHE, CONTENT_CACHE, DICT_CACHE]);
       await Promise.all(
         keys
           .filter(
             (k) =>
-              (k.startsWith("jlab-shell-") || k.startsWith("jlab-content-")) &&
-              k !== SHELL_CACHE &&
-              k !== CONTENT_CACHE,
+              (k.startsWith("jlab-shell-") ||
+                k.startsWith("jlab-content-") ||
+                k.startsWith("jlab-dict-")) &&
+              !KEEP.has(k),
           )
           .map((k) => caches.delete(k)),
       );
@@ -121,6 +125,14 @@ self.addEventListener("fetch", (event) => {
   // Hashed Vite assets → cache-first (content-hashed filenames are immutable)
   if (pathname.startsWith(`${BASE_PATH}assets/`)) {
     event.respondWith(cacheFirst(request, SHELL_CACHE));
+    return;
+  }
+
+  // Dictionary assets → cache-first against the dedicated dict cache.
+  // Version-pinned URLs never change content, so no revalidation is needed.
+  // Must be checked before the generic .json rule below.
+  if (pathname.startsWith(`${BASE_PATH}dict/`)) {
+    event.respondWith(cacheFirst(request, DICT_CACHE));
     return;
   }
 
