@@ -1,8 +1,8 @@
 {
   "chapter_id": "radiation-house-s02-e10",
-  "generated_at": "2026-05-18T09:08:48.017434+00:00",
-  "total_unique_lemmas": 230,
-  "total_tokens_after_filter": 947,
+  "generated_at": "2026-05-26T04:16:57.244924+00:00",
+  "total_unique_lemmas": 236,
+  "total_tokens_after_filter": 965,
   "vocab": [
     {
       "lemma": "突然",
@@ -3438,7 +3438,7 @@
     {
       "lemma": "音",
       "pos": "名詞",
-      "count": 4,
+      "count": 11,
       "first_seen_sentence_id": "radiation-house-s02-e10-0110",
       "occurrences": [
         {
@@ -3446,8 +3446,28 @@
           "start": 467.433
         },
         {
+          "sentence_id": "radiation-house-s02-e10-0150",
+          "start": 626.025
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0157",
+          "start": 654.553
+        },
+        {
           "sentence_id": "radiation-house-s02-e10-0218",
           "start": 850.216
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0237",
+          "start": 953.852
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0255",
+          "start": 1056.188
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0301",
+          "start": 1231.363
         },
         {
           "sentence_id": "radiation-house-s02-e10-0383",
@@ -3456,6 +3476,14 @@
         {
           "sentence_id": "radiation-house-s02-e10-0454",
           "start": 1840.738
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0486",
+          "start": 2008.439
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0491",
+          "start": 2029.26
         }
       ],
       "surface_examples": [
@@ -3756,6 +3784,78 @@
       ]
     },
     {
+      "lemma": "一同",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s02-e10-0148",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s02-e10-0148",
+          "start": 615.581
+        }
+      ],
+      "surface_examples": [
+        "一同"
+      ]
+    },
+    {
+      "lemma": "携帯電話",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s02-e10-0150",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s02-e10-0150",
+          "start": 626.025
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0255",
+          "start": 1056.188
+        }
+      ],
+      "surface_examples": [
+        "携帯電話"
+      ]
+    },
+    {
+      "lemma": "振動",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s02-e10-0150",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s02-e10-0150",
+          "start": 626.025
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0255",
+          "start": 1056.188
+        }
+      ],
+      "surface_examples": [
+        "振動"
+      ]
+    },
+    {
+      "lemma": "開く",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s02-e10-0157",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s02-e10-0157",
+          "start": 654.553
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0486",
+          "start": 2008.439
+        }
+      ],
+      "surface_examples": [
+        "開く"
+      ]
+    },
+    {
       "lemma": "連中",
       "pos": "名詞",
       "count": 1,
@@ -3804,7 +3904,7 @@
     {
       "lemma": "大丈夫",
       "pos": "形状詞",
-      "count": 12,
+      "count": 13,
       "first_seen_sentence_id": "radiation-house-s02-e10-0162",
       "occurrences": [
         {
@@ -3842,6 +3942,10 @@
         {
           "sentence_id": "radiation-house-s02-e10-0357",
           "start": 1467.999
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0434",
+          "start": 1723.655
         },
         {
           "sentence_id": "radiation-house-s02-e10-0599",
@@ -4506,6 +4610,21 @@
       ]
     },
     {
+      "lemma": "閉まる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s02-e10-0237",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s02-e10-0237",
+          "start": 953.852
+        }
+      ],
+      "surface_examples": [
+        "閉まる"
+      ]
+    },
+    {
       "lemma": "2人",
       "pos": "名詞",
       "count": 2,
@@ -4940,6 +5059,25 @@
       ],
       "surface_examples": [
         "業務"
+      ]
+    },
+    {
+      "lemma": "開閉",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s02-e10-0301",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s02-e10-0301",
+          "start": 1231.363
+        },
+        {
+          "sentence_id": "radiation-house-s02-e10-0491",
+          "start": 2029.26
+        }
+      ],
+      "surface_examples": [
+        "開閉"
       ]
     },
     {

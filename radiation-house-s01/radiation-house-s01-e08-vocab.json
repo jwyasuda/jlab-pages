@@ -1,8 +1,8 @@
 {
   "chapter_id": "radiation-house-s01-e08",
-  "generated_at": "2026-05-18T09:08:43.563848+00:00",
-  "total_unique_lemmas": 218,
-  "total_tokens_after_filter": 920,
+  "generated_at": "2026-05-26T04:16:52.409374+00:00",
+  "total_unique_lemmas": 221,
+  "total_tokens_after_filter": 925,
   "vocab": [
     {
       "lemma": "医師",
@@ -2768,12 +2768,16 @@
     {
       "lemma": "大丈夫",
       "pos": "形状詞",
-      "count": 13,
+      "count": 14,
       "first_seen_sentence_id": "radiation-house-s01-e08-0084",
       "occurrences": [
         {
           "sentence_id": "radiation-house-s01-e08-0084",
           "start": 316.249
+        },
+        {
+          "sentence_id": "radiation-house-s01-e08-0168",
+          "start": 610.91
         },
         {
           "sentence_id": "radiation-house-s01-e08-0283",
@@ -3326,6 +3330,55 @@
       ]
     },
     {
+      "lemma": "携帯電話",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e08-0136",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e08-0136",
+          "start": 447.28
+        }
+      ],
+      "surface_examples": [
+        "携帯電話"
+      ]
+    },
+    {
+      "lemma": "振動",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e08-0136",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e08-0136",
+          "start": 447.28
+        }
+      ],
+      "surface_examples": [
+        "振動"
+      ]
+    },
+    {
+      "lemma": "音",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e08-0136",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e08-0136",
+          "start": 447.28
+        },
+        {
+          "sentence_id": "radiation-house-s01-e08-0174",
+          "start": 625.625
+        }
+      ],
+      "surface_examples": [
+        "音"
+      ]
+    },
+    {
       "lemma": "受付",
       "pos": "名詞",
       "count": 1,
@@ -3443,21 +3496,6 @@
       ],
       "surface_examples": [
         "警告"
-      ]
-    },
-    {
-      "lemma": "音",
-      "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "radiation-house-s01-e08-0174",
-      "occurrences": [
-        {
-          "sentence_id": "radiation-house-s01-e08-0174",
-          "start": 625.625
-        }
-      ],
-      "surface_examples": [
-        "音"
       ]
     },
     {
@@ -4980,6 +5018,21 @@
       ],
       "surface_examples": [
         "院長"
+      ]
+    },
+    {
+      "lemma": "結構",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e08-0381",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e08-0381",
+          "start": 1340.272
+        }
+      ],
+      "surface_examples": [
+        "結構"
       ]
     },
     {

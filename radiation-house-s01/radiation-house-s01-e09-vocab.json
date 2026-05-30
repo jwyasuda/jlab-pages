@@ -1,8 +1,8 @@
 {
   "chapter_id": "radiation-house-s01-e09",
-  "generated_at": "2026-05-18T09:08:43.780714+00:00",
-  "total_unique_lemmas": 210,
-  "total_tokens_after_filter": 803,
+  "generated_at": "2026-05-26T04:16:52.630377+00:00",
+  "total_unique_lemmas": 211,
+  "total_tokens_after_filter": 812,
   "vocab": [
     {
       "lemma": "5万",
@@ -72,12 +72,20 @@
     {
       "lemma": "何",
       "pos": "名詞",
-      "count": 2,
+      "count": 4,
       "first_seen_sentence_id": "radiation-house-s01-e09-0004",
       "occurrences": [
         {
           "sentence_id": "radiation-house-s01-e09-0004",
           "start": 26.359
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0158",
+          "start": 631.063
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0556",
+          "start": 2173.204
         },
         {
           "sentence_id": "radiation-house-s01-e09-0630",
@@ -1560,6 +1568,45 @@
       ]
     },
     {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 7,
+      "first_seen_sentence_id": "radiation-house-s01-e09-0039",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e09-0039",
+          "start": 150.016
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0047",
+          "start": 172.272
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0088",
+          "start": 339.739
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0298",
+          "start": 1178.343
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0613",
+          "start": 2516.547
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0614",
+          "start": 2520.918
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0665",
+          "start": 2766.764
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
+      ]
+    },
+    {
       "lemma": "安静",
       "pos": "名詞",
       "count": 1,
@@ -1596,7 +1643,7 @@
     {
       "lemma": "一同",
       "pos": "名詞",
-      "count": 3,
+      "count": 5,
       "first_seen_sentence_id": "radiation-house-s01-e09-0044",
       "occurrences": [
         {
@@ -1608,8 +1655,16 @@
           "start": 210.243
         },
         {
+          "sentence_id": "radiation-house-s01-e09-0275",
+          "start": 1078.911
+        },
+        {
           "sentence_id": "radiation-house-s01-e09-0363",
           "start": 1437.669
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0605",
+          "start": 2448.612
         }
       ],
       "surface_examples": [
@@ -1648,37 +1703,6 @@
       ],
       "surface_examples": [
         "大変"
-      ]
-    },
-    {
-      "lemma": "大丈夫",
-      "pos": "形状詞",
-      "count": 5,
-      "first_seen_sentence_id": "radiation-house-s01-e09-0047",
-      "occurrences": [
-        {
-          "sentence_id": "radiation-house-s01-e09-0047",
-          "start": 172.272
-        },
-        {
-          "sentence_id": "radiation-house-s01-e09-0088",
-          "start": 339.739
-        },
-        {
-          "sentence_id": "radiation-house-s01-e09-0298",
-          "start": 1178.343
-        },
-        {
-          "sentence_id": "radiation-house-s01-e09-0613",
-          "start": 2516.547
-        },
-        {
-          "sentence_id": "radiation-house-s01-e09-0614",
-          "start": 2520.918
-        }
-      ],
-      "surface_examples": [
-        "大丈夫"
       ]
     },
     {
@@ -2381,6 +2405,40 @@
       ]
     },
     {
+      "lemma": "到着",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e09-0061",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e09-0061",
+          "start": 208.274
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0096",
+          "start": 359.625
+        }
+      ],
+      "surface_examples": [
+        "到着"
+      ]
+    },
+    {
+      "lemma": "音",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e09-0061",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e09-0061",
+          "start": 208.274
+        }
+      ],
+      "surface_examples": [
+        "音"
+      ]
+    },
+    {
       "lemma": "丈介",
       "pos": "名詞",
       "count": 17,
@@ -2796,21 +2854,6 @@
       ],
       "surface_examples": [
         "警戒"
-      ]
-    },
-    {
-      "lemma": "到着",
-      "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "radiation-house-s01-e09-0096",
-      "occurrences": [
-        {
-          "sentence_id": "radiation-house-s01-e09-0096",
-          "start": 359.625
-        }
-      ],
-      "surface_examples": [
-        "到着"
       ]
     },
     {
@@ -5430,12 +5473,16 @@
     {
       "lemma": "泣き声",
       "pos": "名詞",
-      "count": 1,
+      "count": 2,
       "first_seen_sentence_id": "radiation-house-s01-e09-0662",
       "occurrences": [
         {
           "sentence_id": "radiation-house-s01-e09-0662",
           "start": 2761.925
+        },
+        {
+          "sentence_id": "radiation-house-s01-e09-0664",
+          "start": 2765.329
         }
       ],
       "surface_examples": [

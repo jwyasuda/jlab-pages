@@ -1,9 +1,79 @@
 {
   "chapter_id": "at-home-dad-s01-e03",
-  "generated_at": "2026-05-18T09:08:03.125393+00:00",
-  "total_unique_lemmas": 89,
-  "total_tokens_after_filter": 388,
+  "generated_at": "2026-05-26T04:16:59.442038+00:00",
+  "total_unique_lemmas": 426,
+  "total_tokens_after_filter": 942,
   "vocab": [
+    {
+      "lemma": "開く",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0001",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0001",
+          "start": 11.9
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0584",
+          "start": 1822.966
+        }
+      ],
+      "surface_examples": [
+        "開く"
+      ]
+    },
+    {
+      "lemma": "音",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0001",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0001",
+          "start": 11.9
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0197",
+          "start": 579.0
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0220",
+          "start": 734.566
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0221",
+          "start": 742.1
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0584",
+          "start": 1822.966
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0661",
+          "start": 2047.3
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0666",
+          "start": 2068.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0667",
+          "start": 2082.266
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0705",
+          "start": 2195.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0712",
+          "start": 2224.866
+        }
+      ],
+      "surface_examples": [
+        "音"
+      ]
+    },
     {
       "lemma": "杉尾",
       "pos": "名詞",
@@ -319,7 +389,7 @@
     {
       "lemma": "洗濯物",
       "pos": "名詞",
-      "count": 2,
+      "count": 3,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0003",
       "occurrences": [
         {
@@ -329,10 +399,235 @@
         {
           "sentence_id": "at-home-dad-s01-e03-0076",
           "start": 215.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0269",
+          "start": 850.5
         }
       ],
       "surface_examples": [
         "洗濯物"
+      ]
+    },
+    {
+      "lemma": "飛ばす",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0003",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0003",
+          "start": 14.566
+        }
+      ],
+      "surface_examples": [
+        "飛ばす"
+      ]
+    },
+    {
+      "lemma": "置く",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0004",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0004",
+          "start": 17.666
+        }
+      ],
+      "surface_examples": [
+        "置い"
+      ]
+    },
+    {
+      "lemma": "簡単",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0006",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0006",
+          "start": 23.3
+        }
+      ],
+      "surface_examples": [
+        "簡単"
+      ]
+    },
+    {
+      "lemma": "作る",
+      "pos": "動詞",
+      "count": 6,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0006",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0006",
+          "start": 23.3
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0295",
+          "start": 922.466
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0523",
+          "start": 1637.566
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0583",
+          "start": 1819.333
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0601",
+          "start": 1872.933
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0734",
+          "start": 2287.9
+        }
+      ],
+      "surface_examples": [
+        "作っ",
+        "作る",
+        "作ら"
+      ]
+    },
+    {
+      "lemma": "玉ねぎ",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0008",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0008",
+          "start": 27.166
+        }
+      ],
+      "surface_examples": [
+        "玉ねぎ"
+      ]
+    },
+    {
+      "lemma": "混ぜる",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0008",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0008",
+          "start": 27.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0017",
+          "start": 56.1
+        }
+      ],
+      "surface_examples": [
+        "混ぜる"
+      ]
+    },
+    {
+      "lemma": "みじん切り",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0011",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0011",
+          "start": 36.366
+        }
+      ],
+      "surface_examples": [
+        "みじん切り"
+      ]
+    },
+    {
+      "lemma": "繊維",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0012",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0012",
+          "start": 38.5
+        }
+      ],
+      "surface_examples": [
+        "繊維"
+      ]
+    },
+    {
+      "lemma": "方向",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0012",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0012",
+          "start": 38.5
+        }
+      ],
+      "surface_examples": [
+        "方向"
+      ]
+    },
+    {
+      "lemma": "切る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0012",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0012",
+          "start": 38.5
+        }
+      ],
+      "surface_examples": [
+        "切ら"
+      ]
+    },
+    {
+      "lemma": "丸める",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0015",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0015",
+          "start": 45.8
+        }
+      ],
+      "surface_examples": [
+        "丸め"
+      ]
+    },
+    {
+      "lemma": "鼻",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0016",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0016",
+          "start": 48.766
+        }
+      ],
+      "surface_examples": [
+        "鼻"
+      ]
+    },
+    {
+      "lemma": "涙",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0016",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0016",
+          "start": 48.766
+        }
+      ],
+      "surface_examples": [
+        "涙"
       ]
     },
     {
@@ -433,7 +728,7 @@
     {
       "lemma": "理絵",
       "pos": "名詞",
-      "count": 29,
+      "count": 30,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0021",
       "occurrences": [
         {
@@ -554,6 +849,38 @@
       ]
     },
     {
+      "lemma": "遅い",
+      "pos": "形容詞",
+      "count": 5,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0022",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0022",
+          "start": 73.5
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0637",
+          "start": 1972.4
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0679",
+          "start": 2123.8
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0716",
+          "start": 2247.4
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0729",
+          "start": 2278.666
+        }
+      ],
+      "surface_examples": [
+        "遅く",
+        "遅い"
+      ]
+    },
+    {
       "lemma": "子",
       "pos": "名詞",
       "count": 2,
@@ -573,9 +900,103 @@
       ]
     },
     {
-      "lemma": "明日",
+      "lemma": "留守番",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0023",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0023",
+          "start": 75.9
+        }
+      ],
+      "surface_examples": [
+        "留守番"
+      ]
+    },
+    {
+      "lemma": "褒美",
       "pos": "名詞",
       "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0023",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0023",
+          "start": 75.9
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0708",
+          "start": 2215.533
+        }
+      ],
+      "surface_examples": [
+        "褒美"
+      ]
+    },
+    {
+      "lemma": "びしょ濡れ",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0027",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0027",
+          "start": 87.333
+        }
+      ],
+      "surface_examples": [
+        "びしょ濡れ"
+      ]
+    },
+    {
+      "lemma": "低い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0028",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0028",
+          "start": 91.5
+        }
+      ],
+      "surface_examples": [
+        "低い"
+      ]
+    },
+    {
+      "lemma": "腰",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0028",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0028",
+          "start": 91.5
+        }
+      ],
+      "surface_examples": [
+        "腰"
+      ]
+    },
+    {
+      "lemma": "痛い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0028",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0028",
+          "start": 91.5
+        }
+      ],
+      "surface_examples": [
+        "痛い"
+      ]
+    },
+    {
+      "lemma": "明日",
+      "pos": "名詞",
+      "count": 5,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0034",
       "occurrences": [
         {
@@ -583,8 +1004,20 @@
           "start": 106.466
         },
         {
+          "sentence_id": "at-home-dad-s01-e03-0050",
+          "start": 142.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0136",
+          "start": 417.766
+        },
+        {
           "sentence_id": "at-home-dad-s01-e03-0229",
           "start": 763.433
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0679",
+          "start": 2123.8
         }
       ],
       "surface_examples": [
@@ -592,9 +1025,278 @@
       ]
     },
     {
+      "lemma": "三つ編み",
+      "pos": "名詞",
+      "count": 10,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0034",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0034",
+          "start": 106.466
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0135",
+          "start": 415.933
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0171",
+          "start": 494.633
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0173",
+          "start": 497.833
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0175",
+          "start": 500.3
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0176",
+          "start": 501.6
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0178",
+          "start": 505.866
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0179",
+          "start": 509.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0184",
+          "start": 526.666
+        }
+      ],
+      "surface_examples": [
+        "三つ編み"
+      ]
+    },
+    {
+      "lemma": "着ける",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0034",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0034",
+          "start": 106.466
+        }
+      ],
+      "surface_examples": [
+        "着け"
+      ]
+    },
+    {
+      "lemma": "幼稚園",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0034",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0034",
+          "start": 106.466
+        }
+      ],
+      "surface_examples": [
+        "幼稚園"
+      ]
+    },
+    {
+      "lemma": "寝る",
+      "pos": "動詞",
+      "count": 7,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0036",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0036",
+          "start": 111.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0043",
+          "start": 122.0
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0055",
+          "start": 160.466
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0121",
+          "start": 361.366
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0123",
+          "start": 366.433
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0267",
+          "start": 845.966
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0378",
+          "start": 1193.666
+        }
+      ],
+      "surface_examples": [
+        "寝る",
+        "寝"
+      ]
+    },
+    {
+      "lemma": "歯",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0037",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0037",
+          "start": 114.0
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0038",
+          "start": 115.166
+        }
+      ],
+      "surface_examples": [
+        "歯"
+      ]
+    },
+    {
+      "lemma": "磨く",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0037",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0037",
+          "start": 114.0
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0038",
+          "start": 115.166
+        }
+      ],
+      "surface_examples": [
+        "磨い"
+      ]
+    },
+    {
+      "lemma": "本",
+      "pos": "名詞",
+      "count": 6,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0041",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0041",
+          "start": 119.5
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0042",
+          "start": 120.866
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0053",
+          "start": 152.566
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0123",
+          "start": 366.433
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0355",
+          "start": 1089.333
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0731",
+          "start": 2283.133
+        }
+      ],
+      "surface_examples": [
+        "本"
+      ]
+    },
+    {
+      "lemma": "絵本",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0043",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0043",
+          "start": 122.0
+        }
+      ],
+      "surface_examples": [
+        "絵本"
+      ]
+    },
+    {
+      "lemma": "読む",
+      "pos": "動詞",
+      "count": 7,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0043",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0043",
+          "start": 122.0
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0053",
+          "start": 152.566
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0123",
+          "start": 366.433
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0365",
+          "start": 1144.866
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0366",
+          "start": 1146.8
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0369",
+          "start": 1154.966
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0379",
+          "start": 1195.333
+        }
+      ],
+      "surface_examples": [
+        "読ま",
+        "読ん",
+        "読み"
+      ]
+    },
+    {
+      "lemma": "着信音",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0044",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0044",
+          "start": 124.633
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0738",
+          "start": 2298.3
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0811",
+          "start": 2588.933
+        }
+      ],
+      "surface_examples": [
+        "着信音"
+      ]
+    },
+    {
       "lemma": "電話",
       "pos": "名詞",
-      "count": 12,
+      "count": 14,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0045",
       "occurrences": [
         {
@@ -651,9 +1353,24 @@
       ]
     },
     {
+      "lemma": "履歴書",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0045",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0045",
+          "start": 127.766
+        }
+      ],
+      "surface_examples": [
+        "履歴書"
+      ]
+    },
+    {
       "lemma": "会社",
       "pos": "名詞",
-      "count": 9,
+      "count": 11,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0045",
       "occurrences": [
         {
@@ -661,8 +1378,12 @@
           "start": 127.766
         },
         {
-          "sentence_id": "at-home-dad-s01-e03-0483",
-          "start": 1528.9
+          "sentence_id": "at-home-dad-s01-e03-0493",
+          "start": 1564.066
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0533",
+          "start": 1663.133
         },
         {
           "sentence_id": "at-home-dad-s01-e03-0587",
@@ -671,6 +1392,10 @@
         {
           "sentence_id": "at-home-dad-s01-e03-0593",
           "start": 1851.933
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0646",
+          "start": 2001.766
         },
         {
           "sentence_id": "at-home-dad-s01-e03-0722",
@@ -695,6 +1420,109 @@
       ],
       "surface_examples": [
         "会社"
+      ]
+    },
+    {
+      "lemma": "校正",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0048",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0048",
+          "start": 136.7
+        }
+      ],
+      "surface_examples": [
+        "校正"
+      ]
+    },
+    {
+      "lemma": "刷り",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0048",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0048",
+          "start": 136.7
+        }
+      ],
+      "surface_examples": [
+        "刷り"
+      ]
+    },
+    {
+      "lemma": "件",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0048",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0048",
+          "start": 136.7
+        }
+      ],
+      "surface_examples": [
+        "件"
+      ]
+    },
+    {
+      "lemma": "最近",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0049",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0049",
+          "start": 140.0
+        }
+      ],
+      "surface_examples": [
+        "最近"
+      ]
+    },
+    {
+      "lemma": "中",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0050",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0050",
+          "start": 142.033
+        }
+      ],
+      "surface_examples": [
+        "中"
+      ]
+    },
+    {
+      "lemma": "終わる",
+      "pos": "動詞",
+      "count": 4,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0050",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0050",
+          "start": 142.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0320",
+          "start": 995.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0365",
+          "start": 1144.866
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0369",
+          "start": 1154.966
+        }
+      ],
+      "surface_examples": [
+        "終わる",
+        "終わっ"
       ]
     },
     {
@@ -780,6 +1608,21 @@
       ]
     },
     {
+      "lemma": "筑前煮",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0056",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0056",
+          "start": 162.033
+        }
+      ],
+      "surface_examples": [
+        "筑前煮"
+      ]
+    },
+    {
       "lemma": "浮気",
       "pos": "名詞",
       "count": 6,
@@ -815,6 +1658,25 @@
       ]
     },
     {
+      "lemma": "最後",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0057",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0057",
+          "start": 166.2
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0059",
+          "start": 173.266
+        }
+      ],
+      "surface_examples": [
+        "最後"
+      ]
+    },
+    {
       "lemma": "料理",
       "pos": "名詞",
       "count": 3,
@@ -840,7 +1702,7 @@
     {
       "lemma": "奥さん",
       "pos": "名詞",
-      "count": 10,
+      "count": 11,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0057",
       "occurrences": [
         {
@@ -858,6 +1720,10 @@
         {
           "sentence_id": "at-home-dad-s01-e03-0189",
           "start": 556.433
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0194",
+          "start": 570.866
         },
         {
           "sentence_id": "at-home-dad-s01-e03-0432",
@@ -889,6 +1755,224 @@
       ]
     },
     {
+      "lemma": "寿司",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0058",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0058",
+          "start": 170.633
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0062",
+          "start": 179.466
+        }
+      ],
+      "surface_examples": [
+        "寿司"
+      ]
+    },
+    {
+      "lemma": "お茶漬け",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0059",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0059",
+          "start": 173.266
+        }
+      ],
+      "surface_examples": [
+        "お茶漬け"
+      ]
+    },
+    {
+      "lemma": "食べる",
+      "pos": "動詞",
+      "count": 10,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0059",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0059",
+          "start": 173.266
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0061",
+          "start": 177.5
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0062",
+          "start": 179.466
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0310",
+          "start": 967.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0671",
+          "start": 2100.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0725",
+          "start": 2271.366
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0727",
+          "start": 2274.366
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0759",
+          "start": 2385.233
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0763",
+          "start": 2391.266
+        }
+      ],
+      "surface_examples": [
+        "食べ"
+      ]
+    },
+    {
+      "lemma": "間",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0061",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0061",
+          "start": 177.5
+        }
+      ],
+      "surface_examples": [
+        "間"
+      ]
+    },
+    {
+      "lemma": "様",
+      "pos": "接尾辞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0063",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0063",
+          "start": 181.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0382",
+          "start": 1202.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0437",
+          "start": 1378.3
+        }
+      ],
+      "surface_examples": [
+        "様"
+      ]
+    },
+    {
+      "lemma": "お腹",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0063",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0063",
+          "start": 181.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0662",
+          "start": 2054.9
+        }
+      ],
+      "surface_examples": [
+        "お腹"
+      ]
+    },
+    {
+      "lemma": "隣",
+      "pos": "名詞",
+      "count": 5,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0065",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0065",
+          "start": 187.133
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0082",
+          "start": 229.9
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0187",
+          "start": 546.566
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0274",
+          "start": 863.933
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0380",
+          "start": 1197.1
+        }
+      ],
+      "surface_examples": [
+        "隣"
+      ]
+    },
+    {
+      "lemma": "美人",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0068",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0068",
+          "start": 193.333
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0194",
+          "start": 570.866
+        }
+      ],
+      "surface_examples": [
+        "美人"
+      ]
+    },
+    {
+      "lemma": "色",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0068",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0068",
+          "start": 193.333
+        }
+      ],
+      "surface_examples": [
+        "色"
+      ]
+    },
+    {
+      "lemma": "控えめ",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0068",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0068",
+          "start": 193.333
+        }
+      ],
+      "surface_examples": [
+        "控えめ"
+      ]
+    },
+    {
       "lemma": "一番",
       "pos": "副詞",
       "count": 1,
@@ -901,6 +1985,66 @@
       ],
       "surface_examples": [
         "一番"
+      ]
+    },
+    {
+      "lemma": "社会",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0070",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0070",
+          "start": 199.166
+        }
+      ],
+      "surface_examples": [
+        "社会"
+      ]
+    },
+    {
+      "lemma": "誘惑",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0070",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0070",
+          "start": 199.166
+        }
+      ],
+      "surface_examples": [
+        "誘惑"
+      ]
+    },
+    {
+      "lemma": "嵐",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0070",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0070",
+          "start": 199.166
+        }
+      ],
+      "surface_examples": [
+        "嵐"
+      ]
+    },
+    {
+      "lemma": "家庭的",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0072",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0072",
+          "start": 203.433
+        }
+      ],
+      "surface_examples": [
+        "家庭的"
       ]
     },
     {
@@ -919,18 +2063,221 @@
       ]
     },
     {
-      "lemma": "さん",
-      "pos": "接尾辞",
-      "count": 1,
+      "lemma": "危ない",
+      "pos": "形容詞",
+      "count": 3,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0072",
       "occurrences": [
         {
           "sentence_id": "at-home-dad-s01-e03-0072",
           "start": 203.433
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0571",
+          "start": 1786.266
         }
       ],
       "surface_examples": [
-        "さん"
+        "危ない"
+      ]
+    },
+    {
+      "lemma": "恋",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0073",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0073",
+          "start": 206.033
+        }
+      ],
+      "surface_examples": [
+        "恋"
+      ]
+    },
+    {
+      "lemma": "落ちる",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0073",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0073",
+          "start": 206.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0077",
+          "start": 218.066
+        }
+      ],
+      "surface_examples": [
+        "落ち",
+        "落ちる"
+      ]
+    },
+    {
+      "lemma": "突っ走る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0073",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0073",
+          "start": 206.033
+        }
+      ],
+      "surface_examples": [
+        "突っ走っ"
+      ]
+    },
+    {
+      "lemma": "何",
+      "pos": "代名詞",
+      "count": 13,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0076",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0076",
+          "start": 215.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0078",
+          "start": 221.066
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0172",
+          "start": 496.3
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0287",
+          "start": 899.733
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0379",
+          "start": 1195.333
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0382",
+          "start": 1202.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0442",
+          "start": 1390.066
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0502",
+          "start": 1585.966
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0581",
+          "start": 1814.266
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0687",
+          "start": 2141.733
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0726",
+          "start": 2272.666
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0755",
+          "start": 2360.233
+        }
+      ],
+      "surface_examples": [
+        "何"
+      ]
+    },
+    {
+      "lemma": "取り込む",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0076",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0076",
+          "start": 215.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0077",
+          "start": 218.066
+        }
+      ],
+      "surface_examples": [
+        "取り込ん",
+        "取り込ま"
+      ]
+    },
+    {
+      "lemma": "湿気る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0077",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0077",
+          "start": 218.066
+        }
+      ],
+      "surface_examples": [
+        "湿気"
+      ]
+    },
+    {
+      "lemma": "干す",
+      "pos": "動詞",
+      "count": 5,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0078",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0078",
+          "start": 221.066
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0420",
+          "start": 1326.966
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0423",
+          "start": 1338.933
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0426",
+          "start": 1346.366
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0432",
+          "start": 1362.066
+        }
+      ],
+      "surface_examples": [
+        "干し",
+        "干す"
+      ]
+    },
+    {
+      "lemma": "方",
+      "pos": "接尾辞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0078",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0078",
+          "start": 221.066
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0527",
+          "start": 1648.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0528",
+          "start": 1651.133
+        }
+      ],
+      "surface_examples": [
+        "方"
       ]
     },
     {
@@ -946,6 +2293,93 @@
       ],
       "surface_examples": [
         "洗濯バサミ"
+      ]
+    },
+    {
+      "lemma": "跡",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0079",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0079",
+          "start": 222.466
+        }
+      ],
+      "surface_examples": [
+        "跡"
+      ]
+    },
+    {
+      "lemma": "友達",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0080",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0080",
+          "start": 226.533
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0083",
+          "start": 231.833
+        }
+      ],
+      "surface_examples": [
+        "友達"
+      ]
+    },
+    {
+      "lemma": "別",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0083",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0083",
+          "start": 231.833
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0511",
+          "start": 1606.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0715",
+          "start": 2246.533
+        }
+      ],
+      "surface_examples": [
+        "別"
+      ]
+    },
+    {
+      "lemma": "犬",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0088",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0088",
+          "start": 258.933
+        }
+      ],
+      "surface_examples": [
+        "犬"
+      ]
+    },
+    {
+      "lemma": "鳴き声",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0088",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0088",
+          "start": 258.933
+        }
+      ],
+      "surface_examples": [
+        "鳴き声"
       ]
     },
     {
@@ -1127,9 +2561,24 @@
       ]
     },
     {
+      "lemma": "表",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0095",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0095",
+          "start": 282.266
+        }
+      ],
+      "surface_examples": [
+        "表"
+      ]
+    },
+    {
       "lemma": "大丈夫",
       "pos": "形状詞",
-      "count": 11,
+      "count": 12,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0097",
       "occurrences": [
         {
@@ -1161,6 +2610,10 @@
           "start": 1585.966
         },
         {
+          "sentence_id": "at-home-dad-s01-e03-0687",
+          "start": 2141.733
+        },
+        {
           "sentence_id": "at-home-dad-s01-e03-0824",
           "start": 2648.2
         },
@@ -1178,6 +2631,172 @@
       ]
     },
     {
+      "lemma": "来る",
+      "pos": "動詞",
+      "count": 4,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0097",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0097",
+          "start": 286.5
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0298",
+          "start": 933.333
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0310",
+          "start": 967.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0515",
+          "start": 1614.5
+        }
+      ],
+      "surface_examples": [
+        "来"
+      ]
+    },
+    {
+      "lemma": "お母さん",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0099",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0099",
+          "start": 291.533
+        }
+      ],
+      "surface_examples": [
+        "お母さん"
+      ]
+    },
+    {
+      "lemma": "付き合う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0100",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0100",
+          "start": 293.833
+        }
+      ],
+      "surface_examples": [
+        "付き合っ"
+      ]
+    },
+    {
+      "lemma": "目",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0100",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0100",
+          "start": 293.833
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0529",
+          "start": 1653.6
+        }
+      ],
+      "surface_examples": [
+        "目"
+      ]
+    },
+    {
+      "lemma": "遭う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0100",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0100",
+          "start": 293.833
+        }
+      ],
+      "surface_examples": [
+        "遭う"
+      ]
+    },
+    {
+      "lemma": "大げさ",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0101",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0101",
+          "start": 297.266
+        }
+      ],
+      "surface_examples": [
+        "大げさ"
+      ]
+    },
+    {
+      "lemma": "嫉妬",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0102",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0102",
+          "start": 298.666
+        }
+      ],
+      "surface_examples": [
+        "嫉妬"
+      ]
+    },
+    {
+      "lemma": "恐ろしい",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0102",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0102",
+          "start": 298.666
+        }
+      ],
+      "surface_examples": [
+        "恐ろし"
+      ]
+    },
+    {
+      "lemma": "去年",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0103",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0103",
+          "start": 302.066
+        }
+      ],
+      "surface_examples": [
+        "去年"
+      ]
+    },
+    {
+      "lemma": "金持ち",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0104",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0104",
+          "start": 303.8
+        }
+      ],
+      "surface_examples": [
+        "金持ち"
+      ]
+    },
+    {
       "lemma": "彼氏",
       "pos": "名詞",
       "count": 1,
@@ -1190,6 +2809,70 @@
       ],
       "surface_examples": [
         "彼氏"
+      ]
+    },
+    {
+      "lemma": "短い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0105",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0105",
+          "start": 306.666
+        }
+      ],
+      "surface_examples": [
+        "短い"
+      ]
+    },
+    {
+      "lemma": "化粧",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0105",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0105",
+          "start": 306.666
+        }
+      ],
+      "surface_examples": [
+        "化粧"
+      ]
+    },
+    {
+      "lemma": "濃い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0105",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0105",
+          "start": 306.666
+        }
+      ],
+      "surface_examples": [
+        "濃い"
+      ]
+    },
+    {
+      "lemma": "文句",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0106",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0106",
+          "start": 309.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0436",
+          "start": 1376.266
+        }
+      ],
+      "surface_examples": [
+        "文句"
       ]
     },
     {
@@ -1223,6 +2906,40 @@
       ]
     },
     {
+      "lemma": "困る",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0110",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0110",
+          "start": 317.533
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0679",
+          "start": 2123.8
+        }
+      ],
+      "surface_examples": [
+        "困る"
+      ]
+    },
+    {
+      "lemma": "別れる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0111",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0111",
+          "start": 321.5
+        }
+      ],
+      "surface_examples": [
+        "別れる"
+      ]
+    },
+    {
       "lemma": "大事",
       "pos": "形状詞",
       "count": 4,
@@ -1247,6 +2964,71 @@
       ],
       "surface_examples": [
         "大事"
+      ]
+    },
+    {
+      "lemma": "時",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0116",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0116",
+          "start": 340.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0284",
+          "start": 893.766
+        }
+      ],
+      "surface_examples": [
+        "時"
+      ]
+    },
+    {
+      "lemma": "初めて",
+      "pos": "副詞",
+      "count": 4,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0118",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0118",
+          "start": 346.466
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0224",
+          "start": 751.633
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0280",
+          "start": 883.533
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0699",
+          "start": 2176.6
+        }
+      ],
+      "surface_examples": [
+        "初めて"
+      ]
+    },
+    {
+      "lemma": "大好き",
+      "pos": "形状詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0119",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0119",
+          "start": 351.266
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0640",
+          "start": 1986.466
+        }
+      ],
+      "surface_examples": [
+        "大好き"
       ]
     },
     {
@@ -1277,6 +3059,126 @@
       ],
       "surface_examples": [
         "毎晩"
+      ]
+    },
+    {
+      "lemma": "子守歌",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0124",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0124",
+          "start": 368.566
+        }
+      ],
+      "surface_examples": [
+        "子守歌"
+      ]
+    },
+    {
+      "lemma": "代わり",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0124",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0124",
+          "start": 368.566
+        }
+      ],
+      "surface_examples": [
+        "代わり"
+      ]
+    },
+    {
+      "lemma": "眠れる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0125",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0125",
+          "start": 372.266
+        }
+      ],
+      "surface_examples": [
+        "眠れ"
+      ]
+    },
+    {
+      "lemma": "午前様",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0130",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0130",
+          "start": 387.666
+        }
+      ],
+      "surface_examples": [
+        "午前様"
+      ]
+    },
+    {
+      "lemma": "完全",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0131",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0131",
+          "start": 390.4
+        }
+      ],
+      "surface_examples": [
+        "完全"
+      ]
+    },
+    {
+      "lemma": "すれ違う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0131",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0131",
+          "start": 390.4
+        }
+      ],
+      "surface_examples": [
+        "すれ違っ"
+      ]
+    },
+    {
+      "lemma": "必ず",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0136",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0136",
+          "start": 417.766
+        }
+      ],
+      "surface_examples": [
+        "必ず"
+      ]
+    },
+    {
+      "lemma": "忙しい",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0138",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0138",
+          "start": 420.466
+        }
+      ],
+      "surface_examples": [
+        "忙しい"
       ]
     },
     {
@@ -1374,9 +3276,46 @@
       ]
     },
     {
+      "lemma": "泣く",
+      "pos": "動詞",
+      "count": 7,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0152",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0152",
+          "start": 447.666
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0160",
+          "start": 463.933
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0455",
+          "start": 1449.6
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0632",
+          "start": 1953.933
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0699",
+          "start": 2176.6
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0704",
+          "start": 2193.0
+        }
+      ],
+      "surface_examples": [
+        "泣い",
+        "泣く",
+        "泣か"
+      ]
+    },
+    {
       "lemma": "大変",
       "pos": "形状詞",
-      "count": 6,
+      "count": 4,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0154",
       "occurrences": [
         {
@@ -1390,14 +3329,6 @@
         {
           "sentence_id": "at-home-dad-s01-e03-0279",
           "start": 879.8
-        },
-        {
-          "sentence_id": "at-home-dad-s01-e03-0398",
-          "start": 1252.066
-        },
-        {
-          "sentence_id": "at-home-dad-s01-e03-0466",
-          "start": 1481.133
         },
         {
           "sentence_id": "at-home-dad-s01-e03-0722",
@@ -1436,9 +3367,153 @@
       ]
     },
     {
-      "lemma": "親",
+      "lemma": "秘訣",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0162",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0162",
+          "start": 469.566
+        }
+      ],
+      "surface_examples": [
+        "秘訣"
+      ]
+    },
+    {
+      "lemma": "一歩",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0163",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0163",
+          "start": 471.2
+        }
+      ],
+      "surface_examples": [
+        "一歩"
+      ]
+    },
+    {
+      "lemma": "外",
       "pos": "名詞",
       "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0163",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0163",
+          "start": 471.2
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0317",
+          "start": 986.8
+        }
+      ],
+      "surface_examples": [
+        "外"
+      ]
+    },
+    {
+      "lemma": "家",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0163",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0163",
+          "start": 471.2
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0188",
+          "start": 553.9
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0214",
+          "start": 720.966
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0646",
+          "start": 2001.766
+        }
+      ],
+      "surface_examples": [
+        "家"
+      ]
+    },
+    {
+      "lemma": "一切",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0163",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0163",
+          "start": 471.2
+        }
+      ],
+      "surface_examples": [
+        "一切"
+      ]
+    },
+    {
+      "lemma": "風",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0164",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0164",
+          "start": 474.233
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0298",
+          "start": 933.333
+        }
+      ],
+      "surface_examples": [
+        "風"
+      ]
+    },
+    {
+      "lemma": "遅れる",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0177",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0177",
+          "start": 503.366
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0223",
+          "start": 749.066
+        }
+      ],
+      "surface_examples": [
+        "遅れ"
+      ]
+    },
+    {
+      "lemma": "離す",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0177",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0177",
+          "start": 503.366
+        }
+      ],
+      "surface_examples": [
+        "離し"
+      ]
+    },
+    {
+      "lemma": "親",
+      "pos": "名詞",
+      "count": 3,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0180",
       "occurrences": [
         {
@@ -1448,6 +3523,10 @@
         {
           "sentence_id": "at-home-dad-s01-e03-0186",
           "start": 532.8
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0236",
+          "start": 777.1
         }
       ],
       "surface_examples": [
@@ -1455,22 +3534,196 @@
       ]
     },
     {
-      "lemma": "たち",
-      "pos": "接尾辞",
+      "lemma": "格好",
+      "pos": "名詞",
       "count": 2,
-      "first_seen_sentence_id": "at-home-dad-s01-e03-0180",
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0182",
       "occurrences": [
         {
-          "sentence_id": "at-home-dad-s01-e03-0180",
-          "start": 517.7
+          "sentence_id": "at-home-dad-s01-e03-0182",
+          "start": 522.2
         },
         {
-          "sentence_id": "at-home-dad-s01-e03-0186",
-          "start": 532.8
+          "sentence_id": "at-home-dad-s01-e03-0268",
+          "start": 848.533
         }
       ],
       "surface_examples": [
-        "たち"
+        "格好"
+      ]
+    },
+    {
+      "lemma": "預かる",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0185",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0185",
+          "start": 531.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0512",
+          "start": 1607.133
+        }
+      ],
+      "surface_examples": [
+        "預かり",
+        "預かっ"
+      ]
+    },
+    {
+      "lemma": "洗う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0187",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0187",
+          "start": 546.566
+        }
+      ],
+      "surface_examples": [
+        "洗っ"
+      ]
+    },
+    {
+      "lemma": "無精",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0188",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0188",
+          "start": 553.9
+        }
+      ],
+      "surface_examples": [
+        "無精"
+      ]
+    },
+    {
+      "lemma": "愛想",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0189",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0189",
+          "start": 556.433
+        }
+      ],
+      "surface_examples": [
+        "愛想"
+      ]
+    },
+    {
+      "lemma": "今",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0192",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0192",
+          "start": 564.566
+        }
+      ],
+      "surface_examples": [
+        "今"
+      ]
+    },
+    {
+      "lemma": "笑う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0192",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0192",
+          "start": 564.566
+        }
+      ],
+      "surface_examples": [
+        "笑っ"
+      ]
+    },
+    {
+      "lemma": "起こる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0193",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0193",
+          "start": 567.5
+        }
+      ],
+      "surface_examples": [
+        "起こる"
+      ]
+    },
+    {
+      "lemma": "布団",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0197",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0197",
+          "start": 579.0
+        }
+      ],
+      "surface_examples": [
+        "布団"
+      ]
+    },
+    {
+      "lemma": "資料",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0200",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0200",
+          "start": 681.4
+        }
+      ],
+      "surface_examples": [
+        "資料"
+      ]
+    },
+    {
+      "lemma": "広告",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0201",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0201",
+          "start": 683.1
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0521",
+          "start": 1631.366
+        }
+      ],
+      "surface_examples": [
+        "広告"
+      ]
+    },
+    {
+      "lemma": "部",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0201",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0201",
+          "start": 683.1
+        }
+      ],
+      "surface_examples": [
+        "部"
       ]
     },
     {
@@ -1517,6 +3770,96 @@
       ]
     },
     {
+      "lemma": "聡",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0202",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0202",
+          "start": 684.4
+        }
+      ],
+      "surface_examples": [
+        "聡"
+      ]
+    },
+    {
+      "lemma": "特集",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0202",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0202",
+          "start": 684.4
+        }
+      ],
+      "surface_examples": [
+        "特集"
+      ]
+    },
+    {
+      "lemma": "人手",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0205",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0205",
+          "start": 689.966
+        }
+      ],
+      "surface_examples": [
+        "人手"
+      ]
+    },
+    {
+      "lemma": "足りる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0205",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0205",
+          "start": 689.966
+        }
+      ],
+      "surface_examples": [
+        "足り"
+      ]
+    },
+    {
+      "lemma": "年",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0206",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0206",
+          "start": 690.933
+        }
+      ],
+      "surface_examples": [
+        "年"
+      ]
+    },
+    {
+      "lemma": "遠ざかる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0206",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0206",
+          "start": 690.933
+        }
+      ],
+      "surface_examples": [
+        "遠ざかっ"
+      ]
+    },
+    {
       "lemma": "手伝う",
       "pos": "動詞",
       "count": 1,
@@ -1555,6 +3898,59 @@
       ]
     },
     {
+      "lemma": "用",
+      "pos": "接尾辞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0210",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0210",
+          "start": 702.666
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0486",
+          "start": 1536.466
+        }
+      ],
+      "surface_examples": [
+        "用"
+      ]
+    },
+    {
+      "lemma": "建築家",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0210",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0210",
+          "start": 702.666
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0341",
+          "start": 1053.033
+        }
+      ],
+      "surface_examples": [
+        "建築家"
+      ]
+    },
+    {
+      "lemma": "絵",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0212",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0212",
+          "start": 712.066
+        }
+      ],
+      "surface_examples": [
+        "絵"
+      ]
+    },
+    {
       "lemma": "編集長",
       "pos": "名詞",
       "count": 6,
@@ -1587,6 +3983,36 @@
       ],
       "surface_examples": [
         "編集長"
+      ]
+    },
+    {
+      "lemma": "子持ち",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0213",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0213",
+          "start": 718.3
+        }
+      ],
+      "surface_examples": [
+        "子持ち"
+      ]
+    },
+    {
+      "lemma": "囲う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0214",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0214",
+          "start": 720.966
+        }
+      ],
+      "surface_examples": [
+        "囲っ"
       ]
     },
     {
@@ -1640,14 +4066,48 @@
       ]
     },
     {
-      "lemma": "一同",
+      "lemma": "休憩",
       "pos": "名詞",
       "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0217",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0217",
+          "start": 729.433
+        }
+      ],
+      "surface_examples": [
+        "休憩"
+      ]
+    },
+    {
+      "lemma": "一生懸命",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0217",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0217",
+          "start": 729.433
+        }
+      ],
+      "surface_examples": [
+        "一生懸命"
+      ]
+    },
+    {
+      "lemma": "一同",
+      "pos": "名詞",
+      "count": 2,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0219",
       "occurrences": [
         {
           "sentence_id": "at-home-dad-s01-e03-0219",
           "start": 732.833
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0296",
+          "start": 926.0
         }
       ],
       "surface_examples": [
@@ -1655,9 +4115,43 @@
       ]
     },
     {
+      "lemma": "笛",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0220",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0220",
+          "start": 734.566
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0221",
+          "start": 742.1
+        }
+      ],
+      "surface_examples": [
+        "笛"
+      ]
+    },
+    {
+      "lemma": "将来",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0222",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0222",
+          "start": 745.766
+        }
+      ],
+      "surface_examples": [
+        "将来"
+      ]
+    },
+    {
       "lemma": "主夫",
       "pos": "名詞",
-      "count": 4,
+      "count": 5,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0226",
       "occurrences": [
         {
@@ -1667,6 +4161,10 @@
         {
           "sentence_id": "at-home-dad-s01-e03-0415",
           "start": 1313.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0490",
+          "start": 1556.466
         },
         {
           "sentence_id": "at-home-dad-s01-e03-0505",
@@ -1705,22 +4203,305 @@
       ]
     },
     {
-      "lemma": "子供たち",
+      "lemma": "忘れる",
+      "pos": "動詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0229",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0229",
+          "start": 763.433
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0556",
+          "start": 1740.633
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0755",
+          "start": 2360.233
+        }
+      ],
+      "surface_examples": [
+        "忘れ"
+      ]
+    },
+    {
+      "lemma": "お菓子",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0233",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0233",
+          "start": 770.633
+        }
+      ],
+      "surface_examples": [
+        "お菓子"
+      ]
+    },
+    {
+      "lemma": "作り",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0233",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0233",
+          "start": 770.633
+        }
+      ],
+      "surface_examples": [
+        "作り"
+      ]
+    },
+    {
+      "lemma": "場所",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0234",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0234",
+          "start": 772.866
+        }
+      ],
+      "surface_examples": [
+        "場所"
+      ]
+    },
+    {
+      "lemma": "情報",
       "pos": "名詞",
       "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0235",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0235",
+          "start": 774.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0330",
+          "start": 1022.1
+        }
+      ],
+      "surface_examples": [
+        "情報"
+      ]
+    },
+    {
+      "lemma": "交換",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0235",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0235",
+          "start": 774.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0330",
+          "start": 1022.1
+        }
+      ],
+      "surface_examples": [
+        "交換"
+      ]
+    },
+    {
+      "lemma": "交流",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0235",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0235",
+          "start": 774.7
+        }
+      ],
+      "surface_examples": [
+        "交流"
+      ]
+    },
+    {
+      "lemma": "深める",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0235",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0235",
+          "start": 774.7
+        }
+      ],
+      "surface_examples": [
+        "深め"
+      ]
+    },
+    {
+      "lemma": "付き合い",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0236",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0236",
+          "start": 777.1
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0718",
+          "start": 2258.266
+        }
+      ],
+      "surface_examples": [
+        "付き合い"
+      ]
+    },
+    {
+      "lemma": "影響",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0236",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0236",
+          "start": 777.1
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0353",
+          "start": 1081.733
+        }
+      ],
+      "surface_examples": [
+        "影響"
+      ]
+    },
+    {
+      "lemma": "仲良く",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0236",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0236",
+          "start": 777.1
+        }
+      ],
+      "surface_examples": [
+        "仲良く"
+      ]
+    },
+    {
+      "lemma": "同士",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0240",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0240",
+          "start": 784.733
+        }
+      ],
+      "surface_examples": [
+        "同士"
+      ]
+    },
+    {
+      "lemma": "口",
+      "pos": "名詞",
+      "count": 1,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0241",
       "occurrences": [
         {
           "sentence_id": "at-home-dad-s01-e03-0241",
           "start": 786.866
-        },
-        {
-          "sentence_id": "at-home-dad-s01-e03-0299",
-          "start": 936.366
         }
       ],
       "surface_examples": [
-        "子供たち"
+        "口"
+      ]
+    },
+    {
+      "lemma": "利く",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0241",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0241",
+          "start": 786.866
+        }
+      ],
+      "surface_examples": [
+        "利か"
+      ]
+    },
+    {
+      "lemma": "仲間",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0243",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0243",
+          "start": 790.266
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0490",
+          "start": 1556.466
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0770",
+          "start": 2403.233
+        }
+      ],
+      "surface_examples": [
+        "仲間"
+      ]
+    },
+    {
+      "lemma": "健",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0246",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0246",
+          "start": 797.2
+        }
+      ],
+      "surface_examples": [
+        "健"
+      ]
+    },
+    {
+      "lemma": "仲",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0246",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0246",
+          "start": 797.2
+        }
+      ],
+      "surface_examples": [
+        "仲"
+      ]
+    },
+    {
+      "lemma": "良い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0246",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0246",
+          "start": 797.2
+        }
+      ],
+      "surface_examples": [
+        "良かっ"
       ]
     },
     {
@@ -1810,6 +4591,85 @@
       ]
     },
     {
+      "lemma": "親指",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0257",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0257",
+          "start": 823.5
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0258",
+          "start": 825.4
+        }
+      ],
+      "surface_examples": [
+        "親指"
+      ]
+    },
+    {
+      "lemma": "息つぎ",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0262",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0262",
+          "start": 834.0
+        }
+      ],
+      "surface_examples": [
+        "息つぎ"
+      ]
+    },
+    {
+      "lemma": "濡れる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0269",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0269",
+          "start": 850.5
+        }
+      ],
+      "surface_examples": [
+        "濡れ"
+      ]
+    },
+    {
+      "lemma": "増える",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0269",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0269",
+          "start": 850.5
+        }
+      ],
+      "surface_examples": [
+        "増える"
+      ]
+    },
+    {
+      "lemma": "親子",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0271",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0271",
+          "start": 857.266
+        }
+      ],
+      "surface_examples": [
+        "親子"
+      ]
+    },
+    {
       "lemma": "母親",
       "pos": "名詞",
       "count": 1,
@@ -1860,6 +4720,45 @@
       ]
     },
     {
+      "lemma": "焼き",
+      "pos": "接尾辞",
+      "count": 7,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0277",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0277",
+          "start": 873.833
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0278",
+          "start": 878.366
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0280",
+          "start": 883.533
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0284",
+          "start": 893.766
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0291",
+          "start": 910.466
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0741",
+          "start": 2325.6
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0760",
+          "start": 2387.633
+        }
+      ],
+      "surface_examples": [
+        "焼き"
+      ]
+    },
+    {
       "lemma": "毎日",
       "pos": "名詞",
       "count": 5,
@@ -1888,6 +4787,645 @@
       ],
       "surface_examples": [
         "毎日"
+      ]
+    },
+    {
+      "lemma": "献立",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0279",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0279",
+          "start": 879.8
+        }
+      ],
+      "surface_examples": [
+        "献立"
+      ]
+    },
+    {
+      "lemma": "楽",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0279",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0279",
+          "start": 879.8
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0509",
+          "start": 1600.666
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0653",
+          "start": 2024.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0745",
+          "start": 2336.366
+        }
+      ],
+      "surface_examples": [
+        "楽"
+      ]
+    },
+    {
+      "lemma": "浸る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0283",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0283",
+          "start": 890.966
+        }
+      ],
+      "surface_examples": [
+        "浸っ"
+      ]
+    },
+    {
+      "lemma": "店",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0288",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0288",
+          "start": 901.433
+        }
+      ],
+      "surface_examples": [
+        "店"
+      ]
+    },
+    {
+      "lemma": "慣れる",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0288",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0288",
+          "start": 901.433
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0466",
+          "start": 1481.133
+        }
+      ],
+      "surface_examples": [
+        "慣れ",
+        "慣れる"
+      ]
+    },
+    {
+      "lemma": "外す",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0289",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0289",
+          "start": 904.966
+        }
+      ],
+      "surface_examples": [
+        "外し"
+      ]
+    },
+    {
+      "lemma": "立てる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0295",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0295",
+          "start": 922.466
+        }
+      ],
+      "surface_examples": [
+        "立てる"
+      ]
+    },
+    {
+      "lemma": "手作り",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0301",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0301",
+          "start": 944.733
+        }
+      ],
+      "surface_examples": [
+        "手作り"
+      ]
+    },
+    {
+      "lemma": "買う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0302",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0302",
+          "start": 946.7
+        }
+      ],
+      "surface_examples": [
+        "買っ"
+      ]
+    },
+    {
+      "lemma": "甘い",
+      "pos": "形容詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0302",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0302",
+          "start": 946.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0305",
+          "start": 955.166
+        }
+      ],
+      "surface_examples": [
+        "甘",
+        "甘い"
+      ]
+    },
+    {
+      "lemma": "添加物",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0302",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0302",
+          "start": 946.7
+        }
+      ],
+      "surface_examples": [
+        "添加物"
+      ]
+    },
+    {
+      "lemma": "全然",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0303",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0303",
+          "start": 951.5
+        }
+      ],
+      "surface_examples": [
+        "全然"
+      ]
+    },
+    {
+      "lemma": "違う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0303",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0303",
+          "start": 951.5
+        }
+      ],
+      "surface_examples": [
+        "違い"
+      ]
+    },
+    {
+      "lemma": "物",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0305",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0305",
+          "start": 955.166
+        }
+      ],
+      "surface_examples": [
+        "物"
+      ]
+    },
+    {
+      "lemma": "嫌い",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0305",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0305",
+          "start": 955.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0639",
+          "start": 1984.866
+        }
+      ],
+      "surface_examples": [
+        "嫌い"
+      ]
+    },
+    {
+      "lemma": "捜す",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0308",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0308",
+          "start": 961.966
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0581",
+          "start": 1814.266
+        }
+      ],
+      "surface_examples": [
+        "捜さ",
+        "捜そう"
+      ]
+    },
+    {
+      "lemma": "爪切り",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0309",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0309",
+          "start": 964.133
+        }
+      ],
+      "surface_examples": [
+        "爪切り"
+      ]
+    },
+    {
+      "lemma": "立つ",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0310",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0310",
+          "start": 967.033
+        }
+      ],
+      "surface_examples": [
+        "立ち"
+      ]
+    },
+    {
+      "lemma": "杯",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0312",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0312",
+          "start": 973.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0320",
+          "start": 995.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0408",
+          "start": 1295.133
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0710",
+          "start": 2222.166
+        }
+      ],
+      "surface_examples": [
+        "杯"
+      ]
+    },
+    {
+      "lemma": "願い事",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0314",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0314",
+          "start": 978.533
+        }
+      ],
+      "surface_examples": [
+        "願い事"
+      ]
+    },
+    {
+      "lemma": "休み",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0315",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0315",
+          "start": 980.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0322",
+          "start": 999.7
+        }
+      ],
+      "surface_examples": [
+        "休み"
+      ]
+    },
+    {
+      "lemma": "戦う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0317",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0317",
+          "start": 986.8
+        }
+      ],
+      "surface_examples": [
+        "戦っ"
+      ]
+    },
+    {
+      "lemma": "大きな",
+      "pos": "連体詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0318",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0318",
+          "start": 990.733
+        }
+      ],
+      "surface_examples": [
+        "大きな"
+      ]
+    },
+    {
+      "lemma": "担う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0318",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0318",
+          "start": 990.733
+        }
+      ],
+      "surface_examples": [
+        "担っ"
+      ]
+    },
+    {
+      "lemma": "仕事",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0320",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0320",
+          "start": 995.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0770",
+          "start": 2403.233
+        }
+      ],
+      "surface_examples": [
+        "仕事"
+      ]
+    },
+    {
+      "lemma": "息抜き",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0320",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0320",
+          "start": 995.033
+        }
+      ],
+      "surface_examples": [
+        "息抜き"
+      ]
+    },
+    {
+      "lemma": "休む",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0321",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0321",
+          "start": 997.833
+        }
+      ],
+      "surface_examples": [
+        "休み"
+      ]
+    },
+    {
+      "lemma": "残業手当",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0324",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0324",
+          "start": 1004.433
+        }
+      ],
+      "surface_examples": [
+        "残業手当"
+      ]
+    },
+    {
+      "lemma": "最高",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0327",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0327",
+          "start": 1012.7
+        }
+      ],
+      "surface_examples": [
+        "最高"
+      ]
+    },
+    {
+      "lemma": "有意義",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0330",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0330",
+          "start": 1022.1
+        }
+      ],
+      "surface_examples": [
+        "有意義"
+      ]
+    },
+    {
+      "lemma": "場",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0330",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0330",
+          "start": 1022.1
+        }
+      ],
+      "surface_examples": [
+        "場"
+      ]
+    },
+    {
+      "lemma": "不満",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0331",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0331",
+          "start": 1024.733
+        }
+      ],
+      "surface_examples": [
+        "不満"
+      ]
+    },
+    {
+      "lemma": "解決策",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0331",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0331",
+          "start": 1024.733
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0332",
+          "start": 1027.633
+        }
+      ],
+      "surface_examples": [
+        "解決策"
+      ]
+    },
+    {
+      "lemma": "愚痴",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0333",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0333",
+          "start": 1029.7
+        }
+      ],
+      "surface_examples": [
+        "愚痴"
+      ]
+    },
+    {
+      "lemma": "ストレス解消",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0333",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0333",
+          "start": 1029.7
+        }
+      ],
+      "surface_examples": [
+        "ストレス解消"
+      ]
+    },
+    {
+      "lemma": "楽しい",
+      "pos": "形容詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0335",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0335",
+          "start": 1034.833
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0425",
+          "start": 1343.933
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0654",
+          "start": 2027.366
+        }
+      ],
+      "surface_examples": [
+        "楽しい",
+        "楽し",
+        "楽しく"
+      ]
+    },
+    {
+      "lemma": "楽しむ",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0336",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0336",
+          "start": 1036.433
+        }
+      ],
+      "surface_examples": [
+        "楽しん"
+      ]
+    },
+    {
+      "lemma": "主義",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0336",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0336",
+          "start": 1036.433
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0747",
+          "start": 2342.266
+        }
+      ],
+      "surface_examples": [
+        "主義"
       ]
     },
     {
@@ -1925,6 +5463,55 @@
       ]
     },
     {
+      "lemma": "直接",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0344",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0344",
+          "start": 1059.566
+        }
+      ],
+      "surface_examples": [
+        "直接"
+      ]
+    },
+    {
+      "lemma": "送る",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0347",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0347",
+          "start": 1067.066
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0372",
+          "start": 1170.166
+        }
+      ],
+      "surface_examples": [
+        "送っ"
+      ]
+    },
+    {
+      "lemma": "通り道",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0349",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0349",
+          "start": 1069.8
+        }
+      ],
+      "surface_examples": [
+        "通り道"
+      ]
+    },
+    {
       "lemma": "結構",
       "pos": "副詞",
       "count": 1,
@@ -1940,6 +5527,101 @@
       ]
     },
     {
+      "lemma": "好き",
+      "pos": "形状詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0352",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0352",
+          "start": 1078.666
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0525",
+          "start": 1642.933
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0569",
+          "start": 1782.433
+        }
+      ],
+      "surface_examples": [
+        "好き"
+      ]
+    },
+    {
+      "lemma": "作家",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0352",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0352",
+          "start": 1078.666
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0364",
+          "start": 1141.9
+        }
+      ],
+      "surface_examples": [
+        "作家"
+      ]
+    },
+    {
+      "lemma": "彼",
+      "pos": "代名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0353",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0353",
+          "start": 1081.733
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0649",
+          "start": 2011.233
+        }
+      ],
+      "surface_examples": [
+        "彼"
+      ]
+    },
+    {
+      "lemma": "小説",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0353",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0353",
+          "start": 1081.733
+        }
+      ],
+      "surface_examples": [
+        "小説"
+      ]
+    },
+    {
+      "lemma": "受ける",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0353",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0353",
+          "start": 1081.733
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0624",
+          "start": 1931.7
+        }
+      ],
+      "surface_examples": [
+        "受け"
+      ]
+    },
+    {
       "lemma": "出版",
       "pos": "名詞",
       "count": 1,
@@ -1952,6 +5634,164 @@
       ],
       "surface_examples": [
         "出版"
+      ]
+    },
+    {
+      "lemma": "世界",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0353",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0353",
+          "start": 1081.733
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0356",
+          "start": 1093.2
+        }
+      ],
+      "surface_examples": [
+        "世界"
+      ]
+    },
+    {
+      "lemma": "感動",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0354",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0354",
+          "start": 1086.0
+        }
+      ],
+      "surface_examples": [
+        "感動"
+      ]
+    },
+    {
+      "lemma": "冊",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0355",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0355",
+          "start": 1089.333
+        }
+      ],
+      "surface_examples": [
+        "冊"
+      ]
+    },
+    {
+      "lemma": "人生",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0355",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0355",
+          "start": 1089.333
+        }
+      ],
+      "surface_examples": [
+        "人生"
+      ]
+    },
+    {
+      "lemma": "変わる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0355",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0355",
+          "start": 1089.333
+        }
+      ],
+      "surface_examples": [
+        "変わっ"
+      ]
+    },
+    {
+      "lemma": "携わる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0356",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0356",
+          "start": 1093.2
+        }
+      ],
+      "surface_examples": [
+        "携わり"
+      ]
+    },
+    {
+      "lemma": "着く",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0358",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0358",
+          "start": 1101.166
+        }
+      ],
+      "surface_examples": [
+        "着い"
+      ]
+    },
+    {
+      "lemma": "持つ",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0363",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0363",
+          "start": 1137.4
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0678",
+          "start": 2121.5
+        }
+      ],
+      "surface_examples": [
+        "持っ"
+      ]
+    },
+    {
+      "lemma": "人気",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0364",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0364",
+          "start": 1141.9
+        }
+      ],
+      "surface_examples": [
+        "人気"
+      ]
+    },
+    {
+      "lemma": "新刊",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0364",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0364",
+          "start": 1141.9
+        }
+      ],
+      "surface_examples": [
+        "新刊"
       ]
     },
     {
@@ -1974,7 +5814,120 @@
       ]
     },
     {
-      "lemma": "お一人様",
+      "lemma": "視点",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0368",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0368",
+          "start": 1152.333
+        }
+      ],
+      "surface_examples": [
+        "視点"
+      ]
+    },
+    {
+      "lemma": "新鮮",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0368",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0368",
+          "start": 1152.333
+        }
+      ],
+      "surface_examples": [
+        "新鮮"
+      ]
+    },
+    {
+      "lemma": "面白い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0368",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0368",
+          "start": 1152.333
+        }
+      ],
+      "surface_examples": [
+        "面白かっ"
+      ]
+    },
+    {
+      "lemma": "感想",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0369",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0369",
+          "start": 1154.966
+        }
+      ],
+      "surface_examples": [
+        "感想"
+      ]
+    },
+    {
+      "lemma": "お買い得",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0381",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0381",
+          "start": 1199.4
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0445",
+          "start": 1419.333
+        }
+      ],
+      "surface_examples": [
+        "お買い得"
+      ]
+    },
+    {
+      "lemma": "品",
+      "pos": "接尾辞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0381",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0381",
+          "start": 1199.4
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0438",
+          "start": 1380.633
+        }
+      ],
+      "surface_examples": [
+        "品"
+      ]
+    },
+    {
+      "lemma": "安い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0381",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0381",
+          "start": 1199.4
+        }
+      ],
+      "surface_examples": [
+        "安く"
+      ]
+    },
+    {
+      "lemma": "本日",
       "pos": "名詞",
       "count": 1,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0382",
@@ -1985,11 +5938,11 @@
         }
       ],
       "surface_examples": [
-        "お一人様"
+        "本日"
       ]
     },
     {
-      "lemma": "何",
+      "lemma": "限り",
       "pos": "名詞",
       "count": 2,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0382",
@@ -2000,7 +5953,26 @@
         }
       ],
       "surface_examples": [
-        "何"
+        "限り"
+      ]
+    },
+    {
+      "lemma": "お一人様",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0382",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0382",
+          "start": 1202.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0438",
+          "start": 1380.633
+        }
+      ],
+      "surface_examples": [
+        "お一人様"
       ]
     },
     {
@@ -2019,29 +5991,18 @@
       ]
     },
     {
-      "lemma": "限り",
-      "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "at-home-dad-s01-e03-0382",
-      "occurrences": [
-        {
-          "sentence_id": "at-home-dad-s01-e03-0382",
-          "start": 1202.7
-        }
-      ],
-      "surface_examples": [
-        "限り"
-      ]
-    },
-    {
       "lemma": "先着",
       "pos": "名詞",
-      "count": 1,
+      "count": 2,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0382",
       "occurrences": [
         {
           "sentence_id": "at-home-dad-s01-e03-0382",
           "start": 1202.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0437",
+          "start": 1378.3
         }
       ],
       "surface_examples": [
@@ -2051,12 +6012,16 @@
     {
       "lemma": "名",
       "pos": "名詞",
-      "count": 1,
+      "count": 2,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0382",
       "occurrences": [
         {
           "sentence_id": "at-home-dad-s01-e03-0382",
           "start": 1202.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0437",
+          "start": 1378.3
         }
       ],
       "surface_examples": [
@@ -2064,8 +6029,8 @@
       ]
     },
     {
-      "lemma": "様",
-      "pos": "接尾辞",
+      "lemma": "見逃す",
+      "pos": "動詞",
       "count": 1,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0382",
       "occurrences": [
@@ -2075,7 +6040,82 @@
         }
       ],
       "surface_examples": [
-        "様"
+        "見逃す"
+      ]
+    },
+    {
+      "lemma": "風呂",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0384",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0384",
+          "start": 1214.833
+        }
+      ],
+      "surface_examples": [
+        "風呂"
+      ]
+    },
+    {
+      "lemma": "教室",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0387",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0387",
+          "start": 1223.866
+        }
+      ],
+      "surface_examples": [
+        "教室"
+      ]
+    },
+    {
+      "lemma": "亭主",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0389",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0389",
+          "start": 1231.066
+        }
+      ],
+      "surface_examples": [
+        "亭主"
+      ]
+    },
+    {
+      "lemma": "悪口",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0389",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0389",
+          "start": 1231.066
+        }
+      ],
+      "surface_examples": [
+        "悪口"
+      ]
+    },
+    {
+      "lemma": "違和感",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0411",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0411",
+          "start": 1304.333
+        }
+      ],
+      "surface_examples": [
+        "違和感"
       ]
     },
     {
@@ -2091,6 +6131,262 @@
       ],
       "surface_examples": [
         "夫"
+      ]
+    },
+    {
+      "lemma": "感謝",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0419",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0419",
+          "start": 1323.9
+        }
+      ],
+      "surface_examples": [
+        "感謝"
+      ]
+    },
+    {
+      "lemma": "下着",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0420",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0420",
+          "start": 1326.966
+        }
+      ],
+      "surface_examples": [
+        "下着"
+      ]
+    },
+    {
+      "lemma": "威厳",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0422",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0422",
+          "start": 1335.033
+        }
+      ],
+      "surface_examples": [
+        "威厳"
+      ]
+    },
+    {
+      "lemma": "屈託",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0426",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0426",
+          "start": 1346.366
+        }
+      ],
+      "surface_examples": [
+        "屈託"
+      ]
+    },
+    {
+      "lemma": "個",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0438",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0438",
+          "start": 1380.633
+        }
+      ],
+      "surface_examples": [
+        "個"
+      ]
+    },
+    {
+      "lemma": "特価",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0438",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0438",
+          "start": 1380.633
+        }
+      ],
+      "surface_examples": [
+        "特価"
+      ]
+    },
+    {
+      "lemma": "手",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0439",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0439",
+          "start": 1383.633
+        }
+      ],
+      "surface_examples": [
+        "手"
+      ]
+    },
+    {
+      "lemma": "何百",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0440",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0440",
+          "start": 1385.766
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0441",
+          "start": 1388.133
+        }
+      ],
+      "surface_examples": [
+        "何百"
+      ]
+    },
+    {
+      "lemma": "円",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0440",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0440",
+          "start": 1385.766
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0441",
+          "start": 1388.133
+        }
+      ],
+      "surface_examples": [
+        "円"
+      ]
+    },
+    {
+      "lemma": "積もる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0442",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0442",
+          "start": 1390.066
+        }
+      ],
+      "surface_examples": [
+        "積もれ"
+      ]
+    },
+    {
+      "lemma": "警備員",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0443",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0443",
+          "start": 1400.7
+        }
+      ],
+      "surface_examples": [
+        "警備員"
+      ]
+    },
+    {
+      "lemma": "札",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0446",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0446",
+          "start": 1420.766
+        }
+      ],
+      "surface_examples": [
+        "札"
+      ]
+    },
+    {
+      "lemma": "遣い",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0446",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0446",
+          "start": 1420.766
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0451",
+          "start": 1441.4
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0595",
+          "start": 1857.333
+        }
+      ],
+      "surface_examples": [
+        "遣い"
+      ]
+    },
+    {
+      "lemma": "2万",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0450",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0450",
+          "start": 1439.066
+        }
+      ],
+      "surface_examples": [
+        "２万"
+      ]
+    },
+    {
+      "lemma": "高い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0450",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0450",
+          "start": 1439.066
+        }
+      ],
+      "surface_examples": [
+        "高"
+      ]
+    },
+    {
+      "lemma": "特別",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0452",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0452",
+          "start": 1444.1
+        }
+      ],
+      "surface_examples": [
+        "特別"
       ]
     },
     {
@@ -2156,6 +6452,142 @@
       ]
     },
     {
+      "lemma": "感激",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0455",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0455",
+          "start": 1449.6
+        }
+      ],
+      "surface_examples": [
+        "感激"
+      ]
+    },
+    {
+      "lemma": "旅行",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0456",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0456",
+          "start": 1452.833
+        }
+      ],
+      "surface_examples": [
+        "旅行"
+      ]
+    },
+    {
+      "lemma": "白樺",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0456",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0456",
+          "start": 1452.833
+        }
+      ],
+      "surface_examples": [
+        "白樺"
+      ]
+    },
+    {
+      "lemma": "湖",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0456",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0456",
+          "start": 1452.833
+        }
+      ],
+      "surface_examples": [
+        "湖"
+      ]
+    },
+    {
+      "lemma": "お宅",
+      "pos": "代名詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0460",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0460",
+          "start": 1468.8
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0465",
+          "start": 1478.6
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0687",
+          "start": 2141.733
+        }
+      ],
+      "surface_examples": [
+        "お宅"
+      ]
+    },
+    {
+      "lemma": "体調",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0462",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0462",
+          "start": 1473.5
+        }
+      ],
+      "surface_examples": [
+        "体調"
+      ]
+    },
+    {
+      "lemma": "弱い",
+      "pos": "形容詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0469",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0469",
+          "start": 1491.266
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0470",
+          "start": 1493.166
+        }
+      ],
+      "surface_examples": [
+        "弱い"
+      ]
+    },
+    {
+      "lemma": "不足",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0471",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0471",
+          "start": 1496.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0473",
+          "start": 1504.0
+        }
+      ],
+      "surface_examples": [
+        "不足"
+      ]
+    },
+    {
       "lemma": "高野豆腐",
       "pos": "名詞",
       "count": 3,
@@ -2176,6 +6608,21 @@
       ],
       "surface_examples": [
         "高野豆腐"
+      ]
+    },
+    {
+      "lemma": "健康管理",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0475",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0475",
+          "start": 1509.133
+        }
+      ],
+      "surface_examples": [
+        "健康管理"
       ]
     },
     {
@@ -2218,6 +6665,70 @@
       ]
     },
     {
+      "lemma": "撮影",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0479",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0479",
+          "start": 1518.666
+        }
+      ],
+      "surface_examples": [
+        "撮影"
+      ]
+    },
+    {
+      "lemma": "近所",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0479",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0479",
+          "start": 1518.666
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0482",
+          "start": 1524.7
+        }
+      ],
+      "surface_examples": [
+        "近所"
+      ]
+    },
+    {
+      "lemma": "寄る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0479",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0479",
+          "start": 1518.666
+        }
+      ],
+      "surface_examples": [
+        "寄っ"
+      ]
+    },
+    {
+      "lemma": "元",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0483",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0483",
+          "start": 1528.9
+        }
+      ],
+      "surface_examples": [
+        "元"
+      ]
+    },
+    {
       "lemma": "部下",
       "pos": "名詞",
       "count": 3,
@@ -2238,6 +6749,331 @@
       ],
       "surface_examples": [
         "部下"
+      ]
+    },
+    {
+      "lemma": "戦利品",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0488",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0488",
+          "start": 1540.2
+        }
+      ],
+      "surface_examples": [
+        "戦利品"
+      ]
+    },
+    {
+      "lemma": "制作",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0493",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0493",
+          "start": 1564.066
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0521",
+          "start": 1631.366
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0533",
+          "start": 1663.133
+        }
+      ],
+      "surface_examples": [
+        "制作"
+      ]
+    },
+    {
+      "lemma": "演出",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0493",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0493",
+          "start": 1564.066
+        }
+      ],
+      "surface_examples": [
+        "演出"
+      ]
+    },
+    {
+      "lemma": "探す",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0494",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0494",
+          "start": 1567.733
+        }
+      ],
+      "surface_examples": [
+        "探し"
+      ]
+    },
+    {
+      "lemma": "撮る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0498",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0498",
+          "start": 1575.433
+        }
+      ],
+      "surface_examples": [
+        "撮り"
+      ]
+    },
+    {
+      "lemma": "急",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0501",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0501",
+          "start": 1584.366
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0531",
+          "start": 1660.833
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0609",
+          "start": 1891.033
+        }
+      ],
+      "surface_examples": [
+        "急"
+      ]
+    },
+    {
+      "lemma": "都合",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0502",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0502",
+          "start": 1585.966
+        }
+      ],
+      "surface_examples": [
+        "都合"
+      ]
+    },
+    {
+      "lemma": "天地",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0506",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0506",
+          "start": 1593.933
+        }
+      ],
+      "surface_examples": [
+        "天地"
+      ]
+    },
+    {
+      "lemma": "次",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0507",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0507",
+          "start": 1595.933
+        }
+      ],
+      "surface_examples": [
+        "次"
+      ]
+    },
+    {
+      "lemma": "決まる",
+      "pos": "動詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0507",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0507",
+          "start": 1595.933
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0538",
+          "start": 1675.266
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0540",
+          "start": 1681.266
+        }
+      ],
+      "surface_examples": [
+        "決まる",
+        "決まっ"
+      ]
+    },
+    {
+      "lemma": "食",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0508",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0508",
+          "start": 1597.8
+        }
+      ],
+      "surface_examples": [
+        "食"
+      ]
+    },
+    {
+      "lemma": "昼寝",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0508",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0508",
+          "start": 1597.8
+        }
+      ],
+      "surface_examples": [
+        "昼寝"
+      ]
+    },
+    {
+      "lemma": "付き",
+      "pos": "接尾辞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0508",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0508",
+          "start": 1597.8
+        }
+      ],
+      "surface_examples": [
+        "付き"
+      ]
+    },
+    {
+      "lemma": "養う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0509",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0509",
+          "start": 1600.666
+        }
+      ],
+      "surface_examples": [
+        "養っ"
+      ]
+    },
+    {
+      "lemma": "夕方",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0512",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0512",
+          "start": 1607.133
+        }
+      ],
+      "surface_examples": [
+        "夕方"
+      ]
+    },
+    {
+      "lemma": "職場復帰",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0514",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0514",
+          "start": 1612.433
+        }
+      ],
+      "surface_examples": [
+        "職場復帰"
+      ]
+    },
+    {
+      "lemma": "面接",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0515",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0515",
+          "start": 1614.5
+        }
+      ],
+      "surface_examples": [
+        "面接"
+      ]
+    },
+    {
+      "lemma": "女房",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0516",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0516",
+          "start": 1618.2
+        }
+      ],
+      "surface_examples": [
+        "女房"
+      ]
+    },
+    {
+      "lemma": "決める",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0517",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0517",
+          "start": 1619.966
+        }
+      ],
+      "surface_examples": [
+        "決め"
+      ]
+    },
+    {
+      "lemma": "醍醐味",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0520",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0520",
+          "start": 1627.4
+        }
+      ],
+      "surface_examples": [
+        "醍醐味"
       ]
     },
     {
@@ -2264,8 +7100,8 @@
       ]
     },
     {
-      "lemma": "広告",
-      "pos": "名詞",
+      "lemma": "第",
+      "pos": "接頭辞",
       "count": 1,
       "first_seen_sentence_id": "at-home-dad-s01-e03-0521",
       "occurrences": [
@@ -2275,7 +7111,7 @@
         }
       ],
       "surface_examples": [
-        "広告"
+        "第"
       ]
     },
     {
@@ -2294,6 +7130,134 @@
       ]
     },
     {
+      "lemma": "独創的",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0527",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0527",
+          "start": 1648.033
+        }
+      ],
+      "surface_examples": [
+        "独創的"
+      ]
+    },
+    {
+      "lemma": "発想",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0527",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0527",
+          "start": 1648.033
+        }
+      ],
+      "surface_examples": [
+        "発想"
+      ]
+    },
+    {
+      "lemma": "形",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0529",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0529",
+          "start": 1653.6
+        }
+      ],
+      "surface_examples": [
+        "形"
+      ]
+    },
+    {
+      "lemma": "紹介",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0533",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0533",
+          "start": 1663.133
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0592",
+          "start": 1850.433
+        }
+      ],
+      "surface_examples": [
+        "紹介"
+      ]
+    },
+    {
+      "lemma": "自由",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0536",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0536",
+          "start": 1669.733
+        }
+      ],
+      "surface_examples": [
+        "自由"
+      ]
+    },
+    {
+      "lemma": "環境",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0536",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0536",
+          "start": 1669.733
+        }
+      ],
+      "surface_examples": [
+        "環境"
+      ]
+    },
+    {
+      "lemma": "交代",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0539",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0539",
+          "start": 1676.9
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0540",
+          "start": 1681.266
+        }
+      ],
+      "surface_examples": [
+        "交代"
+      ]
+    },
+    {
+      "lemma": "段取り",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0541",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0541",
+          "start": 1683.2
+        }
+      ],
+      "surface_examples": [
+        "段取り"
+      ]
+    },
+    {
       "lemma": "何時ごろ",
       "pos": "名詞",
       "count": 1,
@@ -2309,6 +7273,36 @@
       ]
     },
     {
+      "lemma": "割と",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0546",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0546",
+          "start": 1694.5
+        }
+      ],
+      "surface_examples": [
+        "割と"
+      ]
+    },
+    {
+      "lemma": "断る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0553",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0553",
+          "start": 1731.566
+        }
+      ],
+      "surface_examples": [
+        "断っ"
+      ]
+    },
+    {
       "lemma": "約束",
       "pos": "名詞",
       "count": 1,
@@ -2321,6 +7315,154 @@
       ],
       "surface_examples": [
         "約束"
+      ]
+    },
+    {
+      "lemma": "憤慨",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0555",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0555",
+          "start": 1737.3
+        }
+      ],
+      "surface_examples": [
+        "憤慨"
+      ]
+    },
+    {
+      "lemma": "謝罪",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0559",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0559",
+          "start": 1750.2
+        }
+      ],
+      "surface_examples": [
+        "謝罪"
+      ]
+    },
+    {
+      "lemma": "説得",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0560",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0560",
+          "start": 1753.966
+        }
+      ],
+      "surface_examples": [
+        "説得"
+      ]
+    },
+    {
+      "lemma": "他",
+      "pos": "名詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0561",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0561",
+          "start": 1756.9
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0577",
+          "start": 1803.633
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0749",
+          "start": 2347.833
+        }
+      ],
+      "surface_examples": [
+        "他"
+      ]
+    },
+    {
+      "lemma": "当たる",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0561",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0561",
+          "start": 1756.9
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0579",
+          "start": 1809.833
+        }
+      ],
+      "surface_examples": [
+        "当たる",
+        "当たろう"
+      ]
+    },
+    {
+      "lemma": "暇",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0564",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0564",
+          "start": 1764.9
+        }
+      ],
+      "surface_examples": [
+        "暇"
+      ]
+    },
+    {
+      "lemma": "晩ごはん",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0567",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0567",
+          "start": 1779.0
+        }
+      ],
+      "surface_examples": [
+        "晩ごはん"
+      ]
+    },
+    {
+      "lemma": "喜ぶ",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0571",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0571",
+          "start": 1786.266
+        }
+      ],
+      "surface_examples": [
+        "喜ぶ"
+      ]
+    },
+    {
+      "lemma": "強い",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0574",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0574",
+          "start": 1795.8
+        }
+      ],
+      "surface_examples": [
+        "強"
       ]
     },
     {
@@ -2347,6 +7489,85 @@
       ]
     },
     {
+      "lemma": "調べる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0580",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0580",
+          "start": 1811.866
+        }
+      ],
+      "surface_examples": [
+        "調べ"
+      ]
+    },
+    {
+      "lemma": "連絡先",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0580",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0580",
+          "start": 1811.866
+        }
+      ],
+      "surface_examples": [
+        "連絡先"
+      ]
+    },
+    {
+      "lemma": "突然",
+      "pos": "副詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0590",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0590",
+          "start": 1847.533
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0743",
+          "start": 2329.6
+        }
+      ],
+      "surface_examples": [
+        "突然"
+      ]
+    },
+    {
+      "lemma": "優秀",
+      "pos": "形状詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0593",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0593",
+          "start": 1851.933
+        }
+      ],
+      "surface_examples": [
+        "優秀"
+      ]
+    },
+    {
+      "lemma": "厳しい",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0596",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0596",
+          "start": 1859.433
+        }
+      ],
+      "surface_examples": [
+        "厳しい"
+      ]
+    },
+    {
       "lemma": "経理",
       "pos": "名詞",
       "count": 1,
@@ -2359,6 +7580,36 @@
       ],
       "surface_examples": [
         "経理"
+      ]
+    },
+    {
+      "lemma": "企画",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0597",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0597",
+          "start": 1860.7
+        }
+      ],
+      "surface_examples": [
+        "企画"
+      ]
+    },
+    {
+      "lemma": "担当",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0597",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0597",
+          "start": 1860.7
+        }
+      ],
+      "surface_examples": [
+        "担当"
       ]
     },
     {
@@ -2407,6 +7658,190 @@
       ]
     },
     {
+      "lemma": "皆",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0603",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0603",
+          "start": 1876.8
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0659",
+          "start": 2039.2
+        }
+      ],
+      "surface_examples": [
+        "皆"
+      ]
+    },
+    {
+      "lemma": "座る",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0605",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0605",
+          "start": 1881.333
+        }
+      ],
+      "surface_examples": [
+        "座っ"
+      ]
+    },
+    {
+      "lemma": "栄養",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0607",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0607",
+          "start": 1885.366
+        }
+      ],
+      "surface_examples": [
+        "栄養"
+      ]
+    },
+    {
+      "lemma": "今日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0609",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0609",
+          "start": 1891.033
+        }
+      ],
+      "surface_examples": [
+        "今日"
+      ]
+    },
+    {
+      "lemma": "見繕う",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0610",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0610",
+          "start": 1892.4
+        }
+      ],
+      "surface_examples": [
+        "見繕っ"
+      ]
+    },
+    {
+      "lemma": "助かる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0612",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0612",
+          "start": 1896.533
+        }
+      ],
+      "surface_examples": [
+        "助かる"
+      ]
+    },
+    {
+      "lemma": "味見",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0616",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0616",
+          "start": 1905.9
+        }
+      ],
+      "surface_examples": [
+        "味見"
+      ]
+    },
+    {
+      "lemma": "創刊号",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0623",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0623",
+          "start": 1928.366
+        }
+      ],
+      "surface_examples": [
+        "創刊号"
+      ]
+    },
+    {
+      "lemma": "詳しい",
+      "pos": "形容詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0626",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0626",
+          "start": 1936.833
+        }
+      ],
+      "surface_examples": [
+        "詳しい"
+      ]
+    },
+    {
+      "lemma": "出る",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0626",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0626",
+          "start": 1936.833
+        }
+      ],
+      "surface_examples": [
+        "出"
+      ]
+    },
+    {
+      "lemma": "次第",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0626",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0626",
+          "start": 1936.833
+        }
+      ],
+      "surface_examples": [
+        "次第"
+      ]
+    },
+    {
+      "lemma": "申し分",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0630",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0630",
+          "start": 1946.1
+        }
+      ],
+      "surface_examples": [
+        "申し分"
+      ]
+    },
+    {
       "lemma": "迷惑",
       "pos": "名詞",
       "count": 3,
@@ -2430,6 +7865,219 @@
       ]
     },
     {
+      "lemma": "お供",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0636",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0636",
+          "start": 1965.1
+        }
+      ],
+      "surface_examples": [
+        "お供"
+      ]
+    },
+    {
+      "lemma": "理想",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0644",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0644",
+          "start": 1997.766
+        }
+      ],
+      "surface_examples": [
+        "理想"
+      ]
+    },
+    {
+      "lemma": "経営",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0646",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0646",
+          "start": 2001.766
+        }
+      ],
+      "surface_examples": [
+        "経営"
+      ]
+    },
+    {
+      "lemma": "専念",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0649",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0649",
+          "start": 2011.233
+        }
+      ],
+      "surface_examples": [
+        "専念"
+      ]
+    },
+    {
+      "lemma": "楽楽",
+      "pos": "副詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0654",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0654",
+          "start": 2027.366
+        }
+      ],
+      "surface_examples": [
+        "楽楽"
+      ]
+    },
+    {
+      "lemma": "飲む",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0658",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0658",
+          "start": 2036.3
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0717",
+          "start": 2257.266
+        }
+      ],
+      "surface_examples": [
+        "飲む",
+        "飲ん"
+      ]
+    },
+    {
+      "lemma": "時計",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0661",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0661",
+          "start": 2047.3
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0666",
+          "start": 2068.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0705",
+          "start": 2195.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0712",
+          "start": 2224.866
+        }
+      ],
+      "surface_examples": [
+        "時計"
+      ]
+    },
+    {
+      "lemma": "秒針",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0661",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0661",
+          "start": 2047.3
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0666",
+          "start": 2068.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0705",
+          "start": 2195.7
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0712",
+          "start": 2224.866
+        }
+      ],
+      "surface_examples": [
+        "秒針"
+      ]
+    },
+    {
+      "lemma": "振動",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0667",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0667",
+          "start": 2082.266
+        }
+      ],
+      "surface_examples": [
+        "振動"
+      ]
+    },
+    {
+      "lemma": "先",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0671",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0671",
+          "start": 2100.166
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0727",
+          "start": 2274.366
+        }
+      ],
+      "surface_examples": [
+        "先"
+      ]
+    },
+    {
+      "lemma": "貸す",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0672",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0672",
+          "start": 2103.8
+        }
+      ],
+      "surface_examples": [
+        "貸し"
+      ]
+    },
+    {
+      "lemma": "弁当箱",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0677",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0677",
+          "start": 2119.266
+        }
+      ],
+      "surface_examples": [
+        "弁当箱"
+      ]
+    },
+    {
       "lemma": "間違える",
       "pos": "動詞",
       "count": 1,
@@ -2445,6 +8093,70 @@
       ]
     },
     {
+      "lemma": "仕事中",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0683",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0683",
+          "start": 2130.966
+        }
+      ],
+      "surface_examples": [
+        "仕事中"
+      ]
+    },
+    {
+      "lemma": "話",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0686",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0686",
+          "start": 2138.333
+        }
+      ],
+      "surface_examples": [
+        "話"
+      ]
+    },
+    {
+      "lemma": "夫婦仲",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0689",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0689",
+          "start": 2147.0
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0696",
+          "start": 2164.333
+        }
+      ],
+      "surface_examples": [
+        "夫婦仲"
+      ]
+    },
+    {
+      "lemma": "確かめる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0695",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0695",
+          "start": 2160.966
+        }
+      ],
+      "surface_examples": [
+        "確かめ"
+      ]
+    },
+    {
       "lemma": "教育",
       "pos": "名詞",
       "count": 1,
@@ -2457,6 +8169,123 @@
       ],
       "surface_examples": [
         "教育"
+      ]
+    },
+    {
+      "lemma": "夜",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0700",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0700",
+          "start": 2180.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0701",
+          "start": 2184.366
+        }
+      ],
+      "surface_examples": [
+        "夜"
+      ]
+    },
+    {
+      "lemma": "朝",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0700",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0700",
+          "start": 2180.033
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0702",
+          "start": 2188.0
+        }
+      ],
+      "surface_examples": [
+        "朝"
+      ]
+    },
+    {
+      "lemma": "百万",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0704",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0704",
+          "start": 2193.0
+        }
+      ],
+      "surface_examples": [
+        "百万"
+      ]
+    },
+    {
+      "lemma": "回",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0704",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0704",
+          "start": 2193.0
+        }
+      ],
+      "surface_examples": [
+        "回"
+      ]
+    },
+    {
+      "lemma": "付き合わせる",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0706",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0706",
+          "start": 2208.366
+        }
+      ],
+      "surface_examples": [
+        "付き合わせ"
+      ]
+    },
+    {
+      "lemma": "用意",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0724",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0724",
+          "start": 2270.066
+        }
+      ],
+      "surface_examples": [
+        "用意"
+      ]
+    },
+    {
+      "lemma": "仕方ない",
+      "pos": "形容詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0729",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0729",
+          "start": 2278.666
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0764",
+          "start": 2395.4
+        }
+      ],
+      "surface_examples": [
+        "仕方ない"
       ]
     },
     {
@@ -2476,6 +8305,85 @@
       ],
       "surface_examples": [
         "上司"
+      ]
+    },
+    {
+      "lemma": "山",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0739",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0739",
+          "start": 2301.7
+        }
+      ],
+      "surface_examples": [
+        "山"
+      ]
+    },
+    {
+      "lemma": "怒る",
+      "pos": "動詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0742",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0742",
+          "start": 2326.8
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e03-0744",
+          "start": 2332.566
+        }
+      ],
+      "surface_examples": [
+        "怒っ"
+      ]
+    },
+    {
+      "lemma": "過ごす",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0745",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0745",
+          "start": 2336.366
+        }
+      ],
+      "surface_examples": [
+        "過ごし"
+      ]
+    },
+    {
+      "lemma": "命日",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0757",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0757",
+          "start": 2370.933
+        }
+      ],
+      "surface_examples": [
+        "命日"
+      ]
+    },
+    {
+      "lemma": "焼く",
+      "pos": "動詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e03-0762",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e03-0762",
+          "start": 2390.166
+        }
+      ],
+      "surface_examples": [
+        "焼き"
       ]
     },
     {

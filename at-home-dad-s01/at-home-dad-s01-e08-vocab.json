@@ -1,8 +1,8 @@
 {
   "chapter_id": "at-home-dad-s01-e08",
-  "generated_at": "2026-05-18T09:08:03.912872+00:00",
-  "total_unique_lemmas": 100,
-  "total_tokens_after_filter": 594,
+  "generated_at": "2026-05-26T04:17:00.270610+00:00",
+  "total_unique_lemmas": 105,
+  "total_tokens_after_filter": 607,
   "vocab": [
     {
       "lemma": "山村",
@@ -1382,12 +1382,16 @@
     {
       "lemma": "着信音",
       "pos": "名詞",
-      "count": 1,
+      "count": 2,
       "first_seen_sentence_id": "at-home-dad-s01-e08-0073",
       "occurrences": [
         {
           "sentence_id": "at-home-dad-s01-e08-0073",
           "start": 183.833
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e08-0572",
+          "start": 1647.033
         }
       ],
       "surface_examples": [
@@ -2770,7 +2774,7 @@
     {
       "lemma": "電話",
       "pos": "名詞",
-      "count": 7,
+      "count": 8,
       "first_seen_sentence_id": "at-home-dad-s01-e08-0398",
       "occurrences": [
         {
@@ -2784,6 +2788,10 @@
         {
           "sentence_id": "at-home-dad-s01-e08-0402",
           "start": 1167.9
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e08-0572",
+          "start": 1647.033
         },
         {
           "sentence_id": "at-home-dad-s01-e08-0575",
@@ -3281,6 +3289,25 @@
       ]
     },
     {
+      "lemma": "別",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "at-home-dad-s01-e08-0545",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e08-0545",
+          "start": 1567.133
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e08-0764",
+          "start": 2202.066
+        }
+      ],
+      "surface_examples": [
+        "別"
+      ]
+    },
+    {
       "lemma": "病気",
       "pos": "名詞",
       "count": 1,
@@ -3342,6 +3369,56 @@
       ],
       "surface_examples": [
         "夫婦"
+      ]
+    },
+    {
+      "lemma": "開く",
+      "pos": "動詞",
+      "count": 3,
+      "first_seen_sentence_id": "at-home-dad-s01-e08-0753",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e08-0753",
+          "start": 2176.766
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e08-0811",
+          "start": 2357.8
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e08-0876",
+          "start": 2658.433
+        }
+      ],
+      "surface_examples": [
+        "開く"
+      ]
+    },
+    {
+      "lemma": "音",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "at-home-dad-s01-e08-0753",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e08-0753",
+          "start": 2176.766
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e08-0811",
+          "start": 2357.8
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e08-0872",
+          "start": 2644.6
+        },
+        {
+          "sentence_id": "at-home-dad-s01-e08-0876",
+          "start": 2658.433
+        }
+      ],
+      "surface_examples": [
+        "音"
       ]
     },
     {
@@ -3432,6 +3509,36 @@
       ],
       "surface_examples": [
         "原稿"
+      ]
+    },
+    {
+      "lemma": "開閉",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e08-0872",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e08-0872",
+          "start": 2644.6
+        }
+      ],
+      "surface_examples": [
+        "開閉"
+      ]
+    },
+    {
+      "lemma": "案内",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "at-home-dad-s01-e08-0879",
+      "occurrences": [
+        {
+          "sentence_id": "at-home-dad-s01-e08-0879",
+          "start": 2667.033
+        }
+      ],
+      "surface_examples": [
+        "案内"
       ]
     },
     {

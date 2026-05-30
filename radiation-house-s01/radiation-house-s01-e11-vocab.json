@@ -1,8 +1,8 @@
 {
   "chapter_id": "radiation-house-s01-e11",
-  "generated_at": "2026-05-18T09:08:44.243171+00:00",
-  "total_unique_lemmas": 275,
-  "total_tokens_after_filter": 1052,
+  "generated_at": "2026-05-26T04:16:53.119598+00:00",
+  "total_unique_lemmas": 277,
+  "total_tokens_after_filter": 1061,
   "vocab": [
     {
       "lemma": "写真",
@@ -247,7 +247,7 @@
     {
       "lemma": "杏",
       "pos": "名詞",
-      "count": 23,
+      "count": 24,
       "first_seen_sentence_id": "radiation-house-s01-e11-0007",
       "occurrences": [
         {
@@ -1285,7 +1285,7 @@
     {
       "lemma": "先生",
       "pos": "名詞",
-      "count": 20,
+      "count": 19,
       "first_seen_sentence_id": "radiation-house-s01-e11-0011",
       "occurrences": [
         {
@@ -1303,10 +1303,6 @@
         {
           "sentence_id": "radiation-house-s01-e11-0120",
           "start": 383.783
-        },
-        {
-          "sentence_id": "radiation-house-s01-e11-0164",
-          "start": 530.73
         },
         {
           "sentence_id": "radiation-house-s01-e11-0216",
@@ -3598,7 +3594,7 @@
     {
       "lemma": "一同",
       "pos": "名詞",
-      "count": 7,
+      "count": 8,
       "first_seen_sentence_id": "radiation-house-s01-e11-0139",
       "occurrences": [
         {
@@ -3628,6 +3624,10 @@
         {
           "sentence_id": "radiation-house-s01-e11-0718",
           "start": 2886.717
+        },
+        {
+          "sentence_id": "radiation-house-s01-e11-0843",
+          "start": 3406.469
         }
       ],
       "surface_examples": [
@@ -4178,6 +4178,37 @@
       ]
     },
     {
+      "lemma": "大丈夫",
+      "pos": "形状詞",
+      "count": 5,
+      "first_seen_sentence_id": "radiation-house-s01-e11-0174",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e11-0174",
+          "start": 581.948
+        },
+        {
+          "sentence_id": "radiation-house-s01-e11-0219",
+          "start": 904.436
+        },
+        {
+          "sentence_id": "radiation-house-s01-e11-0383",
+          "start": 1546.511
+        },
+        {
+          "sentence_id": "radiation-house-s01-e11-0384",
+          "start": 1548.713
+        },
+        {
+          "sentence_id": "radiation-house-s01-e11-0569",
+          "start": 2236.467
+        }
+      ],
+      "surface_examples": [
+        "大丈夫"
+      ]
+    },
+    {
       "lemma": "医師",
       "pos": "名詞",
       "count": 18,
@@ -4566,33 +4597,6 @@
       ],
       "surface_examples": [
         "気持ち"
-      ]
-    },
-    {
-      "lemma": "大丈夫",
-      "pos": "形状詞",
-      "count": 4,
-      "first_seen_sentence_id": "radiation-house-s01-e11-0219",
-      "occurrences": [
-        {
-          "sentence_id": "radiation-house-s01-e11-0219",
-          "start": 904.436
-        },
-        {
-          "sentence_id": "radiation-house-s01-e11-0383",
-          "start": 1546.511
-        },
-        {
-          "sentence_id": "radiation-house-s01-e11-0384",
-          "start": 1548.713
-        },
-        {
-          "sentence_id": "radiation-house-s01-e11-0569",
-          "start": 2236.467
-        }
-      ],
-      "surface_examples": [
-        "大丈夫"
       ]
     },
     {
@@ -5001,6 +5005,52 @@
       ]
     },
     {
+      "lemma": "到着",
+      "pos": "名詞",
+      "count": 2,
+      "first_seen_sentence_id": "radiation-house-s01-e11-0285",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e11-0285",
+          "start": 1223.121
+        },
+        {
+          "sentence_id": "radiation-house-s01-e11-0655",
+          "start": 2612.109
+        }
+      ],
+      "surface_examples": [
+        "到着"
+      ]
+    },
+    {
+      "lemma": "音",
+      "pos": "名詞",
+      "count": 4,
+      "first_seen_sentence_id": "radiation-house-s01-e11-0285",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e11-0285",
+          "start": 1223.121
+        },
+        {
+          "sentence_id": "radiation-house-s01-e11-0302",
+          "start": 1294.593
+        },
+        {
+          "sentence_id": "radiation-house-s01-e11-0655",
+          "start": 2612.109
+        },
+        {
+          "sentence_id": "radiation-house-s01-e11-0793",
+          "start": 3278.408
+        }
+      ],
+      "surface_examples": [
+        "音"
+      ]
+    },
+    {
       "lemma": "給料",
       "pos": "名詞",
       "count": 1,
@@ -5058,21 +5108,6 @@
       ],
       "surface_examples": [
         "通知"
-      ]
-    },
-    {
-      "lemma": "音",
-      "pos": "名詞",
-      "count": 1,
-      "first_seen_sentence_id": "radiation-house-s01-e11-0302",
-      "occurrences": [
-        {
-          "sentence_id": "radiation-house-s01-e11-0302",
-          "start": 1294.593
-        }
-      ],
-      "surface_examples": [
-        "音"
       ]
     },
     {
@@ -5814,12 +5849,16 @@
     {
       "lemma": "電話",
       "pos": "名詞",
-      "count": 2,
+      "count": 3,
       "first_seen_sentence_id": "radiation-house-s01-e11-0424",
       "occurrences": [
         {
           "sentence_id": "radiation-house-s01-e11-0424",
           "start": 1705.37
+        },
+        {
+          "sentence_id": "radiation-house-s01-e11-0504",
+          "start": 1963.161
         },
         {
           "sentence_id": "radiation-house-s01-e11-0511",
@@ -6179,6 +6218,21 @@
       ],
       "surface_examples": [
         "影響"
+      ]
+    },
+    {
+      "lemma": "着信音",
+      "pos": "名詞",
+      "count": 1,
+      "first_seen_sentence_id": "radiation-house-s01-e11-0504",
+      "occurrences": [
+        {
+          "sentence_id": "radiation-house-s01-e11-0504",
+          "start": 1963.161
+        }
+      ],
+      "surface_examples": [
+        "着信音"
       ]
     },
     {
