@@ -13,10 +13,11 @@
   "date_updated": "2026-05-30T13:47:47.146874+00:00",
   "modes_supported": [
     "static_reading",
-    "audio_sync"
+    "audio_sync",
+    "interactive"
   ],
   "audio_available": true,
-  "interactive_available": false,
+  "interactive_available": true,
   "chapter_count": 10,
   "chapters": [
     {
@@ -24,7 +25,8 @@
       "chapter_number": 1,
       "title": "1. 暖簾の前で",
       "file": "ai-domestic-family-the-noodle-shop-ch001.json",
-      "audio_file": "ai-domestic-family-the-noodle-shop-ch001.mp3"
+      "audio_file": "ai-domestic-family-the-noodle-shop-ch001.mp3",
+      "interactive_file": "interactive/ai-domestic-family-the-noodle-shop-ch001.interactive.json"
     },
     {
       "chapter_id": "ai-domestic-family-the-noodle-shop-ch002",
