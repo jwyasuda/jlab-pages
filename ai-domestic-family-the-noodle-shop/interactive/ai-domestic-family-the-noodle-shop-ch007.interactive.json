@@ -1,0 +1,1516 @@
+{
+  "schema_version": 1,
+  "book_id": "ai-domestic-family-the-noodle-shop",
+  "world_id": "domestic-family",
+  "story_id": "the-noodle-shop",
+  "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+  "source_type": "ai_story",
+  "generated_at": "2026-06-13T14:50:23.348482+00:00",
+  "generator_version": "interactive-v1",
+  "status": "published",
+  "source_frozen_hash": "101be4cc1ab559aba3e7fa6e22d5f56eca40693cab6c7e497132647b4324c39e",
+  "nodes": [
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0020"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "会社に着いてからも、頭の片隅には常に美香の問いかけ___居座っていた。",
+        "prompt_jp": "頭の片隅には常に美香の問いかけ___居座っていた。",
+        "prompt_en": "Choose the particle that marks what was lingering in his mind."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "が"
+        },
+        {
+          "choice_id": "b",
+          "text": "は"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        },
+        {
+          "choice_id": "d",
+          "text": "に"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "The topic is already set by 頭の片隅には ('in the back of his mind'); 美香の問いかけ is the new thing being introduced as what occupies that space, so it takes が.",
+        "incorrect_en": "は would re-topicalize 問いかけ, competing with the には topic already in place. を/に don't fit because 居座る ('to sit/stay put') is intransitive — nothing is being acted on.",
+        "contrast_examples": [
+          {
+            "jp": "頭の中には不安が残っていた。",
+            "en": "Anxiety lingered in my head."
+          },
+          {
+            "jp": "その不安は、なかなか消えなかった。",
+            "en": "That anxiety (as topic) wouldn't go away."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 25,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0020"
+        ],
+        "start": 97.512,
+        "end": 103.68
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0001"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0015"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa.topic",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "朱美は小さくうなずき、それ以上は何も言わなかった。",
+        "prompt_jp": "朱美___小さくうなずき、それ以上は何も言わなかった。",
+        "prompt_en": "Choose the particle for Akemi, who is the continuing subject of this scene."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        },
+        {
+          "choice_id": "d",
+          "text": "に"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Akemi has just been speaking and is the established theme of the morning scene, so は continues her as the topic while the sentence comments on what she did.",
+        "incorrect_en": "が would frame Akemi as newly-noticed information, which clashes with the fact that she's already the active speaker. を/に can't mark the person doing the nodding.",
+        "contrast_examples": [
+          {
+            "jp": "朱美は何も言わなかった。",
+            "en": "Akemi (our continuing topic) said nothing."
+          },
+          {
+            "jp": "そのとき、朱美が口を開いた。",
+            "en": "At that moment, Akemi (new focus) opened her mouth."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 25,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0015"
+        ],
+        "start": 62.328,
+        "end": 67.104
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0002"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0024"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa.topic"
+      ],
+      "prompt": {
+        "context_jp": "父はおそらく、自分の意思を綱領のように残すことを、わざと避けたのだろう。",
+        "prompt_jp": "父___おそらく、自分の意思を綱領のように残すことを、わざと避けたのだろう。",
+        "prompt_en": "Choose the particle marking the father, the topic Daichi is reflecting on."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        },
+        {
+          "choice_id": "c",
+          "text": "に"
+        },
+        {
+          "choice_id": "d",
+          "text": "で"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Daichi is musing about his father as the theme of the whole sentence ('as for Dad, he probably...'), and おそらく/〜のだろう frames it as a reflection about a known person — classic topic は.",
+        "incorrect_en": "が would present the father as freshly introduced news, but he's already the subject of Daichi's thoughts. に/で don't fit a sentence whose subject is simply the father.",
+        "contrast_examples": [
+          {
+            "jp": "父は、何も言い残さなかった。",
+            "en": "As for my father, he left no words behind."
+          },
+          {
+            "jp": "そこに、父が立っていた。",
+            "en": "There stood my father (newly spotted)."
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 25,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0024"
+        ],
+        "start": 120.648,
+        "end": 127.008
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0003"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0032"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "その素直な声が、大地の決意を妙にやわらかく後押しした。",
+        "prompt_jp": "その素直な声___、大地の決意を妙にやわらかく後押しした。",
+        "prompt_en": "Choose the particle marking the voice that pushed his resolve forward."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "が"
+        },
+        {
+          "choice_id": "b",
+          "text": "は"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        },
+        {
+          "choice_id": "d",
+          "text": "に"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Souta's innocent voice is introduced here as the new force acting on Daichi's resolve, so が marks it as the fresh subject of that effect.",
+        "incorrect_en": "は would treat the voice as an already-established topic, but it's just entered the scene. を marks 決意, the thing being pushed — not the pusher; に doesn't fit a subject.",
+        "contrast_examples": [
+          {
+            "jp": "ふと、子どもの声が聞こえた。",
+            "en": "Suddenly, a child's voice (new) was heard."
+          },
+          {
+            "jp": "その声は、いつまでも耳に残った。",
+            "en": "That voice (now the topic) stayed in my ears."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 25,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0032"
+        ],
+        "start": 157.344,
+        "end": 162.888
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0004"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0019"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information"
+      ],
+      "prompt": {
+        "context_jp": "しかし、書けば書くほど、論理ではどうにも補えない部分が残ることに気づかされた。",
+        "prompt_jp": "論理ではどうにも補えない部分___残ることに気づかされた。",
+        "prompt_en": "Choose the particle marking the 'part' that remains."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "が"
+        },
+        {
+          "choice_id": "b",
+          "text": "は"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        },
+        {
+          "choice_id": "d",
+          "text": "に"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "He suddenly notices that a part remains — it's new information surfacing inside the 〜ことに気づく clause, so が marks 部分 as the discovered subject.",
+        "incorrect_en": "は would imply 部分 is already a known topic being contrasted, which doesn't match a sudden realization. を/に can't mark the subject of the intransitive 残る ('to remain').",
+        "contrast_examples": [
+          {
+            "jp": "説明できない部分が残った。",
+            "en": "A part that can't be explained remained."
+          },
+          {
+            "jp": "その部分は、後で考えることにした。",
+            "en": "That part (topic), I decided to think about later."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 25,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0019"
+        ],
+        "start": 90.84,
+        "end": 97.512
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0005"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0047"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa_ga.contrast",
+        "particle.ga.exhaustive_listing"
+      ],
+      "prompt": {
+        "context_jp": "今日こそ、美香に自分の言葉で答えを返さなくてはならない――その思いだけが、足を前に進めていた。",
+        "prompt_jp": "その思いだけ___、足を前に進めていた。",
+        "prompt_en": "Choose the particle that goes with だけ to mark the sole thing moving his feet."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "が"
+        },
+        {
+          "choice_id": "b",
+          "text": "は"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        },
+        {
+          "choice_id": "d",
+          "text": "に"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "だけが singles out 'that thought alone' as the one and only thing driving his feet forward — exclusive focus on the subject calls for が, not は.",
+        "incorrect_en": "だけは would shift to 'at least that thought,' a contrastive nuance that doesn't fit a sentence where the thought is the active force. を marks 足, the object being moved.",
+        "contrast_examples": [
+          {
+            "jp": "その思いだけが、彼を支えていた。",
+            "en": "That thought alone was supporting him."
+          },
+          {
+            "jp": "その思いだけは、忘れなかった。",
+            "en": "That one thought, at least, he didn't forget."
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 30,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0047"
+        ],
+        "start": 240.024,
+        "end": 248.208
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0006"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0008"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.de.location"
+      ],
+      "prompt": {
+        "context_jp": "朝、台所で朱美にコーヒーを淹れてもらいながら、大地はぼんやりと窓の外を見ていた。",
+        "prompt_jp": "朝、台所___朱美にコーヒーを淹れてもらいながら、大地は窓の外を見ていた。",
+        "prompt_en": "Choose the particle marking where the coffee-making happens."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "で"
+        },
+        {
+          "choice_id": "b",
+          "text": "に"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        },
+        {
+          "choice_id": "d",
+          "text": "へ"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "台所 is the location where the action (making coffee) takes place, so it takes で, the particle for the site of an activity.",
+        "incorrect_en": "に would mark a destination or point of existence, not the place of an ongoing action. を/へ don't fit a stationary location here.",
+        "contrast_examples": [
+          {
+            "jp": "台所でコーヒーを淹れる。",
+            "en": "Make coffee in the kitchen (activity site)."
+          },
+          {
+            "jp": "台所に立つ。",
+            "en": "Stand in the kitchen (point of location)."
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0008"
+        ],
+        "start": 34.368,
+        "end": 41.52
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0007"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0017"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ni.direction"
+      ],
+      "prompt": {
+        "context_jp": "子どものころ、父に手を引かれてこの踏切を渡ったことを、なぜか今ごろになって思い出した。",
+        "prompt_jp": "子どものころ、父___手を引かれてこの踏切を渡った。",
+        "prompt_en": "Choose the particle marking the agent of this passive (the one who led him by the hand)."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "に"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        },
+        {
+          "choice_id": "d",
+          "text": "で"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "引かれて is passive ('was led'), and the doer of a passive action — here the father — is marked with に.",
+        "incorrect_en": "が would make the father the subject of an active sentence, but here Daichi is the one being led. を marks 手 (the hand being pulled); で would read as a means/location.",
+        "contrast_examples": [
+          {
+            "jp": "父に手を引かれた。",
+            "en": "I was led by the hand by my father (passive agent)."
+          },
+          {
+            "jp": "父が手を引いた。",
+            "en": "My father pulled my hand (active subject)."
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 30,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0017"
+        ],
+        "start": 74.184,
+        "end": 81.84
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0008"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0021"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.de.location"
+      ],
+      "prompt": {
+        "context_jp": "昼休み、社員食堂の隅で、大地は思い切って父の手紙をもう一度取り出した。",
+        "prompt_jp": "昼休み、社員食堂の隅___、大地は父の手紙をもう一度取り出した。",
+        "prompt_en": "Choose the particle marking where he took the letter out."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "で"
+        },
+        {
+          "choice_id": "b",
+          "text": "に"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        },
+        {
+          "choice_id": "d",
+          "text": "から"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "The corner of the cafeteria is the place where the action (taking out the letter) occurs, so it takes で.",
+        "incorrect_en": "に would mark a location of existence or a destination, not the setting of an action. から would mean 'from the corner,' which isn't the meaning here.",
+        "contrast_examples": [
+          {
+            "jp": "隅で手紙を読む。",
+            "en": "Read the letter in the corner (activity site)."
+          },
+          {
+            "jp": "隅に座る。",
+            "en": "Sit down in the corner (endpoint)."
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0021"
+        ],
+        "start": 103.68,
+        "end": 110.37
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0009"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0027"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ni.direction"
+      ],
+      "prompt": {
+        "context_jp": "その晩、蒼太が宿題を抱えて居間に入ってきた。",
+        "prompt_jp": "その晩、蒼太が宿題を抱えて居間___入ってきた。",
+        "prompt_en": "Choose the particle marking where Souta entered."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "に"
+        },
+        {
+          "choice_id": "b",
+          "text": "で"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        },
+        {
+          "choice_id": "d",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "入る ('to enter') takes に for the place entered — the living room is the goal of the movement.",
+        "incorrect_en": "で would mark a place where an action happens, but entering targets an endpoint, so に is needed. を/が don't fit a destination here.",
+        "contrast_examples": [
+          {
+            "jp": "部屋に入る。",
+            "en": "Enter the room (goal of motion)."
+          },
+          {
+            "jp": "部屋で待つ。",
+            "en": "Wait in the room (activity site)."
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0027"
+        ],
+        "start": 135.96,
+        "end": 140.352
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0010"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0042"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ni.direction"
+      ],
+      "prompt": {
+        "context_jp": "土曜の朝、埼玉行きの電車に揺られながら、大地は窓の外を流れる景色を見ていた。",
+        "prompt_jp": "土曜の朝、埼玉行きの電車___揺られながら、大地は窓の外を見ていた。",
+        "prompt_en": "Choose the particle that goes with the passive 揺られる ('to be rocked')."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "に"
+        },
+        {
+          "choice_id": "b",
+          "text": "で"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        },
+        {
+          "choice_id": "d",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "電車に揺られる is a set passive pattern — the train is the thing doing the rocking, marked with に.",
+        "incorrect_en": "で would treat the train merely as a location/means, losing the 'being swayed by' nuance of the passive. を/が don't fit this passive construction.",
+        "contrast_examples": [
+          {
+            "jp": "電車に揺られて眠る。",
+            "en": "Doze off being rocked by the train."
+          },
+          {
+            "jp": "電車で通う。",
+            "en": "Commute by train (means)."
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 28,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0042"
+        ],
+        "start": 212.16,
+        "end": 219.528
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0011"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0018"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wo.direct_object"
+      ],
+      "prompt": {
+        "context_jp": "通勤電車に揺られている間、ノートを開いて、店を売るべきか続けるべきか、その理由をひとつずつ書き出してみた。",
+        "prompt_jp": "通勤電車に揺られている間、ノート___開いて、その理由をひとつずつ書き出してみた。",
+        "prompt_en": "Choose the particle marking the notebook he opened."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "を"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        },
+        {
+          "choice_id": "c",
+          "text": "に"
+        },
+        {
+          "choice_id": "d",
+          "text": "で"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "開く here is transitive ('to open something'), and the notebook is its direct object, so it takes を.",
+        "incorrect_en": "が would make the notebook the subject (as if it opened by itself). に/で don't mark the thing being opened.",
+        "contrast_examples": [
+          {
+            "jp": "ノートを開く。",
+            "en": "Open the notebook (object)."
+          },
+          {
+            "jp": "ドアが開く。",
+            "en": "The door opens (intransitive, on its own)."
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0018"
+        ],
+        "start": 81.84,
+        "end": 90.84
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0012"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0007"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "collocation.emotional_expression",
+        "vocabulary.verb_choice"
+      ],
+      "prompt": {
+        "context_jp": "むしろ、いかにこれまで自分が大切なものから目を背けてきたかが、改めて突きつけられただけだった。",
+        "prompt_jp": "いかにこれまで自分が大切なものから目を___きたかが、改めて突きつけられた。",
+        "prompt_en": "Choose the verb that completes 'turning my eyes away from what mattered.'"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "背けて"
+        },
+        {
+          "choice_id": "b",
+          "text": "向けて"
+        },
+        {
+          "choice_id": "c",
+          "text": "閉じて"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "目を背ける means to avert one's eyes / avoid facing something, which matches Daichi's admission that he'd been avoiding what mattered.",
+        "incorrect_en": "目を向ける means the opposite — to turn one's attention toward something. 目を閉じる ('close one's eyes') doesn't carry the sense of deliberately avoiding a reality.",
+        "contrast_examples": [
+          {
+            "jp": "現実から目を背ける。",
+            "en": "Avert one's eyes from reality."
+          },
+          {
+            "jp": "問題に目を向ける。",
+            "en": "Turn one's attention to the problem."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 30,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0007"
+        ],
+        "start": 26.616,
+        "end": 34.368
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0013"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0029"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "vocabulary.verb_choice"
+      ],
+      "prompt": {
+        "context_jp": "大地は思わず手元の新聞をたたんだ。",
+        "prompt_jp": "大地は思わず手元の新聞を___。",
+        "prompt_en": "Choose the verb that best describes what he did with the newspaper."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "たたんだ"
+        },
+        {
+          "choice_id": "b",
+          "text": "折った"
+        },
+        {
+          "choice_id": "c",
+          "text": "閉じた"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "新聞をたたむ is the natural way to say 'fold up a newspaper' (along its existing creases to set it aside).",
+        "incorrect_en": "折る suggests bending/creasing it, which sounds like damaging it. 閉じる is used for books or things that 'shut,' not an open newspaper.",
+        "contrast_examples": [
+          {
+            "jp": "新聞をたたむ。",
+            "en": "Fold up the newspaper."
+          },
+          {
+            "jp": "紙を折る。",
+            "en": "Crease/fold the paper (make a fold)."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 28,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0029"
+        ],
+        "start": 145.704,
+        "end": 149.424
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0014"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0041"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "vocabulary.verb_choice",
+        "collocation.emotional_expression"
+      ],
+      "prompt": {
+        "context_jp": "その言葉が、論理では補えなかった最後の隙間に、すっと収まったような気がした。",
+        "prompt_jp": "その言葉が、論理では補えなかった最後の隙間に、すっと___ような気がした。",
+        "prompt_en": "Choose the verb for the words 'settling neatly' into the gap."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "収まった"
+        },
+        {
+          "choice_id": "b",
+          "text": "入った"
+        },
+        {
+          "choice_id": "c",
+          "text": "落ちた"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "収まる means to settle into place and fit just right, capturing how Akemi's words filled the emotional gap snugly.",
+        "incorrect_en": "入る only says it 'went in,' without the sense of a perfect fit. 落ちる ('to fall') would sound accidental, not like something settling into its proper place.",
+        "contrast_examples": [
+          {
+            "jp": "話がうまく収まった。",
+            "en": "The matter settled nicely into place."
+          },
+          {
+            "jp": "箱に入った。",
+            "en": "It went into the box (just entered)."
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 30,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0041"
+        ],
+        "start": 205.368,
+        "end": 212.16
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0015"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0046"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "collocation.emotional_expression"
+      ],
+      "prompt": {
+        "context_jp": "大地は深く息を吸い、店の方角へと歩き出した。",
+        "prompt_jp": "大地は深く息を___、店の方角へと歩き出した。",
+        "prompt_en": "Choose the verb that completes 'took a deep breath.'"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "吸い"
+        },
+        {
+          "choice_id": "b",
+          "text": "吐き"
+        },
+        {
+          "choice_id": "c",
+          "text": "止め"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "深く息を吸う ('breathe in deeply') is the set gesture of steadying oneself before doing something hard — fitting Daichi before facing Mika.",
+        "incorrect_en": "息を吐く is to breathe out, the wrong direction for gathering resolve. 息を止める ('hold one's breath') describes tension or pausing, not preparing to act.",
+        "contrast_examples": [
+          {
+            "jp": "深く息を吸って、立ち上がった。",
+            "en": "He took a deep breath and stood up."
+          },
+          {
+            "jp": "ほっと息を吐いた。",
+            "en": "He breathed out in relief."
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 26,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0046"
+        ],
+        "start": 235.2,
+        "end": 240.024
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0016"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0003"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "vocabulary.verb_choice",
+        "collocation.emotional_expression"
+      ],
+      "prompt": {
+        "context_jp": "――口にした瞬間、二十年分の何かが胸の奥でほどけたような気がした。",
+        "prompt_jp": "口にした瞬間、二十年分の何かが胸の奥で___ような気がした。",
+        "prompt_en": "Choose the verb for the long-held tension 'coming undone' in his chest."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "ほどけた"
+        },
+        {
+          "choice_id": "b",
+          "text": "固まった"
+        },
+        {
+          "choice_id": "c",
+          "text": "詰まった"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "ほどける means a knot loosening/coming undone — a vivid image of twenty years of pent-up feeling releasing the moment he said it aloud.",
+        "incorrect_en": "固まる ('to harden/freeze') is the opposite of release. 詰まる ('to get clogged/stuck') would suggest things tightening up, not letting go.",
+        "contrast_examples": [
+          {
+            "jp": "緊張がほどけた。",
+            "en": "The tension came undone / loosened."
+          },
+          {
+            "jp": "胸が詰まった。",
+            "en": "My chest tightened (got choked up)."
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 30,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0003"
+        ],
+        "start": 11.544,
+        "end": 17.784
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0017"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0026"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "vocabulary.noun_choice",
+        "expression.set_phrase"
+      ],
+      "prompt": {
+        "context_jp": "それは優しさでもあり、同時に最も重い宿題でもあった。",
+        "prompt_jp": "それは優しさでもあり、同時に最も重い___でもあった。",
+        "prompt_en": "Choose the noun the father's open-ended freedom became — the metaphor that echoes the chapter title."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "宿題"
+        },
+        {
+          "choice_id": "b",
+          "text": "仕事"
+        },
+        {
+          "choice_id": "c",
+          "text": "命令"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "宿題 ('homework / a problem left for you to solve') ties directly to the chapter title 父の宿題 and to Souta's homework earlier — the father left Daichi a task to work out himself.",
+        "incorrect_en": "仕事 ('job/work') is too literal and loses the 'assigned to be solved' nuance. 命令 ('order') contradicts the point that the father gave freedom, not commands.",
+        "contrast_examples": [
+          {
+            "jp": "それは重い宿題だった。",
+            "en": "It was a heavy assignment to work out."
+          },
+          {
+            "jp": "父は命令を残さなかった。",
+            "en": "His father left no orders."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 28,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0026"
+        ],
+        "start": 130.968,
+        "end": 135.96
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0018"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0011"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness",
+        "register.casual"
+      ],
+      "prompt": {
+        "context_jp": "「ねえ」と朱美が静かに切り出した。その問いには、責める色も、諦めた色もなく、ただ事実だけを置くような口調だった。",
+        "prompt_jp": null,
+        "prompt_en": "Akemi quietly asks her husband this at breakfast, in a tone that just lays out the fact. Which line fits that intimate, understated tone?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "今週末も埼玉?"
+        },
+        {
+          "choice_id": "b",
+          "text": "今週末も埼玉に行かれるのですか?"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Between spouses, the clipped 「今週末も埼玉?」 matches the described tone — quiet, neutral, just placing the fact without pressure.",
+        "incorrect_en": "B's 行かれる + のですか is honorific and formal, which would sound oddly distant or stiff coming from a wife to her husband over morning coffee.",
+        "contrast_examples": [
+          {
+            "jp": "今週末も埼玉?",
+            "en": "Saitama again this weekend? (intimate, casual)"
+          },
+          {
+            "jp": "今週末も埼玉に行かれるのですか?",
+            "en": "Will you be going to Saitama this weekend as well? (formal/distant)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 32,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0011"
+        ],
+        "start": 45.696,
+        "end": 48.192
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0019"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0032"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness.collocation"
+      ],
+      "prompt": {
+        "context_jp": "その素直な声が、大地の決意を妙にやわらかく後押しした。",
+        "prompt_jp": null,
+        "prompt_en": "Which phrasing for 'the voice pushed his resolve forward' uses the natural collocation?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "大地の決意を後押しした"
+        },
+        {
+          "choice_id": "b",
+          "text": "大地の決意を後ろ押しした"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "後押しする ('to give a push / back up') is the established expression for encouraging or nudging something along, and pairs naturally with 決意 ('resolve').",
+        "incorrect_en": "後ろ押し is not the standard fixed compound; 後押し is the word that carries the figurative 'gave it a push' meaning here.",
+        "contrast_examples": [
+          {
+            "jp": "彼の一言が背中を後押しした。",
+            "en": "His words gave me a push forward."
+          },
+          {
+            "jp": "決意を後押しする。",
+            "en": "To bolster one's resolve."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 30,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0032"
+        ],
+        "start": 157.344,
+        "end": 162.888
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0020"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0001"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness.word_order"
+      ],
+      "prompt": {
+        "context_jp": "東京に戻ってから三日が過ぎたが、大地の頭の中ではあの日の自分の言葉がまだ反響していた。",
+        "prompt_jp": null,
+        "prompt_en": "Which word order reads more naturally for 'in his head, the words still echoed'?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "大地の頭の中ではあの日の自分の言葉がまだ反響していた"
+        },
+        {
+          "choice_id": "b",
+          "text": "あの日の自分の言葉が大地の頭の中ではまだ反響していた"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Placing the topic frame 頭の中では up front sets the scene ('in his head…'), then introduces the echoing words — a smooth, natural flow.",
+        "incorrect_en": "B splits the topic phrase 頭の中では away from the start and buries it after the subject, making the sentence feel jumbled and the では marker awkwardly placed.",
+        "contrast_examples": [
+          {
+            "jp": "頭の中では、その言葉が響いていた。",
+            "en": "In his head, those words were ringing."
+          },
+          {
+            "jp": "その言葉が頭の中では響いていた。",
+            "en": "(reordered) Those words, in his head, were ringing — clumsier."
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 35,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0001"
+        ],
+        "start": 0.0,
+        "end": 8.006323
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0021"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0015"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness.collocation"
+      ],
+      "prompt": {
+        "context_jp": "朱美は小さくうなずき、それ以上は何も言わなかった。",
+        "prompt_jp": null,
+        "prompt_en": "Which verb sounds more natural in 'she said nothing more'?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "それ以上は何も言わなかった"
+        },
+        {
+          "choice_id": "b",
+          "text": "それ以上は何も話さなかった"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "何も言わない ('didn't say anything') is the idiomatic pairing with 何も — it covers any utterance and fits 'said nothing more.'",
+        "incorrect_en": "話さなかった leans toward 'didn't have a conversation / didn't talk (at length),' which sounds off after a single quiet nod; 言う is the natural verb with 何も here.",
+        "contrast_examples": [
+          {
+            "jp": "彼女は何も言わなかった。",
+            "en": "She didn't say anything."
+          },
+          {
+            "jp": "二人はあまり話さなかった。",
+            "en": "The two didn't talk much (converse)."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 30,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0015"
+        ],
+        "start": 62.328,
+        "end": 67.104
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0022"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0028"
+      ],
+      "interaction_type": "register_choice",
+      "focus_tags": [
+        "register.casual"
+      ],
+      "prompt": {
+        "context_jp": "「お父さん、来月のじいちゃんの誕生日、お店に行くんでしょ?」",
+        "prompt_jp": null,
+        "prompt_en": "Souta is a young child asking his dad about the plan. Which ending fits a child speaking casually to a parent at home?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "お店に行くんでしょ?"
+        },
+        {
+          "choice_id": "b",
+          "text": "お店に行かれるのでしょうか?"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "A child talking to his father uses plain, casual speech — 〜んでしょ? confirms an expectation in a relaxed, familiar way.",
+        "incorrect_en": "B uses honorific 行かれる plus formal でしょうか, which a child would never use toward a parent — it sounds like a stranger addressing a customer.",
+        "contrast_examples": [
+          {
+            "jp": "お父さん、行くんでしょ?",
+            "en": "Dad, we're going, right? (child, casual)"
+          },
+          {
+            "jp": "行かれるのでしょうか?",
+            "en": "Will you be going? (formal/honorific — wrong for a child to parent)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 30,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0028"
+        ],
+        "start": 140.352,
+        "end": 145.704
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0023"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch007-0022"
+      ],
+      "interaction_type": "register_choice",
+      "focus_tags": [
+        "register.blunt",
+        "naturalness"
+      ],
+      "prompt": {
+        "context_jp": "「二人にとって正しいと思うことをしなさい」",
+        "prompt_jp": null,
+        "prompt_en": "This is the line in the father's letter to his adult son. Which directive form matches a parent's gentle-but-firm written instruction?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "正しいと思うことをしなさい"
+        },
+        {
+          "choice_id": "b",
+          "text": "正しいと思うことをしろ"
+        },
+        {
+          "choice_id": "c",
+          "text": "正しいと思うことをしてください"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "〜なさい is the warm, parental imperative — firm guidance from a father to his child, which suits a will-like letter without being harsh.",
+        "incorrect_en": "しろ is a blunt, rough command that would feel cold and aggressive in a heartfelt letter. してください is polite-request register, too distant and deferential for a father addressing his own son.",
+        "contrast_examples": [
+          {
+            "jp": "好きにしなさい。",
+            "en": "Do as you like (gentle parental directive)."
+          },
+          {
+            "jp": "好きにしろ。",
+            "en": "Do whatever (blunt, rough)."
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 35,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch007-0022"
+        ],
+        "start": 110.37,
+        "end": 114.384
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch007",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch007-int-0024"
+    }
+  ]
+}

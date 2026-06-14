@@ -1,0 +1,1468 @@
+{
+  "schema_version": 1,
+  "book_id": "ai-domestic-family-the-noodle-shop",
+  "world_id": "domestic-family",
+  "story_id": "the-noodle-shop",
+  "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+  "source_type": "ai_story",
+  "generated_at": "2026-06-13T14:45:59.066144+00:00",
+  "generator_version": "interactive-v1",
+  "status": "published",
+  "source_frozen_hash": "948fe310943a1922b60ac07cac2d51c869901b62b4adb454f37593d2bebb036d",
+  "nodes": [
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0001"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa.topic",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "火曜日の夜、大地は仕事から戻ったあとも、リビングのソファに腰を下ろしたまま動けずにいた。",
+        "prompt_jp": "火曜日の夜、大地（　）仕事から戻ったあとも、リビングのソファに腰を下ろしたまま動けずにいた。",
+        "prompt_en": "Daichi is the chapter's established main character. Which particle marks him here?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "大地 is the known protagonist we are following, so は sets him up as the ongoing topic: 'As for Daichi, even after getting home, he couldn't move.' The sentence is about his state, not about identifying who it is.",
+        "incorrect_en": "が would present 大地 as brand-new information answering 'who?', which doesn't fit — we already know who he is and the focus is on his stuck, motionless state.",
+        "contrast_examples": [
+          {
+            "jp": "大地は動けずにいた。",
+            "en": "Daichi (our topic) couldn't move."
+          },
+          {
+            "jp": "誰かが動いた。大地が立ち上がったのだ。",
+            "en": "Someone moved — it was Daichi who stood up. (new info → が)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 20,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0001"
+        ],
+        "start": 0.0,
+        "end": 7.488
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0001"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0002"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "美香に正面から問いかけられた言葉が、まだ耳の奥で鳴っている。",
+        "prompt_jp": "美香に正面から問いかけられた言葉（　）、まだ耳の奥で鳴っている。",
+        "prompt_en": "The 'words Mika asked' are being introduced as what is doing the ringing. Which particle?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "が"
+        },
+        {
+          "choice_id": "b",
+          "text": "は"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "The whole noun phrase 'the words Mika asked' is freshly presented as the thing still ringing in his ears, so が marks it as the new subject of 鳴っている. The reader's attention lands on those words.",
+        "incorrect_en": "は would treat 言葉 as an already-established topic and shift focus elsewhere, but here the point is exactly that those words themselves keep echoing.",
+        "contrast_examples": [
+          {
+            "jp": "言葉が耳に残っている。",
+            "en": "The words (newly highlighted) linger in my ears."
+          },
+          {
+            "jp": "その言葉は、もう忘れた。",
+            "en": "As for those words (known topic), I've already forgotten them."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0002"
+        ],
+        "start": 7.488,
+        "end": 12.72
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0002"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0004"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa.contrast",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "テレビからはニュースキャスターの声が流れていたが、内容はほとんど頭に入ってこない。",
+        "prompt_jp": "テレビからはニュースキャスターの声が流れていたが、内容（　）ほとんど頭に入ってこない。",
+        "prompt_en": "The voice was playing, but the content — by contrast — wasn't getting through. Which particle?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "は sets up a contrast against the preceding clause: the sound was flowing, but as for the content, it didn't register. The 〜が…、…は pattern signals 'this happened, yet that didn't.'",
+        "incorrect_en": "が would simply present 内容 as a new subject without the contrastive bite, losing the point that the voice came through while the meaning did not.",
+        "contrast_examples": [
+          {
+            "jp": "音は聞こえるが、意味は分からない。",
+            "en": "I can hear the sound, but (by contrast) I don't understand the meaning."
+          },
+          {
+            "jp": "急に音が消えた。",
+            "en": "Suddenly the sound (new event) cut out."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0004"
+        ],
+        "start": 22.2,
+        "end": 28.8
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0003"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0013"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa.contrast",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "「ねえ、私はあなたを責めたいわけじゃないのよ」",
+        "prompt_jp": "「ねえ、私（　）あなたを責めたいわけじゃないのよ」",
+        "prompt_en": "Akemi is distinguishing her own stance from how Daichi might be feeling. Which particle?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "は marks 私 as the topic and quietly contrasts her with what Daichi may assume: 'As for me, I'm not trying to blame you.' It softens and reassures.",
+        "incorrect_en": "が would spotlight 'I' as the exclusive answer to 'who?', sounding accusatory or defensive — the opposite of the gentle reassurance she intends.",
+        "contrast_examples": [
+          {
+            "jp": "私はそんなつもりじゃない。",
+            "en": "As for me, I don't mean it that way."
+          },
+          {
+            "jp": "私がやりました。",
+            "en": "It was I who did it. (exhaustive → が)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0013"
+        ],
+        "start": 60.36,
+        "end": 64.536
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0004"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0030"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "画面には坂本さんの名前が表示されていた。",
+        "prompt_jp": "画面には坂本さんの名前（　）表示されていた。",
+        "prompt_en": "Daichi looks at the buzzing phone and sees who is calling. Which particle?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "が"
+        },
+        {
+          "choice_id": "b",
+          "text": "は"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Seeing the name on the screen is a fresh discovery, so が presents 坂本さんの名前 as new information appearing in the scene. This is the classic 'something comes into view' use of が.",
+        "incorrect_en": "は would imply the name was already an established topic under discussion, which doesn't match — he's just now noticing who's calling.",
+        "contrast_examples": [
+          {
+            "jp": "画面に名前が表示された。",
+            "en": "A name (newly) appeared on the screen."
+          },
+          {
+            "jp": "その名前は、昔の同僚のものだった。",
+            "en": "As for that name (now known), it was an old colleague's."
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 20,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0030"
+        ],
+        "start": 123.288,
+        "end": 127.296
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0005"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0040"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa.contrast",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "「親父さんの店だけは、最後まで残ると俺は思っとったんだがな」",
+        "prompt_jp": "「親父さんの店だけ（　）、最後まで残ると俺は思っとったんだがな」",
+        "prompt_en": "Sakamoto singles out the father's shop against all the others that are closing. Which particle?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "だけは sets the father's shop apart from the rest of the shopping street: 'at least your dad's shop, I thought, would survive to the end.' The は after だけ adds the contrastive 'this one, unlike the others' nuance.",
+        "incorrect_en": "が here would clash with だけ and lose the contrast — the whole point is that this one shop was the exception he believed in, set against the others closing down.",
+        "contrast_examples": [
+          {
+            "jp": "あの店だけは別だと思っていた。",
+            "en": "I thought that one shop, at least, was different."
+          },
+          {
+            "jp": "あの店が一番古い。",
+            "en": "That shop is the oldest one. (identifying → が)"
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 24,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0040"
+        ],
+        "start": 171.251027,
+        "end": 176.904
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0006"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0049"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa.topic",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "父は何も言わず、ただ駅まで車で送ってくれた。",
+        "prompt_jp": "父（　）何も言わず、ただ駅まで車で送ってくれた。",
+        "prompt_en": "Daichi recalls his father on the morning he left for Tokyo. Which particle frames the father?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "は makes 父 the topic of this reminiscence: 'My father said nothing and just drove me to the station.' The memory is built around the father as its theme.",
+        "incorrect_en": "が would present 父 as newly identified information, but the father is the known figure the whole memory centers on, so は is what fits.",
+        "contrast_examples": [
+          {
+            "jp": "父は黙っていた。",
+            "en": "My father (the topic) stayed silent."
+          },
+          {
+            "jp": "そのとき父が口を開いた。",
+            "en": "At that moment my father (suddenly) spoke up."
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 20,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0049"
+        ],
+        "start": 207.648,
+        "end": 212.256
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0007"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0052"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information",
+        "particle.wa_ga.contrast"
+      ],
+      "prompt": {
+        "context_jp": "その沈黙が若かった自分にはどれほど寂しかったか、いまさら気づくとは思わなかった。",
+        "prompt_jp": "その沈黙（　）若かった自分にはどれほど寂しかったか、いまさら気づくとは思わなかった。",
+        "prompt_en": "Inside the embedded 'how lonely … was', which particle marks 沈黙 as the subject?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "が"
+        },
+        {
+          "choice_id": "b",
+          "text": "は"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Inside a subordinate clause ('how lonely that silence was'), the subject normally takes が: その沈黙が…寂しかったか. The embedded clause can't carry the main topic marker.",
+        "incorrect_en": "は would try to make 沈黙 the sentence-level topic, but here it sits inside the 〜か embedded question, where が is the natural subject marker.",
+        "contrast_examples": [
+          {
+            "jp": "その沈黙がどれほど寂しかったか。",
+            "en": "how lonely that silence was (embedded subject → が)"
+          },
+          {
+            "jp": "その沈黙は、長く続いた。",
+            "en": "As for that silence (main topic), it lasted a long time."
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 24,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0052"
+        ],
+        "start": 228.48,
+        "end": 235.248
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0008"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0005"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wo.direct_object"
+      ],
+      "prompt": {
+        "context_jp": "大地はテーブルの上のマグカップを手に取り、すでに冷めきった茶を一口だけ飲んだ。",
+        "prompt_jp": "大地はテーブルの上のマグカップ（　）手に取り、すでに冷めきった茶を一口だけ飲んだ。",
+        "prompt_en": "Which particle marks the mug as the thing he picks up?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "を"
+        },
+        {
+          "choice_id": "b",
+          "text": "に"
+        },
+        {
+          "choice_id": "c",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "手に取る takes its object with を — the mug is the thing being picked up, so マグカップを手に取る.",
+        "incorrect_en": "に would attach to a destination, not the object grasped, and が would wrongly make the mug the subject of the action rather than what is acted upon.",
+        "contrast_examples": [
+          {
+            "jp": "本を手に取る。",
+            "en": "Pick up a book."
+          },
+          {
+            "jp": "棚に手を伸ばす。",
+            "en": "Reach a hand toward the shelf. (に = destination)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0005"
+        ],
+        "start": 28.8,
+        "end": 35.256
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0009"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0031"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ni.direction"
+      ],
+      "prompt": {
+        "context_jp": "大地は立ち上がってベランダに出て、電話に出た。",
+        "prompt_jp": "大地は立ち上がってベランダ（　）出て、電話に出た。",
+        "prompt_en": "He stands and goes out onto the balcony. Which particle?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "に"
+        },
+        {
+          "choice_id": "b",
+          "text": "を"
+        },
+        {
+          "choice_id": "c",
+          "text": "で"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "ベランダに出る means 'go out onto the balcony' — に marks the place he moves out to. The balcony is his destination.",
+        "incorrect_en": "ベランダを出る would mean 'exit/leave the balcony' (the opposite direction), and で would mark where an action takes place rather than the goal of moving out.",
+        "contrast_examples": [
+          {
+            "jp": "庭に出る。",
+            "en": "Go out into the garden."
+          },
+          {
+            "jp": "部屋を出る。",
+            "en": "Leave the room. (を = exit from)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 20,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0031"
+        ],
+        "start": 127.296,
+        "end": 131.472
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0010"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0053"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.de.location"
+      ],
+      "prompt": {
+        "context_jp": "翌朝、駅前のロータリーで、橘さんと偶然すれ違った。",
+        "prompt_jp": "翌朝、駅前のロータリー（　）、橘さんと偶然すれ違った。",
+        "prompt_en": "Which particle marks where the chance encounter happened?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "で"
+        },
+        {
+          "choice_id": "b",
+          "text": "に"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "すれ違う is an action that takes place at a location, so で marks the rotary as the site of the encounter: 'at the rotary, I passed Naomi.'",
+        "incorrect_en": "に would mark a destination or point of existence, not the scene of an action, and を doesn't fit an intransitive 'pass each other.'",
+        "contrast_examples": [
+          {
+            "jp": "駅で友達に会った。",
+            "en": "I met a friend at the station. (action site → で)"
+          },
+          {
+            "jp": "駅に着いた。",
+            "en": "I arrived at the station. (に = endpoint)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 20,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0053"
+        ],
+        "start": 235.248,
+        "end": 240.672
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0011"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0048"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wo.direct_object"
+      ],
+      "prompt": {
+        "context_jp": "大地は、二十年前に上京した日の朝のことを、ふいに思い出していた。",
+        "prompt_jp": "大地は、二十年前に上京した日の朝のこと（　）、ふいに思い出していた。",
+        "prompt_en": "Which particle marks what he is recalling?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "を"
+        },
+        {
+          "choice_id": "b",
+          "text": "に"
+        },
+        {
+          "choice_id": "c",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "思い出す is transitive and takes its object with を — 'the morning of that day' is the thing being recalled, so こと(を)思い出す.",
+        "incorrect_en": "に would suggest a destination or target of a different verb, and が would wrongly make 'that morning' the subject doing the remembering.",
+        "contrast_examples": [
+          {
+            "jp": "昔のことを思い出す。",
+            "en": "Recall things from the past."
+          },
+          {
+            "jp": "昔のことが思い出される。",
+            "en": "Memories of the past come back (spontaneously). (passive-ish → が)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0048"
+        ],
+        "start": 201.432,
+        "end": 207.648
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0012"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0012"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "collocation.emotional_expression",
+        "vocabulary.verb_choice"
+      ],
+      "prompt": {
+        "context_jp": "朱美は何かを言いかけて、その言葉を一度飲み込んだようだった。",
+        "prompt_jp": "朱美は何かを言いかけて、その言葉を一度（　）ようだった。",
+        "prompt_en": "She started to say something, then held it back. Which verb?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "飲み込んだ"
+        },
+        {
+          "choice_id": "b",
+          "text": "吐き出した"
+        },
+        {
+          "choice_id": "c",
+          "text": "言い返した"
+        },
+        {
+          "choice_id": "d",
+          "text": "繰り返した"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "言葉を飲み込む is the set expression for swallowing back words you were about to say — it captures her stopping herself, matching 言いかけて ('started to say').",
+        "incorrect_en": "吐き出した (spit out) and 言い返した (talked back) mean she did speak, the opposite of holding back, and 繰り返した (repeated) doesn't fit cutting herself off.",
+        "contrast_examples": [
+          {
+            "jp": "文句を飲み込んだ。",
+            "en": "I swallowed my complaint."
+          },
+          {
+            "jp": "思わず言い返した。",
+            "en": "I talked back without thinking."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 24,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0012"
+        ],
+        "start": 54.96,
+        "end": 60.36
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0013"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0041"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "expression.set_phrase"
+      ],
+      "prompt": {
+        "context_jp": "――そこまで言って、坂本さんは口をつぐんだ。",
+        "prompt_jp": "――そこまで言って、坂本さんは口を（　）。",
+        "prompt_en": "Sakamoto said that much, then went quiet. Which verb completes the set phrase?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "つぐんだ"
+        },
+        {
+          "choice_id": "b",
+          "text": "開いた"
+        },
+        {
+          "choice_id": "c",
+          "text": "出した"
+        },
+        {
+          "choice_id": "d",
+          "text": "そろえた"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "口をつぐむ means to fall silent / hold one's tongue, which fits Sakamoto stopping himself after 'そこまで言って' (having said that much).",
+        "incorrect_en": "口を開く is the opposite (to start speaking), 口を出す means to butt in, and 口をそろえる means several people say the same thing in unison — none match a single person going quiet.",
+        "contrast_examples": [
+          {
+            "jp": "彼はそれ以上口をつぐんだ。",
+            "en": "He held his tongue beyond that."
+          },
+          {
+            "jp": "ようやく口を開いた。",
+            "en": "He finally opened his mouth (began to speak)."
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 24,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0041"
+        ],
+        "start": 176.904,
+        "end": 180.864
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0014"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0015"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "expression.set_phrase",
+        "collocation.emotional_expression"
+      ],
+      "prompt": {
+        "context_jp": "「でも、屋根の見積もりがあのままになっているのが、ずっと気にかかってる」",
+        "prompt_jp": "「でも、屋根の見積もりがあのままになっているのが、ずっと（　）」",
+        "prompt_en": "The unanswered roof estimate has been weighing on Akemi's mind. Which expression?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "気にかかってる"
+        },
+        {
+          "choice_id": "b",
+          "text": "気に入ってる"
+        },
+        {
+          "choice_id": "c",
+          "text": "気が済んでる"
+        },
+        {
+          "choice_id": "d",
+          "text": "気をつけてる"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "気にかかる means something keeps nagging at you / weighs on your mind, which fits her worry that the estimate is still left unanswered.",
+        "incorrect_en": "気に入る means to like something, 気が済む means to feel satisfied, and 気をつける means to be careful — none express lingering worry.",
+        "contrast_examples": [
+          {
+            "jp": "あの一言がずっと気にかかる。",
+            "en": "That one remark keeps nagging at me."
+          },
+          {
+            "jp": "このお店が気に入った。",
+            "en": "I've come to like this shop."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 24,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0015"
+        ],
+        "start": 68.064,
+        "end": 73.872
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0015"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0051"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "vocabulary.verb_choice"
+      ],
+      "prompt": {
+        "context_jp": "うどん作りにかけては誰にも負けないと自負していた父が、息子の進路についてだけは一言も意見を述べなかった。",
+        "prompt_jp": "うどん作りにかけては誰にも負けないと（　）していた父が、息子の進路についてだけは一言も意見を述べなかった。",
+        "prompt_en": "His father took quiet pride in his udon-making skill. Which word?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "自負"
+        },
+        {
+          "choice_id": "b",
+          "text": "自慢"
+        },
+        {
+          "choice_id": "c",
+          "text": "自覚"
+        },
+        {
+          "choice_id": "d",
+          "text": "自任"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "自負する means to hold private, confident pride in one's own ability — it fits a craftsman who quietly believed no one could beat him at udon.",
+        "incorrect_en": "自慢する means to brag openly (clashes with this reserved father), 自覚 is being aware of something, and 自任 means to consider oneself suited to a role — neither matches 'pride in skill.'",
+        "contrast_examples": [
+          {
+            "jp": "腕には自負がある。",
+            "en": "He takes quiet pride in his skill."
+          },
+          {
+            "jp": "彼はいつも自慢ばかりする。",
+            "en": "He's always bragging. (open boasting)"
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 26,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0051"
+        ],
+        "start": 220.08,
+        "end": 228.48
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0016"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0017"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "vocabulary.verb_choice",
+        "naturalness.collocation"
+      ],
+      "prompt": {
+        "context_jp": "業者への返答は、もう何週間も滞ったままだった。",
+        "prompt_jp": "業者への返答は、もう何週間も（　）ままだった。",
+        "prompt_en": "The reply to the contractor had been stalled for weeks. Which verb?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "滞った"
+        },
+        {
+          "choice_id": "b",
+          "text": "進んだ"
+        },
+        {
+          "choice_id": "c",
+          "text": "片付いた"
+        },
+        {
+          "choice_id": "d",
+          "text": "終わった"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "滞る means to be held up / stagnate, so 滞ったまま captures the reply being stuck unanswered for weeks.",
+        "incorrect_en": "進んだ (progressed), 片付いた (got settled), and 終わった (finished) all describe the matter being resolved — the opposite of being left hanging.",
+        "contrast_examples": [
+          {
+            "jp": "手続きが滞っている。",
+            "en": "The paperwork is stalled."
+          },
+          {
+            "jp": "話が順調に進んだ。",
+            "en": "The matter moved along smoothly."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 24,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0017"
+        ],
+        "start": 75.888,
+        "end": 80.784
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0017"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0027"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "vocabulary.adjective_nuance"
+      ],
+      "prompt": {
+        "context_jp": "「この前作ったうどんの生地、もう一回こねさせてもらうんだ」と蒼太は誇らしげに告げた。",
+        "prompt_jp": "「この前作ったうどんの生地、もう一回こねさせてもらうんだ」と蒼太は（　）告げた。",
+        "prompt_en": "Souta announces he gets to knead the dough again. How does he say it?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "誇らしげに"
+        },
+        {
+          "choice_id": "b",
+          "text": "悲しげに"
+        },
+        {
+          "choice_id": "c",
+          "text": "不安げに"
+        },
+        {
+          "choice_id": "d",
+          "text": "寂しげに"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "誇らしげに ('proudly') matches a child excited to show he gets to knead the udon dough again — the tone is one of pride.",
+        "incorrect_en": "悲しげに (sadly), 不安げに (anxiously), and 寂しげに (lonesomely) all carry negative feelings that contradict his eager, boastful announcement.",
+        "contrast_examples": [
+          {
+            "jp": "子供は誇らしげに作品を見せた。",
+            "en": "The child proudly showed off his work."
+          },
+          {
+            "jp": "彼女は不安げに尋ねた。",
+            "en": "She asked anxiously."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0027"
+        ],
+        "start": 111.408,
+        "end": 114.312
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0018"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0021"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness",
+        "particle.de.location"
+      ],
+      "prompt": {
+        "context_jp": "ふと振り返ると、廊下の角から蒼太が顔を覗かせている。",
+        "prompt_jp": null,
+        "prompt_en": "Souta is peeking out from around the corner of the hallway. Which version sounds more natural?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "廊下の角から蒼太が顔を覗かせている。"
+        },
+        {
+          "choice_id": "b",
+          "text": "廊下の角で蒼太が顔を覗かせている。"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "顔を覗かせる implies a face emerging out from somewhere, so から ('from') fits the corner he peeks out of: 角から顔を覗かせる.",
+        "incorrect_en": "で would just mark the corner as a static action-spot, which sounds off with 覗かせる — the natural image is the face coming out from behind the corner.",
+        "contrast_examples": [
+          {
+            "jp": "ドアの陰から顔を覗かせる。",
+            "en": "Peek one's face out from behind the door."
+          },
+          {
+            "jp": "公園で遊ぶ。",
+            "en": "Play in the park. (plain action site → で)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 26,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0021"
+        ],
+        "start": 88.944,
+        "end": 93.912
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0019"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0045"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness"
+      ],
+      "prompt": {
+        "context_jp": "夜風の冷たさが、シャツの袖の隙間からしみ込んでくる。",
+        "prompt_jp": null,
+        "prompt_en": "The night chill seeps in toward Daichi through his sleeves. Which version sounds more natural?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "夜風の冷たさが、シャツの袖の隙間からしみ込んでくる。"
+        },
+        {
+          "choice_id": "b",
+          "text": "夜風の冷たさが、シャツの袖の隙間からしみ込んでいく。"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "〜てくる expresses the cold moving toward and into the speaker's own body, matching how Daichi feels the chill reach him. The sensation comes inward to him.",
+        "incorrect_en": "〜ていく would send the movement away from the speaker, which doesn't fit cold seeping into his own skin as he stands there feeling it.",
+        "contrast_examples": [
+          {
+            "jp": "寒さがしみ込んでくる。",
+            "en": "The cold seeps into me."
+          },
+          {
+            "jp": "声が遠ざかっていく。",
+            "en": "The voice fades away (from me)."
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 28,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0045"
+        ],
+        "start": 188.352,
+        "end": 193.104
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0020"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0036"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness",
+        "particle.ga.new_information"
+      ],
+      "prompt": {
+        "context_jp": "大地は手すりに肘をついたまま、しばらく返事ができなかった。",
+        "prompt_jp": null,
+        "prompt_en": "Daichi couldn't reply for a while. Which version sounds natural?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "しばらく返事ができなかった。"
+        },
+        {
+          "choice_id": "b",
+          "text": "しばらく返事をできなかった。"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "The potential form できる normally takes its object with が, so 返事ができない ('be unable to reply') is the natural pairing.",
+        "incorrect_en": "返事をできなかった with を sounds off, because できる expresses ability and the thing one is able to do is marked with が, not を.",
+        "contrast_examples": [
+          {
+            "jp": "日本語が話せる。",
+            "en": "I can speak Japanese. (potential → が)"
+          },
+          {
+            "jp": "返事ができない。",
+            "en": "I can't give a reply."
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 26,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0036"
+        ],
+        "start": 150.792,
+        "end": 155.976
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0021"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0002"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness",
+        "particle.de.location"
+      ],
+      "prompt": {
+        "context_jp": "美香に正面から問いかけられた言葉が、まだ耳の奥で鳴っている。",
+        "prompt_jp": null,
+        "prompt_en": "Mika's words are still ringing deep in his ears. Which version sounds more natural?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "まだ耳の奥で鳴っている。"
+        },
+        {
+          "choice_id": "b",
+          "text": "まだ耳の奥に鳴っている。"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "鳴る is a sound-event happening at a place, so で marks where the ringing occurs: 耳の奥で鳴っている ('ringing deep in his ears').",
+        "incorrect_en": "に would mark a destination or point of existence, which doesn't fit an ongoing sound event — the ringing isn't 'located at' the ears so much as 'happening' there.",
+        "contrast_examples": [
+          {
+            "jp": "頭の中で警報が鳴る。",
+            "en": "An alarm rings in my head."
+          },
+          {
+            "jp": "耳に残る。",
+            "en": "It lingers in the ears. (state of remaining → に)"
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 28,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0002"
+        ],
+        "start": 7.488,
+        "end": 12.72
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0022"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0043"
+      ],
+      "interaction_type": "register_choice",
+      "focus_tags": [
+        "register.business_polite"
+      ],
+      "prompt": {
+        "context_jp": "大地は「お知らせ、ありがとうございます」とだけ伝え、電話を切った。",
+        "prompt_jp": null,
+        "prompt_en": "Daichi is thanking Sakamoto-san, a respected older family friend, on the phone. Which reply fits?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "お知らせ、ありがとうございます。"
+        },
+        {
+          "choice_id": "b",
+          "text": "知らせてくれてありがとう。"
+        },
+        {
+          "choice_id": "c",
+          "text": "知らせ、サンキュー。"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Speaking to an elder family friend on the phone, the polite ありがとうございます with お知らせ keeps the proper respectful distance Daichi maintains with Sakamoto-san.",
+        "incorrect_en": "〜てくれてありがとう is casual plain form for friends or family equals, and サンキュー is slangy — both would sound disrespectful toward an older man he addresses with 〜さん.",
+        "contrast_examples": [
+          {
+            "jp": "ご連絡ありがとうございます。",
+            "en": "Thank you for contacting me. (polite)"
+          },
+          {
+            "jp": "連絡ありがとう。",
+            "en": "Thanks for the message. (casual)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 28,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0043"
+        ],
+        "start": 182.424,
+        "end": 185.52
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0023"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-domestic-family-the-noodle-shop-ch006-0055"
+      ],
+      "interaction_type": "register_choice",
+      "focus_tags": [
+        "register.keigo"
+      ],
+      "prompt": {
+        "context_jp": "「先日はご返事をお待たせしてすみません」と彼女は丁寧に頭を下げた。",
+        "prompt_jp": null,
+        "prompt_en": "Tachibana-san, a well-mannered professional, apologizes for a late reply while bowing politely. Which line fits?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "先日はご返事をお待たせしてすみません。"
+        },
+        {
+          "choice_id": "b",
+          "text": "この前は返事待たせて悪かったね。"
+        },
+        {
+          "choice_id": "c",
+          "text": "返事が遅れてごめん。"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "お待たせして is humble keigo (お+stem+する), and ご返事 with すみません matches a courteous professional bowing in apology — exactly the polished register described.",
+        "incorrect_en": "悪かったね and ごめん are casual apologies for friends, and 〜ね/〜ごめん would clash badly with the formal bow and the 'well-raised, gentle' impression she gives.",
+        "contrast_examples": [
+          {
+            "jp": "お待たせして申し訳ございません。",
+            "en": "I'm terribly sorry to have kept you waiting. (keigo)"
+          },
+          {
+            "jp": "待たせてごめん。",
+            "en": "Sorry to keep you waiting. (casual)"
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 28,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-domestic-family-the-noodle-shop-ch006-0055"
+        ],
+        "start": 244.392,
+        "end": 248.064
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-domestic-family-the-noodle-shop",
+      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0024"
+    }
+  ]
+}
