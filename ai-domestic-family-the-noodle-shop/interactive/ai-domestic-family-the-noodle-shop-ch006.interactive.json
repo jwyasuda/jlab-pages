@@ -244,64 +244,6 @@
     },
     {
       "source_sentence_ids": [
-        "ai-domestic-family-the-noodle-shop-ch006-0030"
-      ],
-      "interaction_type": "particle_choice",
-      "focus_tags": [
-        "particle.ga.new_information",
-        "particle.wa_ga.contrast"
-      ],
-      "prompt": {
-        "context_jp": "画面には坂本さんの名前が表示されていた。",
-        "prompt_jp": "画面には坂本さんの名前（　）表示されていた。",
-        "prompt_en": "Daichi looks at the buzzing phone and sees who is calling. Which particle?"
-      },
-      "choices": [
-        {
-          "choice_id": "a",
-          "text": "が"
-        },
-        {
-          "choice_id": "b",
-          "text": "は"
-        }
-      ],
-      "correct_choice_id": "a",
-      "feedback": {
-        "correct_en": "Seeing the name on the screen is a fresh discovery, so が presents 坂本さんの名前 as new information appearing in the scene. This is the classic 'something comes into view' use of が.",
-        "incorrect_en": "は would imply the name was already an established topic under discussion, which doesn't match — he's just now noticing who's calling.",
-        "contrast_examples": [
-          {
-            "jp": "画面に名前が表示された。",
-            "en": "A name (newly) appeared on the screen."
-          },
-          {
-            "jp": "その名前は、昔の同僚のものだった。",
-            "en": "As for that name (now known), it was an old colleague's."
-          }
-        ]
-      },
-      "difficulty": "low",
-      "estimated_seconds": 20,
-      "audio": {
-        "replay_available": true,
-        "sentence_ids": [
-          "ai-domestic-family-the-noodle-shop-ch006-0030"
-        ],
-        "start": 123.288,
-        "end": 127.296
-      },
-      "weak_point_refs": [],
-      "source_type": "ai_story",
-      "book_id": "ai-domestic-family-the-noodle-shop",
-      "chapter_id": "ai-domestic-family-the-noodle-shop-ch006",
-      "response_mode": "single_choice",
-      "generation_method": "generated_from_ai_story",
-      "validation_status": "pass",
-      "node_id": "ai-domestic-family-the-noodle-shop-ch006-int-0005"
-    },
-    {
-      "source_sentence_ids": [
         "ai-domestic-family-the-noodle-shop-ch006-0040"
       ],
       "interaction_type": "particle_choice",

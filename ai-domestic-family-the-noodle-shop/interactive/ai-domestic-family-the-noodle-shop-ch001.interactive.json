@@ -298,63 +298,6 @@
     },
     {
       "source_sentence_ids": [
-        "ai-domestic-family-the-noodle-shop-ch001-0011"
-      ],
-      "interaction_type": "particle_choice",
-      "focus_tags": [
-        "particle.ga.new_information"
-      ],
-      "prompt": {
-        "context_jp": "「走らないで」",
-        "prompt_jp": "と朱美＿声を張ったが、その声には疲れがにじんでいた。",
-        "prompt_en": "The narration reports Akemi's action of raising her voice. Which particle fits?"
-      },
-      "choices": [
-        {
-          "choice_id": "a",
-          "text": "は"
-        },
-        {
-          "choice_id": "b",
-          "text": "が"
-        }
-      ],
-      "correct_choice_id": "b",
-      "feedback": {
-        "correct_en": "が reports Akemi's action as a single narrated event — she's the doer of 声を張った in this moment of the scene — fitting the descriptive, event-by-event flow of the passage.",
-        "incorrect_en": "は is not wrong in isolation, but it would frame Akemi as the established topic for a general comment; here the line is narrating one concrete action as it happens, which が handles more naturally.",
-        "contrast_examples": [
-          {
-            "jp": "朱美が声を張った。",
-            "en": "Akemi raised her voice. (narrating the act)"
-          },
-          {
-            "jp": "朱美はいつも優しい。",
-            "en": "Akemi is always gentle. (general comment on her)"
-          }
-        ]
-      },
-      "difficulty": "medium",
-      "estimated_seconds": 22,
-      "audio": {
-        "replay_available": true,
-        "sentence_ids": [
-          "ai-domestic-family-the-noodle-shop-ch001-0011"
-        ],
-        "start": 50.352,
-        "end": 55.176
-      },
-      "weak_point_refs": [],
-      "source_type": "ai_story",
-      "book_id": "ai-domestic-family-the-noodle-shop",
-      "chapter_id": "ai-domestic-family-the-noodle-shop-ch001",
-      "response_mode": "single_choice",
-      "generation_method": "generated_from_ai_story",
-      "validation_status": "pass",
-      "node_id": "ai-domestic-family-the-noodle-shop-ch001-int-0006"
-    },
-    {
-      "source_sentence_ids": [
         "ai-domestic-family-the-noodle-shop-ch001-0009"
       ],
       "interaction_type": "particle_choice",
@@ -531,67 +474,6 @@
       "generation_method": "generated_from_ai_story",
       "validation_status": "pass",
       "node_id": "ai-domestic-family-the-noodle-shop-ch001-int-0009"
-    },
-    {
-      "source_sentence_ids": [
-        "ai-domestic-family-the-noodle-shop-ch001-0036"
-      ],
-      "interaction_type": "particle_choice",
-      "focus_tags": [
-        "particle.de.location"
-      ],
-      "prompt": {
-        "context_jp": null,
-        "prompt_jp": "大地はカウンターの端＿、麦茶を一杯もらって座っていた。",
-        "prompt_en": "Where was Daichi sitting and drinking? Mark the location of the activity."
-      },
-      "choices": [
-        {
-          "choice_id": "a",
-          "text": "で"
-        },
-        {
-          "choice_id": "b",
-          "text": "に"
-        },
-        {
-          "choice_id": "c",
-          "text": "を"
-        }
-      ],
-      "correct_choice_id": "a",
-      "feedback": {
-        "correct_en": "で marks the place where an action happens — here, sitting and drinking tea at the end of the counter.",
-        "incorrect_en": "に would mark a fixed point of existence ('at the counter's end' as mere location), but the line describes ongoing activity there, which calls for で. を can't mark a location.",
-        "contrast_examples": [
-          {
-            "jp": "カウンターでお茶を飲む。",
-            "en": "drink tea at the counter (で, action site)"
-          },
-          {
-            "jp": "カウンターに座る。",
-            "en": "sit down onto the counter seat (に, point reached)"
-          }
-        ]
-      },
-      "difficulty": "medium",
-      "estimated_seconds": 20,
-      "audio": {
-        "replay_available": true,
-        "sentence_ids": [
-          "ai-domestic-family-the-noodle-shop-ch001-0036"
-        ],
-        "start": 149.208,
-        "end": 154.152
-      },
-      "weak_point_refs": [],
-      "source_type": "ai_story",
-      "book_id": "ai-domestic-family-the-noodle-shop",
-      "chapter_id": "ai-domestic-family-the-noodle-shop-ch001",
-      "response_mode": "single_choice",
-      "generation_method": "generated_from_ai_story",
-      "validation_status": "pass",
-      "node_id": "ai-domestic-family-the-noodle-shop-ch001-int-0010"
     },
     {
       "source_sentence_ids": [

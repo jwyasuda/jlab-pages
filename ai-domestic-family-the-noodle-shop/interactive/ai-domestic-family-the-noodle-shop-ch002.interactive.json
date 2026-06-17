@@ -274,71 +274,6 @@
     },
     {
       "source_sentence_ids": [
-        "ai-domestic-family-the-noodle-shop-ch002-0102"
-      ],
-      "interaction_type": "particle_choice",
-      "focus_tags": [
-        "particle.ga.new_information"
-      ],
-      "prompt": {
-        "context_jp": "美香の声は震えていなかった。",
-        "prompt_jp": "ただ、長く溜めてきたもの＿、静かに溢れ出していた。",
-        "prompt_en": "Choose the particle for 'what had built up,' which emerges into the scene here."
-      },
-      "choices": [
-        {
-          "choice_id": "a",
-          "text": "が"
-        },
-        {
-          "choice_id": "b",
-          "text": "は"
-        },
-        {
-          "choice_id": "c",
-          "text": "を"
-        },
-        {
-          "choice_id": "d",
-          "text": "に"
-        }
-      ],
-      "correct_choice_id": "a",
-      "feedback": {
-        "correct_en": "The long-suppressed feeling is presented as something emerging — a new subject surfacing — so が is natural for this 'overflowing' image.",
-        "incorrect_en": "は would set it up as a known topic being characterized, but the point is that it surges out unannounced. を would need a transitive verb; 溢れ出す is intransitive.",
-        "contrast_examples": [
-          {
-            "jp": "涙が溢れた。",
-            "en": "Tears welled up. (emergent subject → が)"
-          },
-          {
-            "jp": "その思いは長く隠されていた。",
-            "en": "That feeling had long been hidden. (は — topic being described)"
-          }
-        ]
-      },
-      "difficulty": "high",
-      "estimated_seconds": 20,
-      "audio": {
-        "replay_available": true,
-        "sentence_ids": [
-          "ai-domestic-family-the-noodle-shop-ch002-0102"
-        ],
-        "start": 390.768,
-        "end": 395.472
-      },
-      "weak_point_refs": [],
-      "source_type": "ai_story",
-      "book_id": "ai-domestic-family-the-noodle-shop",
-      "chapter_id": "ai-domestic-family-the-noodle-shop-ch002",
-      "response_mode": "single_choice",
-      "generation_method": "generated_from_ai_story",
-      "validation_status": "pass",
-      "node_id": "ai-domestic-family-the-noodle-shop-ch002-int-0005"
-    },
-    {
-      "source_sentence_ids": [
         "ai-domestic-family-the-noodle-shop-ch002-0101"
       ],
       "interaction_type": "particle_choice",
@@ -1361,63 +1296,6 @@
       "generation_method": "generated_from_ai_story",
       "validation_status": "pass",
       "node_id": "ai-domestic-family-the-noodle-shop-ch002-int-0021"
-    },
-    {
-      "source_sentence_ids": [
-        "ai-domestic-family-the-noodle-shop-ch002-0009"
-      ],
-      "interaction_type": "naturalness_choice",
-      "focus_tags": [
-        "naturalness"
-      ],
-      "prompt": {
-        "context_jp": "「今週末も埼玉?」と、朱美が訊く場面。",
-        "prompt_jp": null,
-        "prompt_en": "Akemi asks without lifting her eyes from the screen. Which form reads more naturally in narration?"
-      },
-      "choices": [
-        {
-          "choice_id": "a",
-          "text": "画面から目を上げずに、彼女は訊いた。"
-        },
-        {
-          "choice_id": "b",
-          "text": "画面から目を上げないで、彼女は訊いた。"
-        }
-      ],
-      "correct_choice_id": "a",
-      "feedback": {
-        "correct_en": "～ずに ('without doing') is the crisp, literary form preferred in narrative description — 目を上げずに flows naturally here.",
-        "incorrect_en": "～ないで is grammatical but more colloquial and softer; in third-person narration it reads slightly flatter than ずに. Both are understandable, but ずに is the natural narrative choice.",
-        "contrast_examples": [
-          {
-            "jp": "何も言わずに去った。",
-            "en": "Left without saying anything. (literary)"
-          },
-          {
-            "jp": "何も言わないで行っちゃった。",
-            "en": "Went off without saying anything. (conversational)"
-          }
-        ]
-      },
-      "difficulty": "medium",
-      "estimated_seconds": 22,
-      "audio": {
-        "replay_available": true,
-        "sentence_ids": [
-          "ai-domestic-family-the-noodle-shop-ch002-0009"
-        ],
-        "start": 40.032,
-        "end": 43.728
-      },
-      "weak_point_refs": [],
-      "source_type": "ai_story",
-      "book_id": "ai-domestic-family-the-noodle-shop",
-      "chapter_id": "ai-domestic-family-the-noodle-shop-ch002",
-      "response_mode": "single_choice",
-      "generation_method": "generated_from_ai_story",
-      "validation_status": "pass",
-      "node_id": "ai-domestic-family-the-noodle-shop-ch002-int-0022"
     },
     {
       "source_sentence_ids": [

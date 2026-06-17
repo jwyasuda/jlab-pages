@@ -686,67 +686,6 @@
     },
     {
       "source_sentence_ids": [
-        "ai-domestic-family-the-noodle-shop-ch008-0054"
-      ],
-      "interaction_type": "particle_choice",
-      "focus_tags": [
-        "particle.de.location"
-      ],
-      "prompt": {
-        "context_jp": "大地が次の集まりを提案する。",
-        "prompt_jp": "「来月、蒼太と坂本さんとここ＿集まろう。親父の誕生日に」",
-        "prompt_en": "Choose the particle that fits the blank."
-      },
-      "choices": [
-        {
-          "choice_id": "a",
-          "text": "で"
-        },
-        {
-          "choice_id": "b",
-          "text": "に"
-        },
-        {
-          "choice_id": "c",
-          "text": "を"
-        }
-      ],
-      "correct_choice_id": "a",
-      "feedback": {
-        "correct_en": "集まる describes an activity, and で marks the place where that activity happens — 'let's gather here.'",
-        "incorrect_en": "に would mark a static point of existence or a destination of motion, but 集まる as a shared action takes で for its venue. を has no object role here.",
-        "contrast_examples": [
-          {
-            "jp": "駅前で集まろう。",
-            "en": "Let's meet up in front of the station."
-          },
-          {
-            "jp": "ここに集まる人が多い。",
-            "en": "Many people gather here (に highlights the spot they end up at)."
-          }
-        ]
-      },
-      "difficulty": "medium",
-      "estimated_seconds": 26,
-      "audio": {
-        "replay_available": true,
-        "sentence_ids": [
-          "ai-domestic-family-the-noodle-shop-ch008-0054"
-        ],
-        "start": 248.448,
-        "end": 255.192
-      },
-      "weak_point_refs": [],
-      "source_type": "ai_story",
-      "book_id": "ai-domestic-family-the-noodle-shop",
-      "chapter_id": "ai-domestic-family-the-noodle-shop-ch008",
-      "response_mode": "single_choice",
-      "generation_method": "generated_from_ai_story",
-      "validation_status": "pass",
-      "node_id": "ai-domestic-family-the-noodle-shop-ch008-int-0012"
-    },
-    {
-      "source_sentence_ids": [
         "ai-domestic-family-the-noodle-shop-ch008-0005"
       ],
       "interaction_type": "cloze_choice",
@@ -1309,63 +1248,6 @@
       "generation_method": "generated_from_ai_story",
       "validation_status": "pass",
       "node_id": "ai-domestic-family-the-noodle-shop-ch008-int-0021"
-    },
-    {
-      "source_sentence_ids": [
-        "ai-domestic-family-the-noodle-shop-ch008-0023"
-      ],
-      "interaction_type": "naturalness_choice",
-      "focus_tags": [
-        "naturalness.word_order"
-      ],
-      "prompt": {
-        "context_jp": "大地がカウンターに座ると、美香がお茶を出す場面。",
-        "prompt_jp": null,
-        "prompt_en": "Which word order reads more naturally?"
-      },
-      "choices": [
-        {
-          "choice_id": "a",
-          "text": "美香が黙ってお茶を出した"
-        },
-        {
-          "choice_id": "b",
-          "text": "美香がお茶を黙って出した"
-        }
-      ],
-      "correct_choice_id": "a",
-      "feedback": {
-        "correct_en": "Manner adverbs like 黙って sit most naturally right before the verb phrase they color, so 黙ってお茶を出した flows smoothly — 'she silently served tea.'",
-        "incorrect_en": "B (お茶を黙って出した) is grammatical but splits the object from its verb awkwardly, putting odd weight on 黙って; in plain narration A is the smoother default.",
-        "contrast_examples": [
-          {
-            "jp": "彼はそっとドアを閉めた。",
-            "en": "He quietly closed the door."
-          },
-          {
-            "jp": "黙って席を立った。",
-            "en": "He silently got up from his seat."
-          }
-        ]
-      },
-      "difficulty": "high",
-      "estimated_seconds": 30,
-      "audio": {
-        "replay_available": true,
-        "sentence_ids": [
-          "ai-domestic-family-the-noodle-shop-ch008-0023"
-        ],
-        "start": 106.32,
-        "end": 110.424
-      },
-      "weak_point_refs": [],
-      "source_type": "ai_story",
-      "book_id": "ai-domestic-family-the-noodle-shop",
-      "chapter_id": "ai-domestic-family-the-noodle-shop-ch008",
-      "response_mode": "single_choice",
-      "generation_method": "generated_from_ai_story",
-      "validation_status": "pass",
-      "node_id": "ai-domestic-family-the-noodle-shop-ch008-int-0022"
     },
     {
       "source_sentence_ids": [

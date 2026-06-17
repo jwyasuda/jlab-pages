@@ -1226,63 +1226,6 @@
     },
     {
       "source_sentence_ids": [
-        "ai-domestic-family-the-noodle-shop-ch004-0014"
-      ],
-      "interaction_type": "naturalness_choice",
-      "focus_tags": [
-        "naturalness.collocation"
-      ],
-      "prompt": {
-        "context_jp": "二十年ぶりに厨房に立ち、包丁を手に取る大地。",
-        "prompt_jp": null,
-        "prompt_en": "Both describe the hand gripping the kitchen knife. Which collocation sounds more natural here?"
-      },
-      "choices": [
-        {
-          "choice_id": "a",
-          "text": "包丁を握った手が震えなかった。"
-        },
-        {
-          "choice_id": "b",
-          "text": "包丁を持った手が震えなかった。"
-        }
-      ],
-      "correct_choice_id": "a",
-      "feedback": {
-        "correct_en": "包丁を握る ('grip the knife') conveys the firm, working grasp of a cook about to cut — fitting the tense moment of him taking up the blade.",
-        "incorrect_en": "包丁を持つ ('hold the knife') isn't wrong, but it's a neutral 'having it in hand' and loses the sense of a committed, working grip that 握る gives at this charged moment.",
-        "contrast_examples": [
-          {
-            "jp": "しっかり包丁を握る。",
-            "en": "Grip the knife firmly (to work)."
-          },
-          {
-            "jp": "包丁を持って運ぶ。",
-            "en": "Carry the knife in hand."
-          }
-        ]
-      },
-      "difficulty": "high",
-      "estimated_seconds": 35,
-      "audio": {
-        "replay_available": true,
-        "sentence_ids": [
-          "ai-domestic-family-the-noodle-shop-ch004-0014"
-        ],
-        "start": 70.632,
-        "end": 77.136
-      },
-      "weak_point_refs": [],
-      "source_type": "ai_story",
-      "book_id": "ai-domestic-family-the-noodle-shop",
-      "chapter_id": "ai-domestic-family-the-noodle-shop-ch004",
-      "response_mode": "single_choice",
-      "generation_method": "generated_from_ai_story",
-      "validation_status": "pass",
-      "node_id": "ai-domestic-family-the-noodle-shop-ch004-int-0021"
-    },
-    {
-      "source_sentence_ids": [
         "ai-domestic-family-the-noodle-shop-ch004-0011"
       ],
       "interaction_type": "naturalness_choice",

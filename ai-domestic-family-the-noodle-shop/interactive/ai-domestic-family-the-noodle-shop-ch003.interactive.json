@@ -507,67 +507,6 @@
     },
     {
       "source_sentence_ids": [
-        "ai-domestic-family-the-noodle-shop-ch003-0004"
-      ],
-      "interaction_type": "particle_choice",
-      "focus_tags": [
-        "particle.de.location"
-      ],
-      "prompt": {
-        "context_jp": "隣の席で、蒼太が膝の上に父の古い手帳を抱えたまま眠っていた。",
-        "prompt_jp": "隣の席___、蒼太が膝の上に父の古い手帳を抱えたまま眠っていた。",
-        "prompt_en": "Choose the particle for the place where Souta is sleeping."
-      },
-      "choices": [
-        {
-          "choice_id": "a",
-          "text": "で"
-        },
-        {
-          "choice_id": "b",
-          "text": "に"
-        },
-        {
-          "choice_id": "c",
-          "text": "を"
-        }
-      ],
-      "correct_choice_id": "a",
-      "feedback": {
-        "correct_en": "眠る is an activity taking place at a location, so the seat where it happens is marked with で — 'in the next seat, Souta was sleeping.'",
-        "incorrect_en": "に would suit a verb of static existence (席にいる), but here the focus is the activity of sleeping, which takes で. を doesn't fit a location.",
-        "contrast_examples": [
-          {
-            "jp": "ソファで寝る。",
-            "en": "Sleep on the sofa. (activity location-で)"
-          },
-          {
-            "jp": "席にいる。",
-            "en": "Be in the seat. (existence-に)"
-          }
-        ]
-      },
-      "difficulty": "medium",
-      "estimated_seconds": 25,
-      "audio": {
-        "replay_available": true,
-        "sentence_ids": [
-          "ai-domestic-family-the-noodle-shop-ch003-0004"
-        ],
-        "start": 18.384,
-        "end": 24.648
-      },
-      "weak_point_refs": [],
-      "source_type": "ai_story",
-      "book_id": "ai-domestic-family-the-noodle-shop",
-      "chapter_id": "ai-domestic-family-the-noodle-shop-ch003",
-      "response_mode": "single_choice",
-      "generation_method": "generated_from_ai_story",
-      "validation_status": "pass",
-      "node_id": "ai-domestic-family-the-noodle-shop-ch003-int-0009"
-    },
-    {
-      "source_sentence_ids": [
         "ai-domestic-family-the-noodle-shop-ch003-0013"
       ],
       "interaction_type": "particle_choice",
