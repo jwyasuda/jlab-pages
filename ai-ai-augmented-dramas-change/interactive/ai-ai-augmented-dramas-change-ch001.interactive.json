@@ -1,0 +1,1687 @@
+{
+  "schema_version": 1,
+  "book_id": "ai-ai-augmented-dramas-change",
+  "world_id": "ai-augmented-dramas",
+  "story_id": "change",
+  "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+  "source_type": "ai_story",
+  "generated_at": "2026-06-18T08:24:59.004833+00:00",
+  "generator_version": "interactive-v1",
+  "status": "published",
+  "source_frozen_hash": "de1bccf9ce91a9961dc197ab1d8b3c53234067271108d48c79cb13187f305878",
+  "nodes": [
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0001"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information"
+      ],
+      "prompt": {
+        "context_jp": "国会議事堂前に黒塗りの車___次々と滑り込んできた。",
+        "prompt_jp": "国会議事堂前に黒塗りの車___次々と滑り込んできた。",
+        "prompt_en": "Choose the particle that fits the opening scene."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "b",
+      "feedback": {
+        "correct_en": "が introduces the cars as brand-new information to set the scene — this is the very first sentence and the cars haven't been mentioned before.",
+        "incorrect_en": "は would treat 'the black cars' as an already-established topic, which doesn't fit a scene-opening sentence where the cars are just appearing on stage.",
+        "contrast_examples": [
+          {
+            "jp": "黒塗りの車は、政治家の象徴だ。",
+            "en": "Black cars are a symbol of politicians. (topic — generalization, different function)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 15,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0001"
+        ],
+        "start": 0.0,
+        "end": 5.304
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0001"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0015"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa_ga.contrast",
+        "particle.ga.new_information"
+      ],
+      "prompt": {
+        "context_jp": "神林の口元には、いつもの隙のない微笑___浮かんでいた。",
+        "prompt_jp": "神林の口元には、いつもの隙のない微笑___浮かんでいた。",
+        "prompt_en": "Choose the particle for the smile appearing on Kanbayashi's mouth."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "b",
+      "feedback": {
+        "correct_en": "が marks 'a flawless smile' as the new visible detail the narrator is presenting about Kanbayashi's face. The topic (口元には) is already set, so the smile itself is new information.",
+        "incorrect_en": "は would make '微笑' the contrastive topic ('as for the smile...'), but the smile hasn't been introduced yet — it's what we're being shown for the first time.",
+        "contrast_examples": [
+          {
+            "jp": "その微笑は、作り物だった。",
+            "en": "That smile was fake. (smile already introduced → は)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0015"
+        ],
+        "start": 64.176,
+        "end": 69.336
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0002"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0056"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa.topic"
+      ],
+      "prompt": {
+        "context_jp": "「総理は、まだお辞めにならないつもりでしょうか」。\n神林___答えない。",
+        "prompt_jp": "神林___答えない。",
+        "prompt_en": "Miyama just asked Kanbayashi a question. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "は marks Kanbayashi as the established topic — he was just asked a question, so the focus shifts to 'as for Kanbayashi, (he) doesn't answer.' The contrast with the expected response is exactly what は signals here.",
+        "incorrect_en": "が would push 'Kanbayashi' into focus as new information, but he's already the addressee of the previous line; making him the subject-focus reads as if we're identifying who didn't answer among several people.",
+        "contrast_examples": [
+          {
+            "jp": "誰も答えないなか、神林が口を開いた。",
+            "en": "Among those who said nothing, Kanbayashi spoke up. (new info → が)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0056"
+        ],
+        "start": 262.488,
+        "end": 264.84
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0003"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0088"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa_ga.contrast",
+        "particle.wa.contrast"
+      ],
+      "prompt": {
+        "context_jp": "「大事な仕事___、全部あの息子さんがやっておりました」。",
+        "prompt_jp": "「大事な仕事___、全部あの息子さんがやっておりました」。",
+        "prompt_en": "The old man is contrasting the important work with other tasks. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "は marks 大事な仕事 as a contrastive topic — 'as for the important work (as opposed to minor tasks), the son was doing all of it.' The implied contrast with less important duties is exactly what は signals.",
+        "incorrect_en": "が would identify '大事な仕事' as the new-information subject, but here it's the object of やる; more importantly, the discourse is contrasting types of work, which is は's job.",
+        "contrast_examples": [
+          {
+            "jp": "急ぎの仕事が一件あります。",
+            "en": "There's one urgent task. (introducing → が)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0088"
+        ],
+        "start": 434.256,
+        "end": 439.344
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0004"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0140"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information"
+      ],
+      "prompt": {
+        "context_jp": "啓太の手___止まる。",
+        "prompt_jp": "啓太の手___止まる。",
+        "prompt_en": "Keita has just heard Miyama is a Diet member's secretary. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "b",
+      "feedback": {
+        "correct_en": "が reports the sudden, observable event of his hand stopping — a fresh, in-the-moment occurrence triggered by Miyama's announcement. Narration of newly-occurring physical reactions almost always takes が.",
+        "incorrect_en": "は would frame '啓太の手' as a familiar topic being discussed, but the focus here is the action itself happening in real time, not a generalization about his hand.",
+        "contrast_examples": [
+          {
+            "jp": "啓太の手は震えていた。",
+            "en": "Keita's hand was trembling. (ongoing state about an established topic → は)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 15,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0140"
+        ],
+        "start": 667.872,
+        "end": 669.984
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0005"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0145"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa_ga.contrast",
+        "particle.wa.contrast"
+      ],
+      "prompt": {
+        "context_jp": "「僕___そんな立派な人間じゃありませんし、政治には全然興味ないんです」。",
+        "prompt_jp": "「僕___そんな立派な人間じゃありませんし、政治には全然興味ないんです」。",
+        "prompt_en": "Keita is rejecting Miyama's flattering description of him. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "は sets up 僕 as the topic and carries an implicit contrast — 'as for me (whatever you may think), I'm not that kind of person.' Self-description denials almost always use 僕は/私は.",
+        "incorrect_en": "が would make '僕' new-information focus, as if singling out who isn't great — but Keita is just talking about himself, not identifying himself among a group.",
+        "contrast_examples": [
+          {
+            "jp": "僕がやります。",
+            "en": "I'll do it (as opposed to anyone else). (exhaustive identification → が)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 15,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0145"
+        ],
+        "start": 689.76,
+        "end": 695.88
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0006"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0154"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa_ga.contrast",
+        "particle.wa.contrast"
+      ],
+      "prompt": {
+        "context_jp": "「でも、顔だけ___いいんですよ、これが。」",
+        "prompt_jp": "「でも、顔だけ___いいんですよ、これが。」",
+        "prompt_en": "Miyama is describing Keita to Kanbayashi. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "は after 顔だけ creates a strong contrastive reading: 'his face alone is good (but everything else isn't).' The 〜だけは pattern is a classic limiting/contrastive use of は.",
+        "incorrect_en": "が would just identify the face as the good thing, losing the cutting nuance that he's lacking in every other respect — which is precisely Miyama's point.",
+        "contrast_examples": [
+          {
+            "jp": "顔だけがきれいでも意味がない。",
+            "en": "Even if just the face is pretty, it's meaningless. (neutral subject-focus → が)"
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 20,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0154"
+        ],
+        "start": 728.544,
+        "end": 741.96
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0007"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0244"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.exhaustive_listing"
+      ],
+      "prompt": {
+        "context_jp": "「大事じゃない選挙___あるんですか」",
+        "prompt_jp": "「大事じゃない選挙___あるんですか」",
+        "prompt_en": "Miyama's cold retort. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "b",
+      "feedback": {
+        "correct_en": "With existence verbs like ある, が asks whether such a thing exists at all — 'is there even one election that isn't important?' This is the new-information/existential が pattern.",
+        "incorrect_en": "は would presuppose 'unimportant elections' as a known category and ask about them, which weakens the rhetorical jab. Miyama is challenging the very existence of such a thing.",
+        "contrast_examples": [
+          {
+            "jp": "そんな本はありません。",
+            "en": "There's no such book. (negating an established topic → は)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0244"
+        ],
+        "start": 1168.464,
+        "end": 1171.704
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0008"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0257"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa.topic"
+      ],
+      "prompt": {
+        "context_jp": "「でも、期待しないでください。僕は親父みたいには――」\n「お父様___関係ありません」。",
+        "prompt_jp": "「お父様___関係ありません」。",
+        "prompt_en": "Miyama sharply cuts off Keita's mention of his father. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "は sets up 'your father' as the topic Keita just raised, and dismisses it: 'as for your father — that's irrelevant.' The 〜は関係ありません pattern is a fixed way of pushing a topic aside.",
+        "incorrect_en": "お父様が関係ありません would oddly identify the father as the specific person who is unrelated, as if among a list of candidates — but Miyama is dismissing the whole topic Keita brought up.",
+        "contrast_examples": [
+          {
+            "jp": "お父様が来てくださいました。",
+            "en": "Your father kindly came. (new info, identification → が)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0257"
+        ],
+        "start": 1212.288,
+        "end": 1215.141053
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0009"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0295"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information"
+      ],
+      "prompt": {
+        "context_jp": "「小難しい政策___、有権者に浸透すると思っているんですか」",
+        "prompt_jp": "「小難しい政策___、有権者に浸透すると思っているんですか」",
+        "prompt_en": "Miyama dismisses the value of complex policy. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "b",
+      "feedback": {
+        "correct_en": "が marks 'complex policy' as the subject of an embedded clause (政策が浸透する). In subordinate clauses like 〜と思っている, the subject typically takes が rather than は.",
+        "incorrect_en": "は in an embedded thought-clause like this would awkwardly try to topicalize 政策 inside someone's belief — Japanese strongly prefers が for the subject of an embedded predicate.",
+        "contrast_examples": [
+          {
+            "jp": "小難しい政策は要らない。",
+            "en": "Complex policies aren't needed. (main-clause topic → は)"
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0295"
+        ],
+        "start": 1374.696,
+        "end": 1388.376
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0010"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0405"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information"
+      ],
+      "prompt": {
+        "context_jp": "父___長く心臓を患っていたことを、自分はどれほど真剣に受け止めていただろうか。",
+        "prompt_jp": "父___長く心臓を患っていたことを、自分はどれほど真剣に受け止めていただろうか。",
+        "prompt_en": "Keita reflects on his father's heart condition. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "b",
+      "feedback": {
+        "correct_en": "が marks 父 as the subject of the embedded clause 父が長く心臓を患っていた, nominalized by こと. Subjects inside こと-clauses almost always take が, not は.",
+        "incorrect_en": "は would try to topicalize 父 across the whole sentence, but 自分は is already the main-clause topic; you can't have two competing topics, and the embedded subject must take が.",
+        "contrast_examples": [
+          {
+            "jp": "父は心臓が悪い。",
+            "en": "(As for) father, his heart is bad. (main-clause topic → は)"
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0405"
+        ],
+        "start": 1867.2,
+        "end": 1875.288
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0011"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0497"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa_ga.contrast",
+        "particle.wa.topic"
+      ],
+      "prompt": {
+        "context_jp": "「この国で四年間にどれだけの選挙があるか、知ってるか」\n「……いえ」\n「国政選挙、地方選挙、合わせて三千七百から三千八百だ」\n啓太___思わず息を呑んだ。",
+        "prompt_jp": "啓太___思わず息を呑んだ。",
+        "prompt_en": "After hearing the number, Keita reacts. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Keita is the established protagonist of this scene — narration switching back to his reaction uses は to mark him as the ongoing topic. Established characters reacting to information typically take は.",
+        "incorrect_en": "が would introduce Keita as new information, as if singling out who gasped among several people — but he's been the focus of the whole conversation, so there's no need to reintroduce him.",
+        "contrast_examples": [
+          {
+            "jp": "突然、啓太が立ち上がった。",
+            "en": "Suddenly, Keita stood up. (sudden visible event → が)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0497"
+        ],
+        "start": 2296.032,
+        "end": 2298.792
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0012"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0612",
+        "ai-ai-augmented-dramas-change-ch001-0613"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.wa.contrast"
+      ],
+      "prompt": {
+        "context_jp": "拍手___なかった。\nしかしその沈黙___、これまでとは違う重さがあった。",
+        "prompt_jp": "しかしその沈黙___、これまでとは違う重さがあった。",
+        "prompt_en": "After Keita's confession speech. Choose the particle for the second sentence."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "は marks 'that silence' as a contrastive topic against ordinary silences ('this silence, unlike others, had weight'). The しかし and これまでとは違う signal contrast, which is は's specialty.",
+        "incorrect_en": "が would simply identify the silence as having weight, losing the crucial 'but this one was different from others' nuance the narration is going for.",
+        "contrast_examples": [
+          {
+            "jp": "急に沈黙が訪れた。",
+            "en": "Suddenly silence fell. (new event → が)"
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0612",
+          "ai-ai-augmented-dramas-change-ch001-0613"
+        ],
+        "start": 2831.592,
+        "end": 2838.432
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0013"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0682"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information"
+      ],
+      "prompt": {
+        "context_jp": "「彼には、人を惹きつける何か___あるんだ」",
+        "prompt_jp": "「彼には、人を惹きつける何か___あるんだ」",
+        "prompt_en": "An old member of parliament comments on Keita. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "b",
+      "feedback": {
+        "correct_en": "With the existence verb ある, 何か takes が — 'there's *something* about him.' This is the classic existential が pattern: presenting that something exists.",
+        "incorrect_en": "何かは is unnatural here because 'something' is being introduced for the first time as a vague new entity, not picked out as a known topic.",
+        "contrast_examples": [
+          {
+            "jp": "その何かは、まだ言葉にならない。",
+            "en": "That something can't yet be put into words. (now established → は)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 15,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0682"
+        ],
+        "start": 3154.632,
+        "end": 3158.496
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0014"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0022"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ni.direction"
+      ],
+      "prompt": {
+        "context_jp": "「手加減はいらん。若いもん___はまだまだ負けんぞ」。",
+        "prompt_jp": "「若いもん___はまだまだ負けんぞ」。",
+        "prompt_en": "The Prime Minister boasts before serving. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "に"
+        },
+        {
+          "choice_id": "b",
+          "text": "で"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "負ける takes に to mark the opponent — 'lose TO young people.' This is a standard 〜に負ける pattern; the に points to the party you're losing to.",
+        "incorrect_en": "で would mean 'at/with young people' (instrument/location), and を doesn't fit because 負ける is intransitive and doesn't take a direct object.",
+        "contrast_examples": [
+          {
+            "jp": "決勝で強豪に負けた。",
+            "en": "Lost to a strong team in the final. (で = location, に = opponent)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 15,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0022"
+        ],
+        "start": 99.528,
+        "end": 104.784
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0015"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0017"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "collocation.formal_response",
+        "expression.set_phrase"
+      ],
+      "prompt": {
+        "context_jp": "「神林君、君、テニスは嫌いなのか」。\n「___。ご覧の通り、捻挫をしてしまいまして」。",
+        "prompt_jp": "「___。ご覧の通り、捻挫をしてしまいまして」。",
+        "prompt_en": "Kanbayashi apologizes politely to the Prime Minister for not playing. Choose the opener."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "申し訳ありません"
+        },
+        {
+          "choice_id": "b",
+          "text": "ごめんなさい"
+        },
+        {
+          "choice_id": "c",
+          "text": "悪いね"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "申し訳ありません is the formal register required when addressing the Prime Minister — Kanbayashi is a senior politician but still defers in this setting. It expresses genuine apology while preserving professional distance.",
+        "incorrect_en": "ごめんなさい is too casual/childish for addressing the PM, and 悪いね is colloquial peer-talk that would be wildly inappropriate from a faction chairman to the Prime Minister.",
+        "contrast_examples": [
+          {
+            "jp": "悪いね、今日は無理だ。",
+            "en": "Sorry, can't today. (casual peers)"
+          },
+          {
+            "jp": "ごめんね、遅れて。",
+            "en": "Sorry I'm late. (friends/family)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 15,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0017"
+        ],
+        "start": 73.704,
+        "end": 79.56
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0016"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0083"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "collocation.formal_response",
+        "expression.set_phrase"
+      ],
+      "prompt": {
+        "context_jp": "「後援会の皆さんのご心中、___」と神林が低く応えた。",
+        "prompt_jp": "「後援会の皆さんのご心中、___」",
+        "prompt_en": "Kanbayashi offers condolences at the wake. Choose the appropriate phrase."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "お察しいたします"
+        },
+        {
+          "choice_id": "b",
+          "text": "わかります"
+        },
+        {
+          "choice_id": "c",
+          "text": "気にしないでください"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "ご心中をお察しいたします is a set condolence phrase — humble form 察する acknowledging another's feelings at a time of grief. It's the expected register for a politician visiting bereaved supporters.",
+        "incorrect_en": "わかります sounds presumptuous (claiming to share their grief flatly), and 気にしないでください is wildly inappropriate at a wake — it minimizes the loss.",
+        "contrast_examples": [
+          {
+            "jp": "ご愁傷様です。",
+            "en": "My condolences. (standard funeral phrase)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0083"
+        ],
+        "start": 410.256,
+        "end": 415.272
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0017"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0260"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "expression.set_phrase",
+        "collocation.business_expression"
+      ],
+      "prompt": {
+        "context_jp": "「これからは全て、私の___に動いてもらいます」。",
+        "prompt_jp": "「これからは全て、私の___に動いてもらいます」。",
+        "prompt_en": "Miyama lays down the law to Keita. Choose the word."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "言うとおり"
+        },
+        {
+          "choice_id": "b",
+          "text": "言うこと"
+        },
+        {
+          "choice_id": "c",
+          "text": "言う方"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "〜の言うとおりに動く is the set phrase for 'move exactly as someone says' — とおり captures the 'in accordance with/in the manner of' nuance Miyama needs to convey total compliance.",
+        "incorrect_en": "言うことに動く isn't a natural collocation; you'd say 言うことを聞く ('obey'). 言う方に doesn't form a coherent expression here.",
+        "contrast_examples": [
+          {
+            "jp": "親の言うことを聞きなさい。",
+            "en": "Listen to your parents. (different collocation)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0260"
+        ],
+        "start": 1226.952,
+        "end": 1231.92
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0018"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0027"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "vocabulary.adjective_nuance"
+      ],
+      "prompt": {
+        "context_jp": "「___ぎっくり腰だ、___ぎっくり腰だから」と本人は呻いたが、担架は無情に救急車へと運び込まれていく。",
+        "prompt_jp": "「___ぎっくり腰だ、___ぎっくり腰だから」",
+        "prompt_en": "The PM insists his injury is minor. Choose the word."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "ただの"
+        },
+        {
+          "choice_id": "b",
+          "text": "ひどい"
+        },
+        {
+          "choice_id": "c",
+          "text": "大した"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "ただの means 'just a mere/only a' — the PM is desperately downplaying his condition as 'nothing more than a back sprain.' It's the perfect fit for someone refusing to acknowledge a serious problem.",
+        "incorrect_en": "ひどい would mean 'a terrible back sprain,' which contradicts his goal of minimizing it. 大した usually appears with negation (大したことない) and doesn't fit here.",
+        "contrast_examples": [
+          {
+            "jp": "ただの風邪だよ、大丈夫。",
+            "en": "It's just a cold, I'm fine. (downplaying)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 15,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0027"
+        ],
+        "start": 123.0,
+        "end": 127.704
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0019"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0073"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "expression.set_phrase"
+      ],
+      "prompt": {
+        "context_jp": "「あんなことで辞任する___ないでしょう」。",
+        "prompt_jp": "「あんなことで辞任する___ないでしょう」。",
+        "prompt_en": "Miyama dismisses the idea that the PM would resign over this. Choose the expression."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "わけが"
+        },
+        {
+          "choice_id": "b",
+          "text": "ことが"
+        },
+        {
+          "choice_id": "c",
+          "text": "ものが"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "〜わけがない is a strong denial pattern meaning 'there's no way (he) would do X.' Miyama is emphatically rejecting the possibility that the PM would resign over a minor injury.",
+        "incorrect_en": "ことがない means 'have never done' (experience) and is wrong tense/sense. ものがない doesn't form a natural denial pattern here.",
+        "contrast_examples": [
+          {
+            "jp": "彼が嘘をつくわけがない。",
+            "en": "There's no way he would lie. (strong denial)"
+          },
+          {
+            "jp": "彼が嘘をついたことがない。",
+            "en": "He has never lied. (experience)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0073"
+        ],
+        "start": 344.448,
+        "end": 352.104
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0020"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0295"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "vocabulary.verb_choice"
+      ],
+      "prompt": {
+        "context_jp": "「短期決戦です。小難しい政策が、有権者に___と思っているんですか」",
+        "prompt_jp": "「小難しい政策が、有権者に___と思っているんですか」",
+        "prompt_en": "Miyama mocks the idea that complex policy reaches voters. Choose the verb."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "浸透する"
+        },
+        {
+          "choice_id": "b",
+          "text": "感動する"
+        },
+        {
+          "choice_id": "c",
+          "text": "成功する"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "浸透する ('to permeate, seep through') is the standard collocation with ideas, policies, or messages spreading into and being absorbed by a target audience. 政策が有権者に浸透する is a fixed political-speech collocation.",
+        "incorrect_en": "感動する means 'be moved emotionally' and is something people do, not policies. 成功する ('succeed') doesn't take 〜に in this sense and doesn't describe ideas reaching people.",
+        "contrast_examples": [
+          {
+            "jp": "ブランドが消費者に浸透する。",
+            "en": "A brand permeates among consumers. (same collocation)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0295"
+        ],
+        "start": 1374.696,
+        "end": 1388.376
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0021"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0462"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "expression.set_phrase"
+      ],
+      "prompt": {
+        "context_jp": "「いいか、選挙戦はマラソンと同じだ」\n「ぶっ倒れるのはゴールの後だ。それまでは___走るんだ」",
+        "prompt_jp": "「それまでは___走るんだ」",
+        "prompt_en": "Hiraichi rallies Keita. Choose the expression."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "全力で"
+        },
+        {
+          "choice_id": "b",
+          "text": "全部に"
+        },
+        {
+          "choice_id": "c",
+          "text": "全然"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "全力で走る ('run with all one's strength') is a fixed collocation. The で marks the manner/means of running — pouring full effort into the action.",
+        "incorrect_en": "全部に doesn't form a coherent manner adverbial with 走る. 全然 is a degree adverb that requires negation in standard usage and doesn't mean 'fully.'",
+        "contrast_examples": [
+          {
+            "jp": "全力を尽くす。",
+            "en": "Give it your all. (related collocation)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 15,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0462"
+        ],
+        "start": 2162.64,
+        "end": 2168.784
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0022"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0376"
+      ],
+      "interaction_type": "cloze_choice",
+      "focus_tags": [
+        "vocabulary.adjective_nuance"
+      ],
+      "prompt": {
+        "context_jp": "「そげな言葉、言わんと。あんたは人の期待に___タイプやけん、結局は一生懸命やってしまうとよ」",
+        "prompt_jp": "「あんたは人の期待に___タイプやけん」",
+        "prompt_en": "Keita's mother describes his personality. Choose the word."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "弱い"
+        },
+        {
+          "choice_id": "b",
+          "text": "強い"
+        },
+        {
+          "choice_id": "c",
+          "text": "厳しい"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "〜に弱い means 'be weak to / unable to refuse' — his mother is saying he can't stand up to people's expectations and ends up giving in. 期待に弱い is the standard collocation for someone who can't say no.",
+        "incorrect_en": "期待に強い isn't natural — 強い with に typically describes resistance (寒さに強い 'resistant to cold'), which would mean he's immune to expectations, the opposite of her point. 厳しい doesn't fit personality-to-pressure descriptions.",
+        "contrast_examples": [
+          {
+            "jp": "彼はお酒に弱い。",
+            "en": "He can't hold his liquor. (weak against)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 18,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0376"
+        ],
+        "start": 1701.864,
+        "end": 1711.2
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0023"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0017"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness",
+        "register.business_polite"
+      ],
+      "prompt": {
+        "context_jp": "Setting: Kanbayashi, a senior politician, apologizes to the Prime Minister for being unable to play tennis with him due to a sprain.",
+        "prompt_jp": null,
+        "prompt_en": "Which line sounds most natural for Kanbayashi to say to the Prime Minister?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "申し訳ありません。ご覧の通り、捻挫をしてしまいまして。"
+        },
+        {
+          "choice_id": "b",
+          "text": "申し訳ありません。見てください、捻挫しちゃったんで。"
+        },
+        {
+          "choice_id": "c",
+          "text": "すみませんでした。捻挫があるんで。"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Option A maintains consistent formal register throughout: 申し訳ありません + ご覧の通り (humble 'as you can see') + しまいまして (humble continuative). All three pieces match the deferential tone toward the PM.",
+        "incorrect_en": "B mixes formal 申し訳ありません with casual 見てください / しちゃった, creating a jarring register clash. C uses past-tense apology for an ongoing situation and the blunt 〜があるんで is too casual.",
+        "contrast_examples": [
+          {
+            "jp": "ご覧の通り、満員でして。",
+            "en": "As you can see, it's packed. (same humble pattern)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0017"
+        ],
+        "start": 73.704,
+        "end": 79.56
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0024"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0244"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness",
+        "particle.ga.exhaustive_listing"
+      ],
+      "prompt": {
+        "context_jp": "Setting: Miyama coldly retorts when someone calls this election 'an important one,' implying every election is important.",
+        "prompt_jp": null,
+        "prompt_en": "Which retort sounds most natural and cutting in Miyama's mouth?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "大事じゃない選挙があるんですか"
+        },
+        {
+          "choice_id": "b",
+          "text": "大事じゃない選挙はありますか"
+        },
+        {
+          "choice_id": "c",
+          "text": "選挙で大事じゃないのがありますか"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Option A uses が with ある to challenge the very existence of unimportant elections — a sharp rhetorical jab. The んです adds a confrontational 'are you really saying...?' tone fitting Miyama's coldness.",
+        "incorrect_en": "B with は softens it to a neutral inquiry, losing the bite. C is grammatically awkward and over-complicated; native speakers would simplify to A.",
+        "contrast_examples": [
+          {
+            "jp": "嫌いな食べ物があるんですか？",
+            "en": "Is there food you actually dislike? (same challenging pattern)"
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0244"
+        ],
+        "start": 1168.464,
+        "end": 1171.704
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0025"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0585"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness",
+        "particle.wa.topic"
+      ],
+      "prompt": {
+        "context_jp": "Setting: At the climax of his speech, Keita admits the truth about his father in front of the angry crowd.",
+        "prompt_jp": null,
+        "prompt_en": "Which version best fits the gravity of Keita's confession?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "父が金を受け取ったのは、本当だろうと思います"
+        },
+        {
+          "choice_id": "b",
+          "text": "父は金を受け取ったのは、本当だろうと思います"
+        },
+        {
+          "choice_id": "c",
+          "text": "父の金の受け取りは、本当だろうと思います"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Option A uses が for the embedded subject in the 〜のは clause — the standard pattern for nominalized clauses. 父が…のは…本当だ presents the fact cleanly: 'that my father took money is true.'",
+        "incorrect_en": "B doubles up topic markers (父は + 〜のは), which is ungrammatical. C is overly bureaucratic and stiff — Keita is making an emotional public confession, not writing a report.",
+        "contrast_examples": [
+          {
+            "jp": "彼が来たのは事実です。",
+            "en": "It is a fact that he came. (same が…のは pattern)"
+          }
+        ]
+      },
+      "difficulty": "high",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0585"
+        ],
+        "start": 2696.184,
+        "end": 2701.464
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0026"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0011"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ni.direction"
+      ],
+      "prompt": {
+        "context_jp": "「お待たせ」と歩み寄った総理___、神林は深く腰を折った。",
+        "prompt_jp": "「お待たせ」と歩み寄った総理___、神林は深く腰を折った。",
+        "prompt_en": "Kanbayashi bows to the approaching Prime Minister. Choose the particle."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "に"
+        },
+        {
+          "choice_id": "b",
+          "text": "で"
+        },
+        {
+          "choice_id": "c",
+          "text": "を"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "に marks the target of the bow — 'bowed deeply TO the Prime Minister.' Directional verbs like 腰を折る (bow), 頭を下げる, 挨拶する all take に for the recipient.",
+        "incorrect_en": "で would mean 'at the Prime Minister' as a location, which is nonsense here. を doesn't fit because the PM is the recipient, not the object being bent.",
+        "contrast_examples": [
+          {
+            "jp": "先生に頭を下げる。",
+            "en": "Bow to the teacher. (に = recipient)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 15,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0011"
+        ],
+        "start": 46.416,
+        "end": 50.808
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0027"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0024"
+      ],
+      "interaction_type": "particle_choice",
+      "focus_tags": [
+        "particle.ga.new_information"
+      ],
+      "prompt": {
+        "context_jp": "ラケットが空を切るほど大振りなサーブ___、総理の腰を捻った。",
+        "prompt_jp": "ラケットが空を切るほど大振りなサーブ___、総理の腰を捻った。",
+        "prompt_en": "Choose the particle for the sudden bad serve."
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "は"
+        },
+        {
+          "choice_id": "b",
+          "text": "が"
+        }
+      ],
+      "correct_choice_id": "b",
+      "feedback": {
+        "correct_en": "が introduces the over-swung serve as the new agent causing the injury — a dramatic, in-the-moment event being narrated. The serve hasn't been a topic before; it's the new cause.",
+        "incorrect_en": "は would treat the wild serve as an established topic, but the sentence is showing us a fresh, decisive event that immediately leads to the injury — exactly what が is for in narration.",
+        "contrast_examples": [
+          {
+            "jp": "そのサーブは伝説になった。",
+            "en": "That serve became legendary. (now established → は)"
+          }
+        ]
+      },
+      "difficulty": "low",
+      "estimated_seconds": 15,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0024"
+        ],
+        "start": 108.96,
+        "end": 114.216
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0028"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0507"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness",
+        "register.casual"
+      ],
+      "prompt": {
+        "context_jp": "Setting: Hiraichi, a veteran election planner, scolds Keita for not appreciating his position — telling him plenty of people would kill for a chance to run.",
+        "prompt_jp": null,
+        "prompt_en": "Which line sounds most natural for Hiraichi's gruff, mentor-like tone?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "選挙に出たくても出られない人間が山ほどいるんだぞ"
+        },
+        {
+          "choice_id": "b",
+          "text": "選挙に出たくても出られない人間がたくさんいらっしゃいます"
+        },
+        {
+          "choice_id": "c",
+          "text": "選挙に出たくない人間が山ほどいるんだぞ"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "Option A combines the vivid colloquial 山ほどいる ('there are heaps') with the masculine んだぞ ending — perfect for Hiraichi's blunt, mentor-from-the-trenches register. The meaning 'can't run even if they want to' is the whole point.",
+        "incorrect_en": "B's polite いらっしゃいます is wildly mismatched for Hiraichi scolding Keita. C flips the meaning — 'people who don't want to run' — which destroys the rhetorical point.",
+        "contrast_examples": [
+          {
+            "jp": "悩んでる奴が山ほどいるんだぞ。",
+            "en": "There are tons of people struggling. (same gruff register)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0507"
+        ],
+        "start": 2354.4,
+        "end": 2364.168
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0029"
+    },
+    {
+      "source_sentence_ids": [
+        "ai-ai-augmented-dramas-change-ch001-0606"
+      ],
+      "interaction_type": "naturalness_choice",
+      "focus_tags": [
+        "naturalness",
+        "expression.set_phrase"
+      ],
+      "prompt": {
+        "context_jp": "Setting: Keita acknowledges that some people will forgive his father's wrongdoing, arguing politics requires getting one's hands dirty.",
+        "prompt_jp": null,
+        "prompt_en": "Which phrasing best fits a public political speech?"
+      },
+      "choices": [
+        {
+          "choice_id": "a",
+          "text": "きれい事で政治なんかできない"
+        },
+        {
+          "choice_id": "b",
+          "text": "きれいなことで政治なんかできない"
+        },
+        {
+          "choice_id": "c",
+          "text": "きれいごとで政治はできるのか"
+        }
+      ],
+      "correct_choice_id": "a",
+      "feedback": {
+        "correct_en": "きれい事 ('idealistic / sanitized talk') is the fixed noun used to dismiss naive idealism — exactly what's being argued: 'you can't run politics on pretty words.' The なんか adds dismissive force.",
+        "incorrect_en": "B's きれいなこと means 'beautiful things' literally and isn't the idiomatic phrase. C turns a declarative argument into a question, losing the rhetorical thrust of the original speech.",
+        "contrast_examples": [
+          {
+            "jp": "きれい事だけじゃ世の中は回らない。",
+            "en": "The world doesn't run on idealism alone. (same idiomatic use)"
+          }
+        ]
+      },
+      "difficulty": "medium",
+      "estimated_seconds": 22,
+      "audio": {
+        "replay_available": true,
+        "sentence_ids": [
+          "ai-ai-augmented-dramas-change-ch001-0606"
+        ],
+        "start": 2791.128,
+        "end": 2809.896
+      },
+      "weak_point_refs": [],
+      "source_type": "ai_story",
+      "book_id": "ai-ai-augmented-dramas-change",
+      "chapter_id": "ai-ai-augmented-dramas-change-ch001",
+      "response_mode": "single_choice",
+      "generation_method": "generated_from_ai_story",
+      "validation_status": "pass",
+      "node_id": "ai-ai-augmented-dramas-change-ch001-int-0030"
+    }
+  ]
+}

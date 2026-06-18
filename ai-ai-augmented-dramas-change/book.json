@@ -13,10 +13,11 @@
   "date_updated": "2026-06-09T15:25:00.893194+00:00",
   "modes_supported": [
     "static_reading",
-    "audio_sync"
+    "audio_sync",
+    "interactive"
   ],
   "audio_available": true,
-  "interactive_available": false,
+  "interactive_available": true,
   "chapter_count": 10,
   "chapters": [
     {
@@ -24,7 +25,8 @@
       "chapter_number": 1,
       "title": "1. 総理のぎっくり腰",
       "file": "ai-ai-augmented-dramas-change-ch001.json",
-      "audio_file": "ai-ai-augmented-dramas-change-ch001.mp3"
+      "audio_file": "ai-ai-augmented-dramas-change-ch001.mp3",
+      "interactive_file": "interactive/ai-ai-augmented-dramas-change-ch001.interactive.json"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-change-ch002",
