@@ -12,9 +12,10 @@
   "date_added": "2026-07-12T04:31:10.194489+00:00",
   "date_updated": "2026-07-12T04:31:14.027264+00:00",
   "modes_supported": [
-    "static_reading"
+    "static_reading",
+    "audio_sync"
   ],
-  "audio_available": false,
+  "audio_available": true,
   "interactive_available": false,
   "chapter_count": 18,
   "chapters": [
@@ -22,7 +23,8 @@
       "chapter_id": "ai-ai-augmented-dramas-rikuoh-ai-ch001",
       "chapter_number": 1,
       "title": "1. 天秤の止まった朝",
-      "file": "ai-ai-augmented-dramas-rikuoh-ai-ch001.json"
+      "file": "ai-ai-augmented-dramas-rikuoh-ai-ch001.json",
+      "audio_file": "ai-ai-augmented-dramas-rikuoh-ai-ch001.mp3"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-rikuoh-ai-ch002",
