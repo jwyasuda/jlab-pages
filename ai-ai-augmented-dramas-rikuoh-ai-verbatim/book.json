@@ -12,9 +12,10 @@
   "date_added": "2026-08-07T07:42:52.648316+00:00",
   "date_updated": "2026-08-07T08:08:37.725850+00:00",
   "modes_supported": [
-    "static_reading"
+    "static_reading",
+    "audio_sync"
   ],
-  "audio_available": false,
+  "audio_available": true,
   "interactive_available": false,
   "chapter_count": 2,
   "chapters": [
@@ -22,13 +23,15 @@
       "chapter_id": "ai-ai-augmented-dramas-rikuoh-ai-verbatim-ch001",
       "chapter_number": 1,
       "title": "1. 八方ミシンの沈黙",
-      "file": "ai-ai-augmented-dramas-rikuoh-ai-verbatim-ch001.json"
+      "file": "ai-ai-augmented-dramas-rikuoh-ai-verbatim-ch001.json",
+      "audio_file": "ai-ai-augmented-dramas-rikuoh-ai-verbatim-ch001.mp3"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-rikuoh-ai-verbatim-ch002",
       "chapter_number": 2,
       "title": "2. 崩れる一歩",
-      "file": "ai-ai-augmented-dramas-rikuoh-ai-verbatim-ch002.json"
+      "file": "ai-ai-augmented-dramas-rikuoh-ai-verbatim-ch002.json",
+      "audio_file": "ai-ai-augmented-dramas-rikuoh-ai-verbatim-ch002.mp3"
     }
   ],
   "cover_image": "cover.png",
