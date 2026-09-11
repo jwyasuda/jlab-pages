@@ -10,11 +10,12 @@
   "annotation_profile": "japanese_reader",
   "theme_default": "dark",
   "date_added": "2026-08-07T12:36:15.389356+00:00",
-  "date_updated": "2026-08-14T01:02:59.200245+00:00",
+  "date_updated": "2026-09-11T00:49:39.605808+00:00",
   "modes_supported": [
-    "static_reading"
+    "static_reading",
+    "audio_sync"
   ],
-  "audio_available": false,
+  "audio_available": true,
   "interactive_available": false,
   "chapter_count": 13,
   "chapters": [
@@ -22,49 +23,57 @@
       "chapter_id": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch001",
       "chapter_number": 1,
       "title": "1. ようこそ、いい所へ",
-      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch001.json"
+      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch001.json",
+      "audio_file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch001.mp3"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch002",
       "chapter_number": 2,
       "title": "2. 善人になる練習",
-      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch002.json"
+      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch002.json",
+      "audio_file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch002.mp3"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch003",
       "chapter_number": 3,
       "title": "3. 隣人という試練",
-      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch003.json"
+      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch003.json",
+      "audio_file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch003.mp3"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch004",
       "chapter_number": 4,
       "title": "4. もう一人の間違い",
-      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch004.json"
+      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch004.json",
+      "audio_file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch004.mp3"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch005",
       "chapter_number": 5,
       "title": "5. 譲る一歩",
-      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch005.json"
+      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch005.json",
+      "audio_file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch005.mp3"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch006",
       "chapter_number": 6,
       "title": "6. 契約主義と嘘",
-      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch006.json"
+      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch006.json",
+      "audio_file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch006.mp3"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch007",
       "chapter_number": 7,
       "title": "7. 永遠の悲鳴",
-      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch007.json"
+      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch007.json",
+      "audio_file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch007.mp3"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch008",
       "chapter_number": 8,
       "title": "8. 自分違いの告白",
-      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch008.json"
+      "file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch008.json",
+      "audio_file": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch008.mp3"
     },
     {
       "chapter_id": "ai-ai-augmented-dramas-the-good-place-ai-s01-ch009",
@@ -98,6 +107,7 @@
     }
   ],
   "cover_image": "cover.png",
+  "season_label": "Season01",
   "world_id": "ai-augmented-dramas",
   "world_display_name": "AI-Augmented Dramas"
 }
