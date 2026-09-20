@@ -1,0 +1,256 @@
+<!doctype html>
+<!--
+  TEMPORARY diagnostic page — docs/plans/2026-09-20-reader-visible-reprime-and-audio-probe-plan.md (Step B).
+  Delete this file and probe-beeps.mp3 once the plan's §B4 has an answer.
+
+  Deliberately no <link rel="manifest">: Add to Home Screen gives this page its
+  own standalone web clip, with storage separate from the Reader.
+  Deliberately English/unstyled: throwaway, not part of the Reader UI.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Probe">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>Audio Probe</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; padding: env(safe-area-inset-top) 12px env(safe-area-inset-bottom); background: #111; color: #ddd;
+         font: 14px/1.4 -apple-system, system-ui, sans-serif; }
+  h1 { font-size: 16px; margin: 12px 0 4px; }
+  .row { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0; }
+  button { font: inherit; padding: 10px 14px; border-radius: 8px; border: 1px solid #555; background: #222; color: #eee; }
+  button.on { background: #2a5; border-color: #2a5; color: #000; }
+  #status { color: #9c9; min-height: 1.4em; }
+  pre { font: 11px/1.35 ui-monospace, Menlo, monospace; white-space: pre-wrap; word-break: break-all;
+        background: #000; padding: 8px; border-radius: 6px; max-height: 55vh; overflow: auto; }
+</style>
+</head>
+<body>
+<h1>Audio Probe</h1>
+<div id="status"></div>
+
+<div class="row" id="modes">
+  <button data-mode="A">A: direct URL</button>
+  <button data-mode="B">B: blob URL</button>
+  <button data-mode="C">C: keep-alive</button>
+</div>
+<div class="row">
+  <button id="play">Play</button>
+  <button id="pause">Pause</button>
+  <button id="copy">Copy log</button>
+  <button id="clear">Clear log</button>
+</div>
+
+<pre id="log"></pre>
+
+<script>
+(function () {
+  "use strict";
+
+  var SRC = "./probe-beeps.mp3";
+  var LOG_KEY = "jlab.audioProbeLog";
+  var MODE_KEY = "jlab.audioProbeMode";
+  var MAX_ENTRIES = 500;
+  // Mode C safety: the muted element is genuinely playing, so bound it.
+  var KEEPALIVE_MAX_MS = 120000;
+
+  var IS_STANDALONE =
+    (typeof matchMedia === "function" && matchMedia("(display-mode: standalone)").matches) ||
+    navigator.standalone === true;
+
+  var el = document.createElement("audio");
+  el.preload = "auto";
+  document.body.appendChild(el);
+
+  var mode = "A";
+  try { mode = localStorage.getItem(MODE_KEY) || "A"; } catch (e) {}
+  var blobUrl = null;
+  var keepAliveTimer = null;
+
+  // ── log ────────────────────────────────────────────────────────────────────
+
+  function readLog() {
+    try { return JSON.parse(localStorage.getItem(LOG_KEY) || "[]"); } catch (e) { return []; }
+  }
+  function detail() {
+    var buf = el.buffered.length ? el.buffered.end(el.buffered.length - 1) : 0;
+    return "t=" + el.currentTime.toFixed(1) + " buf=" + buf.toFixed(1) + " rs=" + el.readyState +
+      " ns=" + el.networkState + " vis=" + document.visibilityState + " paused=" + el.paused +
+      " muted=" + el.muted;
+  }
+  function log(ev, d) {
+    try {
+      var a = readLog();
+      a.push({ t: Date.now(), e: ev, d: d === undefined ? undefined : String(d) });
+      while (a.length > MAX_ENTRIES) a.shift();
+      localStorage.setItem(LOG_KEY, JSON.stringify(a));
+    } catch (e) {}
+    render();
+  }
+  function format() {
+    return readLog().slice().reverse().map(function (x) {
+      var hms = new Date(x.t).toTimeString().slice(0, 8);
+      return hms + " " + x.e + (x.d !== undefined ? " " + x.d : "");
+    }).join("\n");
+  }
+  function render() { document.getElementById("log").textContent = format(); }
+  function status(msg) { document.getElementById("status").textContent = msg; }
+
+  // ── element events ─────────────────────────────────────────────────────────
+
+  ["play", "playing", "pause", "waiting", "stalled", "emptied", "ended", "volumechange"].forEach(function (name) {
+    el.addEventListener(name, function () { log(name, detail()); });
+  });
+  el.addEventListener("error", function () {
+    var er = el.error;
+    log("error", er ? er.code + " " + er.message : "unknown");
+  });
+
+  // First-advance probe, same idea as the Reader's: time from `play` to the
+  // clock really moving. A `play` with no `advance` after it is a frozen resume.
+  var pressedAt = 0, startT = 0, armed = false;
+  el.addEventListener("play", function () { pressedAt = Date.now(); startT = el.currentTime; armed = true; });
+  el.addEventListener("pause", function () { armed = false; });
+  el.addEventListener("emptied", function () { armed = false; });
+  el.addEventListener("timeupdate", function () {
+    if (armed && el.currentTime > startT + 0.25) {
+      armed = false;
+      log("advance", "+" + (Date.now() - pressedAt) + "ms " + detail());
+    }
+  });
+
+  document.addEventListener("visibilitychange", function () { log("vis", detail()); });
+  window.addEventListener("pagehide", function (e) { log("pagehide", "persisted=" + e.persisted); });
+  window.addEventListener("pageshow", function (e) { log("pageshow", "persisted=" + e.persisted); });
+
+  // Heartbeat while playing, so a frozen clock shows up even with no events.
+  setInterval(function () { if (!el.paused) log("hb", detail()); }, 10000);
+
+  // ── source / mode ──────────────────────────────────────────────────────────
+
+  function clearKeepAliveTimer() {
+    if (keepAliveTimer !== null) { clearTimeout(keepAliveTimer); keepAliveTimer = null; }
+  }
+
+  function setMetadata() {
+    if (!("mediaSession" in navigator)) return;
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: "Audio Probe (mode " + mode + ")",
+      artist: "beep every 2s",
+    });
+  }
+
+  // Modes A and B register NO play/pause handlers. A handler replaces
+  // WebKit's native toggle, which would change the very behaviour PA/PB
+  // measure. Only mode C installs them.
+  function installMediaSessionHandlers() {
+    if (!("mediaSession" in navigator)) return;
+    var ms = navigator.mediaSession;
+    ["play", "pause", "stop"].forEach(function (a) {
+      try { ms.setActionHandler(a, null); } catch (e) {}
+    });
+    if (mode !== "C") return;
+
+    ms.setActionHandler("pause", function () {
+      log("ms.pause", detail());
+      // Look paused, keep the element running: mute instead of pausing.
+      el.muted = true;
+      ms.playbackState = "paused";
+      log("ms.pause.applied", detail());
+      clearKeepAliveTimer();
+      keepAliveTimer = setTimeout(function () {
+        log("keepalive.expired", detail());
+        el.pause();
+      }, KEEPALIVE_MAX_MS);
+    });
+    ms.setActionHandler("play", function () {
+      log("ms.play", detail());
+      clearKeepAliveTimer();
+      el.muted = false;
+      ms.playbackState = "playing";
+      if (el.paused) el.play().catch(function (e) { log("playreject", e && e.message); });
+      log("ms.play.applied", detail());
+    });
+    ms.setActionHandler("stop", function () {
+      log("ms.stop", detail());
+      clearKeepAliveTimer();
+      el.muted = false;
+      el.pause();
+    });
+  }
+
+  function selectMode(m, resetSrc) {
+    mode = m;
+    try { localStorage.setItem(MODE_KEY, m); } catch (e) {}
+    Array.prototype.forEach.call(document.querySelectorAll("#modes button"), function (b) {
+      b.classList.toggle("on", b.getAttribute("data-mode") === m);
+    });
+    clearKeepAliveTimer();
+    el.muted = false;
+    if (!el.paused) el.pause();
+    installMediaSessionHandlers();
+    setMetadata();
+    log("mode", m + " standalone=" + IS_STANDALONE);
+    if (resetSrc === false) return Promise.resolve();
+    return loadSource();
+  }
+
+  function loadSource() {
+    if (blobUrl) { URL.revokeObjectURL(blobUrl); blobUrl = null; }
+    if (mode !== "B") {
+      status("Mode " + mode + ": direct URL");
+      el.src = SRC;
+      el.load();
+      return Promise.resolve();
+    }
+    status("Mode B: fetching blob…");
+    return fetch(SRC).then(function (r) { return r.blob(); }).then(function (b) {
+      blobUrl = URL.createObjectURL(b);
+      el.src = blobUrl;
+      el.load();
+      status("Mode B: blob ready (" + Math.round(b.size / 1024) + " KB)");
+      log("blobready", b.size + " bytes");
+    }).catch(function (e) {
+      status("Mode B: blob fetch failed");
+      log("blobfail", e && e.message);
+    });
+  }
+
+  // ── UI ─────────────────────────────────────────────────────────────────────
+
+  Array.prototype.forEach.call(document.querySelectorAll("#modes button"), function (b) {
+    b.addEventListener("click", function () { selectMode(b.getAttribute("data-mode")); });
+  });
+  document.getElementById("play").addEventListener("click", function () {
+    el.muted = false;
+    el.play().catch(function (e) { log("playreject", e && e.message); });
+  });
+  document.getElementById("pause").addEventListener("click", function () { el.pause(); });
+  document.getElementById("clear").addEventListener("click", function () {
+    try { localStorage.removeItem(LOG_KEY); } catch (e) {}
+    render();
+  });
+  document.getElementById("copy").addEventListener("click", function () {
+    var text = format();
+    function fallback() {
+      var ta = document.createElement("textarea");
+      ta.value = text; document.body.appendChild(ta); ta.select();
+      try { document.execCommand("copy"); } catch (e) {}
+      document.body.removeChild(ta);
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(function () { status("Log copied"); }, function () { fallback(); status("Log copied"); });
+    } else { fallback(); status("Log copied"); }
+  });
+
+  // ── boot ───────────────────────────────────────────────────────────────────
+
+  log("load", "standalone=" + IS_STANDALONE + " mode=" + mode);
+  selectMode(mode);
+})();
+</script>
+</body>
+</html>
