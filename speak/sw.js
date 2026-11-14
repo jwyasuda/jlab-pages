@@ -2,21 +2,21 @@
 // Own scope (/jlab-pages/speak/) so it wins over the Reader's worker, which would otherwise
 // fall back to the Reader's index.html offline.
 
-const SW_VERSION = "2026-11-14-04-53-40";
-const BASE_PATH = "/";
+const SW_VERSION = "2026-11-14-05-04-04";
+const BASE_PATH = "/jlab-pages/speak/";
 const SHELL_CACHE = `speak-shell-${SW_VERSION}`;
 const DICT_CACHE = "speak-dict-v1";
 
 const SHELL_ASSETS = [
-  "/index.html",
-  "/manifest.webmanifest",
-  "/apple-touch-icon-180.png",
-  "/icons/icon-192.png",
-  "/icons/icon-512.png",
-  "/icons/icon-maskable-512.png",
-  "/assets/index-CTfso_kv.css",
-  "/assets/index-DoU6H5RL.js",
-  "/assets/kuromoji-BJh3Jl1v.js"
+  "/jlab-pages/speak/index.html",
+  "/jlab-pages/speak/manifest.webmanifest",
+  "/jlab-pages/speak/apple-touch-icon-180.png",
+  "/jlab-pages/speak/icons/icon-192.png",
+  "/jlab-pages/speak/icons/icon-512.png",
+  "/jlab-pages/speak/icons/icon-maskable-512.png",
+  "/jlab-pages/speak/assets/index-CFdtdgNJ.js",
+  "/jlab-pages/speak/assets/index-CTfso_kv.css",
+  "/jlab-pages/speak/assets/kuromoji-BJh3Jl1v.js"
 ];
 
 self.addEventListener("install", (event) => {
