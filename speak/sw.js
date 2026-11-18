@@ -2,7 +2,7 @@
 // Own scope (/jlab-pages/speak/) so it wins over the Reader's worker, which would otherwise
 // fall back to the Reader's index.html offline.
 
-const SW_VERSION = "2026-11-16-12-51-42";
+const SW_VERSION = "2026-11-18-22-11-40";
 const BASE_PATH = "/jlab-pages/speak/";
 const SHELL_CACHE = `speak-shell-${SW_VERSION}`;
 const DICT_CACHE = "speak-dict-v1";
@@ -14,7 +14,7 @@ const SHELL_ASSETS = [
   "/jlab-pages/speak/icons/icon-192.png",
   "/jlab-pages/speak/icons/icon-512.png",
   "/jlab-pages/speak/icons/icon-maskable-512.png",
-  "/jlab-pages/speak/assets/index-B-qm7s06.js",
+  "/jlab-pages/speak/assets/index-875bEWeR.js",
   "/jlab-pages/speak/assets/index-CI5qk8MM.css",
   "/jlab-pages/speak/assets/kuromoji-BJh3Jl1v.js"
 ];
